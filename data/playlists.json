@@ -1,0 +1,159 @@
+{
+  "total": 4,
+  "playlists": [
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0N4XVIqdfLISwh5icfTKd3"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0N4XVIqdfLISwh5icfTKd3",
+      "id": "0N4XVIqdfLISwh5icfTKd3",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb106626ca7acdbae13f4fe8a0",
+          "width": null
+        }
+      ],
+      "name": "all over the butterflies",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NTIsZTBkYjg4YjBjMjEwOTI1OTY0MTA3NzRkNzE0MDAyMGQ0NTIzMjgyMQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0N4XVIqdfLISwh5icfTKd3/tracks",
+        "total": 32
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0N4XVIqdfLISwh5icfTKd3"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2CdfCFDPibgAZdCm5lnpa2"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2CdfCFDPibgAZdCm5lnpa2",
+      "id": "2CdfCFDPibgAZdCm5lnpa2",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbcebd0a7031ded6cf7ef3e57a",
+          "width": null
+        }
+      ],
+      "name": "funeral of my own temptation",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDMsMGU1MjdjNDU5MmMwNDFhODI2ZmY0ZmZhNjI5NGJlYTUzNWEyOTMwNA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2CdfCFDPibgAZdCm5lnpa2/tracks",
+        "total": 17
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2CdfCFDPibgAZdCm5lnpa2"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5TdgOffe2sDXXNhwX3bBuR"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR",
+      "id": "5TdgOffe2sDXXNhwX3bBuR",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb1214b559f50db79dc5a7a705",
+          "width": null
+        }
+      ],
+      "name": "life support",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTM1LGE3NTdmYmU1NDc5OThmNmEyYzNmOGEzZjk2YmM3NThhNjQyYzE4ZjE=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR/tracks",
+        "total": 59
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5TdgOffe2sDXXNhwX3bBuR"
+    },
+    {
+      "collaborative": false,
+      "description": "Shareable Liked Songs playlist synchronised by spotify-to-github.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7FpqA5FWIKUyqmEievIq7W"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7FpqA5FWIKUyqmEievIq7W",
+      "id": "7FpqA5FWIKUyqmEievIq7W",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
+          "width": 60
+        }
+      ],
+      "name": "Liked Songs (Mirror)",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MywwZjJlNDM5NWYxZmNlZDExNzkwNjc4YTYxNDgyNDY0OTYxMTJjMDRh",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7FpqA5FWIKUyqmEievIq7W/tracks",
+        "total": 86
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7FpqA5FWIKUyqmEievIq7W"
+    }
+  ]
+}
