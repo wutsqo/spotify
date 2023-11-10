@@ -368,7 +368,7 @@
         }
       ],
       "name": "5 Seconds of Summer",
-      "popularity": 75,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
     },
@@ -398,7 +398,7 @@
         }
       ],
       "name": "Troye Sivan",
-      "popularity": 79,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
     },
@@ -464,7 +464,7 @@
         }
       ],
       "name": "Rich Brian",
-      "popularity": 65,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
     },
@@ -554,7 +554,7 @@
         }
       ],
       "name": "TWICE",
-      "popularity": 77,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
     },
@@ -614,7 +614,7 @@
         }
       ],
       "name": "Tame Impala",
-      "popularity": 77,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
@@ -644,7 +644,7 @@
         }
       ],
       "name": "Red Velvet",
-      "popularity": 67,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
@@ -800,36 +800,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop"],
-      "href": "https://api.spotify.com/v1/artists/4UK2Lzi6fBfUi9rpDt6cik",
-      "id": "4UK2Lzi6fBfUi9rpDt6cik",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e62cff9c6018ae5616b01eab",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e62cff9c6018ae5616b01eab",
-          "width": 160
-        }
-      ],
-      "name": "ヨルシカ",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       },
       "followers": { "href": null, "total": 0 },
@@ -857,6 +827,36 @@
       "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["j-pop"],
+      "href": "https://api.spotify.com/v1/artists/4UK2Lzi6fBfUi9rpDt6cik",
+      "id": "4UK2Lzi6fBfUi9rpDt6cik",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e62cff9c6018ae5616b01eab",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e62cff9c6018ae5616b01eab",
+          "width": 160
+        }
+      ],
+      "name": "ヨルシカ",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
     },
     {
       "external_urls": {
@@ -1046,36 +1046,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
-      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
-      "id": "0bAsR2unSRpn6BQPEnNlZm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
-          "width": 160
-        }
-      ],
-      "name": "Aimer",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
       },
       "followers": { "href": null, "total": 0 },
@@ -1136,6 +1106,66 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["singer-songwriter pop"],
+      "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+      "id": "0hDjKSKjl1DC7ovYTDJHe8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5b43a1fdff498297feb1d128",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745b43a1fdff498297feb1d128",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785b43a1fdff498297feb1d128",
+          "width": 160
+        }
+      ],
+      "name": "Bruno Major",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
+      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
+      "id": "0bAsR2unSRpn6BQPEnNlZm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
+          "width": 160
+        }
+      ],
+      "name": "Aimer",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
       },
       "followers": { "href": null, "total": 0 },
@@ -1163,6 +1193,36 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:6UbmqUEgjLA6jAcXwbM1Z9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/1Hsdzj7Dlq2I7tHP7501T4",
+      "id": "1Hsdzj7Dlq2I7tHP7501T4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174eccc1cde8e9fdcf1c9289897",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178eccc1cde8e9fdcf1c9289897",
+          "width": 160
+        }
+      ],
+      "name": "Niall Horan",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:1Hsdzj7Dlq2I7tHP7501T4"
     },
     {
       "external_urls": {
@@ -1196,36 +1256,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["singer-songwriter pop"],
-      "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
-      "id": "0hDjKSKjl1DC7ovYTDJHe8",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5b43a1fdff498297feb1d128",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745b43a1fdff498297feb1d128",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785b43a1fdff498297feb1d128",
-          "width": 160
-        }
-      ],
-      "name": "Bruno Major",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
       },
       "followers": { "href": null, "total": 0 },
@@ -1253,36 +1283,6 @@
       "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:5ZsFI1h6hIdQRw2ti0hz81"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/1Hsdzj7Dlq2I7tHP7501T4",
-      "id": "1Hsdzj7Dlq2I7tHP7501T4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174eccc1cde8e9fdcf1c9289897",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178eccc1cde8e9fdcf1c9289897",
-          "width": 160
-        }
-      ],
-      "name": "Niall Horan",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:1Hsdzj7Dlq2I7tHP7501T4"
     },
     {
       "external_urls": {
@@ -1744,7 +1744,7 @@
         }
       ],
       "name": "ABBA",
-      "popularity": 77,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
     },
@@ -1804,7 +1804,7 @@
         }
       ],
       "name": "NewJeans",
-      "popularity": 81,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
     },
@@ -1934,7 +1934,7 @@
         }
       ],
       "name": "Frank Sinatra",
-      "popularity": 74,
+      "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
     },
@@ -1997,36 +1997,6 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:2bWTIIQP9zaVc55RaMGu7e"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop", "j-rock", "japanese emo", "visual kei"],
-      "href": "https://api.spotify.com/v1/artists/1EowJ1WwkMzkCkRomFhui7",
-      "id": "1EowJ1WwkMzkCkRomFhui7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc9d443fb5ced1dd32d106632",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c9d443fb5ced1dd32d106632",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c9d443fb5ced1dd32d106632",
-          "width": 160
-        }
-      ],
-      "name": "RADWIMPS",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:1EowJ1WwkMzkCkRomFhui7"
     },
     {
       "external_urls": {
@@ -2189,17 +2159,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb61e9c9fd0ff840cfbeb09714",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517461e9c9fd0ff840cfbeb09714",
+          "url": "https://i.scdn.co/image/ab67616100005174be7e71571cf58f1b9a36f0f7",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17861e9c9fd0ff840cfbeb09714",
+          "url": "https://i.scdn.co/image/ab6761610000f178be7e71571cf58f1b9a36f0f7",
           "width": 160
         }
       ],
@@ -2264,9 +2234,39 @@
         }
       ],
       "name": "Halsey",
-      "popularity": 79,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["j-pop", "j-rock", "japanese emo", "visual kei"],
+      "href": "https://api.spotify.com/v1/artists/1EowJ1WwkMzkCkRomFhui7",
+      "id": "1EowJ1WwkMzkCkRomFhui7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc9d443fb5ced1dd32d106632",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c9d443fb5ced1dd32d106632",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c9d443fb5ced1dd32d106632",
+          "width": 160
+        }
+      ],
+      "name": "RADWIMPS",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:1EowJ1WwkMzkCkRomFhui7"
     },
     {
       "external_urls": {
@@ -2481,7 +2481,7 @@
         }
       ],
       "name": "Lomba Sihir",
-      "popularity": 50,
+      "popularity": 49,
       "type": "artist",
       "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
     },
@@ -2665,7 +2665,7 @@
         }
       ],
       "name": "Jessie Reyez",
-      "popularity": 67,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:3KedxarmBCyFBevnqQHy3P"
     },
@@ -2949,7 +2949,7 @@
         }
       ],
       "name": "Marshmello",
-      "popularity": 80,
+      "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
     },

@@ -1,8 +1,59 @@
 {
-  "total": 86,
+  "collaborative": false,
+  "description": "",
+  "external_urls": {
+    "spotify": "https://open.spotify.com/playlist/6jnCkBO85LV2qiomDyXjMt"
+  },
+  "followers": { "href": null, "total": 0 },
+  "href": "https://api.spotify.com/v1/playlists/6jnCkBO85LV2qiomDyXjMt",
+  "id": "6jnCkBO85LV2qiomDyXjMt",
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
+      "width": 60
+    }
+  ],
+  "name": "Liked Songs (Mirror)",
+  "owner": {
+    "display_name": "wutsqo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+    },
+    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+    "id": "urwatilwutsqo",
+    "type": "user",
+    "uri": "spotify:user:urwatilwutsqo"
+  },
+  "primary_color": null,
+  "public": true,
+  "snapshot_id": "MiwwNWMxMjA4MTA3N2RkMWUzZDg3MDU3OGY1ZTU1NWU2OGRlNjE0NmRm",
+  "type": "playlist",
+  "uri": "spotify:playlist:6jnCkBO85LV2qiomDyXjMt",
   "tracks": [
     {
-      "added_at": "2023-10-19T16:29:19Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -433,6 +484,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 280333,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "US23A1500499" },
         "external_urls": {
@@ -444,13 +496,26 @@
         "name": "Sycamore Girl",
         "popularity": 55,
         "preview_url": "https://p.scdn.co/mp3-preview/05e719721e9a68aad145b8979e406bf8c7df5c47?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 4,
         "type": "track",
         "uri": "spotify:track:7lUX7bNyCJZeSn0ZCvL0GW"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-10-13T15:42:05Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -881,6 +946,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 211165,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBYEJ1800003" },
         "external_urls": {
@@ -892,13 +958,26 @@
         "name": "Harvey",
         "popularity": 68,
         "preview_url": "https://p.scdn.co/mp3-preview/1aacb90ec06cdd3d8adc975cdc05dfa3e7217c0b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:1zFbBrZmJr1Z49HYe84dBg"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-29T05:45:08Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -1327,6 +1406,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 338974,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "IDUM72300136" },
         "external_urls": {
@@ -1338,13 +1418,26 @@
         "name": "Love Epiphany",
         "popularity": 62,
         "preview_url": "https://p.scdn.co/mp3-preview/f42b5c8d3356c5b9d3165c61a620fd8fbd2d498e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 10,
         "type": "track",
         "uri": "spotify:track:3HEfLSVUo9rxdD0JxbLAUU"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-09-21T13:01:48Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -1775,6 +1868,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 225360,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "QMDA62312089" },
         "external_urls": {
@@ -1786,13 +1880,26 @@
         "name": "Lovesick",
         "popularity": 75,
         "preview_url": "https://p.scdn.co/mp3-preview/7c9c27dd730c439411153e6385f3c7c2504475c9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 6,
         "type": "track",
         "uri": "spotify:track:39fD0qvjgk8RarJnoBiDTx"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-08-26T23:00:28Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -2209,6 +2316,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 180386,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "USQX91701275" },
         "external_urls": {
@@ -2220,13 +2328,26 @@
         "name": "See You Again (feat. Kali Uchis)",
         "popularity": 92,
         "preview_url": "https://p.scdn.co/mp3-preview/c703198293891e3b276800ea6b187cf7951d3d7d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 4,
         "type": "track",
         "uri": "spotify:track:7KA4W4McWYRpgf0fWsJZWB"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-08-26T22:30:39Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -2687,6 +2808,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 212147,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "QM4TX2339900" },
         "external_urls": {
@@ -2698,13 +2820,26 @@
         "name": "FaceTime",
         "popularity": 44,
         "preview_url": "https://p.scdn.co/mp3-preview/a11e41c6d49c2222e11c9e25212f1ae039432169?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 12,
         "type": "track",
         "uri": "spotify:track:0b2b3WzP0QxuA0R7mKg9CL"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-07-27T20:37:10Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -3135,6 +3270,7 @@
         ],
         "disc_number": 2,
         "duration_ms": 224418,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "DGA052349020" },
         "external_urls": {
@@ -3146,13 +3282,26 @@
         "name": "Berdansalah, Karir Ini Tak Ada Artinya",
         "popularity": 65,
         "preview_url": "https://p.scdn.co/mp3-preview/2c5be564b7c168f4172793903aa6be76a214ffa9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 12,
         "type": "track",
         "uri": "spotify:track:2SmKwCCSiUTjtR8I8rv6MS"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-07-27T20:17:28Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -3583,6 +3732,7 @@
         ],
         "disc_number": 2,
         "duration_ms": 288004,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "DGA052349015" },
         "external_urls": {
@@ -3594,13 +3744,26 @@
         "name": "Alexandra",
         "popularity": 57,
         "preview_url": "https://p.scdn.co/mp3-preview/c47d7412d3ed4c16896b303d51346518d4309a74?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 7,
         "type": "track",
         "uri": "spotify:track:1A0SVbPYh76qzwtnlAkgH5"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-07-14T18:22:37Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -3661,6 +3824,7 @@
         "available_markets": [],
         "disc_number": 1,
         "duration_ms": 212052,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "QM6N22345042" },
         "external_urls": {
@@ -3672,13 +3836,26 @@
         "name": "A Strange Kind Of Beautiful",
         "popularity": 30,
         "preview_url": null,
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:6hm9OpcIiVgEWwEZuNuXDM"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-07-10T05:22:05Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -4061,6 +4238,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 352200,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USCJY1003663" },
         "external_urls": {
@@ -4072,13 +4250,26 @@
         "name": "Enchanted",
         "popularity": 79,
         "preview_url": "https://p.scdn.co/mp3-preview/bc9951c4fd5e67339e41ba64375bd2056d104282?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 9,
         "type": "track",
         "uri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-07-09T05:35:53Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -4509,6 +4700,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 272732,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "FRX872372685" },
         "external_urls": {
@@ -4520,13 +4712,26 @@
         "name": "Satu Hari Lagi",
         "popularity": 51,
         "preview_url": "https://p.scdn.co/mp3-preview/26543fe46a8c4a663ff2db4a0607239c7e622bd0?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 4,
         "type": "track",
         "uri": "spotify:track:3lyNwsohK73iKsGWHLFtMp"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-07-08T13:41:00Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -4957,6 +5162,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 266330,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "FRX872372690" },
         "external_urls": {
@@ -4968,13 +5174,26 @@
         "name": "Cincin",
         "popularity": 81,
         "preview_url": "https://p.scdn.co/mp3-preview/3be9c68f555ddd759550796c9bc61db14f84e711?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 9,
         "type": "track",
         "uri": "spotify:track:7J0isBrUxhIYZVdrBOOlIh"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-06-25T13:28:28Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -5405,6 +5624,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 221733,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBHMU1300219" },
         "external_urls": {
@@ -5416,13 +5636,26 @@
         "name": "Through the Dark",
         "popularity": 63,
         "preview_url": "https://p.scdn.co/mp3-preview/bc58afa3205c66068e65d52c00efc710fad453f1?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:1a0PcmEJAOEp4ZT3YtSLkM"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-06-20T09:09:49Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -5853,6 +6086,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 245493,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBHMU1300210" },
         "external_urls": {
@@ -5864,13 +6098,26 @@
         "name": "Story of My Life",
         "popularity": 85,
         "preview_url": "https://p.scdn.co/mp3-preview/9c3f89f926a702034ae182e723b2d601c2bd754d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 2,
         "type": "track",
         "uri": "spotify:track:4nVBt6MZDDP6tRVdQTgxJg"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-06-20T01:57:50Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -6301,6 +6548,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 248253,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USHR21779008" },
         "external_urls": {
@@ -6312,13 +6560,26 @@
         "name": "Wish You Were Here",
         "popularity": 75,
         "preview_url": "https://p.scdn.co/mp3-preview/0200b3ddb02b7810839de68d74097e9f65c7140d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 8,
         "type": "track",
         "uri": "spotify:track:4Ssi6tKwrTHi5qvDndrZRP"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-06-18T01:05:31Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -6749,6 +7010,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 219800,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USRC11902238" },
         "external_urls": {
@@ -6760,13 +7022,26 @@
         "name": "Face to Face",
         "popularity": 61,
         "preview_url": "https://p.scdn.co/mp3-preview/141d2311ce00ea95ace752fcf25b321516938fbb?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 4,
         "type": "track",
         "uri": "spotify:track:0YdIIMb2MHuxoUudkAY9gS"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-06-17T13:27:05Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -7217,6 +7492,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 208433,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "FRX201858427" },
         "external_urls": {
@@ -7228,13 +7504,26 @@
         "name": "Tidak Ada Salju di Sini, Pt. 4",
         "popularity": 46,
         "preview_url": "https://p.scdn.co/mp3-preview/1895556add06a31cd22f1b679b75a29e833c4532?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 4,
         "type": "track",
         "uri": "spotify:track:6Ffbn6Hly2qqCGGLxO2Yl8"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-06-17T00:16:20Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -7665,6 +7954,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 252230,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "US23A1500468" },
         "external_urls": {
@@ -7676,13 +7966,26 @@
         "name": "Sunflower",
         "popularity": 76,
         "preview_url": "https://p.scdn.co/mp3-preview/27b6b4f595da7570041c61e553a2cb8ceb6c8417?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:7h2nmmoWDi2UpfYKLKWLYB"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-06-11T05:36:42Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -8113,6 +8416,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 235546,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USRC11100031" },
         "external_urls": {
@@ -8124,13 +8428,26 @@
         "name": "Under Cover of Darkness",
         "popularity": 69,
         "preview_url": "https://p.scdn.co/mp3-preview/392943fec90313dec65b40afa326c3c822984b1d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 2,
         "type": "track",
         "uri": "spotify:track:6u0x5ad9ewHvs3z6u9Oe3c"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-06-04T18:16:46Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -8191,6 +8508,7 @@
         "available_markets": [],
         "disc_number": 1,
         "duration_ms": 204325,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "QM6N22333318" },
         "external_urls": {
@@ -8202,13 +8520,26 @@
         "name": "We Were Never Really Friends",
         "popularity": 40,
         "preview_url": null,
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:3oUam1JxcuLVFKaAr5MWnN"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-05-24T15:36:02Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -8639,6 +8970,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 229040,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBHMU1400161" },
         "external_urls": {
@@ -8650,13 +8982,26 @@
         "name": "Where Do Broken Hearts Go",
         "popularity": 68,
         "preview_url": "https://p.scdn.co/mp3-preview/a68d89117fecd301edd184b734b6b3891b024496?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 3,
         "type": "track",
         "uri": "spotify:track:6HFywc5eQYRRYHYTatCb5Y"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-05-24T15:30:34Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -9085,6 +9430,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 336826,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "GBCEL0600173" },
         "external_urls": {
@@ -9096,13 +9442,26 @@
         "name": "Who The Fuck Are Arctic Monkeys?",
         "popularity": 57,
         "preview_url": "https://p.scdn.co/mp3-preview/e4cf1f4ab9c90c26107ea089a24277b44c6c930d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 5,
         "type": "track",
         "uri": "spotify:track:05FVS9qqWq2A82fYCtblkt"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-05-24T15:13:47Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -9531,6 +9890,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 202133,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "GBCEL0501190" },
         "external_urls": {
@@ -9542,13 +9902,26 @@
         "name": "When The Sun Goes Down",
         "popularity": 76,
         "preview_url": "https://p.scdn.co/mp3-preview/97679b16db33ac5727488e3e7eb5b9c7240c165e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:2zzLRQ78kKfPTx8FJQCdC2"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-05-24T15:05:58Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -9979,6 +10352,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 373373,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USSM11506745" },
         "external_urls": {
@@ -9990,13 +10364,26 @@
         "name": "Wiped Out!",
         "popularity": 60,
         "preview_url": "https://p.scdn.co/mp3-preview/0e99799a1a78ee5118f6c1b525a6d533fc13b4b7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 4,
         "type": "track",
         "uri": "spotify:track:4Tp4gRuDo1sIMP6gH9LwuH"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-05-24T15:04:57Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -10427,6 +10814,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 275666,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USRC11902732" },
         "external_urls": {
@@ -10438,13 +10826,26 @@
         "name": "Why Are Sundays So Depressing",
         "popularity": 68,
         "preview_url": "https://p.scdn.co/mp3-preview/455acaee128458b8ff84add5136c250d26f7a8b3?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 7,
         "type": "track",
         "uri": "spotify:track:1aOxOpH4AkGAd8OMrKjyNY"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-05-24T15:04:35Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -10875,6 +11276,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 216586,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBK3W2202322" },
         "external_urls": {
@@ -10886,13 +11288,26 @@
         "name": "When We Are Together",
         "popularity": 65,
         "preview_url": "https://p.scdn.co/mp3-preview/5d362c88f68541fbb16630abaf29ea871c6ef441?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:5M5TD1Tlpcgq0Fj1l6Mz6Z"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-04-17T01:45:10Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -11333,6 +11748,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 214159,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "US5ED2000012" },
         "external_urls": {
@@ -11344,13 +11760,26 @@
         "name": "Traingazing",
         "popularity": 66,
         "preview_url": "https://p.scdn.co/mp3-preview/523ba815e10e6e37646aafddf128acb68f1c927e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 6,
         "type": "track",
         "uri": "spotify:track:0edtKj1oW6rJ9f4wRtLPPH"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-04-08T22:27:26Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -11779,6 +12208,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 241776,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "ZZOPM2240877" },
         "external_urls": {
@@ -11790,13 +12220,26 @@
         "name": "You'll Be In My Heart - Spotify Singles",
         "popularity": 57,
         "preview_url": "https://p.scdn.co/mp3-preview/e154d40ffd715190a8284c040e242e4f9bb4b41b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 2,
         "type": "track",
         "uri": "spotify:track:37mbA1RwYja7WFaIOzSczX"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-04-06T12:13:46Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -12227,6 +12670,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 326490,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBK3W2202321" },
         "external_urls": {
@@ -12238,13 +12682,26 @@
         "name": "About You",
         "popularity": 83,
         "preview_url": "https://p.scdn.co/mp3-preview/66e8103db129c422b5bdefca973cf9c9e839eeba?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 10,
         "type": "track",
         "uri": "spotify:track:1fDFHXcykq4iw8Gg7s5hG9"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-04-05T15:12:08Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -12685,6 +13142,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 189613,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USEE10800806" },
         "external_urls": {
@@ -12696,13 +13154,26 @@
         "name": "Lucky",
         "popularity": 74,
         "preview_url": "https://p.scdn.co/mp3-preview/2af2119909efc963734ea1eaeeafbc8d212e2371?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 3,
         "type": "track",
         "uri": "spotify:track:2qLMf6TuEC3ruGJg4SMMN6"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-04-05T15:07:17Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -13133,6 +13604,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 276800,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USRH10902101" },
         "external_urls": {
@@ -13144,13 +13616,26 @@
         "name": "My Way",
         "popularity": 75,
         "preview_url": "https://p.scdn.co/mp3-preview/b139365c252a8956da8c62187950d2e1c54c624d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 6,
         "type": "track",
         "uri": "spotify:track:3spdoTYpuCpmq19tuD0bOe"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-12-28T09:32:10Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -13581,6 +14066,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 208884,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "USHR21610110" },
         "external_urls": {
@@ -13592,13 +14078,26 @@
         "name": "Godzilla",
         "popularity": 44,
         "preview_url": "https://p.scdn.co/mp3-preview/9f30be75a6c22540573058b96c20bfc48d33e168?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 5,
         "type": "track",
         "uri": "spotify:track:5IkJrOPj656jkcvLKaOc7i"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-12-21T21:32:42Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -14027,6 +14526,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 467586,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "AUUM71500292" },
         "external_urls": {
@@ -14038,13 +14538,26 @@
         "name": "Let It Happen",
         "popularity": 81,
         "preview_url": "https://p.scdn.co/mp3-preview/2cfd4012a9ac9bac50a308cfc17b4173a7a84aae?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:2X485T9Z5Ly0xyaghN73ed"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-12-12T16:12:40Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -14475,6 +14988,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 102861,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "QZTB52252346" },
         "external_urls": {
@@ -14486,13 +15000,26 @@
         "name": "love song",
         "popularity": 5,
         "preview_url": "https://p.scdn.co/mp3-preview/f414684bc38218bad0461237a2e54884fb8e2663?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:4F4AjdWyjGHgd1i4TplOQm"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-12-09T17:57:09Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -14919,6 +15446,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 216410,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USWB12201574" },
         "external_urls": {
@@ -14930,13 +15458,26 @@
         "name": "In The Stars",
         "popularity": 88,
         "preview_url": "https://p.scdn.co/mp3-preview/6e29e6750dcda8159aea83561faf2161a0acacb2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:1ei3hzQmrgealgRKFxIcWn"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-11-30T21:38:29Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -15365,6 +15906,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 233587,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "USRC12103445" },
         "external_urls": {
@@ -15376,13 +15918,26 @@
         "name": "GROWING UP IS _____",
         "popularity": 60,
         "preview_url": "https://p.scdn.co/mp3-preview/9f3d37bca1d1e1442a62299e0e9fa56f1d3c26f0?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:2wJ1eOCIBwoQiN7xQtrTAY"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-11-30T09:10:30Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -15813,6 +16368,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 361026,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USUG12000586" },
         "external_urls": {
@@ -15824,13 +16380,26 @@
         "name": "After Hours",
         "popularity": 87,
         "preview_url": "https://p.scdn.co/mp3-preview/2375bc6998d765b02b229ff44e5c3d7b75fff74a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 13,
         "type": "track",
         "uri": "spotify:track:2p8IUWQDrpjuFltbdgLOag"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-11-22T09:22:34Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -16269,6 +16838,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 196520,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "QMJMT2204481" },
         "external_urls": {
@@ -16280,13 +16850,26 @@
         "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
         "popularity": 70,
         "preview_url": "https://p.scdn.co/mp3-preview/c9236c5986791e42321e07aa1aa6918cff1fca61?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:6sCvvleqKbeyOkQDieBYgp"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-10-23T05:07:59Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -16717,6 +17300,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 169237,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USUM72200626" },
         "external_urls": {
@@ -16728,13 +17312,26 @@
         "name": "Numb Little Bug",
         "popularity": 77,
         "preview_url": "https://p.scdn.co/mp3-preview/b9233d42f5ed9aa12756ea783f03eead8f9f1a3a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:3o9kpgkIcffx0iSwxhuNI2"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-09-12T12:13:49Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -17165,6 +17762,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 236906,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBAHS2100673" },
         "external_urls": {
@@ -17176,13 +17774,26 @@
         "name": "Overpass Graffiti",
         "popularity": 74,
         "preview_url": "https://p.scdn.co/mp3-preview/a270f5d908ad26b344e26d2915c93f1db9e37eba?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 5,
         "type": "track",
         "uri": "spotify:track:4btFHqumCO31GksfuBLLv3"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-08-31T05:14:31Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -17607,6 +18218,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 183893,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBCEL0700067" },
         "external_urls": {
@@ -17618,13 +18230,26 @@
         "name": "Fluorescent Adolescent",
         "popularity": 81,
         "preview_url": "https://p.scdn.co/mp3-preview/bd2ab6609fef9aa8cc35c75739d89dc5a72bfc80?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 5,
         "type": "track",
         "uri": "spotify:track:2x8evxqUlF0eRabbW2JBJd"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-08-31T05:03:14Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -18051,6 +18676,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 237146,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBAAN0300664" },
         "external_urls": {
@@ -18062,13 +18688,26 @@
         "name": "Somewhere Only We Know",
         "popularity": 88,
         "preview_url": "https://p.scdn.co/mp3-preview/14b8c7f33de3a3a6558d3589b9f2260ae8c513c5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:1SKPmfSYaPsETbRHaiA18G"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-08-23T08:32:36Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -18499,6 +19138,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 208336,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "QZANL1798554" },
         "external_urls": {
@@ -18510,13 +19150,26 @@
         "name": "Have You Ever Been in Love",
         "popularity": 55,
         "preview_url": "https://p.scdn.co/mp3-preview/efa9cd27a7246518b85d0a73adea24a893648472?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:0n9B2zPLq1AOlUqsENmqLz"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-08-23T02:47:39Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -18903,6 +19556,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 281560,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBAHS1400099" },
         "external_urls": {
@@ -18914,13 +19568,26 @@
         "name": "Thinking out Loud",
         "popularity": 85,
         "preview_url": "https://p.scdn.co/mp3-preview/7b5d54ffb3c4e5c28adafe19532de22508d62851?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:34gCuhDGsG4bRPIf9bb02f"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-08-19T10:58:35Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -19349,6 +20016,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 303933,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "ZZOPM2236012" },
         "external_urls": {
@@ -19360,13 +20028,26 @@
         "name": "Take A Chance With Me",
         "popularity": 79,
         "preview_url": "https://p.scdn.co/mp3-preview/0790b787606ff57b34b2f99a10e996f859396d1f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 12,
         "type": "track",
         "uri": "spotify:track:5kxOQDA9AcuNQXHvg5NpX4"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-08-18T05:24:08Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "compilation",
@@ -19697,6 +20378,7 @@
         ],
         "disc_number": 2,
         "duration_ms": 167780,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USWD11677988" },
         "external_urls": {
@@ -19708,13 +20390,26 @@
         "name": "How Far I'll Go",
         "popularity": 33,
         "preview_url": "https://p.scdn.co/mp3-preview/e8afeaa941df78c627fa2275dd740dbbbab3d3dc?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 3,
         "type": "track",
         "uri": "spotify:track:6up1Aswyv9MStvdlxfIDUe"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-08-02T16:10:34Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -20145,6 +20840,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 221106,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBAHS1700040" },
         "external_urls": {
@@ -20156,13 +20852,26 @@
         "name": "Supermarket Flowers",
         "popularity": 77,
         "preview_url": "https://p.scdn.co/mp3-preview/c14560ec93e4c452a644e4ab00bbcfd98951a02e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 12,
         "type": "track",
         "uri": "spotify:track:4VuS959DSpr82t3qBqCrWG"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-06-27T06:16:28Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -20579,6 +21288,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 319370,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBK3W1901077" },
         "external_urls": {
@@ -20590,13 +21300,26 @@
         "name": "If You’re Too Shy (Let Me Know)",
         "popularity": 68,
         "preview_url": "https://p.scdn.co/mp3-preview/fa2f0fd18839bb6a61fc6d3be781485660465bc9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 16,
         "type": "track",
         "uri": "spotify:track:1C5utO1I8FoSIn6g1R5DAZ"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-06-06T00:33:57Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "compilation",
@@ -20899,6 +21622,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 244813,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBARL9700412" },
         "external_urls": {
@@ -20910,13 +21634,26 @@
         "name": "Torn",
         "popularity": 68,
         "preview_url": "https://p.scdn.co/mp3-preview/bb94c2cb7c4cdbe22822e6893e92ec8312a8037e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 3,
         "type": "track",
         "uri": "spotify:track:3APayTEWiUl9Ssep4BOXR2"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-05-21T01:32:16Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -21347,6 +22084,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 245964,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USSM12200615" },
         "external_urls": {
@@ -21358,13 +22096,26 @@
         "name": "Matilda",
         "popularity": 83,
         "preview_url": "https://p.scdn.co/mp3-preview/f2b98f3f2c3813405ee9bd48cad2f9d8e50f4607?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 7,
         "type": "track",
         "uri": "spotify:track:6uvh0In7u1Xn4HgxOfAn8O"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-05-15T06:09:00Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -21781,6 +22532,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 218496,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBK3W1901074" },
         "external_urls": {
@@ -21792,13 +22544,26 @@
         "name": "Nothing Revealed / Everything Denied",
         "popularity": 53,
         "preview_url": "https://p.scdn.co/mp3-preview/5e7abb5db801c936edc19a3d51e45e1321199d73?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 13,
         "type": "track",
         "uri": "spotify:track:2M4iGyQTIJISEioeVz43vy"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-03-24T18:32:31Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -22229,6 +22994,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 209040,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBHMU1500118" },
         "external_urls": {
@@ -22240,13 +23006,26 @@
         "name": "A.M.",
         "popularity": 65,
         "preview_url": "https://p.scdn.co/mp3-preview/8492fbb4611d8b1148ac0913e33b06e7d735c721?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 17,
         "type": "track",
         "uri": "spotify:track:5omYVLodGmaxnhua99xIE8"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-03-17T07:32:36Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -22677,6 +23456,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 378513,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "FR96X1970879" },
         "external_urls": {
@@ -22688,13 +23468,26 @@
         "name": "Untuk Apa / Untuk Apa?",
         "popularity": 65,
         "preview_url": "https://p.scdn.co/mp3-preview/8db6e6b0447af0b653c890a9197cf61eac838a12?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 6,
         "type": "track",
         "uri": "spotify:track:2LQZ32XuFlkcoEUDSG6BMT"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-02-10T10:32:21Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -22755,6 +23548,7 @@
         "available_markets": [],
         "disc_number": 1,
         "duration_ms": 216014,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "QM4TW1898425" },
         "external_urls": {
@@ -22766,13 +23560,26 @@
         "name": "New Light",
         "popularity": 1,
         "preview_url": null,
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:3bH4HzoZZFq8UpZmI2AMgV"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-02-05T15:11:52Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -22843,6 +23650,7 @@
         "available_markets": [],
         "disc_number": 1,
         "duration_ms": 184008,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBKPL1969286" },
         "external_urls": {
@@ -22854,13 +23662,26 @@
         "name": "Canada (feat. Alessia Cara)",
         "popularity": 0,
         "preview_url": null,
+        "track": true,
         "track_number": 8,
         "type": "track",
         "uri": "spotify:track:6Rf3dWdNQs5LTqFOiavqQr"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-01-27T08:46:52Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -23291,6 +24112,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 362653,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USSM11912592" },
         "external_urls": {
@@ -23302,13 +24124,26 @@
         "name": "She",
         "popularity": 73,
         "preview_url": "https://p.scdn.co/mp3-preview/c141d4b04692e324ae5fec363a433623ab2779d4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 8,
         "type": "track",
         "uri": "spotify:track:6SQLk9HSNketfgs2AyIiMs"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-01-13T12:26:33Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -23729,6 +24564,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 203417,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBUM71800366" },
         "external_urls": {
@@ -23740,13 +24576,26 @@
         "name": "Youngblood",
         "popularity": 84,
         "preview_url": "https://p.scdn.co/mp3-preview/87357ede3ba123385a24c959696a6512b878430c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:2iUXsYOEPhVqEBwsqP70rE"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2022-01-08T05:26:15Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "compilation",
@@ -24187,6 +25036,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 158040,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USUM71814888" },
         "external_urls": {
@@ -24198,13 +25048,26 @@
         "name": "Sunflower - Spider-Man: Into the Spider-Verse",
         "popularity": 87,
         "preview_url": "https://p.scdn.co/mp3-preview/801a664529525b366fa6fb8f6cacd5dd83928272?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 2,
         "type": "track",
         "uri": "spotify:track:3KkXRkHbMCARz0aVfEt68P"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-11-16T05:59:58Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -24625,6 +25488,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 224874,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "AUUM71400885" },
         "external_urls": {
@@ -24636,13 +25500,26 @@
         "name": "Happy Little Pill",
         "popularity": 54,
         "preview_url": "https://p.scdn.co/mp3-preview/e84b1a0ba4dd503b5e1fe7a10e82def81f29ed8d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:4z8Ll8nU1jMqB8HvKTyLP1"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-11-11T12:20:05Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -25073,6 +25950,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 219040,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBHMU1200361" },
         "external_urls": {
@@ -25084,13 +25962,26 @@
         "name": "Little Things",
         "popularity": 76,
         "preview_url": "https://p.scdn.co/mp3-preview/a36b78f428ddfffc060b7363bbbcccc1b49a355f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 3,
         "type": "track",
         "uri": "spotify:track:0TAmnCzOtqRfvA38DDLTjj"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-11-11T01:01:42Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -25521,6 +26412,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 262493,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "NZSM09700144" },
         "external_urls": {
@@ -25532,13 +26424,26 @@
         "name": "Sway",
         "popularity": 59,
         "preview_url": "https://p.scdn.co/mp3-preview/c0b5ae20f375cf285df0c102c4b4bdc745b1a460?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 2,
         "type": "track",
         "uri": "spotify:track:3JtRSUOj7wSAXFG76T89v8"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-11-10T09:20:12Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -25969,6 +26874,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 193089,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USUG12000226" },
         "external_urls": {
@@ -25980,13 +26886,26 @@
         "name": "Black And White",
         "popularity": 68,
         "preview_url": "https://p.scdn.co/mp3-preview/90ebfe37ee6f87709c169acac863c2f72ffe5d42?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 2,
         "type": "track",
         "uri": "spotify:track:7rpNuuoMbid56XkDsx2FjE"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-11-09T13:24:56Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -26417,6 +27336,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 240133,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USSM11912590" },
         "external_urls": {
@@ -26428,13 +27348,26 @@
         "name": "Falling",
         "popularity": 85,
         "preview_url": "https://p.scdn.co/mp3-preview/8d18a1a78e59131bf03cba65d124f803f5834ef6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 6,
         "type": "track",
         "uri": "spotify:track:1ZMiCix7XSAbfAJlEZWMCp"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-11-09T09:21:22Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -26865,6 +27798,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 359240,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USSM10905708" },
         "external_urls": {
@@ -26876,13 +27810,26 @@
         "name": "Friends, Lovers or Nothing",
         "popularity": 50,
         "preview_url": "https://p.scdn.co/mp3-preview/930fe346b05bbdcf3af44d365c9e1632a34689b5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:1wkaoS4jTVXYMUWHKVFZTk"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-11-06T14:16:21Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -27313,6 +28260,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 194973,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBHMU1500106" },
         "external_urls": {
@@ -27324,13 +28272,26 @@
         "name": "End of the Day",
         "popularity": 64,
         "preview_url": "https://p.scdn.co/mp3-preview/ae658fa7d02362e1ab050b128bdd55f28d5a3582?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 5,
         "type": "track",
         "uri": "spotify:track:5AezhHjX3R1bmxcAEgrFpS"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-11-05T06:06:18Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -27801,6 +28762,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 173799,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USUM71809132" },
         "external_urls": {
@@ -27812,13 +28774,26 @@
         "name": "Eastside (with Halsey & Khalid)",
         "popularity": 77,
         "preview_url": "https://p.scdn.co/mp3-preview/24726be4c89b67eab298a72560b637581450421c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:0d2iYfpKoM0QCKvcLCkBao"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-11-04T17:00:11Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -28249,6 +29224,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 202640,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBHMU1500116" },
         "external_urls": {
@@ -28260,13 +29236,26 @@
         "name": "Walking in the Wind",
         "popularity": 67,
         "preview_url": "https://p.scdn.co/mp3-preview/72d2c3060bf13ecfc56b15990268902d24b4fa2d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 15,
         "type": "track",
         "uri": "spotify:track:1ZycJRpLOazlLcoFGxGROO"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-10-31T09:31:09Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -28693,6 +29682,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 248335,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBK3W1800838" },
         "external_urls": {
@@ -28704,13 +29694,26 @@
         "name": "It's Not Living (If It's Not With You)",
         "popularity": 75,
         "preview_url": "https://p.scdn.co/mp3-preview/7cce4285a5412c5f3a1920ca965c155d04235e97?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:3TgMcrV32NUKjEG2ujn9eh"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-10-30T17:26:45Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -29151,6 +30154,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 200000,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "ZZOPM1901305" },
         "external_urls": {
@@ -29162,13 +30166,26 @@
         "name": "La La Lost You",
         "popularity": 67,
         "preview_url": "https://p.scdn.co/mp3-preview/52f1d619314621080c774919d86aee9010be1f0b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 12,
         "type": "track",
         "uri": "spotify:track:5Htq8DDDN0Xce9MwqzAzui"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-10-23T03:20:17Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -29599,6 +30616,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 207133,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USSM11912588" },
         "external_urls": {
@@ -29610,13 +30628,26 @@
         "name": "Adore You",
         "popularity": 85,
         "preview_url": "https://p.scdn.co/mp3-preview/a42d5e9f6f5c3375db9723bb2356239351eead31?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 3,
         "type": "track",
         "uri": "spotify:track:3jjujdWJ72nww5eGnfs2E7"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-10-13T02:08:39Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -30019,6 +31050,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 188493,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USAT21500390" },
         "external_urls": {
@@ -30030,13 +31062,26 @@
         "name": "Tear in My Heart",
         "popularity": 78,
         "preview_url": "https://p.scdn.co/mp3-preview/d1e5b1b4627177c6e426911e6611a71ad18ffc31?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 5,
         "type": "track",
         "uri": "spotify:track:3bnVBN67NBEzedqQuWrpP4"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-10-07T23:31:02Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -30467,6 +31512,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 226600,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "GBHMU1400165" },
         "external_urls": {
@@ -30478,13 +31524,26 @@
         "name": "Night Changes",
         "popularity": 89,
         "preview_url": "https://p.scdn.co/mp3-preview/359be833b46b250c696bbb64caa5dc91f2a38c6a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 7,
         "type": "track",
         "uri": "spotify:track:5O2P9iiztwhomNh8xkR9lJ"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-09-04T09:46:16Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -30915,6 +31974,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 215686,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USUM72114018" },
         "external_urls": {
@@ -30926,13 +31986,26 @@
         "name": "Every Summertime",
         "popularity": 80,
         "preview_url": "https://p.scdn.co/mp3-preview/eca762cae8aa197624d11bf30691ff4cefc464f4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:68HocO7fx9z0MgDU0ZPHro"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-09-04T09:42:49Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -31373,6 +32446,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 213787,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "ZZOPM1800342" },
         "external_urls": {
@@ -31384,13 +32458,26 @@
         "name": "Warpaint",
         "popularity": 48,
         "preview_url": "https://p.scdn.co/mp3-preview/9c668493ee4ffa3f750449a7cce7e758b11c5395?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 13,
         "type": "track",
         "uri": "spotify:track:3j1fOrxmfuym91Cf9v397b"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-08-09T19:32:03Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -31821,6 +32908,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 175044,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USAT22101330" },
         "external_urls": {
@@ -31832,13 +32920,26 @@
         "name": "Shy Away",
         "popularity": 71,
         "preview_url": "https://p.scdn.co/mp3-preview/ddb03539505a230a452e52eb80bdcf456a104ad5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 3,
         "type": "track",
         "uri": "spotify:track:2nG54Y4a3sH9YpfxMolOyi"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-06-09T16:06:58Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -32247,6 +33348,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 244400,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "GBCVZ0501389" },
         "external_urls": {
@@ -32258,13 +33360,26 @@
         "name": "Another Sunny Day",
         "popularity": 50,
         "preview_url": "https://p.scdn.co/mp3-preview/56f7c88314bed2b9eb6c5854b25917dfd34cad3c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 2,
         "type": "track",
         "uri": "spotify:track:73JnItJ3dofEssv5hWFHDs"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-05-22T03:38:01Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -32695,6 +33810,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 253293,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "KRA381700868" },
         "external_urls": {
@@ -32706,13 +33822,26 @@
         "name": "Through the Night",
         "popularity": 63,
         "preview_url": "https://p.scdn.co/mp3-preview/31c4dc781b786be086f887a310e695085618ac4d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 8,
         "type": "track",
         "uri": "spotify:track:3P3UA61WRQqwCXaoFOTENd"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-05-18T04:50:15Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -33143,6 +34272,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 194325,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "KRA381500393" },
         "external_urls": {
@@ -33154,13 +34284,26 @@
         "name": "Twenty-three",
         "popularity": 55,
         "preview_url": "https://p.scdn.co/mp3-preview/e37bd45dc84a9f35da2d51514ef59da13d6847dd?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 3,
         "type": "track",
         "uri": "spotify:track:3YkDslZvvMixTwgDId0aYB"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-03-02T09:20:20Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -33591,6 +34734,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 118386,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "FRUM71700924" },
         "external_urls": {
@@ -33602,13 +34746,26 @@
         "name": "Ceux qui rêvent",
         "popularity": 64,
         "preview_url": "https://p.scdn.co/mp3-preview/496591de49540c6b977da5672717215ea656ce78?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:7as88HhLbDLgobaSbJrVBs"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-02-20T15:53:46Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -34039,6 +35196,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 277457,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "FR96X1970882" },
         "external_urls": {
@@ -34050,13 +35208,26 @@
         "name": "Rumah Ke Rumah",
         "popularity": 81,
         "preview_url": "https://p.scdn.co/mp3-preview/baef6477e099a73d9af72397c82bb089e18d4c05?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 12,
         "type": "track",
         "uri": "spotify:track:2wAiFWjRupWmnDkQcu91MF"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2021-02-12T16:22:35Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -34485,6 +35656,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 309985,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USQE92000004" },
         "external_urls": {
@@ -34496,13 +35668,26 @@
         "name": "Look at the Sky",
         "popularity": 46,
         "preview_url": "https://p.scdn.co/mp3-preview/6098cb45f301bcfa292daf422e786ecc7460f81d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:4l5nn3zlcrKSB1eyfuWHhu"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2020-12-09T18:20:33Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "compilation",
@@ -34931,6 +36116,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 189120,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "USWD11995409" },
         "external_urls": {
@@ -34942,13 +36128,26 @@
         "name": "Into the Unknown (End Credit Version)",
         "popularity": 43,
         "preview_url": "https://p.scdn.co/mp3-preview/c4c8a99132f37f4996efd6d81ca526f59c39030f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 12,
         "type": "track",
         "uri": "spotify:track:4OkHootAlj7w9Eb2zJVlWr"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2020-10-19T14:21:07Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -35379,6 +36578,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 201538,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "AUUM71701204" },
         "external_urls": {
@@ -35390,13 +36590,26 @@
         "name": "Strawberries & Cigarettes",
         "popularity": 82,
         "preview_url": "https://p.scdn.co/mp3-preview/116348a4680cd67149fcc8eac049f06ede67972a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:3afkJSKX0EAMsJXTZnDXXJ"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2020-10-04T06:55:09Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -35837,6 +37050,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 194871,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "ZZOPM2002286" },
         "external_urls": {
@@ -35848,13 +37062,26 @@
         "name": "Afterthought",
         "popularity": 66,
         "preview_url": "https://p.scdn.co/mp3-preview/4cabe0c1e7f92637cfb4e2c90394310603c02f6b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 13,
         "type": "track",
         "uri": "spotify:track:1ggYjU6zdFHgANcku82boU"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2020-07-28T01:20:46Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "single",
@@ -35915,6 +37142,7 @@
         "available_markets": [],
         "disc_number": 1,
         "duration_ms": 249369,
+        "episode": false,
         "explicit": false,
         "external_ids": { "isrc": "AUUM72000197" },
         "external_urls": {
@@ -35926,13 +37154,26 @@
         "name": "Take Yourself Home",
         "popularity": 0,
         "preview_url": null,
+        "track": true,
         "track_number": 2,
         "type": "track",
         "uri": "spotify:track:6OX7x7VN6tGdLe6R2ruTSB"
-      }
+      },
+      "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2020-04-19T13:25:31Z",
+      "added_at": "2023-11-08T04:29:03Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "is_local": false,
+      "primary_color": null,
       "track": {
         "album": {
           "album_type": "album",
@@ -36367,6 +37608,7 @@
         ],
         "disc_number": 1,
         "duration_ms": 222258,
+        "episode": false,
         "explicit": true,
         "external_ids": { "isrc": "USUYG1181125" },
         "external_urls": {
@@ -36378,10 +37620,12 @@
         "name": "Introvert (feat. Joji)",
         "popularity": 59,
         "preview_url": "https://p.scdn.co/mp3-preview/ff844e00c4a4548c49f5ed5c0564f5111a1f2c41?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track": true,
         "track_number": 4,
         "type": "track",
         "uri": "spotify:track:3qbqWUDl9j09PeBaQ6CZgr"
-      }
+      },
+      "video_thumbnail": { "url": null }
     }
   ]
 }

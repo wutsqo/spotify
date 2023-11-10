@@ -2,11 +2,11 @@
   "collaborative": false,
   "description": "Shareable Liked Songs playlist synchronised by spotify-to-github.",
   "external_urls": {
-    "spotify": "https://open.spotify.com/playlist/7FpqA5FWIKUyqmEievIq7W"
+    "spotify": "https://open.spotify.com/playlist/0pjLwygOBrPYVc0rG417iE"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/7FpqA5FWIKUyqmEievIq7W",
-  "id": "7FpqA5FWIKUyqmEievIq7W",
+  "href": "https://api.spotify.com/v1/playlists/0pjLwygOBrPYVc0rG417iE",
+  "id": "0pjLwygOBrPYVc0rG417iE",
   "images": [
     {
       "height": 640,
@@ -37,12 +37,12 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "MywwZjJlNDM5NWYxZmNlZDExNzkwNjc4YTYxNDgyNDY0OTYxMTJjMDRh",
+  "snapshot_id": "MywwODVkODM2N2ZhMmU0ZDZiYzU2Yjc0NTFjMTYxYzg1MzgxZTAyZTRm",
   "type": "playlist",
-  "uri": "spotify:playlist:7FpqA5FWIKUyqmEievIq7W",
+  "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE",
   "tracks": [
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -504,7 +504,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -966,7 +966,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -1426,7 +1426,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -1878,7 +1878,7 @@
         "id": "39fD0qvjgk8RarJnoBiDTx",
         "is_local": false,
         "name": "Lovesick",
-        "popularity": 76,
+        "popularity": 75,
         "preview_url": "https://p.scdn.co/mp3-preview/7c9c27dd730c439411153e6385f3c7c2504475c9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 6,
@@ -1888,7 +1888,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -2336,7 +2336,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -2828,7 +2828,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -3290,7 +3290,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -3752,7 +3752,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -3834,7 +3834,7 @@
         "id": "6hm9OpcIiVgEWwEZuNuXDM",
         "is_local": false,
         "name": "A Strange Kind Of Beautiful",
-        "popularity": 32,
+        "popularity": 30,
         "preview_url": null,
         "track": true,
         "track_number": 1,
@@ -3844,7 +3844,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -4258,7 +4258,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -4720,7 +4720,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -5182,7 +5182,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -5634,7 +5634,7 @@
         "id": "1a0PcmEJAOEp4ZT3YtSLkM",
         "is_local": false,
         "name": "Through the Dark",
-        "popularity": 64,
+        "popularity": 63,
         "preview_url": "https://p.scdn.co/mp3-preview/bc58afa3205c66068e65d52c00efc710fad453f1?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 11,
@@ -5644,7 +5644,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -6106,7 +6106,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -6558,7 +6558,7 @@
         "id": "4Ssi6tKwrTHi5qvDndrZRP",
         "is_local": false,
         "name": "Wish You Were Here",
-        "popularity": 76,
+        "popularity": 75,
         "preview_url": "https://p.scdn.co/mp3-preview/0200b3ddb02b7810839de68d74097e9f65c7140d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 8,
@@ -6568,7 +6568,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -7030,7 +7030,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -7512,7 +7512,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -7964,7 +7964,7 @@
         "id": "7h2nmmoWDi2UpfYKLKWLYB",
         "is_local": false,
         "name": "Sunflower",
-        "popularity": 77,
+        "popularity": 76,
         "preview_url": "https://p.scdn.co/mp3-preview/27b6b4f595da7570041c61e553a2cb8ceb6c8417?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 1,
@@ -7974,7 +7974,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -8426,7 +8426,7 @@
         "id": "6u0x5ad9ewHvs3z6u9Oe3c",
         "is_local": false,
         "name": "Under Cover of Darkness",
-        "popularity": 70,
+        "popularity": 69,
         "preview_url": "https://p.scdn.co/mp3-preview/392943fec90313dec65b40afa326c3c822984b1d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 2,
@@ -8436,7 +8436,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -8518,7 +8518,7 @@
         "id": "3oUam1JxcuLVFKaAr5MWnN",
         "is_local": false,
         "name": "We Were Never Really Friends",
-        "popularity": 41,
+        "popularity": 40,
         "preview_url": null,
         "track": true,
         "track_number": 1,
@@ -8528,7 +8528,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -8990,7 +8990,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -9450,7 +9450,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -9900,7 +9900,7 @@
         "id": "2zzLRQ78kKfPTx8FJQCdC2",
         "is_local": false,
         "name": "When The Sun Goes Down",
-        "popularity": 77,
+        "popularity": 76,
         "preview_url": "https://p.scdn.co/mp3-preview/97679b16db33ac5727488e3e7eb5b9c7240c165e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 11,
@@ -9910,7 +9910,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -10372,7 +10372,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -10834,7 +10834,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -11296,7 +11296,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -11758,7 +11758,7 @@
         "id": "0edtKj1oW6rJ9f4wRtLPPH",
         "is_local": false,
         "name": "Traingazing",
-        "popularity": 67,
+        "popularity": 66,
         "preview_url": "https://p.scdn.co/mp3-preview/523ba815e10e6e37646aafddf128acb68f1c927e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 6,
@@ -11768,7 +11768,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -12228,7 +12228,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -12690,7 +12690,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -13162,7 +13162,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -13624,7 +13624,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -14086,7 +14086,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -14546,7 +14546,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -14998,7 +14998,7 @@
         "id": "4F4AjdWyjGHgd1i4TplOQm",
         "is_local": false,
         "name": "love song",
-        "popularity": 6,
+        "popularity": 5,
         "preview_url": "https://p.scdn.co/mp3-preview/f414684bc38218bad0461237a2e54884fb8e2663?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 1,
@@ -15008,7 +15008,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -15466,7 +15466,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -15926,7 +15926,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -16388,7 +16388,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -16848,7 +16848,7 @@
         "id": "6sCvvleqKbeyOkQDieBYgp",
         "is_local": false,
         "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-        "popularity": 71,
+        "popularity": 70,
         "preview_url": "https://p.scdn.co/mp3-preview/c9236c5986791e42321e07aa1aa6918cff1fca61?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 1,
@@ -16858,7 +16858,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -17320,7 +17320,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -17782,7 +17782,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -18238,7 +18238,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -18696,7 +18696,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -19148,7 +19148,7 @@
         "id": "0n9B2zPLq1AOlUqsENmqLz",
         "is_local": false,
         "name": "Have You Ever Been in Love",
-        "popularity": 56,
+        "popularity": 55,
         "preview_url": "https://p.scdn.co/mp3-preview/efa9cd27a7246518b85d0a73adea24a893648472?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 1,
@@ -19158,7 +19158,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -19576,7 +19576,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -20026,7 +20026,7 @@
         "id": "5kxOQDA9AcuNQXHvg5NpX4",
         "is_local": false,
         "name": "Take A Chance With Me",
-        "popularity": 78,
+        "popularity": 79,
         "preview_url": "https://p.scdn.co/mp3-preview/0790b787606ff57b34b2f99a10e996f859396d1f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 12,
@@ -20036,7 +20036,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -20398,7 +20398,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -20860,7 +20860,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -21308,7 +21308,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -21642,7 +21642,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -22104,7 +22104,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -22552,7 +22552,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -23014,7 +23014,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -23476,7 +23476,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -23568,7 +23568,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -23670,7 +23670,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -24132,7 +24132,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -24584,7 +24584,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -25056,7 +25056,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -25508,7 +25508,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -25970,7 +25970,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -26432,7 +26432,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -26894,7 +26894,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -27356,7 +27356,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -27818,7 +27818,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -28270,7 +28270,7 @@
         "id": "5AezhHjX3R1bmxcAEgrFpS",
         "is_local": false,
         "name": "End of the Day",
-        "popularity": 65,
+        "popularity": 64,
         "preview_url": "https://p.scdn.co/mp3-preview/ae658fa7d02362e1ab050b128bdd55f28d5a3582?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 5,
@@ -28280,7 +28280,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -28782,7 +28782,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -29234,7 +29234,7 @@
         "id": "1ZycJRpLOazlLcoFGxGROO",
         "is_local": false,
         "name": "Walking in the Wind",
-        "popularity": 68,
+        "popularity": 67,
         "preview_url": "https://p.scdn.co/mp3-preview/72d2c3060bf13ecfc56b15990268902d24b4fa2d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 15,
@@ -29244,7 +29244,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -29692,7 +29692,7 @@
         "id": "3TgMcrV32NUKjEG2ujn9eh",
         "is_local": false,
         "name": "It's Not Living (If It's Not With You)",
-        "popularity": 76,
+        "popularity": 75,
         "preview_url": "https://p.scdn.co/mp3-preview/7cce4285a5412c5f3a1920ca965c155d04235e97?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 11,
@@ -29702,7 +29702,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -30174,7 +30174,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -30626,7 +30626,7 @@
         "id": "3jjujdWJ72nww5eGnfs2E7",
         "is_local": false,
         "name": "Adore You",
-        "popularity": 86,
+        "popularity": 85,
         "preview_url": "https://p.scdn.co/mp3-preview/a42d5e9f6f5c3375db9723bb2356239351eead31?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 3,
@@ -30636,7 +30636,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -31070,7 +31070,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -31532,7 +31532,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -31994,7 +31994,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -32466,7 +32466,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -32928,7 +32928,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -33368,7 +33368,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -33820,7 +33820,7 @@
         "id": "3P3UA61WRQqwCXaoFOTENd",
         "is_local": false,
         "name": "Through the Night",
-        "popularity": 64,
+        "popularity": 63,
         "preview_url": "https://p.scdn.co/mp3-preview/31c4dc781b786be086f887a310e695085618ac4d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 8,
@@ -33830,7 +33830,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -34292,7 +34292,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -34754,7 +34754,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -35216,7 +35216,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -35676,7 +35676,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -36136,7 +36136,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -36598,7 +36598,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -37070,7 +37070,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -37162,7 +37162,7 @@
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-11-05T16:24:30Z",
+      "added_at": "2023-11-09T04:30:14Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
