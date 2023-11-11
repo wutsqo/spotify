@@ -1,5 +1,5 @@
 {
-  "total": 3,
+  "total": 2,
   "playlists": [
     {
       "collaborative": false,
@@ -82,52 +82,6 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE"
-    },
-    {
-      "collaborative": false,
-      "description": "",
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/6jnCkBO85LV2qiomDyXjMt"
-      },
-      "href": "https://api.spotify.com/v1/playlists/6jnCkBO85LV2qiomDyXjMt",
-      "id": "6jnCkBO85LV2qiomDyXjMt",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
-          "width": 60
-        }
-      ],
-      "name": "Liked Songs (Mirror)",
-      "owner": {
-        "display_name": "wutsqo",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-        },
-        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-        "id": "urwatilwutsqo",
-        "type": "user",
-        "uri": "spotify:user:urwatilwutsqo"
-      },
-      "primary_color": null,
-      "public": true,
-      "snapshot_id": "MiwwNWMxMjA4MTA3N2RkMWUzZDg3MDU3OGY1ZTU1NWU2OGRlNjE0NmRm",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/6jnCkBO85LV2qiomDyXjMt/tracks",
-        "total": 86
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:6jnCkBO85LV2qiomDyXjMt"
     }
   ]
 }
