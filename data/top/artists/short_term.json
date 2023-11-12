@@ -1,5 +1,5 @@
 {
-  "total": 26,
+  "total": 25,
   "artists": [
     {
       "external_urls": {
@@ -316,6 +316,66 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop girl group"],
+      "href": "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
+      "id": "6YVMFz59CuY7ngCxTxjpxE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174be7e71571cf58f1b9a36f0f7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178be7e71571cf58f1b9a36f0f7",
+          "width": 160
+        }
+      ],
+      "name": "aespa",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian hip hop"],
+      "href": "https://api.spotify.com/v1/artists/2IDLDx25HU1nQMKde4n61a",
+      "id": "2IDLDx25HU1nQMKde4n61a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb39d2db28841d007ee7f8d782",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517439d2db28841d007ee7f8d782",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17839d2db28841d007ee7f8d782",
+          "width": 160
+        }
+      ],
+      "name": "Rich Brian",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
       "followers": { "href": null, "total": 0 },
@@ -352,36 +412,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop girl group"],
-      "href": "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
-      "id": "6YVMFz59CuY7ngCxTxjpxE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174be7e71571cf58f1b9a36f0f7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178be7e71571cf58f1b9a36f0f7",
-          "width": 160
-        }
-      ],
-      "name": "aespa",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "followers": { "href": null, "total": 0 },
@@ -409,36 +439,6 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian hip hop"],
-      "href": "https://api.spotify.com/v1/artists/2IDLDx25HU1nQMKde4n61a",
-      "id": "2IDLDx25HU1nQMKde4n61a",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb39d2db28841d007ee7f8d782",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517439d2db28841d007ee7f8d782",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17839d2db28841d007ee7f8d782",
-          "width": 160
-        }
-      ],
-      "name": "Rich Brian",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
     },
     {
       "external_urls": {
@@ -727,36 +727,6 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "indie pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
-      "id": "3l0CmX0FuQjFxr8SK7Vqag",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb370f4e30deba6da178db36fe",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174370f4e30deba6da178db36fe",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178370f4e30deba6da178db36fe",
-          "width": 160
-        }
-      ],
-      "name": "Clairo",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
     },
     {
       "external_urls": {
