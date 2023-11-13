@@ -1,5 +1,5 @@
 {
-  "total": 25,
+  "total": 23,
   "artists": [
     {
       "external_urls": {
@@ -226,36 +226,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["brooklyn indie", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
-      "id": "2uYWxilOVlUdk4oV9DvwqK",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4bdb3888818637acb71c4a13",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744bdb3888818637acb71c4a13",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784bdb3888818637acb71c4a13",
-          "width": 160
-        }
-      ],
-      "name": "Mitski",
-      "popularity": 81,
-      "type": "artist",
-      "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
       },
       "followers": { "href": null, "total": 0 },
@@ -286,6 +256,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop girl group"],
+      "href": "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
+      "id": "6YVMFz59CuY7ngCxTxjpxE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174be7e71571cf58f1b9a36f0f7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178be7e71571cf58f1b9a36f0f7",
+          "width": 160
+        }
+      ],
+      "name": "aespa",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
       },
       "followers": { "href": null, "total": 0 },
@@ -313,36 +313,6 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop girl group"],
-      "href": "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
-      "id": "6YVMFz59CuY7ngCxTxjpxE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbe7e71571cf58f1b9a36f0f7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174be7e71571cf58f1b9a36f0f7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178be7e71571cf58f1b9a36f0f7",
-          "width": 160
-        }
-      ],
-      "name": "aespa",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
     },
     {
       "external_urls": {
@@ -412,36 +382,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["gen z singer-songwriter"],
-      "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
-      "id": "7gW0r5CkdEUMm42w9XpyZO",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb61731e584b1f008c10d53f41",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517461731e584b1f008c10d53f41",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17861731e584b1f008c10d53f41",
-          "width": 160
-        }
-      ],
-      "name": "Laufey",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       "followers": { "href": null, "total": 0 },
@@ -478,6 +418,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["gen z singer-songwriter"],
+      "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+      "id": "7gW0r5CkdEUMm42w9XpyZO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb61731e584b1f008c10d53f41",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517461731e584b1f008c10d53f41",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17861731e584b1f008c10d53f41",
+          "width": 160
+        }
+      ],
+      "name": "Laufey",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
       "followers": { "href": null, "total": 0 },
@@ -505,43 +475,6 @@
       "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative rock",
-        "art rock",
-        "melancholia",
-        "oxford indie",
-        "permanent wave",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
-      "id": "4Z8W4fKeB5YxbusRsdQVPb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a03696716c9ee605006047fd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a03696716c9ee605006047fd",
-          "width": 160
-        }
-      ],
-      "name": "Radiohead",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
     },
     {
       "external_urls": {
@@ -640,33 +573,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["canadian contemporary r&b", "canadian pop", "pop"],
-      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
-      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "genres": ["brooklyn indie", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
+      "id": "2uYWxilOVlUdk4oV9DvwqK",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4bdb3888818637acb71c4a13",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174214f3cf1cbe7139c1e26ffbb",
+          "url": "https://i.scdn.co/image/ab676161000051744bdb3888818637acb71c4a13",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178214f3cf1cbe7139c1e26ffbb",
+          "url": "https://i.scdn.co/image/ab6761610000f1784bdb3888818637acb71c4a13",
           "width": 160
         }
       ],
-      "name": "The Weeknd",
-      "popularity": 92,
+      "name": "Mitski",
+      "popularity": 81,
       "type": "artist",
-      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+      "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
     },
     {
       "external_urls": {

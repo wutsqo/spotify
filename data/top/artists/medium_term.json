@@ -33,36 +33,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-      "id": "06HL4z0CvFAxyc27GXpf02",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178859e4c14fa59296c8649e0e4",
-          "width": 160
-        }
-      ],
-      "name": "Taylor Swift",
-      "popularity": 100,
-      "type": "artist",
-      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
       },
       "followers": { "href": null, "total": 0 },
@@ -90,6 +60,36 @@
       "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178859e4c14fa59296c8649e0e4",
+          "width": 160
+        }
+      ],
+      "name": "Taylor Swift",
+      "popularity": 100,
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
     },
     {
       "external_urls": {
@@ -1286,7 +1286,7 @@
         }
       ],
       "name": "aespa",
-      "popularity": 71,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
     },
@@ -1376,7 +1376,7 @@
         }
       ],
       "name": "Hozier",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
     },
@@ -1651,7 +1651,7 @@
         }
       ],
       "name": "Kerispatih",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:73OtDyghUEJ9QfGtu1pkaJ"
     },
@@ -1866,7 +1866,7 @@
         }
       ],
       "name": "Zen Aji",
-      "popularity": 6,
+      "popularity": 7,
       "type": "artist",
       "uri": "spotify:artist:7FoS5czKb5PCnmOGaSzWi0"
     },
