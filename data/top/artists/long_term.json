@@ -830,36 +830,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop"],
-      "href": "https://api.spotify.com/v1/artists/4UK2Lzi6fBfUi9rpDt6cik",
-      "id": "4UK2Lzi6fBfUi9rpDt6cik",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e62cff9c6018ae5616b01eab",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e62cff9c6018ae5616b01eab",
-          "width": 160
-        }
-      ],
-      "name": "ヨルシカ",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
       },
       "followers": { "href": null, "total": 0 },
@@ -887,6 +857,36 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["j-pop"],
+      "href": "https://api.spotify.com/v1/artists/4UK2Lzi6fBfUi9rpDt6cik",
+      "id": "4UK2Lzi6fBfUi9rpDt6cik",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e62cff9c6018ae5616b01eab",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e62cff9c6018ae5616b01eab",
+          "width": 160
+        }
+      ],
+      "name": "ヨルシカ",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
     },
     {
       "external_urls": {
@@ -1166,36 +1166,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
-      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
-      "id": "0bAsR2unSRpn6BQPEnNlZm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
-          "width": 160
-        }
-      ],
-      "name": "Aimer",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
       },
       "followers": { "href": null, "total": 0 },
@@ -1286,6 +1256,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
+      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
+      "id": "0bAsR2unSRpn6BQPEnNlZm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
+          "width": 160
+        }
+      ],
+      "name": "Aimer",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
       },
       "followers": { "href": null, "total": 0 },
@@ -1340,7 +1340,7 @@
         }
       ],
       "name": "Lilas Ikuta",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
     },
@@ -1744,7 +1744,7 @@
         }
       ],
       "name": "ABBA",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
     },
@@ -2949,7 +2949,7 @@
         }
       ],
       "name": "Marshmello",
-      "popularity": 81,
+      "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:64KEffDW9EtZ1y2vBYgq8T"
     },
