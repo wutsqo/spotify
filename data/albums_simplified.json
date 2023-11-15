@@ -1,6 +1,25 @@
 {
-  "total": 4,
+  "total": 5,
   "albums": [
+    {
+      "id": "5WR7ksPLp3kqFbDLTYpGfx",
+      "name": "Nicole",
+      "added_at": "2023-11-14T20:15:59Z",
+      "type": "album",
+      "total_tracks": 12,
+      "url": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273770eeb0ee1c91983b1ba4a10",
+      "release_date": "2022-08-12",
+      "artists": [
+        {
+          "id": "2kxP07DLgs4xlWz8YHlvfh",
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "genres": [],
+      "popularity": 76
+    },
     {
       "id": "3mVPLw5tUXwH54msEN8vUs",
       "name": "Those Shocking Shaking Days: Indonesian Hard, Psychedelic, Progressive Rock and Funk 1970-1978",
