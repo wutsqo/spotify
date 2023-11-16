@@ -314,36 +314,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["viral pop"],
-      "href": "https://api.spotify.com/v1/artists/3MZsBdqDrRTJihTHQrO6Dq",
-      "id": "3MZsBdqDrRTJihTHQrO6Dq",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744111c95b5f430c3265c7304b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784111c95b5f430c3265c7304b",
-          "width": 160
-        }
-      ],
-      "name": "Joji",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
       },
       "followers": { "href": null, "total": 0 },
@@ -371,6 +341,36 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["viral pop"],
+      "href": "https://api.spotify.com/v1/artists/3MZsBdqDrRTJihTHQrO6Dq",
+      "id": "3MZsBdqDrRTJihTHQrO6Dq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744111c95b5f430c3265c7304b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784111c95b5f430c3265c7304b",
+          "width": 160
+        }
+      ],
+      "name": "Joji",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
     },
     {
       "external_urls": {
@@ -524,7 +524,7 @@
         }
       ],
       "name": "End of the World",
-      "popularity": 35,
+      "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:0b59cVa1STVENq3i7wkcHV"
     },
@@ -644,7 +644,7 @@
         }
       ],
       "name": "Red Velvet",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
@@ -1010,7 +1010,7 @@
         }
       ],
       "name": "Sal Priadi",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
     },
@@ -1256,36 +1256,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
-      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
-      "id": "0bAsR2unSRpn6BQPEnNlZm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
-          "width": 160
-        }
-      ],
-      "name": "Aimer",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO"
       },
       "followers": { "href": null, "total": 0 },
@@ -1343,6 +1313,36 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
+      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
+      "id": "0bAsR2unSRpn6BQPEnNlZm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
+          "width": 160
+        }
+      ],
+      "name": "Aimer",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
     },
     {
       "external_urls": {
@@ -2240,36 +2240,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop", "j-rock", "japanese emo", "visual kei"],
-      "href": "https://api.spotify.com/v1/artists/1EowJ1WwkMzkCkRomFhui7",
-      "id": "1EowJ1WwkMzkCkRomFhui7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc9d443fb5ced1dd32d106632",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c9d443fb5ced1dd32d106632",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c9d443fb5ced1dd32d106632",
-          "width": 160
-        }
-      ],
-      "name": "RADWIMPS",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:1EowJ1WwkMzkCkRomFhui7"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
       },
       "followers": { "href": null, "total": 0 },
@@ -2424,6 +2394,36 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["j-pop", "j-rock", "japanese emo", "visual kei"],
+      "href": "https://api.spotify.com/v1/artists/1EowJ1WwkMzkCkRomFhui7",
+      "id": "1EowJ1WwkMzkCkRomFhui7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc9d443fb5ced1dd32d106632",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c9d443fb5ced1dd32d106632",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c9d443fb5ced1dd32d106632",
+          "width": 160
+        }
+      ],
+      "name": "RADWIMPS",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:1EowJ1WwkMzkCkRomFhui7"
     },
     {
       "external_urls": {
@@ -2919,7 +2919,7 @@
         }
       ],
       "name": "Måneskin",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
     },

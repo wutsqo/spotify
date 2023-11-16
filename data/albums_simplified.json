@@ -1,6 +1,25 @@
 {
-  "total": 5,
+  "total": 6,
   "albums": [
+    {
+      "id": "4DxNdQzm6cBYuSn4dCimmT",
+      "name": "Apricot Princess",
+      "added_at": "2023-11-15T15:38:39Z",
+      "type": "album",
+      "total_tracks": 10,
+      "url": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2731bd6d088d3d81972af4cb81d",
+      "release_date": "2017-04-26",
+      "artists": [
+        {
+          "id": "7pbDxGE6nQSZVfiFdq9lOL",
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "genres": [],
+      "popularity": 72
+    },
     {
       "id": "5WR7ksPLp3kqFbDLTYpGfx",
       "name": "Nicole",
