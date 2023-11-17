@@ -524,7 +524,7 @@
         }
       ],
       "name": "End of the World",
-      "popularity": 36,
+      "popularity": 37,
       "type": "artist",
       "uri": "spotify:artist:0b59cVa1STVENq3i7wkcHV"
     },
@@ -644,7 +644,7 @@
         }
       ],
       "name": "Red Velvet",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
@@ -770,36 +770,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["asian american hip hop"],
-      "href": "https://api.spotify.com/v1/artists/1AhjOkOLkbHUfcHDSErXQs",
-      "id": "1AhjOkOLkbHUfcHDSErXQs",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2f8dfdfeb85c3fc2d11b2ae2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742f8dfdfeb85c3fc2d11b2ae2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782f8dfdfeb85c3fc2d11b2ae2",
-          "width": 160
-        }
-      ],
-      "name": "88rising",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:1AhjOkOLkbHUfcHDSErXQs"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       },
       "followers": { "href": null, "total": 0 },
@@ -827,6 +797,36 @@
       "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["asian american hip hop"],
+      "href": "https://api.spotify.com/v1/artists/1AhjOkOLkbHUfcHDSErXQs",
+      "id": "1AhjOkOLkbHUfcHDSErXQs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2f8dfdfeb85c3fc2d11b2ae2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742f8dfdfeb85c3fc2d11b2ae2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782f8dfdfeb85c3fc2d11b2ae2",
+          "width": 160
+        }
+      ],
+      "name": "88rising",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:1AhjOkOLkbHUfcHDSErXQs"
     },
     {
       "external_urls": {
@@ -2397,36 +2397,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop", "j-rock", "japanese emo", "visual kei"],
-      "href": "https://api.spotify.com/v1/artists/1EowJ1WwkMzkCkRomFhui7",
-      "id": "1EowJ1WwkMzkCkRomFhui7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc9d443fb5ced1dd32d106632",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c9d443fb5ced1dd32d106632",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c9d443fb5ced1dd32d106632",
-          "width": 160
-        }
-      ],
-      "name": "RADWIMPS",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:1EowJ1WwkMzkCkRomFhui7"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
       },
       "followers": { "href": null, "total": 0 },
@@ -2608,6 +2578,36 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:69bG9tC62d8oTFC9aTTosn"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["j-pop", "j-rock", "japanese emo", "visual kei"],
+      "href": "https://api.spotify.com/v1/artists/1EowJ1WwkMzkCkRomFhui7",
+      "id": "1EowJ1WwkMzkCkRomFhui7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc9d443fb5ced1dd32d106632",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c9d443fb5ced1dd32d106632",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c9d443fb5ced1dd32d106632",
+          "width": 160
+        }
+      ],
+      "name": "RADWIMPS",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:1EowJ1WwkMzkCkRomFhui7"
     },
     {
       "external_urls": {
