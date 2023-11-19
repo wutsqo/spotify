@@ -158,7 +158,7 @@
         }
       ],
       "name": "The 1975",
-      "popularity": 74,
+      "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
     },
@@ -644,7 +644,7 @@
         }
       ],
       "name": "Red Velvet",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
@@ -1316,36 +1316,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
-      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
-      "id": "0bAsR2unSRpn6BQPEnNlZm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
-          "width": 160
-        }
-      ],
-      "name": "Aimer",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
       },
       "followers": { "href": null, "total": 0 },
@@ -1373,6 +1343,36 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
+      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
+      "id": "0bAsR2unSRpn6BQPEnNlZm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
+          "width": 160
+        }
+      ],
+      "name": "Aimer",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
     },
     {
       "external_urls": {
@@ -2487,36 +2487,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bubblegrunge", "chicago indie", "indie pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/2vnB6tuQMaQpORiRdvXF9H",
-      "id": "2vnB6tuQMaQpORiRdvXF9H",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbf42b607fb398365296230b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bf42b607fb398365296230b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bf42b607fb398365296230b0",
-          "width": 160
-        }
-      ],
-      "name": "Beach Bunny",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:2vnB6tuQMaQpORiRdvXF9H"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
       },
       "followers": { "href": null, "total": 0 },
@@ -2551,6 +2521,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bubblegrunge", "chicago indie", "indie pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/2vnB6tuQMaQpORiRdvXF9H",
+      "id": "2vnB6tuQMaQpORiRdvXF9H",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbf42b607fb398365296230b0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bf42b607fb398365296230b0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bf42b607fb398365296230b0",
+          "width": 160
+        }
+      ],
+      "name": "Beach Bunny",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify:artist:2vnB6tuQMaQpORiRdvXF9H"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
       },
       "followers": { "href": null, "total": 0 },
@@ -2578,36 +2578,6 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:69bG9tC62d8oTFC9aTTosn"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1EowJ1WwkMzkCkRomFhui7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop", "j-rock", "japanese emo", "visual kei"],
-      "href": "https://api.spotify.com/v1/artists/1EowJ1WwkMzkCkRomFhui7",
-      "id": "1EowJ1WwkMzkCkRomFhui7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc9d443fb5ced1dd32d106632",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c9d443fb5ced1dd32d106632",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c9d443fb5ced1dd32d106632",
-          "width": 160
-        }
-      ],
-      "name": "RADWIMPS",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:1EowJ1WwkMzkCkRomFhui7"
     },
     {
       "external_urls": {
@@ -2760,7 +2730,7 @@
         }
       ],
       "name": "Catfish and the Bottlemen",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:2xaAOVImG2O6lURwqperlD"
     },
@@ -3042,6 +3012,36 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["alt z", "pop"],
+      "href": "https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym",
+      "id": "45dkTj5sMRSjrmBSBeiHym",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb02a20af054720884e7ed4352",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517402a20af054720884e7ed4352",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17802a20af054720884e7ed4352",
+          "width": 160
+        }
+      ],
+      "name": "Tate McRae",
+      "popularity": 81,
+      "type": "artist",
+      "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym"
     }
   ]
 }

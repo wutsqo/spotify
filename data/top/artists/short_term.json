@@ -1,5 +1,5 @@
 {
-  "total": 22,
+  "total": 23,
   "artists": [
     {
       "external_urls": {
@@ -226,6 +226,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+      "id": "51kyrUsAVqUBcoDEMFkX12",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb324cea967a456ee680bf6b92",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174324cea967a456ee680bf6b92",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178324cea967a456ee680bf6b92",
+          "width": 160
+        }
+      ],
+      "name": "Hindia",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
       },
       "followers": { "href": null, "total": 0 },
@@ -412,69 +442,9 @@
         }
       ],
       "name": "The 1975",
-      "popularity": 74,
+      "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
-      "id": "51kyrUsAVqUBcoDEMFkX12",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb324cea967a456ee680bf6b92",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174324cea967a456ee680bf6b92",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178324cea967a456ee680bf6b92",
-          "width": 160
-        }
-      ],
-      "name": "Hindia",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["gen z singer-songwriter"],
-      "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
-      "id": "7gW0r5CkdEUMm42w9XpyZO",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba1d45585ab07d4bd7fe53351",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a1d45585ab07d4bd7fe53351",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a1d45585ab07d4bd7fe53351",
-          "width": 160
-        }
-      ],
-      "name": "Laufey",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
     },
     {
       "external_urls": {
@@ -505,6 +475,36 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["gen z singer-songwriter"],
+      "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+      "id": "7gW0r5CkdEUMm42w9XpyZO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba1d45585ab07d4bd7fe53351",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a1d45585ab07d4bd7fe53351",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a1d45585ab07d4bd7fe53351",
+          "width": 160
+        }
+      ],
+      "name": "Laufey",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
     },
     {
       "external_urls": {
@@ -565,6 +565,40 @@
       "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:5DD5GZd4ElmQTy9NleMvKJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "classic indonesian rock",
+        "indonesian pop",
+        "indonesian rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/48bKH1ugFBhERC1rdojP9d",
+      "id": "48bKH1ugFBhERC1rdojP9d",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb96bfa9ff288138f3432e0fa4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517496bfa9ff288138f3432e0fa4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17896bfa9ff288138f3432e0fa4",
+          "width": 160
+        }
+      ],
+      "name": "Dewa 19",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d"
     },
     {
       "external_urls": {
