@@ -279,6 +279,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+      "id": "1McMsnEElThX1knmY4oliG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e03a98785f3658f0b6461ec4",
+          "width": 160
+        }
+      ],
+      "name": "Olivia Rodrigo",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       "followers": { "href": null, "total": 0 },
@@ -312,36 +342,6 @@
       "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
-      "id": "1McMsnEElThX1knmY4oliG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e03a98785f3658f0b6461ec4",
-          "width": 160
-        }
-      ],
-      "name": "Olivia Rodrigo",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
     },
     {
       "external_urls": {
@@ -1651,7 +1651,7 @@
         }
       ],
       "name": "Queen",
-      "popularity": 81,
+      "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
     },
@@ -2527,36 +2527,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop", "japanese teen pop"],
-      "href": "https://api.spotify.com/v1/artists/64tJ2EAv1R6UaZqc4iOCyj",
-      "id": "64tJ2EAv1R6UaZqc4iOCyj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17883e2d0c9611f1fb6baafcb36",
-          "width": 160
-        }
-      ],
-      "name": "YOASOBI",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:64tJ2EAv1R6UaZqc4iOCyj"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
       },
       "followers": { "href": null, "total": 0 },
@@ -2677,7 +2647,7 @@
         }
       ],
       "name": "Elvis Presley",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
     },
@@ -2982,7 +2952,7 @@
         }
       ],
       "name": "Justin Bieber",
-      "popularity": 86,
+      "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
     },
@@ -3083,6 +3053,40 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:4ubEZ6sMsrrbQChueyouCC"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "classic indonesian rock",
+        "indonesian pop",
+        "indonesian rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/4ucwey7FxkHXkLK7jSfevU",
+      "id": "4ucwey7FxkHXkLK7jSfevU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2738a25f55567169ee8dbc97fcc",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e028a25f55567169ee8dbc97fcc",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d000048518a25f55567169ee8dbc97fcc",
+          "width": 64
+        }
+      ],
+      "name": "Andra & The Backbone",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:4ucwey7FxkHXkLK7jSfevU"
     }
   ]
 }
