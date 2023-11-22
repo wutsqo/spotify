@@ -1,6 +1,25 @@
 {
-  "total": 6,
+  "total": 7,
   "albums": [
+    {
+      "id": "1Dtg3Qo9eMhrbT2Yr9EUOz",
+      "name": "Live at Radio City Music Hall",
+      "added_at": "2023-11-21T13:37:10Z",
+      "type": "album",
+      "total_tracks": 9,
+      "url": "https://open.spotify.com/album/1Dtg3Qo9eMhrbT2Yr9EUOz",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273d970cd18ef2f579691cf56bc",
+      "release_date": "2020-09-30",
+      "artists": [
+        {
+          "id": "7pbDxGE6nQSZVfiFdq9lOL",
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "genres": [],
+      "popularity": 46
+    },
     {
       "id": "4DxNdQzm6cBYuSn4dCimmT",
       "name": "Apricot Princess",
@@ -37,7 +56,7 @@
         }
       ],
       "genres": [],
-      "popularity": 76
+      "popularity": 77
     },
     {
       "id": "3mVPLw5tUXwH54msEN8vUs",

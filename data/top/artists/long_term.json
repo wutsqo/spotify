@@ -1310,7 +1310,7 @@
         }
       ],
       "name": "Lilas Ikuta",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
     },
@@ -1340,7 +1340,7 @@
         }
       ],
       "name": ".Feast",
-      "popularity": 51,
+      "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
     },
@@ -1376,36 +1376,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
-      "id": "69GGBxA162lTqCwzJG5jLp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdb68d678df6d89bf8a55d052",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174db68d678df6d89bf8a55d052",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178db68d678df6d89bf8a55d052",
-          "width": 160
-        }
-      ],
-      "name": "The Chainsmokers",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
       "followers": { "href": null, "total": 0 },
@@ -1433,6 +1403,36 @@
       "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+      "id": "69GGBxA162lTqCwzJG5jLp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdb68d678df6d89bf8a55d052",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174db68d678df6d89bf8a55d052",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178db68d678df6d89bf8a55d052",
+          "width": 160
+        }
+      ],
+      "name": "The Chainsmokers",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
     },
     {
       "external_urls": {
@@ -2515,7 +2515,7 @@
         }
       ],
       "name": "Dewa 19",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d"
     },

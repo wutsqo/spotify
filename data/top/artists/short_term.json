@@ -1,5 +1,5 @@
 {
-  "total": 23,
+  "total": 24,
   "artists": [
     {
       "external_urls": {
@@ -292,6 +292,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["canadian contemporary r&b"],
+      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
+          "width": 160
+        }
+      ],
+      "name": "Daniel Caesar",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       "followers": { "href": null, "total": 0 },
@@ -418,36 +448,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["canadian contemporary r&b"],
-      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
-      "id": "20wkVLutqVOYrc0kxFs7rA",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
-          "width": 160
-        }
-      ],
-      "name": "Daniel Caesar",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "followers": { "href": null, "total": 0 },
@@ -566,7 +566,7 @@
         }
       ],
       "name": "Dewa 19",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d"
     },
@@ -637,33 +637,63 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop girl group"],
-      "href": "https://api.spotify.com/v1/artists/6HvZYsbFfjnjFrWF950C9d",
-      "id": "6HvZYsbFfjnjFrWF950C9d",
+      "genres": ["lgbtq+ hip hop", "neo soul"],
+      "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+      "id": "2h93pZq0e7k5yf4dywlkpM",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5da361915b1fa48895d4f23f",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745da361915b1fa48895d4f23f",
+          "url": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785da361915b1fa48895d4f23f",
+          "url": "https://i.scdn.co/image/ab6761610000f178ee3123e593174208f9754fab",
           "width": 160
         }
       ],
-      "name": "NewJeans",
-      "popularity": 80,
+      "name": "Frank Ocean",
+      "popularity": 82,
       "type": "artist",
-      "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
+      "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["afrofuturism"],
+      "href": "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id": "57vWImR43h4CaDao012Ofp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09ac9d040c168d4e4f58eb42",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409ac9d040c168d4e4f58eb42",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809ac9d040c168d4e4f58eb42",
+          "width": 160
+        }
+      ],
+      "name": "Steve Lacy",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:57vWImR43h4CaDao012Ofp"
     },
     {
       "external_urls": {
