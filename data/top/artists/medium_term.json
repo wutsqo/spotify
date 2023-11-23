@@ -189,36 +189,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
-      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
-      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba8655812f903dab91cc220b8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a8655812f903dab91cc220b8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a8655812f903dab91cc220b8",
-          "width": 160
-        }
-      ],
-      "name": "Sal Priadi",
-      "popularity": 61,
-      "type": "artist",
-      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
       },
       "followers": { "href": null, "total": 0 },
@@ -246,6 +216,36 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
+      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba8655812f903dab91cc220b8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a8655812f903dab91cc220b8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a8655812f903dab91cc220b8",
+          "width": 160
+        }
+      ],
+      "name": "Sal Priadi",
+      "popularity": 61,
+      "type": "artist",
+      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
     },
     {
       "external_urls": {
@@ -375,6 +375,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["canadian contemporary r&b"],
+      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
+          "width": 160
+        }
+      ],
+      "name": "Daniel Caesar",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       "followers": { "href": null, "total": 0 },
@@ -411,33 +441,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["canadian contemporary r&b"],
-      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
-      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
+      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id": "5INjqkS1o8h1imAzPqGZBb",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
+          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
+          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
           "width": 160
         }
       ],
-      "name": "Daniel Caesar",
-      "popularity": 78,
+      "name": "Tame Impala",
+      "popularity": 77,
       "type": "artist",
-      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
     {
       "external_urls": {
@@ -468,36 +498,6 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
-      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-      "id": "5INjqkS1o8h1imAzPqGZBb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
-          "width": 160
-        }
-      ],
-      "name": "Tame Impala",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
     {
       "external_urls": {
@@ -851,36 +851,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
-      "id": "69GGBxA162lTqCwzJG5jLp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdb68d678df6d89bf8a55d052",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174db68d678df6d89bf8a55d052",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178db68d678df6d89bf8a55d052",
-          "width": 160
-        }
-      ],
-      "name": "The Chainsmokers",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
       },
       "followers": { "href": null, "total": 0 },
@@ -1196,7 +1166,7 @@
         }
       ],
       "name": "Red Velvet",
-      "popularity": 71,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
@@ -1687,6 +1657,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
+      "id": "69GGBxA162lTqCwzJG5jLp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdb68d678df6d89bf8a55d052",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174db68d678df6d89bf8a55d052",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178db68d678df6d89bf8a55d052",
+          "width": 160
+        }
+      ],
+      "name": "The Chainsmokers",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
       },
       "followers": { "href": null, "total": 0 },
@@ -1806,7 +1806,7 @@
         }
       ],
       "name": "Sabrina Carpenter",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
     },
@@ -2064,6 +2064,36 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:1LZEQNv7sE11VDY3SdxQeN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "indie pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+      "id": "3l0CmX0FuQjFxr8SK7Vqag",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb370f4e30deba6da178db36fe",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174370f4e30deba6da178db36fe",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178370f4e30deba6da178db36fe",
+          "width": 160
+        }
+      ],
+      "name": "Clairo",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
     },
     {
       "external_urls": {
@@ -2524,36 +2554,6 @@
       "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:18PmEN8ZiHBQlDpxrgR2xs"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "indie pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
-      "id": "3l0CmX0FuQjFxr8SK7Vqag",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb370f4e30deba6da178db36fe",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174370f4e30deba6da178db36fe",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178370f4e30deba6da178db36fe",
-          "width": 160
-        }
-      ],
-      "name": "Clairo",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
     },
     {
       "external_urls": {

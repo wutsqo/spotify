@@ -590,36 +590,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop girl group"],
-      "href": "https://api.spotify.com/v1/artists/1z4g3DjTBBZKhvAroFlhOM",
-      "id": "1z4g3DjTBBZKhvAroFlhOM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747719f0625a2fa078a60c85cd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787719f0625a2fa078a60c85cd",
-          "width": 160
-        }
-      ],
-      "name": "Red Velvet",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       "followers": { "href": null, "total": 0 },
@@ -647,6 +617,36 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop", "k-pop girl group"],
+      "href": "https://api.spotify.com/v1/artists/1z4g3DjTBBZKhvAroFlhOM",
+      "id": "1z4g3DjTBBZKhvAroFlhOM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747719f0625a2fa078a60c85cd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787719f0625a2fa078a60c85cd",
+          "width": 160
+        }
+      ],
+      "name": "Red Velvet",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
     {
       "external_urls": {
@@ -1346,36 +1346,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
-      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
-      "id": "0bAsR2unSRpn6BQPEnNlZm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
-          "width": 160
-        }
-      ],
-      "name": "Aimer",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
       "followers": { "href": null, "total": 0 },
@@ -1537,6 +1507,36 @@
       "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
+      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
+      "id": "0bAsR2unSRpn6BQPEnNlZm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
+          "width": 160
+        }
+      ],
+      "name": "Aimer",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
     },
     {
       "external_urls": {
