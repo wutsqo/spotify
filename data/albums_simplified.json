@@ -1,6 +1,25 @@
 {
-  "total": 7,
+  "total": 8,
   "albums": [
+    {
+      "id": "2xkZV2Hl1Omi8rk2D7t5lN",
+      "name": "The New Abnormal",
+      "added_at": "2023-11-23T06:19:43Z",
+      "type": "album",
+      "total_tracks": 9,
+      "url": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
+      "release_date": "2020-04-10",
+      "artists": [
+        {
+          "id": "0epOFNiUfyON9EYx7Tpr6V",
+          "name": "The Strokes",
+          "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+        }
+      ],
+      "genres": [],
+      "popularity": 75
+    },
     {
       "id": "1Dtg3Qo9eMhrbT2Yr9EUOz",
       "name": "Live at Radio City Music Hall",

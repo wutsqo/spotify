@@ -1,35 +1,35 @@
 {
   "collaborative": false,
-  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5TdgOffe2sDXXNhwX3bBuR"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR",
+  "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR?acceptLanguage=*",
   "id": "5TdgOffe2sDXXNhwX3bBuR",
   "images": [
     {
+      "url": "https://i.scdn.co/image/ab67706c0000da841214b559f50db79dc5a7a705",
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb1214b559f50db79dc5a7a705",
       "width": null
     }
   ],
+  "primary_color": null,
   "name": "life support",
+  "description": "",
+  "type": "playlist",
+  "uri": "spotify:playlist:5TdgOffe2sDXXNhwX3bBuR",
   "owner": {
-    "display_name": "wutsqo",
-    "external_urls": {
-      "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-    },
     "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
     "id": "urwatilwutsqo",
     "type": "user",
-    "uri": "spotify:user:urwatilwutsqo"
+    "uri": "spotify:user:urwatilwutsqo",
+    "display_name": "wutsqo",
+    "external_urls": {
+      "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+    }
   },
-  "primary_color": null,
   "public": true,
   "snapshot_id": "MTM4LGYxMDFlZmEzZWNkZTZlNmE0ZGY5YTQ0YjIzNjQ5ZGY1MWUyM2Y1Nzc=",
-  "type": "playlist",
-  "uri": "spotify:playlist:5TdgOffe2sDXXNhwX3bBuR",
   "tracks": [
     {
       "added_at": "2023-11-07T16:18:27Z",
@@ -20810,7 +20810,7 @@
         "id": "1lCv3fOI9bqBypLpgUfA4T",
         "is_local": false,
         "name": "Jadi Kekasihku Saja",
-        "popularity": 64,
+        "popularity": 63,
         "preview_url": "https://p.scdn.co/mp3-preview/5d6b701ba84b8ef95437aad0bf13aaffe33af4fa?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 1,
