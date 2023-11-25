@@ -1,45 +1,45 @@
 {
   "collaborative": false,
+  "description": "Shareable Liked Songs playlist synchronised by spotify-to-github.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0pjLwygOBrPYVc0rG417iE"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/0pjLwygOBrPYVc0rG417iE?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/0pjLwygOBrPYVc0rG417iE",
   "id": "0pjLwygOBrPYVc0rG417iE",
   "images": [
     {
-      "url": "https://mosaic.scdn.co/640/ab67616d00001e021bd6d088d3d81972af4cb81dab67616d00001e02280a001e43c93792dd1e27c7ab67616d00001e0274c732f8aa0e0ccbb3d17d96ab67616d00001e02c607bcd8355681ab4fac2968",
       "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
       "width": 640
     },
     {
-      "url": "https://mosaic.scdn.co/300/ab67616d00001e021bd6d088d3d81972af4cb81dab67616d00001e02280a001e43c93792dd1e27c7ab67616d00001e0274c732f8aa0e0ccbb3d17d96ab67616d00001e02c607bcd8355681ab4fac2968",
       "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
       "width": 300
     },
     {
-      "url": "https://mosaic.scdn.co/60/ab67616d00001e021bd6d088d3d81972af4cb81dab67616d00001e02280a001e43c93792dd1e27c7ab67616d00001e0274c732f8aa0e0ccbb3d17d96ab67616d00001e02c607bcd8355681ab4fac2968",
       "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
       "width": 60
     }
   ],
-  "primary_color": null,
   "name": "Liked Songs (Mirror)",
-  "description": "Shareable Liked Songs playlist synchronised by spotify-to-github.",
-  "type": "playlist",
-  "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE",
   "owner": {
-    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-    "id": "urwatilwutsqo",
-    "type": "user",
-    "uri": "spotify:user:urwatilwutsqo",
     "display_name": "wutsqo",
     "external_urls": {
       "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-    }
+    },
+    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+    "id": "urwatilwutsqo",
+    "type": "user",
+    "uri": "spotify:user:urwatilwutsqo"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "NSxlZDg0Nzc4YWY3OGExMDQ1MzFmNGM4Yzk4NDkxYzE4ZDhiNDhkZTJi",
+  "type": "playlist",
+  "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE",
   "tracks": [
     {
       "added_at": "2023-11-09T04:30:14Z",
@@ -8980,7 +8980,7 @@
         "id": "6HFywc5eQYRRYHYTatCb5Y",
         "is_local": false,
         "name": "Where Do Broken Hearts Go",
-        "popularity": 68,
+        "popularity": 67,
         "preview_url": "https://p.scdn.co/mp3-preview/a68d89117fecd301edd184b734b6b3891b024496?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 3,
@@ -13152,7 +13152,7 @@
         "id": "2qLMf6TuEC3ruGJg4SMMN6",
         "is_local": false,
         "name": "Lucky",
-        "popularity": 73,
+        "popularity": 74,
         "preview_url": "https://p.scdn.co/mp3-preview/2af2119909efc963734ea1eaeeafbc8d212e2371?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 3,
@@ -27346,7 +27346,7 @@
         "id": "1ZMiCix7XSAbfAJlEZWMCp",
         "is_local": false,
         "name": "Falling",
-        "popularity": 85,
+        "popularity": 84,
         "preview_url": "https://p.scdn.co/mp3-preview/8d18a1a78e59131bf03cba65d124f803f5834ef6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 6,

@@ -1,35 +1,35 @@
 {
   "collaborative": false,
+  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5TdgOffe2sDXXNhwX3bBuR"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR?acceptLanguage=*",
+  "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR",
   "id": "5TdgOffe2sDXXNhwX3bBuR",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da841214b559f50db79dc5a7a705",
       "height": null,
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb1214b559f50db79dc5a7a705",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "life support",
-  "description": "",
-  "type": "playlist",
-  "uri": "spotify:playlist:5TdgOffe2sDXXNhwX3bBuR",
   "owner": {
-    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-    "id": "urwatilwutsqo",
-    "type": "user",
-    "uri": "spotify:user:urwatilwutsqo",
     "display_name": "wutsqo",
     "external_urls": {
       "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-    }
+    },
+    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+    "id": "urwatilwutsqo",
+    "type": "user",
+    "uri": "spotify:user:urwatilwutsqo"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTM4LGYxMDFlZmEzZWNkZTZlNmE0ZGY5YTQ0YjIzNjQ5ZGY1MWUyM2Y1Nzc=",
+  "type": "playlist",
+  "uri": "spotify:playlist:5TdgOffe2sDXXNhwX3bBuR",
   "tracks": [
     {
       "added_at": "2023-11-07T16:18:27Z",
@@ -1866,7 +1866,7 @@
         "id": "5TTGoX70AFrTvuEtqHK37S",
         "is_local": false,
         "name": "No. 1 Party Anthem",
-        "popularity": 73,
+        "popularity": 72,
         "preview_url": "https://p.scdn.co/mp3-preview/ba38bc9842d486d94889a7803367737dc011db7f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 6,
@@ -12990,7 +12990,7 @@
         "id": "7aSyG7cskkG3zhfO2JLxq3",
         "is_local": false,
         "name": "Happiness",
-        "popularity": 75,
+        "popularity": 74,
         "preview_url": "https://p.scdn.co/mp3-preview/87fed18c8e401b07bb45366b548396274d98e170?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 10,
