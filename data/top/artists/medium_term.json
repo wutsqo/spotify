@@ -249,36 +249,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
-      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
-      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba8655812f903dab91cc220b8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a8655812f903dab91cc220b8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a8655812f903dab91cc220b8",
-          "width": 160
-        }
-      ],
-      "name": "Sal Priadi",
-      "popularity": 62,
-      "type": "artist",
-      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       },
       "followers": { "href": null, "total": 0 },
@@ -306,6 +276,36 @@
       "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
+      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba8655812f903dab91cc220b8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a8655812f903dab91cc220b8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a8655812f903dab91cc220b8",
+          "width": 160
+        }
+      ],
+      "name": "Sal Priadi",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
     },
     {
       "external_urls": {
@@ -405,6 +405,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "alternative rock",
+        "garage rock",
+        "modern rock",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+      "id": "0epOFNiUfyON9EYx7Tpr6V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174caea403b29f6a09260b6a18a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178caea403b29f6a09260b6a18a",
+          "width": 160
+        }
+      ],
+      "name": "The Strokes",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       "followers": { "href": null, "total": 0 },
@@ -462,42 +498,6 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:0LcJLqbBmaGUft1e9Mm8HV"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative rock",
-        "garage rock",
-        "modern rock",
-        "permanent wave",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
-      "id": "0epOFNiUfyON9EYx7Tpr6V",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174caea403b29f6a09260b6a18a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178caea403b29f6a09260b6a18a",
-          "width": 160
-        }
-      ],
-      "name": "The Strokes",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
     },
     {
       "external_urls": {
@@ -815,7 +815,7 @@
         }
       ],
       "name": "Coldplay",
-      "popularity": 85,
+      "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
     },
@@ -1196,7 +1196,7 @@
         }
       ],
       "name": "Rich Brian",
-      "popularity": 64,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
     },
@@ -1256,7 +1256,7 @@
         }
       ],
       "name": "TWICE",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
     },
@@ -1937,36 +1937,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["uk pop"],
-      "href": "https://api.spotify.com/v1/artists/0Vw76uk7P8yVtTClWyOhac",
-      "id": "0Vw76uk7P8yVtTClWyOhac",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe1b208b540b1419be505c696",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e1b208b540b1419be505c696",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e1b208b540b1419be505c696",
-          "width": 160
-        }
-      ],
-      "name": "HONNE",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:0Vw76uk7P8yVtTClWyOhac"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5DD5GZd4ElmQTy9NleMvKJ"
       },
       "followers": { "href": null, "total": 0 },
@@ -2341,36 +2311,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["acoustic pop", "dance pop", "neo mellow", "pop"],
-      "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
-      "id": "4phGZZrJZRo4ElhRtViYdl",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c3b370fc26c83312db52af14",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c3b370fc26c83312db52af14",
-          "width": 160
-        }
-      ],
-      "name": "Jason Mraz",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
       },
       "followers": { "href": null, "total": 0 },
@@ -2434,6 +2374,36 @@
       "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["acoustic pop", "dance pop", "neo mellow", "pop"],
+      "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id": "4phGZZrJZRo4ElhRtViYdl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c3b370fc26c83312db52af14",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c3b370fc26c83312db52af14",
+          "width": 160
+        }
+      ],
+      "name": "Jason Mraz",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
     },
     {
       "external_urls": {
@@ -2835,6 +2805,36 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:0NIPkIjTV8mB795yEIiPYL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["uk pop"],
+      "href": "https://api.spotify.com/v1/artists/0Vw76uk7P8yVtTClWyOhac",
+      "id": "0Vw76uk7P8yVtTClWyOhac",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe1b208b540b1419be505c696",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e1b208b540b1419be505c696",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e1b208b540b1419be505c696",
+          "width": 160
+        }
+      ],
+      "name": "HONNE",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:0Vw76uk7P8yVtTClWyOhac"
     },
     {
       "external_urls": {

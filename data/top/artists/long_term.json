@@ -494,7 +494,7 @@
         }
       ],
       "name": "Rich Brian",
-      "popularity": 64,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
     },
@@ -554,7 +554,7 @@
         }
       ],
       "name": "TWICE",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
     },
@@ -734,7 +734,7 @@
         }
       ],
       "name": "Kassy",
-      "popularity": 44,
+      "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:6pU8o91xAS0aWNjj06nQSU"
     },
@@ -1130,7 +1130,7 @@
         }
       ],
       "name": "Coldplay",
-      "popularity": 85,
+      "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
     },
@@ -1346,6 +1346,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "alternative rock",
+        "garage rock",
+        "modern rock",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+      "id": "0epOFNiUfyON9EYx7Tpr6V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174caea403b29f6a09260b6a18a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178caea403b29f6a09260b6a18a",
+          "width": 160
+        }
+      ],
+      "name": "The Strokes",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
       "followers": { "href": null, "total": 0 },
@@ -1403,42 +1439,6 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative rock",
-        "garage rock",
-        "modern rock",
-        "permanent wave",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
-      "id": "0epOFNiUfyON9EYx7Tpr6V",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174caea403b29f6a09260b6a18a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178caea403b29f6a09260b6a18a",
-          "width": 160
-        }
-      ],
-      "name": "The Strokes",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
     },
     {
       "external_urls": {
@@ -1510,36 +1510,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
-      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
-      "id": "0bAsR2unSRpn6BQPEnNlZm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
-          "width": 160
-        }
-      ],
-      "name": "Aimer",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
       },
       "followers": { "href": null, "total": 0 },
@@ -1567,6 +1537,36 @@
       "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
+      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
+      "id": "0bAsR2unSRpn6BQPEnNlZm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
+          "width": 160
+        }
+      ],
+      "name": "Aimer",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
     },
     {
       "external_urls": {
@@ -2671,6 +2671,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "indie pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+      "id": "3l0CmX0FuQjFxr8SK7Vqag",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb370f4e30deba6da178db36fe",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174370f4e30deba6da178db36fe",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178370f4e30deba6da178db36fe",
+          "width": 160
+        }
+      ],
+      "name": "Clairo",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
       },
       "followers": { "href": null, "total": 0 },
@@ -2715,17 +2745,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb01a837e48a3a9f6f8b2b549",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7b7cd070a972ce9fdccf0c49",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b01a837e48a3a9f6f8b2b549",
+          "url": "https://i.scdn.co/image/ab676161000051747b7cd070a972ce9fdccf0c49",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b01a837e48a3a9f6f8b2b549",
+          "url": "https://i.scdn.co/image/ab6761610000f1787b7cd070a972ce9fdccf0c49",
           "width": 160
         }
       ],
@@ -3012,36 +3042,6 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["alt z", "pop"],
-      "href": "https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym",
-      "id": "45dkTj5sMRSjrmBSBeiHym",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7afd1dcf8bc34612f16ee39c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747afd1dcf8bc34612f16ee39c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787afd1dcf8bc34612f16ee39c",
-          "width": 160
-        }
-      ],
-      "name": "Tate McRae",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym"
     }
   ]
 }
