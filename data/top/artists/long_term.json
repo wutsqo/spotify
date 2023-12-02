@@ -470,36 +470,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian hip hop"],
-      "href": "https://api.spotify.com/v1/artists/2IDLDx25HU1nQMKde4n61a",
-      "id": "2IDLDx25HU1nQMKde4n61a",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb39d2db28841d007ee7f8d782",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517439d2db28841d007ee7f8d782",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17839d2db28841d007ee7f8d782",
-          "width": 160
-        }
-      ],
-      "name": "Rich Brian",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0b59cVa1STVENq3i7wkcHV"
       },
       "followers": { "href": null, "total": 0 },
@@ -527,6 +497,36 @@
       "popularity": 36,
       "type": "artist",
       "uri": "spotify:artist:0b59cVa1STVENq3i7wkcHV"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian hip hop"],
+      "href": "https://api.spotify.com/v1/artists/2IDLDx25HU1nQMKde4n61a",
+      "id": "2IDLDx25HU1nQMKde4n61a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb39d2db28841d007ee7f8d782",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517439d2db28841d007ee7f8d782",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17839d2db28841d007ee7f8d782",
+          "width": 160
+        }
+      ],
+      "name": "Rich Brian",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
     },
     {
       "external_urls": {
@@ -920,7 +920,7 @@
         }
       ],
       "name": "Porter Robinson",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:3dz0NnIZhtKKeXZxLOxCam"
     },
@@ -2955,36 +2955,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop", "uk dance", "uk funky"],
-      "href": "https://api.spotify.com/v1/artists/6MDME20pz9RveH9rEXvrOM",
-      "id": "6MDME20pz9RveH9rEXvrOM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747a487027eb0c10af725d5410",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787a487027eb0c10af725d5410",
-          "width": 160
-        }
-      ],
-      "name": "Clean Bandit",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
       },
       "followers": { "href": null, "total": 0 },
@@ -3012,6 +2982,36 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop", "uk dance", "uk funky"],
+      "href": "https://api.spotify.com/v1/artists/6MDME20pz9RveH9rEXvrOM",
+      "id": "6MDME20pz9RveH9rEXvrOM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747a487027eb0c10af725d5410",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787a487027eb0c10af725d5410",
+          "width": 160
+        }
+      ],
+      "name": "Clean Bandit",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM"
     },
     {
       "external_urls": {
