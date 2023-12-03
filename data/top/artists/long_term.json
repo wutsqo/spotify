@@ -164,36 +164,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
-      "id": "51kyrUsAVqUBcoDEMFkX12",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb324cea967a456ee680bf6b92",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174324cea967a456ee680bf6b92",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178324cea967a456ee680bf6b92",
-          "width": 160
-        }
-      ],
-      "name": "Hindia",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
       },
       "followers": { "href": null, "total": 0 },
@@ -221,6 +191,36 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+      "id": "51kyrUsAVqUBcoDEMFkX12",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb324cea967a456ee680bf6b92",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174324cea967a456ee680bf6b92",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178324cea967a456ee680bf6b92",
+          "width": 160
+        }
+      ],
+      "name": "Hindia",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
     },
     {
       "external_urls": {
@@ -2745,17 +2745,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf5f20b3dcd858bba2fa1f5db",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaa7e4337ef3969e7ce27876e",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f5f20b3dcd858bba2fa1f5db",
+          "url": "https://i.scdn.co/image/ab67616100005174aa7e4337ef3969e7ce27876e",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f5f20b3dcd858bba2fa1f5db",
+          "url": "https://i.scdn.co/image/ab6761610000f178aa7e4337ef3969e7ce27876e",
           "width": 160
         }
       ],
@@ -2775,17 +2775,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7eb7f6371aad8e67e01f0a03",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747eb7f6371aad8e67e01f0a03",
+          "url": "https://i.scdn.co/image/ab676161000051740895066d172e1f51f520bc65",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787eb7f6371aad8e67e01f0a03",
+          "url": "https://i.scdn.co/image/ab6761610000f1780895066d172e1f51f520bc65",
           "width": 160
         }
       ],
