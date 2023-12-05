@@ -590,36 +590,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
-      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-      "id": "5INjqkS1o8h1imAzPqGZBb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
-          "width": 160
-        }
-      ],
-      "name": "Tame Impala",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
       },
       "followers": { "href": null, "total": 0 },
@@ -647,6 +617,36 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
+      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id": "5INjqkS1o8h1imAzPqGZBb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
+          "width": 160
+        }
+      ],
+      "name": "Tame Impala",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
     {
       "external_urls": {
@@ -1070,7 +1070,7 @@
         }
       ],
       "name": "The Weeknd",
-      "popularity": 92,
+      "popularity": 93,
       "type": "artist",
       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
     },
@@ -1280,7 +1280,7 @@
         }
       ],
       "name": "YUKIKA",
-      "popularity": 42,
+      "popularity": 43,
       "type": "artist",
       "uri": "spotify:artist:4RfI1z9u2xIc5Qnqac4JbO"
     },
@@ -1624,7 +1624,7 @@
         }
       ],
       "name": "John Mayer",
-      "popularity": 75,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:0hEurMDQu99nJRq8pTxO14"
     },
@@ -1934,7 +1934,7 @@
         }
       ],
       "name": "Frank Sinatra",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
     },

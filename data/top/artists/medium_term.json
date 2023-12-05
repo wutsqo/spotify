@@ -536,36 +536,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
-      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
-      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba8655812f903dab91cc220b8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a8655812f903dab91cc220b8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a8655812f903dab91cc220b8",
-          "width": 160
-        }
-      ],
-      "name": "Sal Priadi",
-      "popularity": 62,
-      "type": "artist",
-      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
       "followers": { "href": null, "total": 0 },
@@ -593,6 +563,36 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
+      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba8655812f903dab91cc220b8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a8655812f903dab91cc220b8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a8655812f903dab91cc220b8",
+          "width": 160
+        }
+      ],
+      "name": "Sal Priadi",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
     },
     {
       "external_urls": {
@@ -1076,7 +1076,7 @@
         }
       ],
       "name": "The Weeknd",
-      "popularity": 92,
+      "popularity": 93,
       "type": "artist",
       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
     },
@@ -1241,22 +1241,22 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb72426a61a447cd6492a391ca",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4a0d13d626a5e950f41aef93",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517472426a61a447cd6492a391ca",
+          "url": "https://i.scdn.co/image/ab676161000051744a0d13d626a5e950f41aef93",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17872426a61a447cd6492a391ca",
+          "url": "https://i.scdn.co/image/ab6761610000f1784a0d13d626a5e950f41aef93",
           "width": 160
         }
       ],
       "name": "Refo Dan Fauna",
-      "popularity": 34,
+      "popularity": 33,
       "type": "artist",
       "uri": "spotify:artist:6ILCDTreFre4EDfBZxCGxi"
     },
@@ -1346,39 +1346,9 @@
         }
       ],
       "name": "John Mayer",
-      "popularity": 75,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:0hEurMDQu99nJRq8pTxO14"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["permanent wave", "pop"],
-      "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
-      "id": "4gzpq5DPGxSnKTe4SA8HAU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174989ed05e1f0570cc4726c2d3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178989ed05e1f0570cc4726c2d3",
-          "width": 160
-        }
-      ],
-      "name": "Coldplay",
-      "popularity": 86,
-      "type": "artist",
-      "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
     },
     {
       "external_urls": {
@@ -1439,6 +1409,36 @@
       "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:2vRToyl7mxoVbwwSsRBXAM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["permanent wave", "pop"],
+      "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+      "id": "4gzpq5DPGxSnKTe4SA8HAU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174989ed05e1f0570cc4726c2d3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178989ed05e1f0570cc4726c2d3",
+          "width": 160
+        }
+      ],
+      "name": "Coldplay",
+      "popularity": 86,
+      "type": "artist",
+      "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
     },
     {
       "external_urls": {
@@ -1901,7 +1901,7 @@
         }
       ],
       "name": "JPEGMAFIA",
-      "popularity": 61,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:6yJ6QQ3Y5l0s0tn7b0arrO"
     },
@@ -2032,36 +2032,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["modern rock", "pop", "rock"],
-      "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
-      "id": "53XhwfbYqKCa1cC15pYq2q",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174920dc1f617550de8388f368e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178920dc1f617550de8388f368e",
-          "width": 160
-        }
-      ],
-      "name": "Imagine Dragons",
-      "popularity": 85,
-      "type": "artist",
-      "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
       },
       "followers": { "href": null, "total": 0 },
@@ -2180,7 +2150,7 @@
         }
       ],
       "name": "JVKE",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:164Uj4eKjl6zTBKfJLFKKK"
     },
@@ -2215,9 +2185,39 @@
         }
       ],
       "name": "Frank Sinatra",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
+      "id": "4Uc8Dsxct0oMqx0P6i60ea",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c1c8fa15e08cb31eeb03b771",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c1c8fa15e08cb31eeb03b771",
+          "width": 160
+        }
+      ],
+      "name": "Conan Gray",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
     },
     {
       "external_urls": {
@@ -2248,36 +2248,6 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:69bG9tC62d8oTFC9aTTosn"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop", "r&b", "rap"],
-      "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
-      "id": "7tYKF4w9nC0nq9CsPZTHyP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740895066d172e1f51f520bc65",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780895066d172e1f51f520bc65",
-          "width": 160
-        }
-      ],
-      "name": "SZA",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
     },
     {
       "external_urls": {
@@ -2404,6 +2374,36 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop", "r&b", "rap"],
+      "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
+      "id": "7tYKF4w9nC0nq9CsPZTHyP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0895066d172e1f51f520bc65",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740895066d172e1f51f520bc65",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780895066d172e1f51f520bc65",
+          "width": 160
+        }
+      ],
+      "name": "SZA",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
     },
     {
       "external_urls": {
@@ -2581,7 +2581,7 @@
         }
       ],
       "name": "Elvis Presley",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
     },
@@ -2614,6 +2614,36 @@
       "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["modern rock", "pop", "rock"],
+      "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+      "id": "53XhwfbYqKCa1cC15pYq2q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174920dc1f617550de8388f368e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178920dc1f617550de8388f368e",
+          "width": 160
+        }
+      ],
+      "name": "Imagine Dragons",
+      "popularity": 85,
+      "type": "artist",
+      "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
     },
     {
       "external_urls": {
@@ -2906,36 +2936,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
-      "id": "4Uc8Dsxct0oMqx0P6i60ea",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c1c8fa15e08cb31eeb03b771",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c1c8fa15e08cb31eeb03b771",
-          "width": 160
-        }
-      ],
-      "name": "Conan Gray",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4ucwey7FxkHXkLK7jSfevU"
       },
       "followers": { "href": null, "total": 0 },
@@ -2994,7 +2994,7 @@
         }
       ],
       "name": "John Lennon",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
     },
@@ -3074,17 +3074,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb1b7fd9cd6c12beb9fc739efb",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb710f70d7ac2aa5478f2c3aa4",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051741b7fd9cd6c12beb9fc739efb",
+          "url": "https://i.scdn.co/image/ab67616100005174710f70d7ac2aa5478f2c3aa4",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1781b7fd9cd6c12beb9fc739efb",
+          "url": "https://i.scdn.co/image/ab6761610000f178710f70d7ac2aa5478f2c3aa4",
           "width": 160
         }
       ],
