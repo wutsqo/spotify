@@ -27,7 +27,7 @@
         }
       ],
       "name": "Rex Orange County",
-      "popularity": 72,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
     },
@@ -177,9 +177,39 @@
         }
       ],
       "name": "Reality Club",
-      "popularity": 61,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+      "id": "1McMsnEElThX1knmY4oliG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e03a98785f3658f0b6461ec4",
+          "width": 160
+        }
+      ],
+      "name": "Olivia Rodrigo",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
     },
     {
       "external_urls": {
@@ -216,36 +246,6 @@
       "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
-      "id": "1McMsnEElThX1knmY4oliG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e03a98785f3658f0b6461ec4",
-          "width": 160
-        }
-      ],
-      "name": "Olivia Rodrigo",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
     },
     {
       "external_urls": {
@@ -309,7 +309,7 @@
         }
       ],
       "name": "NewJeans",
-      "popularity": 80,
+      "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
     },
@@ -590,7 +590,7 @@
         }
       ],
       "name": "Sal Priadi",
-      "popularity": 62,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
     },
@@ -658,7 +658,7 @@
         }
       ],
       "name": "The Neighbourhood",
-      "popularity": 81,
+      "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
     },
@@ -2026,7 +2026,7 @@
         }
       ],
       "name": "BLACKPINK",
-      "popularity": 80,
+      "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF"
     },
@@ -2766,7 +2766,7 @@
         }
       ],
       "name": "raissa anggiani",
-      "popularity": 63,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:11k3Y6uyixbyGfgPl8qZTZ"
     },
@@ -2796,7 +2796,7 @@
         }
       ],
       "name": "Cigarettes After Sex",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:1QAJqy2dA3ihHBFIHRphZj"
     },
