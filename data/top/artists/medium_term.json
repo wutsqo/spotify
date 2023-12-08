@@ -33,36 +33,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian r&b"],
-      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
-      "id": "2kxP07DLgs4xlWz8YHlvfh",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb74855e013588fd276b25b337",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517474855e013588fd276b25b337",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17874855e013588fd276b25b337",
-          "width": 160
-        }
-      ],
-      "name": "NIKI",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
       "followers": { "href": null, "total": 0 },
@@ -90,6 +60,36 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian r&b"],
+      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+      "id": "2kxP07DLgs4xlWz8YHlvfh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb74855e013588fd276b25b337",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517474855e013588fd276b25b337",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17874855e013588fd276b25b337",
+          "width": 160
+        }
+      ],
+      "name": "NIKI",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
     },
     {
       "external_urls": {
@@ -147,7 +147,7 @@
         }
       ],
       "name": "Tyler, The Creator",
-      "popularity": 82,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
     },
@@ -1292,36 +1292,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop girl group", "pop"],
-      "href": "https://api.spotify.com/v1/artists/7n2Ycct7Beij7Dj7meI4X0",
-      "id": "7n2Ycct7Beij7Dj7meI4X0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748944c8aec8db82f35980b191",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788944c8aec8db82f35980b191",
-          "width": 160
-        }
-      ],
-      "name": "TWICE",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
       },
       "followers": { "href": null, "total": 0 },
@@ -1496,7 +1466,7 @@
         }
       ],
       "name": "Ed Sheeran",
-      "popularity": 86,
+      "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
     },
@@ -2652,6 +2622,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop", "k-pop girl group", "pop"],
+      "href": "https://api.spotify.com/v1/artists/7n2Ycct7Beij7Dj7meI4X0",
+      "id": "7n2Ycct7Beij7Dj7meI4X0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8944c8aec8db82f35980b191",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748944c8aec8db82f35980b191",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788944c8aec8db82f35980b191",
+          "width": 160
+        }
+      ],
+      "name": "TWICE",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
       },
       "followers": { "href": null, "total": 0 },
@@ -2751,17 +2751,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb41a26ad71de86acf45dc886",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7004f7b65ad1bb1e4e4582bc",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b41a26ad71de86acf45dc886",
+          "url": "https://i.scdn.co/image/ab676161000051747004f7b65ad1bb1e4e4582bc",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b41a26ad71de86acf45dc886",
+          "url": "https://i.scdn.co/image/ab6761610000f1787004f7b65ad1bb1e4e4582bc",
           "width": 160
         }
       ],
@@ -3089,7 +3089,7 @@
         }
       ],
       "name": "boy pablo",
-      "popularity": 59,
+      "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:7wbkl3zgDZEoZer357mVIw"
     }

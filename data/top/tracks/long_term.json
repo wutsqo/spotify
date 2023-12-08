@@ -305,7 +305,7 @@
       "id": "4LRPiXqCikLlN15c3yImP7",
       "is_local": false,
       "name": "As It Was",
-      "popularity": 59,
+      "popularity": 58,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -2260,7 +2260,7 @@
       "id": "0VF7YLIxSQKyNiFL3X6MmN",
       "is_local": false,
       "name": "Stargazing",
-      "popularity": 74,
+      "popularity": 75,
       "preview_url": "https://p.scdn.co/mp3-preview/c5665ce32c0e748c9110b168b844775a832b6214?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
       "track_number": 1,
       "type": "track",
@@ -18025,81 +18025,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2DPoinlELgPBaeM7U4QOFc"
-            },
-            "href": "https://api.spotify.com/v1/artists/2DPoinlELgPBaeM7U4QOFc",
-            "id": "2DPoinlELgPBaeM7U4QOFc",
-            "name": "BOL4",
-            "type": "artist",
-            "uri": "spotify:artist:2DPoinlELgPBaeM7U4QOFc"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/36Cosgvu6wIIDXP1bCsFum"
-        },
-        "href": "https://api.spotify.com/v1/albums/36Cosgvu6wIIDXP1bCsFum",
-        "id": "36Cosgvu6wIIDXP1bCsFum",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27306d116ddcdc68170dc31f12a",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0206d116ddcdc68170dc31f12a",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485106d116ddcdc68170dc31f12a",
-            "width": 64
-          }
-        ],
-        "name": "START-UP (Original Television Soundtrack) Pt. 12",
-        "release_date": "2020-11-21",
-        "release_date_precision": "day",
-        "total_tracks": 2,
-        "type": "album",
-        "uri": "spotify:album:36Cosgvu6wIIDXP1bCsFum"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2DPoinlELgPBaeM7U4QOFc"
-          },
-          "href": "https://api.spotify.com/v1/artists/2DPoinlELgPBaeM7U4QOFc",
-          "id": "2DPoinlELgPBaeM7U4QOFc",
-          "name": "BOL4",
-          "type": "artist",
-          "uri": "spotify:artist:2DPoinlELgPBaeM7U4QOFc"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 190173,
-      "explicit": false,
-      "external_ids": { "isrc": "QZF452010465" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2qPQ2MoVwf7VsKddqPfttw"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2qPQ2MoVwf7VsKddqPfttw",
-      "id": "2qPQ2MoVwf7VsKddqPfttw",
-      "is_local": false,
-      "name": "Love Letter",
-      "popularity": 0,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2qPQ2MoVwf7VsKddqPfttw"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -19514,6 +19439,81 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2DPoinlELgPBaeM7U4QOFc"
+            },
+            "href": "https://api.spotify.com/v1/artists/2DPoinlELgPBaeM7U4QOFc",
+            "id": "2DPoinlELgPBaeM7U4QOFc",
+            "name": "BOL4",
+            "type": "artist",
+            "uri": "spotify:artist:2DPoinlELgPBaeM7U4QOFc"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/36Cosgvu6wIIDXP1bCsFum"
+        },
+        "href": "https://api.spotify.com/v1/albums/36Cosgvu6wIIDXP1bCsFum",
+        "id": "36Cosgvu6wIIDXP1bCsFum",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27306d116ddcdc68170dc31f12a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0206d116ddcdc68170dc31f12a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485106d116ddcdc68170dc31f12a",
+            "width": 64
+          }
+        ],
+        "name": "START-UP (Original Television Soundtrack) Pt. 12",
+        "release_date": "2020-11-21",
+        "release_date_precision": "day",
+        "total_tracks": 2,
+        "type": "album",
+        "uri": "spotify:album:36Cosgvu6wIIDXP1bCsFum"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2DPoinlELgPBaeM7U4QOFc"
+          },
+          "href": "https://api.spotify.com/v1/artists/2DPoinlELgPBaeM7U4QOFc",
+          "id": "2DPoinlELgPBaeM7U4QOFc",
+          "name": "BOL4",
+          "type": "artist",
+          "uri": "spotify:artist:2DPoinlELgPBaeM7U4QOFc"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 190173,
+      "explicit": false,
+      "external_ids": { "isrc": "QZF452010465" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2qPQ2MoVwf7VsKddqPfttw"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2qPQ2MoVwf7VsKddqPfttw",
+      "id": "2qPQ2MoVwf7VsKddqPfttw",
+      "is_local": false,
+      "name": "Love Letter",
+      "popularity": 0,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2qPQ2MoVwf7VsKddqPfttw"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
             },
             "href": "https://api.spotify.com/v1/artists/3HqSLMAZ3g3d5poNaI7GOU",
@@ -20207,7 +20207,7 @@
       "id": "2fyIS6GXMgUcSv4oejx63f",
       "is_local": false,
       "name": "Mardy Bum",
-      "popularity": 77,
+      "popularity": 78,
       "preview_url": "https://p.scdn.co/mp3-preview/5c501a54dc6591ab71db5c6df8efeafa73de5dde?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
       "track_number": 9,
       "type": "track",
