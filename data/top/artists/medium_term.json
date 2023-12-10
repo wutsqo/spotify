@@ -634,36 +634,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
-      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
-      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba8655812f903dab91cc220b8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a8655812f903dab91cc220b8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a8655812f903dab91cc220b8",
-          "width": 160
-        }
-      ],
-      "name": "Sal Priadi",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
       },
       "followers": { "href": null, "total": 0 },
@@ -691,6 +661,36 @@
       "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
+      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba8655812f903dab91cc220b8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a8655812f903dab91cc220b8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a8655812f903dab91cc220b8",
+          "width": 160
+        }
+      ],
+      "name": "Sal Priadi",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
     },
     {
       "external_urls": {
@@ -1556,7 +1556,7 @@
         }
       ],
       "name": "Lana Del Rey",
-      "popularity": 88,
+      "popularity": 89,
       "type": "artist",
       "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
     },
@@ -1627,6 +1627,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["emo", "modern rock", "pop punk", "pov: indie", "rock"],
+      "href": "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
+      "id": "7FBcuc1gsnv6Y1nwFtNRCb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9c00ad0308287b38b8fdabc2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749c00ad0308287b38b8fdabc2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789c00ad0308287b38b8fdabc2",
+          "width": 160
+        }
+      ],
+      "name": "My Chemical Romance",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
       },
       "followers": { "href": null, "total": 0 },
@@ -1684,36 +1714,6 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["emo", "modern rock", "pop punk", "pov: indie", "rock"],
-      "href": "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
-      "id": "7FBcuc1gsnv6Y1nwFtNRCb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9c00ad0308287b38b8fdabc2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749c00ad0308287b38b8fdabc2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789c00ad0308287b38b8fdabc2",
-          "width": 160
-        }
-      ],
-      "name": "My Chemical Romance",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb"
     },
     {
       "external_urls": {
@@ -2158,6 +2158,36 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop", "viral pop"],
+      "href": "https://api.spotify.com/v1/artists/6VuMaDnrHyPL1p4EHjYLi7",
+      "id": "6VuMaDnrHyPL1p4EHjYLi7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f83823555da55fd07555fbd0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f83823555da55fd07555fbd0",
+          "width": 160
+        }
+      ],
+      "name": "Charlie Puth",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7"
     },
     {
       "external_urls": {
@@ -2611,7 +2641,7 @@
         }
       ],
       "name": "Ariana Grande",
-      "popularity": 87,
+      "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
     },
@@ -3024,39 +3054,9 @@
         }
       ],
       "name": "John Lennon",
-      "popularity": 71,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6VuMaDnrHyPL1p4EHjYLi7"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop", "viral pop"],
-      "href": "https://api.spotify.com/v1/artists/6VuMaDnrHyPL1p4EHjYLi7",
-      "id": "6VuMaDnrHyPL1p4EHjYLi7",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf83823555da55fd07555fbd0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f83823555da55fd07555fbd0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f83823555da55fd07555fbd0",
-          "width": 160
-        }
-      ],
-      "name": "Charlie Puth",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:6VuMaDnrHyPL1p4EHjYLi7"
     },
     {
       "external_urls": {
