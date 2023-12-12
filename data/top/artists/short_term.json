@@ -1,5 +1,5 @@
 {
-  "total": 19,
+  "total": 21,
   "artists": [
     {
       "external_urls": {
@@ -195,33 +195,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        "spotify": "https://open.spotify.com/artist/3G3Gdm0ZRAOxLrbyjfhii5"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-      "id": "06HL4z0CvFAxyc27GXpf02",
+      "genres": ["alternative rock", "dream pop", "noise pop", "shoegaze"],
+      "href": "https://api.spotify.com/v1/artists/3G3Gdm0ZRAOxLrbyjfhii5",
+      "id": "3G3Gdm0ZRAOxLrbyjfhii5",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb21c79e4e6e1af6af9b94d3a0",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4",
+          "url": "https://i.scdn.co/image/ab6761610000517421c79e4e6e1af6af9b94d3a0",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178859e4c14fa59296c8649e0e4",
+          "url": "https://i.scdn.co/image/ab6761610000f17821c79e4e6e1af6af9b94d3a0",
           "width": 160
         }
       ],
-      "name": "Taylor Swift",
-      "popularity": 100,
+      "name": "my bloody valentine",
+      "popularity": 55,
       "type": "artist",
-      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5"
     },
     {
       "external_urls": {
@@ -252,6 +252,36 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178859e4c14fa59296c8649e0e4",
+          "width": 160
+        }
+      ],
+      "name": "Taylor Swift",
+      "popularity": 100,
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
     },
     {
       "external_urls": {
@@ -481,6 +511,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian indie"],
+      "href": "https://api.spotify.com/v1/artists/1DjZI46mVZZZYmmmygRnTw",
+      "id": "1DjZI46mVZZZYmmmygRnTw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcb925d1cd51e4604cc97304d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174cb925d1cd51e4604cc97304d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178cb925d1cd51e4604cc97304d",
+          "width": 160
+        }
+      ],
+      "name": "Reality Club",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
       },
       "followers": { "href": null, "total": 0 },
@@ -535,7 +595,7 @@
         }
       ],
       "name": "Frank Ocean",
-      "popularity": 82,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
     },
