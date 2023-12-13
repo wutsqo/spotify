@@ -93,7 +93,7 @@
         }
       ],
       "name": "The Strokes",
-      "popularity": 73,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
     },
@@ -126,6 +126,36 @@
       "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop", "k-pop girl group"],
+      "href": "https://api.spotify.com/v1/artists/1z4g3DjTBBZKhvAroFlhOM",
+      "id": "1z4g3DjTBBZKhvAroFlhOM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747719f0625a2fa078a60c85cd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787719f0625a2fa078a60c85cd",
+          "width": 160
+        }
+      ],
+      "name": "Red Velvet",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
     {
       "external_urls": {
@@ -282,36 +312,6 @@
       "popularity": 100,
       "type": "artist",
       "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop girl group"],
-      "href": "https://api.spotify.com/v1/artists/1z4g3DjTBBZKhvAroFlhOM",
-      "id": "1z4g3DjTBBZKhvAroFlhOM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747719f0625a2fa078a60c85cd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787719f0625a2fa078a60c85cd",
-          "width": 160
-        }
-      ],
-      "name": "Red Velvet",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
     {
       "external_urls": {

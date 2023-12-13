@@ -2122,241 +2122,6 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-            },
-            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-            "id": "7pbDxGE6nQSZVfiFdq9lOL",
-            "name": "Rex Orange County",
-            "type": "artist",
-            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
-        },
-        "href": "https://api.spotify.com/v1/albums/4DxNdQzm6cBYuSn4dCimmT",
-        "id": "4DxNdQzm6cBYuSn4dCimmT",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2731bd6d088d3d81972af4cb81d",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048511bd6d088d3d81972af4cb81d",
-            "width": 64
-          }
-        ],
-        "name": "Apricot Princess",
-        "release_date": "2017-04-26",
-        "release_date_precision": "day",
-        "total_tracks": 10,
-        "type": "album",
-        "uri": "spotify:album:4DxNdQzm6cBYuSn4dCimmT"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-          },
-          "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-          "id": "7pbDxGE6nQSZVfiFdq9lOL",
-          "name": "Rex Orange County",
-          "type": "artist",
-          "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 262600,
-      "explicit": true,
-      "external_ids": { "isrc": "US23A1500497" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI"
-      },
-      "href": "https://api.spotify.com/v1/tracks/27rZYxE4l21wTaovX4WTnI",
-      "id": "27rZYxE4l21wTaovX4WTnI",
-      "is_local": false,
-      "name": "Television / So Far So Good",
-      "popularity": 76,
-      "preview_url": "https://p.scdn.co/mp3-preview/166f1dfa87d9d0ebe3c530b2f625e2cf046f7777?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-      "track_number": 2,
-      "type": "track",
-      "uri": "spotify:track:27rZYxE4l21wTaovX4WTnI"
-    },
-    {
-      "album": {
-        "album_type": "ALBUM",
-        "artists": [
-          {
-            "external_urls": {
               "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
             },
             "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
@@ -2585,6 +2350,241 @@
       "track_number": 12,
       "type": "track",
       "uri": "spotify:track:2SmKwCCSiUTjtR8I8rv6MS"
+    },
+    {
+      "album": {
+        "album_type": "ALBUM",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+            "id": "7pbDxGE6nQSZVfiFdq9lOL",
+            "name": "Rex Orange County",
+            "type": "artist",
+            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
+        },
+        "href": "https://api.spotify.com/v1/albums/4DxNdQzm6cBYuSn4dCimmT",
+        "id": "4DxNdQzm6cBYuSn4dCimmT",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731bd6d088d3d81972af4cb81d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511bd6d088d3d81972af4cb81d",
+            "width": 64
+          }
+        ],
+        "name": "Apricot Princess",
+        "release_date": "2017-04-26",
+        "release_date_precision": "day",
+        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:4DxNdQzm6cBYuSn4dCimmT"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+          },
+          "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+          "id": "7pbDxGE6nQSZVfiFdq9lOL",
+          "name": "Rex Orange County",
+          "type": "artist",
+          "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 262600,
+      "explicit": true,
+      "external_ids": { "isrc": "US23A1500497" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/27rZYxE4l21wTaovX4WTnI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/27rZYxE4l21wTaovX4WTnI",
+      "id": "27rZYxE4l21wTaovX4WTnI",
+      "is_local": false,
+      "name": "Television / So Far So Good",
+      "popularity": 76,
+      "preview_url": "https://p.scdn.co/mp3-preview/166f1dfa87d9d0ebe3c530b2f625e2cf046f7777?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:27rZYxE4l21wTaovX4WTnI"
     },
     {
       "album": {
@@ -4233,17 +4233,17 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
+        "album_type": "ALBUM",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
             },
-            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-            "id": "7pbDxGE6nQSZVfiFdq9lOL",
-            "name": "Rex Orange County",
+            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+            "id": "2kxP07DLgs4xlWz8YHlvfh",
+            "name": "NIKI",
             "type": "artist",
-            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
           }
         ],
         "available_markets": [
@@ -4328,44 +4328,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
+          "spotify": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
         },
-        "href": "https://api.spotify.com/v1/albums/3qJTNgjVc6EM3yJnjFAALE",
-        "id": "3qJTNgjVc6EM3yJnjFAALE",
+        "href": "https://api.spotify.com/v1/albums/5WR7ksPLp3kqFbDLTYpGfx",
+        "id": "5WR7ksPLp3kqFbDLTYpGfx",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273e89fffbc825d52c018a2357e",
+            "url": "https://i.scdn.co/image/ab67616d0000b273770eeb0ee1c91983b1ba4a10",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02e89fffbc825d52c018a2357e",
+            "url": "https://i.scdn.co/image/ab67616d00001e02770eeb0ee1c91983b1ba4a10",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851e89fffbc825d52c018a2357e",
+            "url": "https://i.scdn.co/image/ab67616d00004851770eeb0ee1c91983b1ba4a10",
             "width": 64
           }
         ],
-        "name": "Sunflower",
-        "release_date": "2017-03-22",
+        "name": "Nicole",
+        "release_date": "2022-08-12",
         "release_date_precision": "day",
-        "total_tracks": 1,
+        "total_tracks": 12,
         "type": "album",
-        "uri": "spotify:album:3qJTNgjVc6EM3yJnjFAALE"
+        "uri": "spotify:album:5WR7ksPLp3kqFbDLTYpGfx"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+            "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
           },
-          "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-          "id": "7pbDxGE6nQSZVfiFdq9lOL",
-          "name": "Rex Orange County",
+          "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+          "id": "2kxP07DLgs4xlWz8YHlvfh",
+          "name": "NIKI",
           "type": "artist",
-          "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+          "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
       "available_markets": [
@@ -4450,21 +4450,21 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 252230,
-      "explicit": true,
-      "external_ids": { "isrc": "US23A1500468" },
+      "duration_ms": 303933,
+      "explicit": false,
+      "external_ids": { "isrc": "ZZOPM2236012" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
+        "spotify": "https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4"
       },
-      "href": "https://api.spotify.com/v1/tracks/7h2nmmoWDi2UpfYKLKWLYB",
-      "id": "7h2nmmoWDi2UpfYKLKWLYB",
+      "href": "https://api.spotify.com/v1/tracks/5kxOQDA9AcuNQXHvg5NpX4",
+      "id": "5kxOQDA9AcuNQXHvg5NpX4",
       "is_local": false,
-      "name": "Sunflower",
-      "popularity": 76,
-      "preview_url": "https://p.scdn.co/mp3-preview/27b6b4f595da7570041c61e553a2cb8ceb6c8417?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-      "track_number": 1,
+      "name": "Take A Chance With Me",
+      "popularity": 82,
+      "preview_url": "https://p.scdn.co/mp3-preview/0790b787606ff57b34b2f99a10e996f859396d1f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "track_number": 12,
       "type": "track",
-      "uri": "spotify:track:7h2nmmoWDi2UpfYKLKWLYB"
+      "uri": "spotify:track:5kxOQDA9AcuNQXHvg5NpX4"
     },
     {
       "album": {
@@ -4703,17 +4703,17 @@
     },
     {
       "album": {
-        "album_type": "ALBUM",
+        "album_type": "SINGLE",
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
             },
-            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
-            "id": "2kxP07DLgs4xlWz8YHlvfh",
-            "name": "NIKI",
+            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+            "id": "7pbDxGE6nQSZVfiFdq9lOL",
+            "name": "Rex Orange County",
             "type": "artist",
-            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
           }
         ],
         "available_markets": [
@@ -4798,44 +4798,44 @@
           "ZA"
         ],
         "external_urls": {
-          "spotify": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+          "spotify": "https://open.spotify.com/album/3qJTNgjVc6EM3yJnjFAALE"
         },
-        "href": "https://api.spotify.com/v1/albums/5WR7ksPLp3kqFbDLTYpGfx",
-        "id": "5WR7ksPLp3kqFbDLTYpGfx",
+        "href": "https://api.spotify.com/v1/albums/3qJTNgjVc6EM3yJnjFAALE",
+        "id": "3qJTNgjVc6EM3yJnjFAALE",
         "images": [
           {
             "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273770eeb0ee1c91983b1ba4a10",
+            "url": "https://i.scdn.co/image/ab67616d0000b273e89fffbc825d52c018a2357e",
             "width": 640
           },
           {
             "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02770eeb0ee1c91983b1ba4a10",
+            "url": "https://i.scdn.co/image/ab67616d00001e02e89fffbc825d52c018a2357e",
             "width": 300
           },
           {
             "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851770eeb0ee1c91983b1ba4a10",
+            "url": "https://i.scdn.co/image/ab67616d00004851e89fffbc825d52c018a2357e",
             "width": 64
           }
         ],
-        "name": "Nicole",
-        "release_date": "2022-08-12",
+        "name": "Sunflower",
+        "release_date": "2017-03-22",
         "release_date_precision": "day",
-        "total_tracks": 12,
+        "total_tracks": 1,
         "type": "album",
-        "uri": "spotify:album:5WR7ksPLp3kqFbDLTYpGfx"
+        "uri": "spotify:album:3qJTNgjVc6EM3yJnjFAALE"
       },
       "artists": [
         {
           "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+            "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
           },
-          "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
-          "id": "2kxP07DLgs4xlWz8YHlvfh",
-          "name": "NIKI",
+          "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+          "id": "7pbDxGE6nQSZVfiFdq9lOL",
+          "name": "Rex Orange County",
           "type": "artist",
-          "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+          "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
         }
       ],
       "available_markets": [
@@ -4920,21 +4920,21 @@
         "ZA"
       ],
       "disc_number": 1,
-      "duration_ms": 303933,
-      "explicit": false,
-      "external_ids": { "isrc": "ZZOPM2236012" },
+      "duration_ms": 252230,
+      "explicit": true,
+      "external_ids": { "isrc": "US23A1500468" },
       "external_urls": {
-        "spotify": "https://open.spotify.com/track/5kxOQDA9AcuNQXHvg5NpX4"
+        "spotify": "https://open.spotify.com/track/7h2nmmoWDi2UpfYKLKWLYB"
       },
-      "href": "https://api.spotify.com/v1/tracks/5kxOQDA9AcuNQXHvg5NpX4",
-      "id": "5kxOQDA9AcuNQXHvg5NpX4",
+      "href": "https://api.spotify.com/v1/tracks/7h2nmmoWDi2UpfYKLKWLYB",
+      "id": "7h2nmmoWDi2UpfYKLKWLYB",
       "is_local": false,
-      "name": "Take A Chance With Me",
-      "popularity": 82,
-      "preview_url": "https://p.scdn.co/mp3-preview/0790b787606ff57b34b2f99a10e996f859396d1f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-      "track_number": 12,
+      "name": "Sunflower",
+      "popularity": 76,
+      "preview_url": "https://p.scdn.co/mp3-preview/27b6b4f595da7570041c61e553a2cb8ceb6c8417?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "track_number": 1,
       "type": "track",
-      "uri": "spotify:track:5kxOQDA9AcuNQXHvg5NpX4"
+      "uri": "spotify:track:7h2nmmoWDi2UpfYKLKWLYB"
     },
     {
       "album": {
@@ -6425,7 +6425,7 @@
       "id": "3k79jB4aGmMDUQzEwa46Rz",
       "is_local": false,
       "name": "vampire",
-      "popularity": 65,
+      "popularity": 64,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -15709,7 +15709,7 @@
       "id": "3QlaRJPhMAdtSebkshXA2E",
       "is_local": false,
       "name": "One Of Your Girls",
-      "popularity": 52,
+      "popularity": 51,
       "preview_url": "https://p.scdn.co/mp3-preview/9f380859b6a10dbc8037d927545da21a047aff0a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
       "track_number": 3,
       "type": "track",
@@ -17852,7 +17852,7 @@
       "id": "741UUVE2kuITl0c6zuqqbO",
       "is_local": false,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
-      "popularity": 88,
+      "popularity": 87,
       "preview_url": "https://p.scdn.co/mp3-preview/f654928ccaa4e6a9fb09a6eb3f208383eccc12a9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
       "track_number": 1,
       "type": "track",
@@ -18092,316 +18092,6 @@
       "track_number": 10,
       "type": "track",
       "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-            },
-            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
-            "id": "0hDjKSKjl1DC7ovYTDJHe8",
-            "name": "Bruno Major",
-            "type": "artist",
-            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
-        },
-        "href": "https://api.spotify.com/v1/albums/2S7z1CuntMrp5YhDvVRQA9",
-        "id": "2S7z1CuntMrp5YhDvVRQA9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273fe4c72d5a1f7581e4fd9e4d2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02fe4c72d5a1f7581e4fd9e4d2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851fe4c72d5a1f7581e4fd9e4d2",
-            "width": 64
-          }
-        ],
-        "name": "We Were Never Really Friends",
-        "release_date": "2023-05-05",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:2S7z1CuntMrp5YhDvVRQA9"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-          },
-          "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
-          "id": "0hDjKSKjl1DC7ovYTDJHe8",
-          "name": "Bruno Major",
-          "type": "artist",
-          "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 204325,
-      "explicit": false,
-      "external_ids": { "isrc": "QM6N22333318" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3oUam1JxcuLVFKaAr5MWnN",
-      "id": "3oUam1JxcuLVFKaAr5MWnN",
-      "is_local": false,
-      "name": "We Were Never Really Friends",
-      "popularity": 28,
-      "preview_url": null,
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3oUam1JxcuLVFKaAr5MWnN"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
-            },
-            "href": "https://api.spotify.com/v1/artists/1DjZI46mVZZZYmmmygRnTw",
-            "id": "1DjZI46mVZZZYmmmygRnTw",
-            "name": "Reality Club",
-            "type": "artist",
-            "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY"
-        },
-        "href": "https://api.spotify.com/v1/albums/0fkX7I2PipiArw0mxPLFsY",
-        "id": "0fkX7I2PipiArw0mxPLFsY",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27349091440fe73435983406f43",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0249091440fe73435983406f43",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485149091440fe73435983406f43",
-            "width": 64
-          }
-        ],
-        "name": "Anything You Want",
-        "release_date": "2022-04-22",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:0fkX7I2PipiArw0mxPLFsY"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
-          },
-          "href": "https://api.spotify.com/v1/artists/1DjZI46mVZZZYmmmygRnTw",
-          "id": "1DjZI46mVZZZYmmmygRnTw",
-          "name": "Reality Club",
-          "type": "artist",
-          "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 236493,
-      "explicit": false,
-      "external_ids": { "isrc": "IDUM72200108" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2QB8FwOszur18Ai7t2XnNi",
-      "id": "2QB8FwOszur18Ai7t2XnNi",
-      "is_local": false,
-      "name": "Anything You Want",
-      "popularity": 70,
-      "preview_url": "https://p.scdn.co/mp3-preview/6ec23b38d1b2832caa0e6a0d7b0999bf3f8e8dc1?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:2QB8FwOszur18Ai7t2XnNi"
     },
     {
       "album": {
@@ -19209,6 +18899,81 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+            "id": "0hDjKSKjl1DC7ovYTDJHe8",
+            "name": "Bruno Major",
+            "type": "artist",
+            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
+        },
+        "href": "https://api.spotify.com/v1/albums/2S7z1CuntMrp5YhDvVRQA9",
+        "id": "2S7z1CuntMrp5YhDvVRQA9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fe4c72d5a1f7581e4fd9e4d2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fe4c72d5a1f7581e4fd9e4d2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fe4c72d5a1f7581e4fd9e4d2",
+            "width": 64
+          }
+        ],
+        "name": "We Were Never Really Friends",
+        "release_date": "2023-05-05",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:2S7z1CuntMrp5YhDvVRQA9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+          "id": "0hDjKSKjl1DC7ovYTDJHe8",
+          "name": "Bruno Major",
+          "type": "artist",
+          "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 204325,
+      "explicit": false,
+      "external_ids": { "isrc": "QM6N22333318" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3oUam1JxcuLVFKaAr5MWnN",
+      "id": "3oUam1JxcuLVFKaAr5MWnN",
+      "is_local": false,
+      "name": "We Were Never Really Friends",
+      "popularity": 28,
+      "preview_url": null,
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3oUam1JxcuLVFKaAr5MWnN"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
             },
             "href": "https://api.spotify.com/v1/artists/6HvZYsbFfjnjFrWF950C9d",
@@ -19437,6 +19202,281 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:7woEDtme8YkFiWeyiinIjy"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+            },
+            "href": "https://api.spotify.com/v1/artists/5CiGnKThu5ctn9pBxv7DGa",
+            "id": "5CiGnKThu5ctn9pBxv7DGa",
+            "name": "benny blanco",
+            "type": "artist",
+            "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+            },
+            "href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
+            "id": "26VFTg2z8YR0cCuwLzESi2",
+            "name": "Halsey",
+            "type": "artist",
+            "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+            },
+            "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+            "id": "6LuN9FCkKOj5PcnpouEgny",
+            "name": "Khalid",
+            "type": "artist",
+            "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
+        },
+        "href": "https://api.spotify.com/v1/albums/7pkLXlFdpQDfmHujT2AbBK",
+        "id": "7pkLXlFdpQDfmHujT2AbBK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2733154f0bdf9a17385d7afc6ba",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e023154f0bdf9a17385d7afc6ba",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048513154f0bdf9a17385d7afc6ba",
+            "width": 64
+          }
+        ],
+        "name": "Eastside (with Halsey & Khalid)",
+        "release_date": "2018-07-12",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:7pkLXlFdpQDfmHujT2AbBK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          },
+          "href": "https://api.spotify.com/v1/artists/5CiGnKThu5ctn9pBxv7DGa",
+          "id": "5CiGnKThu5ctn9pBxv7DGa",
+          "name": "benny blanco",
+          "type": "artist",
+          "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          },
+          "href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
+          "id": "26VFTg2z8YR0cCuwLzESi2",
+          "name": "Halsey",
+          "type": "artist",
+          "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+          },
+          "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+          "id": "6LuN9FCkKOj5PcnpouEgny",
+          "name": "Khalid",
+          "type": "artist",
+          "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 173799,
+      "explicit": false,
+      "external_ids": { "isrc": "USUM71809132" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0d2iYfpKoM0QCKvcLCkBao",
+      "id": "0d2iYfpKoM0QCKvcLCkBao",
+      "is_local": false,
+      "name": "Eastside (with Halsey & Khalid)",
+      "popularity": 76,
+      "preview_url": "https://p.scdn.co/mp3-preview/24726be4c89b67eab298a72560b637581450421c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:0d2iYfpKoM0QCKvcLCkBao"
     },
     {
       "album": {
@@ -19672,6 +19712,241 @@
       "track_number": 8,
       "type": "track",
       "uri": "spotify:track:12dtBMOafWqGvjJhKxAJ7q"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+            },
+            "href": "https://api.spotify.com/v1/artists/1DjZI46mVZZZYmmmygRnTw",
+            "id": "1DjZI46mVZZZYmmmygRnTw",
+            "name": "Reality Club",
+            "type": "artist",
+            "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
+          }
+        ],
+        "available_markets": [
+          "AD",
+          "AE",
+          "AR",
+          "AT",
+          "AU",
+          "BE",
+          "BG",
+          "BH",
+          "BO",
+          "BR",
+          "CA",
+          "CH",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DE",
+          "DK",
+          "DO",
+          "DZ",
+          "EC",
+          "EE",
+          "EG",
+          "ES",
+          "FI",
+          "FR",
+          "GB",
+          "GR",
+          "GT",
+          "HK",
+          "HN",
+          "HU",
+          "ID",
+          "IE",
+          "IL",
+          "IN",
+          "IS",
+          "IT",
+          "JO",
+          "JP",
+          "KW",
+          "LB",
+          "LI",
+          "LT",
+          "LU",
+          "LV",
+          "MA",
+          "MC",
+          "MT",
+          "MX",
+          "MY",
+          "NI",
+          "NL",
+          "NO",
+          "NZ",
+          "OM",
+          "PA",
+          "PE",
+          "PH",
+          "PL",
+          "PS",
+          "PT",
+          "PY",
+          "QA",
+          "RO",
+          "SA",
+          "SE",
+          "SG",
+          "SK",
+          "SV",
+          "TH",
+          "TN",
+          "TR",
+          "TW",
+          "US",
+          "UY",
+          "VN",
+          "ZA"
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0fkX7I2PipiArw0mxPLFsY"
+        },
+        "href": "https://api.spotify.com/v1/albums/0fkX7I2PipiArw0mxPLFsY",
+        "id": "0fkX7I2PipiArw0mxPLFsY",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27349091440fe73435983406f43",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0249091440fe73435983406f43",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485149091440fe73435983406f43",
+            "width": 64
+          }
+        ],
+        "name": "Anything You Want",
+        "release_date": "2022-04-22",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:0fkX7I2PipiArw0mxPLFsY"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
+          },
+          "href": "https://api.spotify.com/v1/artists/1DjZI46mVZZZYmmmygRnTw",
+          "id": "1DjZI46mVZZZYmmmygRnTw",
+          "name": "Reality Club",
+          "type": "artist",
+          "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
+        }
+      ],
+      "available_markets": [
+        "AD",
+        "AE",
+        "AR",
+        "AT",
+        "AU",
+        "BE",
+        "BG",
+        "BH",
+        "BO",
+        "BR",
+        "CA",
+        "CH",
+        "CL",
+        "CO",
+        "CR",
+        "CY",
+        "CZ",
+        "DE",
+        "DK",
+        "DO",
+        "DZ",
+        "EC",
+        "EE",
+        "EG",
+        "ES",
+        "FI",
+        "FR",
+        "GB",
+        "GR",
+        "GT",
+        "HK",
+        "HN",
+        "HU",
+        "ID",
+        "IE",
+        "IL",
+        "IN",
+        "IS",
+        "IT",
+        "JO",
+        "JP",
+        "KW",
+        "LB",
+        "LI",
+        "LT",
+        "LU",
+        "LV",
+        "MA",
+        "MC",
+        "MT",
+        "MX",
+        "MY",
+        "NI",
+        "NL",
+        "NO",
+        "NZ",
+        "OM",
+        "PA",
+        "PE",
+        "PH",
+        "PL",
+        "PS",
+        "PT",
+        "PY",
+        "QA",
+        "RO",
+        "SA",
+        "SE",
+        "SG",
+        "SK",
+        "SV",
+        "TH",
+        "TN",
+        "TR",
+        "TW",
+        "US",
+        "UY",
+        "VN",
+        "ZA"
+      ],
+      "disc_number": 1,
+      "duration_ms": 236493,
+      "explicit": false,
+      "external_ids": { "isrc": "IDUM72200108" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2QB8FwOszur18Ai7t2XnNi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2QB8FwOszur18Ai7t2XnNi",
+      "id": "2QB8FwOszur18Ai7t2XnNi",
+      "is_local": false,
+      "name": "Anything You Want",
+      "popularity": 70,
+      "preview_url": "https://p.scdn.co/mp3-preview/6ec23b38d1b2832caa0e6a0d7b0999bf3f8e8dc1?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:2QB8FwOszur18Ai7t2XnNi"
     },
     {
       "album": {
@@ -20372,7 +20647,7 @@
       "id": "5hVghJ4KaYES3BFUATCYn0",
       "is_local": false,
       "name": "EARFQUAKE",
-      "popularity": 82,
+      "popularity": 83,
       "preview_url": "https://p.scdn.co/mp3-preview/d12bb695962e3e21ad6f737898de806ad970671a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
       "track_number": 2,
       "type": "track",
@@ -21087,7 +21362,7 @@
       "id": "0qjuyXWrksQxIRntqz9ZJV",
       "is_local": false,
       "name": "Tanpa Cinta",
-      "popularity": 74,
+      "popularity": 75,
       "preview_url": "https://p.scdn.co/mp3-preview/02449ac902eb24867d56bbf2d8bac082011ce953?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
       "track_number": 3,
       "type": "track",
@@ -22512,281 +22787,6 @@
       "track_number": 4,
       "type": "track",
       "uri": "spotify:track:02wk5BttM0QL38ERjLPQJB"
-    },
-    {
-      "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-            },
-            "href": "https://api.spotify.com/v1/artists/5CiGnKThu5ctn9pBxv7DGa",
-            "id": "5CiGnKThu5ctn9pBxv7DGa",
-            "name": "benny blanco",
-            "type": "artist",
-            "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-            },
-            "href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
-            "id": "26VFTg2z8YR0cCuwLzESi2",
-            "name": "Halsey",
-            "type": "artist",
-            "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-            },
-            "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
-            "id": "6LuN9FCkKOj5PcnpouEgny",
-            "name": "Khalid",
-            "type": "artist",
-            "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
-          }
-        ],
-        "available_markets": [
-          "AD",
-          "AE",
-          "AR",
-          "AT",
-          "AU",
-          "BE",
-          "BG",
-          "BH",
-          "BO",
-          "BR",
-          "CA",
-          "CH",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DE",
-          "DK",
-          "DO",
-          "DZ",
-          "EC",
-          "EE",
-          "EG",
-          "ES",
-          "FI",
-          "FR",
-          "GB",
-          "GR",
-          "GT",
-          "HK",
-          "HN",
-          "HU",
-          "ID",
-          "IE",
-          "IL",
-          "IN",
-          "IS",
-          "IT",
-          "JO",
-          "JP",
-          "KW",
-          "LB",
-          "LI",
-          "LT",
-          "LU",
-          "LV",
-          "MA",
-          "MC",
-          "MT",
-          "MX",
-          "MY",
-          "NI",
-          "NL",
-          "NO",
-          "NZ",
-          "OM",
-          "PA",
-          "PE",
-          "PH",
-          "PL",
-          "PS",
-          "PT",
-          "PY",
-          "QA",
-          "RO",
-          "SA",
-          "SE",
-          "SG",
-          "SK",
-          "SV",
-          "TH",
-          "TN",
-          "TR",
-          "TW",
-          "US",
-          "UY",
-          "VN",
-          "ZA"
-        ],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/7pkLXlFdpQDfmHujT2AbBK"
-        },
-        "href": "https://api.spotify.com/v1/albums/7pkLXlFdpQDfmHujT2AbBK",
-        "id": "7pkLXlFdpQDfmHujT2AbBK",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2733154f0bdf9a17385d7afc6ba",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e023154f0bdf9a17385d7afc6ba",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048513154f0bdf9a17385d7afc6ba",
-            "width": 64
-          }
-        ],
-        "name": "Eastside (with Halsey & Khalid)",
-        "release_date": "2018-07-12",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:7pkLXlFdpQDfmHujT2AbBK"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
-          },
-          "href": "https://api.spotify.com/v1/artists/5CiGnKThu5ctn9pBxv7DGa",
-          "id": "5CiGnKThu5ctn9pBxv7DGa",
-          "name": "benny blanco",
-          "type": "artist",
-          "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
-          },
-          "href": "https://api.spotify.com/v1/artists/26VFTg2z8YR0cCuwLzESi2",
-          "id": "26VFTg2z8YR0cCuwLzESi2",
-          "name": "Halsey",
-          "type": "artist",
-          "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-          },
-          "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
-          "id": "6LuN9FCkKOj5PcnpouEgny",
-          "name": "Khalid",
-          "type": "artist",
-          "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "available_markets": [
-        "AD",
-        "AE",
-        "AR",
-        "AT",
-        "AU",
-        "BE",
-        "BG",
-        "BH",
-        "BO",
-        "BR",
-        "CA",
-        "CH",
-        "CL",
-        "CO",
-        "CR",
-        "CY",
-        "CZ",
-        "DE",
-        "DK",
-        "DO",
-        "DZ",
-        "EC",
-        "EE",
-        "EG",
-        "ES",
-        "FI",
-        "FR",
-        "GB",
-        "GR",
-        "GT",
-        "HK",
-        "HN",
-        "HU",
-        "ID",
-        "IE",
-        "IL",
-        "IN",
-        "IS",
-        "IT",
-        "JO",
-        "JP",
-        "KW",
-        "LB",
-        "LI",
-        "LT",
-        "LU",
-        "LV",
-        "MA",
-        "MC",
-        "MT",
-        "MX",
-        "MY",
-        "NI",
-        "NL",
-        "NO",
-        "NZ",
-        "OM",
-        "PA",
-        "PE",
-        "PH",
-        "PL",
-        "PS",
-        "PT",
-        "PY",
-        "QA",
-        "RO",
-        "SA",
-        "SE",
-        "SG",
-        "SK",
-        "SV",
-        "TH",
-        "TN",
-        "TR",
-        "TW",
-        "US",
-        "UY",
-        "VN",
-        "ZA"
-      ],
-      "disc_number": 1,
-      "duration_ms": 173799,
-      "explicit": false,
-      "external_ids": { "isrc": "USUM71809132" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0d2iYfpKoM0QCKvcLCkBao"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0d2iYfpKoM0QCKvcLCkBao",
-      "id": "0d2iYfpKoM0QCKvcLCkBao",
-      "is_local": false,
-      "name": "Eastside (with Halsey & Khalid)",
-      "popularity": 76,
-      "preview_url": "https://p.scdn.co/mp3-preview/24726be4c89b67eab298a72560b637581450421c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:0d2iYfpKoM0QCKvcLCkBao"
     }
   ]
 }

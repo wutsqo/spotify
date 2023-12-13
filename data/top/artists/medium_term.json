@@ -279,7 +279,7 @@
         }
       ],
       "name": "The Strokes",
-      "popularity": 73,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
     },
@@ -761,33 +761,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        "spotify": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "bubblegrunge", "indie pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/35l9BRT7MXmM8bv2WDQiyB",
-      "id": "35l9BRT7MXmM8bv2WDQiyB",
+      "genres": ["k-pop", "k-pop girl group"],
+      "href": "https://api.spotify.com/v1/artists/1z4g3DjTBBZKhvAroFlhOM",
+      "id": "1z4g3DjTBBZKhvAroFlhOM",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9d6d0ba276987f19641c27de",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749d6d0ba276987f19641c27de",
+          "url": "https://i.scdn.co/image/ab676161000051747719f0625a2fa078a60c85cd",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789d6d0ba276987f19641c27de",
+          "url": "https://i.scdn.co/image/ab6761610000f1787719f0625a2fa078a60c85cd",
           "width": 160
         }
       ],
-      "name": "beabadoobee",
-      "popularity": 74,
+      "name": "Red Velvet",
+      "popularity": 72,
       "type": "artist",
-      "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
+      "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
     {
       "external_urls": {
@@ -859,6 +859,36 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "bubblegrunge", "indie pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/35l9BRT7MXmM8bv2WDQiyB",
+      "id": "35l9BRT7MXmM8bv2WDQiyB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9d6d0ba276987f19641c27de",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749d6d0ba276987f19641c27de",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789d6d0ba276987f19641c27de",
+          "width": 160
+        }
+      ],
+      "name": "beabadoobee",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
     },
     {
       "external_urls": {
@@ -1016,7 +1046,7 @@
         }
       ],
       "name": "Billie Eilish",
-      "popularity": 86,
+      "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
     },
@@ -1079,36 +1109,6 @@
       "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:3G3Gdm0ZRAOxLrbyjfhii5"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop girl group"],
-      "href": "https://api.spotify.com/v1/artists/1z4g3DjTBBZKhvAroFlhOM",
-      "id": "1z4g3DjTBBZKhvAroFlhOM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7719f0625a2fa078a60c85cd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747719f0625a2fa078a60c85cd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787719f0625a2fa078a60c85cd",
-          "width": 160
-        }
-      ],
-      "name": "Red Velvet",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
     {
       "external_urls": {
@@ -1406,7 +1406,7 @@
         }
       ],
       "name": "Pamungkas",
-      "popularity": 67,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C"
     },
@@ -1771,7 +1771,7 @@
         }
       ],
       "name": "Sabrina Carpenter",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
     },
@@ -1836,7 +1836,7 @@
         }
       ],
       "name": "Frank Sinatra",
-      "popularity": 81,
+      "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
     },
@@ -1871,7 +1871,7 @@
         }
       ],
       "name": "Queen",
-      "popularity": 82,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
     },
@@ -2163,7 +2163,7 @@
         }
       ],
       "name": "Tulus",
-      "popularity": 73,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:2iDVt6mFbtbDEZG5ax0dTi"
     },
@@ -2379,7 +2379,7 @@
         }
       ],
       "name": "SZA",
-      "popularity": 87,
+      "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
     },
@@ -2559,7 +2559,7 @@
         }
       ],
       "name": "Dewa",
-      "popularity": 63,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w"
     },
@@ -2774,7 +2774,7 @@
         }
       ],
       "name": "Wallows",
-      "popularity": 67,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:0NIPkIjTV8mB795yEIiPYL"
     },
@@ -3030,36 +3030,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["classic rock", "rock"],
-      "href": "https://api.spotify.com/v1/artists/4x1nvY2FN8jxqAFA0DA02H",
-      "id": "4x1nvY2FN8jxqAFA0DA02H",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb207c6849d1a1f4480e6aa222",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174207c6849d1a1f4480e6aa222",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178207c6849d1a1f4480e6aa222",
-          "width": 160
-        }
-      ],
-      "name": "John Lennon",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
       },
       "followers": { "href": null, "total": 0 },
@@ -3084,9 +3054,39 @@
         }
       ],
       "name": "New West",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:69bG9tC62d8oTFC9aTTosn"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian indie"],
+      "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+      "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb36494b48ba193040b7de8d51",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517436494b48ba193040b7de8d51",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17836494b48ba193040b7de8d51",
+          "width": 160
+        }
+      ],
+      "name": ".Feast",
+      "popularity": 53,
+      "type": "artist",
+      "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
     }
   ]
 }
