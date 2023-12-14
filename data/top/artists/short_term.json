@@ -1,5 +1,5 @@
 {
-  "total": 21,
+  "total": 22,
   "artists": [
     {
       "external_urls": {
@@ -99,36 +99,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
-      "id": "51kyrUsAVqUBcoDEMFkX12",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb324cea967a456ee680bf6b92",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174324cea967a456ee680bf6b92",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178324cea967a456ee680bf6b92",
-          "width": 160
-        }
-      ],
-      "name": "Hindia",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
       },
       "followers": { "href": null, "total": 0 },
@@ -222,6 +192,36 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+      "id": "51kyrUsAVqUBcoDEMFkX12",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb324cea967a456ee680bf6b92",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174324cea967a456ee680bf6b92",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178324cea967a456ee680bf6b92",
+          "width": 160
+        }
+      ],
+      "name": "Hindia",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
     },
     {
       "external_urls": {
@@ -344,7 +344,7 @@
         }
       ],
       "name": "One Direction",
-      "popularity": 81,
+      "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
     },
@@ -511,6 +511,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["singer-songwriter pop"],
+      "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+      "id": "0hDjKSKjl1DC7ovYTDJHe8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5b43a1fdff498297feb1d128",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745b43a1fdff498297feb1d128",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785b43a1fdff498297feb1d128",
+          "width": 160
+        }
+      ],
+      "name": "Bruno Major",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
       },
       "followers": { "href": null, "total": 0 },
@@ -541,33 +571,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["singer-songwriter pop"],
-      "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
-      "id": "0hDjKSKjl1DC7ovYTDJHe8",
+      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
+      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5b43a1fdff498297feb1d128",
+          "url": "https://i.scdn.co/image/ab6761610000e5eba8655812f903dab91cc220b8",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745b43a1fdff498297feb1d128",
+          "url": "https://i.scdn.co/image/ab67616100005174a8655812f903dab91cc220b8",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785b43a1fdff498297feb1d128",
+          "url": "https://i.scdn.co/image/ab6761610000f178a8655812f903dab91cc220b8",
           "width": 160
         }
       ],
-      "name": "Bruno Major",
-      "popularity": 64,
+      "name": "Sal Priadi",
+      "popularity": 63,
       "type": "artist",
-      "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
     },
     {
       "external_urls": {

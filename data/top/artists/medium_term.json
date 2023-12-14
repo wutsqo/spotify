@@ -530,7 +530,7 @@
         }
       ],
       "name": "One Direction",
-      "popularity": 81,
+      "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
     },
@@ -563,6 +563,36 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["modern alternative rock", "modern rock", "pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
+      "id": "77SW9BnxLY8rJ0RciFqkHh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174df0b5ac84376a0a4b2166816",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178df0b5ac84376a0a4b2166816",
+          "width": 160
+        }
+      ],
+      "name": "The Neighbourhood",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
     },
     {
       "external_urls": {
@@ -601,36 +631,6 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["modern alternative rock", "modern rock", "pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
-      "id": "77SW9BnxLY8rJ0RciFqkHh",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174df0b5ac84376a0a4b2166816",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178df0b5ac84376a0a4b2166816",
-          "width": 160
-        }
-      ],
-      "name": "The Neighbourhood",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
     },
     {
       "external_urls": {
@@ -892,36 +892,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie rock italiano", "italian pop"],
-      "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
-      "id": "0lAWpj5szCSwM4rUMHYmrr",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517446d0db8a86fda630ec12401f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17846d0db8a86fda630ec12401f",
-          "width": 160
-        }
-      ],
-      "name": "Måneskin",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
       },
       "followers": { "href": null, "total": 0 },
@@ -949,6 +919,36 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie rock italiano", "italian pop"],
+      "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+      "id": "0lAWpj5szCSwM4rUMHYmrr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517446d0db8a86fda630ec12401f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17846d0db8a86fda630ec12401f",
+          "width": 160
+        }
+      ],
+      "name": "Måneskin",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
     },
     {
       "external_urls": {
@@ -1022,36 +1022,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "pop"],
-      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
-      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
-          "width": 160
-        }
-      ],
-      "name": "Billie Eilish",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
       },
       "followers": { "href": null, "total": 0 },
@@ -1079,6 +1049,36 @@
       "popularity": 93,
       "type": "artist",
       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["art pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
+          "width": 160
+        }
+      ],
+      "name": "Billie Eilish",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
     },
     {
       "external_urls": {
@@ -1316,7 +1316,7 @@
         }
       ],
       "name": "Chase Atlantic",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:7cYEt1pqMgXJdq00hAwVpT"
     },
@@ -2289,7 +2289,7 @@
         }
       ],
       "name": "Jason Mraz",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
     },
@@ -2529,7 +2529,7 @@
         }
       ],
       "name": "Bruno Mars",
-      "popularity": 86,
+      "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
     },
@@ -2619,7 +2619,7 @@
         }
       ],
       "name": "Adele",
-      "popularity": 83,
+      "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
     },
@@ -2777,36 +2777,6 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:0NIPkIjTV8mB795yEIiPYL"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian lo-fi pop", "indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/11k3Y6uyixbyGfgPl8qZTZ",
-      "id": "11k3Y6uyixbyGfgPl8qZTZ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3caa88907c6be25fb118e510",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743caa88907c6be25fb118e510",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783caa88907c6be25fb118e510",
-          "width": 160
-        }
-      ],
-      "name": "raissa anggiani",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:11k3Y6uyixbyGfgPl8qZTZ"
     },
     {
       "external_urls": {
@@ -3087,6 +3057,41 @@
       "popularity": 53,
       "type": "artist",
       "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "bedroom pop",
+        "bergen indie",
+        "norwegian indie",
+        "pov: indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7wbkl3zgDZEoZer357mVIw",
+      "id": "7wbkl3zgDZEoZer357mVIw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb710f70d7ac2aa5478f2c3aa4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174710f70d7ac2aa5478f2c3aa4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178710f70d7ac2aa5478f2c3aa4",
+          "width": 160
+        }
+      ],
+      "name": "boy pablo",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:7wbkl3zgDZEoZer357mVIw"
     }
   ]
 }
