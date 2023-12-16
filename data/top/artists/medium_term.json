@@ -405,7 +405,7 @@
         }
       ],
       "name": "Arctic Monkeys",
-      "popularity": 84,
+      "popularity": 85,
       "type": "artist",
       "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
     },
@@ -658,7 +658,7 @@
         }
       ],
       "name": "Mitski",
-      "popularity": 82,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
     },
@@ -758,6 +758,41 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["irish rock", "pop rock", "rock"],
+      "href": "https://api.spotify.com/v1/artists/7t0rwkOPGlDPEhaOcVtOt9",
+      "id": "7t0rwkOPGlDPEhaOcVtOt9",
+      "images": [
+        {
+          "height": 667,
+          "url": "https://i.scdn.co/image/143c01f407ed64a4b3bcbc92d24c05ef80981251",
+          "width": 1000
+        },
+        {
+          "height": 427,
+          "url": "https://i.scdn.co/image/a82245ec62ee9606ab456d787f1f7fcd788e6a10",
+          "width": 640
+        },
+        {
+          "height": 133,
+          "url": "https://i.scdn.co/image/3a0e3d6f957d3d713a386aeedd028a8e8a1d8803",
+          "width": 200
+        },
+        {
+          "height": 43,
+          "url": "https://i.scdn.co/image/95b4d133c1e6a19efb05e4becf0f9c46e0894845",
+          "width": 64
+        }
+      ],
+      "name": "The Cranberries",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
     },
     {
       "external_urls": {
@@ -922,36 +957,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie rock italiano", "italian pop"],
-      "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
-      "id": "0lAWpj5szCSwM4rUMHYmrr",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517446d0db8a86fda630ec12401f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17846d0db8a86fda630ec12401f",
-          "width": 160
-        }
-      ],
-      "name": "Måneskin",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
       },
       "followers": { "href": null, "total": 0 },
@@ -1022,6 +1027,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie rock italiano", "italian pop"],
+      "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+      "id": "0lAWpj5szCSwM4rUMHYmrr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517446d0db8a86fda630ec12401f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17846d0db8a86fda630ec12401f",
+          "width": 160
+        }
+      ],
+      "name": "Måneskin",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
       },
       "followers": { "href": null, "total": 0 },
@@ -1049,36 +1084,6 @@
       "popularity": 93,
       "type": "artist",
       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "pop"],
-      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
-      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
-          "width": 160
-        }
-      ],
-      "name": "Billie Eilish",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
     },
     {
       "external_urls": {
@@ -1112,6 +1117,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["art pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
+          "width": 160
+        }
+      ],
+      "name": "Billie Eilish",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
       },
       "followers": { "href": null, "total": 0 },
@@ -1142,36 +1177,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian hip hop"],
-      "href": "https://api.spotify.com/v1/artists/2IDLDx25HU1nQMKde4n61a",
-      "id": "2IDLDx25HU1nQMKde4n61a",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb39d2db28841d007ee7f8d782",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517439d2db28841d007ee7f8d782",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17839d2db28841d007ee7f8d782",
-          "width": 160
-        }
-      ],
-      "name": "Rich Brian",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
       },
       "followers": { "href": null, "total": 0 },
@@ -1199,6 +1204,36 @@
       "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian hip hop"],
+      "href": "https://api.spotify.com/v1/artists/2IDLDx25HU1nQMKde4n61a",
+      "id": "2IDLDx25HU1nQMKde4n61a",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb39d2db28841d007ee7f8d782",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517439d2db28841d007ee7f8d782",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17839d2db28841d007ee7f8d782",
+          "width": 160
+        }
+      ],
+      "name": "Rich Brian",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
     },
     {
       "external_urls": {
@@ -1259,36 +1294,6 @@
       "popularity": 32,
       "type": "artist",
       "uri": "spotify:artist:6ILCDTreFre4EDfBZxCGxi"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
-      "id": "6wD3vtAV0P3gWB9zLs7I4j",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbc5a2b89e629a3b090c0cc5f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bc5a2b89e629a3b090c0cc5f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bc5a2b89e629a3b090c0cc5f",
-          "width": 160
-        }
-      ],
-      "name": "Lomba Sihir",
-      "popularity": 50,
-      "type": "artist",
-      "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
     },
     {
       "external_urls": {
@@ -1529,36 +1534,6 @@
       "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/69GGBxA162lTqCwzJG5jLp",
-      "id": "69GGBxA162lTqCwzJG5jLp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdb68d678df6d89bf8a55d052",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174db68d678df6d89bf8a55d052",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178db68d678df6d89bf8a55d052",
-          "width": 160
-        }
-      ],
-      "name": "The Chainsmokers",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:69GGBxA162lTqCwzJG5jLp"
     },
     {
       "external_urls": {
@@ -2037,6 +2012,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
+      "id": "6wD3vtAV0P3gWB9zLs7I4j",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbc5a2b89e629a3b090c0cc5f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bc5a2b89e629a3b090c0cc5f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bc5a2b89e629a3b090c0cc5f",
+          "width": 160
+        }
+      ],
+      "name": "Lomba Sihir",
+      "popularity": 50,
+      "type": "artist",
+      "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
       },
       "followers": { "href": null, "total": 0 },
@@ -2469,7 +2474,7 @@
         }
       ],
       "name": "MALIQ & D'Essentials",
-      "popularity": 64,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:18PmEN8ZiHBQlDpxrgR2xs"
     },
@@ -2622,36 +2627,6 @@
       "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:4dpARuHxo51G3z768sgnrY"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["modern rock", "pop", "rock"],
-      "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
-      "id": "53XhwfbYqKCa1cC15pYq2q",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174920dc1f617550de8388f368e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178920dc1f617550de8388f368e",
-          "width": 160
-        }
-      ],
-      "name": "Imagine Dragons",
-      "popularity": 85,
-      "type": "artist",
-      "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
     },
     {
       "external_urls": {
@@ -2870,72 +2845,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "beatlesque",
-        "britpop",
-        "madchester",
-        "permanent wave",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
-      "id": "2DaxqgrOhkeH0fpeiQq2f4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba572b3112ccbf374488fed58",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a572b3112ccbf374488fed58",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a572b3112ccbf374488fed58",
-          "width": 160
-        }
-      ],
-      "name": "Oasis",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop punk", "uk pop punk"],
-      "href": "https://api.spotify.com/v1/artists/2TM0qnbJH4QPhGMCdPt7fH",
-      "id": "2TM0qnbJH4QPhGMCdPt7fH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb38597d1ca49138767b0746d1",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517438597d1ca49138767b0746d1",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17838597d1ca49138767b0746d1",
-          "width": 160
-        }
-      ],
-      "name": "Neck Deep",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:2TM0qnbJH4QPhGMCdPt7fH"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4WPCpYGEKs5yshn2wETIDB"
       },
       "followers": { "href": null, "total": 0 },
@@ -2997,6 +2906,36 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:4ucwey7FxkHXkLK7jSfevU"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["modern rock", "pop", "rock"],
+      "href": "https://api.spotify.com/v1/artists/53XhwfbYqKCa1cC15pYq2q",
+      "id": "53XhwfbYqKCa1cC15pYq2q",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb920dc1f617550de8388f368e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174920dc1f617550de8388f368e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178920dc1f617550de8388f368e",
+          "width": 160
+        }
+      ],
+      "name": "Imagine Dragons",
+      "popularity": 85,
+      "type": "artist",
+      "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
     },
     {
       "external_urls": {
@@ -3092,6 +3031,72 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:7wbkl3zgDZEoZer357mVIw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["uk pop"],
+      "href": "https://api.spotify.com/v1/artists/0Vw76uk7P8yVtTClWyOhac",
+      "id": "0Vw76uk7P8yVtTClWyOhac",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe1b208b540b1419be505c696",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e1b208b540b1419be505c696",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e1b208b540b1419be505c696",
+          "width": 160
+        }
+      ],
+      "name": "HONNE",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:0Vw76uk7P8yVtTClWyOhac"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "beatlesque",
+        "britpop",
+        "madchester",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+      "id": "2DaxqgrOhkeH0fpeiQq2f4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba572b3112ccbf374488fed58",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a572b3112ccbf374488fed58",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a572b3112ccbf374488fed58",
+          "width": 160
+        }
+      ],
+      "name": "Oasis",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
     }
   ]
 }
