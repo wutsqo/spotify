@@ -27,7 +27,7 @@
         }
       ],
       "name": "Harry Styles",
-      "popularity": 83,
+      "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
     },
@@ -734,7 +734,7 @@
         }
       ],
       "name": "Kassy",
-      "popularity": 45,
+      "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:6pU8o91xAS0aWNjj06nQSU"
     },
@@ -1609,17 +1609,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe421a10e0a4c2a5246ea82c8",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb0e2700dbc17b43328038f7a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e421a10e0a4c2a5246ea82c8",
+          "url": "https://i.scdn.co/image/ab67616100005174b0e2700dbc17b43328038f7a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e421a10e0a4c2a5246ea82c8",
+          "url": "https://i.scdn.co/image/ab6761610000f178b0e2700dbc17b43328038f7a",
           "width": 160
         }
       ],
@@ -2054,7 +2054,7 @@
         }
       ],
       "name": "The Temper Trap",
-      "popularity": 63,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
     },
@@ -2153,7 +2153,7 @@
         "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop girl group"],
+      "genres": ["k-pop", "k-pop girl group"],
       "href": "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
       "id": "6YVMFz59CuY7ngCxTxjpxE",
       "images": [
@@ -2271,7 +2271,7 @@
         }
       ],
       "name": "Radiohead",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
     },

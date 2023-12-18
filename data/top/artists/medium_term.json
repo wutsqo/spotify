@@ -369,7 +369,7 @@
         }
       ],
       "name": "Harry Styles",
-      "popularity": 83,
+      "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
     },
@@ -755,7 +755,7 @@
         }
       ],
       "name": "Radiohead",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
     },
@@ -1150,7 +1150,7 @@
         "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop girl group"],
+      "genres": ["k-pop", "k-pop girl group"],
       "href": "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
       "id": "6YVMFz59CuY7ngCxTxjpxE",
       "images": [
@@ -2104,7 +2104,7 @@
         }
       ],
       "name": "The Beach Boys",
-      "popularity": 72,
+      "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:3oDbviiivRWhXwIE8hxkVV"
     },
@@ -2183,17 +2183,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf5007bab7cef4121a3d8cabb",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb28ce4a28eaaf8324f80a9371",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f5007bab7cef4121a3d8cabb",
+          "url": "https://i.scdn.co/image/ab6761610000517428ce4a28eaaf8324f80a9371",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f5007bab7cef4121a3d8cabb",
+          "url": "https://i.scdn.co/image/ab6761610000f17828ce4a28eaaf8324f80a9371",
           "width": 160
         }
       ],
@@ -2939,6 +2939,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "bedroom r&b"],
+      "href": "https://api.spotify.com/v1/artists/5y8tKLUfMvliMe8IKamR32",
+      "id": "5y8tKLUfMvliMe8IKamR32",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebad447187a35f422307e88ad3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ad447187a35f422307e88ad3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ad447187a35f422307e88ad3",
+          "width": 160
+        }
+      ],
+      "name": "d4vd",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
       },
       "followers": { "href": null, "total": 0 },
@@ -3061,42 +3091,6 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:0Vw76uk7P8yVtTClWyOhac"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "beatlesque",
-        "britpop",
-        "madchester",
-        "permanent wave",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
-      "id": "2DaxqgrOhkeH0fpeiQq2f4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba572b3112ccbf374488fed58",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a572b3112ccbf374488fed58",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a572b3112ccbf374488fed58",
-          "width": 160
-        }
-      ],
-      "name": "Oasis",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
     }
   ]
 }

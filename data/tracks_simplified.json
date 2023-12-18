@@ -1,6 +1,491 @@
 {
-  "total": 88,
+  "total": 108,
   "tracks": [
+    {
+      "id": "3lOMJTQTd6J34faYwASc33",
+      "name": "POP!",
+      "added_at": "2023-12-17T10:17:03Z",
+      "popularity": 76,
+      "duration_ms": 168106,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33",
+      "preview_url": "https://p.scdn.co/mp3-preview/f862d766dbc445cd48f57a65312315272d54f5aa?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "0wqjfojWuTcbEvwaizvTMw",
+        "name": "IM NAYEON",
+        "release_date": "2022-06-24",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2735fb4a9cfbeb3b7beb337ed02",
+        "url": "https://open.spotify.com/album/0wqjfojWuTcbEvwaizvTMw"
+      },
+      "artists": [
+        {
+          "id": "1VwDG9aBflQupaFNjUru9A",
+          "name": "NAYEON",
+          "url": "https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A"
+        }
+      ]
+    },
+    {
+      "id": "53H3sGmqiXWO4MwuZAJfyn",
+      "name": "Devil by the Window",
+      "added_at": "2023-12-17T10:15:29Z",
+      "popularity": 71,
+      "duration_ms": 186471,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/53H3sGmqiXWO4MwuZAJfyn",
+      "preview_url": "https://p.scdn.co/mp3-preview/23151e94249bca14419f28f5624da638c412bb96?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "7gkb4MxKe9rnoR3wxbJXJg",
+        "name": "The Name Chapter: TEMPTATION",
+        "release_date": "2023-01-27",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733bb056e3160b85ee86c1194d",
+        "url": "https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg"
+      },
+      "artists": [
+        {
+          "id": "0ghlgldX5Dd6720Q3qFyQB",
+          "name": "TOMORROW X TOGETHER",
+          "url": "https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB"
+        }
+      ]
+    },
+    {
+      "id": "2pIUpMhHL6L9Z5lnKxJJr9",
+      "name": "Attention",
+      "added_at": "2023-12-17T09:46:34Z",
+      "popularity": 81,
+      "duration_ms": 180066,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/2pIUpMhHL6L9Z5lnKxJJr9",
+      "preview_url": "https://p.scdn.co/mp3-preview/7794e6d9c9f2b8ce10cc7e2564b75e2ca2877f2d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "1HMLpmZAnNyl9pxvOnTovV",
+        "name": "NewJeans 1st EP 'New Jeans'",
+        "release_date": "2022-08-01",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2739d28fd01859073a3ae6ea209",
+        "url": "https://open.spotify.com/album/1HMLpmZAnNyl9pxvOnTovV"
+      },
+      "artists": [
+        {
+          "id": "6HvZYsbFfjnjFrWF950C9d",
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ]
+    },
+    {
+      "id": "2QqHUcl4IIQmcbPOBF7eeo",
+      "name": "Anti GanDJa",
+      "added_at": "2023-12-17T09:45:45Z",
+      "popularity": 21,
+      "duration_ms": 217399,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/2QqHUcl4IIQmcbPOBF7eeo",
+      "preview_url": "https://p.scdn.co/mp3-preview/487e8826bdc2f682d1408794a48b0d9453f09847?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "3mVPLw5tUXwH54msEN8vUs",
+        "name": "Those Shocking Shaking Days: Indonesian Hard, Psychedelic, Progressive Rock and Funk 1970-1978",
+        "release_date": "2011-03-08",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273544f41c6052de617dfcd77a2",
+        "url": "https://open.spotify.com/album/3mVPLw5tUXwH54msEN8vUs"
+      },
+      "artists": [
+        {
+          "id": "5WtF5P4BDAV8Lu0cYpHONa",
+          "name": "Brim",
+          "url": "https://open.spotify.com/artist/5WtF5P4BDAV8Lu0cYpHONa"
+        }
+      ]
+    },
+    {
+      "id": "7bwfO3WylPFu98ZjqpFJ0Y",
+      "name": "Gelora Asmara",
+      "added_at": "2023-12-17T09:43:31Z",
+      "popularity": 0,
+      "duration_ms": 389973,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/7bwfO3WylPFu98ZjqpFJ0Y",
+      "preview_url": null,
+      "album": {
+        "id": "66uPZswiHQERGztBJHy4ga",
+        "name": "Two Years After",
+        "release_date": "2012-05-19",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737e00a27621cb0d07f0d91415",
+        "url": "https://open.spotify.com/album/66uPZswiHQERGztBJHy4ga"
+      },
+      "artists": [
+        {
+          "id": "2gOoteru58vMTOInfiLNk8",
+          "name": "Groove Bandit",
+          "url": "https://open.spotify.com/artist/2gOoteru58vMTOInfiLNk8"
+        }
+      ]
+    },
+    {
+      "id": "0NvJy5gPR591Qh2z22EAak",
+      "name": "Bizarre Love Triangle '94",
+      "added_at": "2023-12-17T09:42:46Z",
+      "popularity": 52,
+      "duration_ms": 234360,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/0NvJy5gPR591Qh2z22EAak",
+      "preview_url": "https://p.scdn.co/mp3-preview/38931426aed6298fa375e49d7fbeb4fa2f7fb420?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "6cjugjFHB3T1alJxAffyxQ",
+        "name": "The Best of New Order",
+        "release_date": "1994-01-01",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c621e025f32cc28a1ec86e3b",
+        "url": "https://open.spotify.com/album/6cjugjFHB3T1alJxAffyxQ"
+      },
+      "artists": [
+        {
+          "id": "0yNLKJebCb8Aueb54LYya3",
+          "name": "New Order",
+          "url": "https://open.spotify.com/artist/0yNLKJebCb8Aueb54LYya3"
+        }
+      ]
+    },
+    {
+      "id": "5sdQOyqq2IDhvmx2lHOpwd",
+      "name": "Super Shy",
+      "added_at": "2023-12-17T09:41:59Z",
+      "popularity": 90,
+      "duration_ms": 154666,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/5sdQOyqq2IDhvmx2lHOpwd",
+      "preview_url": "https://p.scdn.co/mp3-preview/dab062e2cc708a2680ce84953a3581c5a679a230?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "5V729UqvhwNOcMejx0m55I",
+        "name": "NewJeans 'Super Shy'",
+        "release_date": "2023-07-07",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733d98a0ae7c78a3a9babaf8af",
+        "url": "https://open.spotify.com/album/5V729UqvhwNOcMejx0m55I"
+      },
+      "artists": [
+        {
+          "id": "6HvZYsbFfjnjFrWF950C9d",
+          "name": "NewJeans",
+          "url": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+        }
+      ]
+    },
+    {
+      "id": "5I79GNku8Oa7dhfM9ZOmuZ",
+      "name": "Black and Yellow",
+      "added_at": "2023-12-17T09:39:58Z",
+      "popularity": 58,
+      "duration_ms": 217666,
+      "explicit": true,
+      "url": "https://open.spotify.com/track/5I79GNku8Oa7dhfM9ZOmuZ",
+      "preview_url": "https://p.scdn.co/mp3-preview/02277b67c16fe029946e4e0282579b03af71e058?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "22rKa9MG4cHIRxvL1Vbs0q",
+        "name": "Rolling Papers (Deluxe 10 Year Anniversary Edition)",
+        "release_date": "2021-03-26",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273117ad8c714eeb4cf950101d5",
+        "url": "https://open.spotify.com/album/22rKa9MG4cHIRxvL1Vbs0q"
+      },
+      "artists": [
+        {
+          "id": "137W8MRPWKqSmrBGDBFSop",
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
+        }
+      ]
+    },
+    {
+      "id": "7MwwPyZJ7UKFROj2oVnH6R",
+      "name": "Caramelldansen",
+      "added_at": "2023-12-17T09:38:20Z",
+      "popularity": 72,
+      "duration_ms": 175333,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/7MwwPyZJ7UKFROj2oVnH6R",
+      "preview_url": "https://p.scdn.co/mp3-preview/8106970dacbd2e6e1bb1fb5a668a38ddb65ee313?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "5zvb76rGpvP8oDE2n3tytx",
+        "name": "Supergott (Speedy Mixes)",
+        "release_date": "2008-01-05",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27339a6368dd1efeaea760d1d46",
+        "url": "https://open.spotify.com/album/5zvb76rGpvP8oDE2n3tytx"
+      },
+      "artists": [
+        {
+          "id": "73r19TWxqEnnFf6O1u1e92",
+          "name": "Caramella Girls",
+          "url": "https://open.spotify.com/artist/73r19TWxqEnnFf6O1u1e92"
+        }
+      ]
+    },
+    {
+      "id": "0WQiDwKJclirSYG9v5tayI",
+      "name": "There Is a Light That Never Goes Out - 2011 Remaster",
+      "added_at": "2023-12-17T09:36:23Z",
+      "popularity": 83,
+      "duration_ms": 244586,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI",
+      "preview_url": "https://p.scdn.co/mp3-preview/23f6c629d7072e1adbe90b0a155b1110b2f94714?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "5Y0p2XCgRRIjna91aQE8q7",
+        "name": "The Queen Is Dead",
+        "release_date": "1986-06-16",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ada101c2e9e97feb8fae37a9",
+        "url": "https://open.spotify.com/album/5Y0p2XCgRRIjna91aQE8q7"
+      },
+      "artists": [
+        {
+          "id": "3yY2gUcIsjMr8hjo51PoJ8",
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ]
+    },
+    {
+      "id": "131yybV7A3TmC34a0qE8u8",
+      "name": "Tunak Tunak Tun",
+      "added_at": "2023-12-17T09:35:34Z",
+      "popularity": 59,
+      "duration_ms": 303133,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/131yybV7A3TmC34a0qE8u8",
+      "preview_url": "https://p.scdn.co/mp3-preview/75533b079e08ea8ec63ce0a5ac4953cb5094dacd?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "0xEUOENXKtOMg0BVr34jur",
+        "name": "Tunak Tunak Tun",
+        "release_date": "1998-02-28",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273fa301e01c3ec11e2e06ca875",
+        "url": "https://open.spotify.com/album/0xEUOENXKtOMg0BVr34jur"
+      },
+      "artists": [
+        {
+          "id": "6wa1AsxB9oJP7lwNSmbcYx",
+          "name": "Daler Mehndi",
+          "url": "https://open.spotify.com/artist/6wa1AsxB9oJP7lwNSmbcYx"
+        }
+      ]
+    },
+    {
+      "id": "52Bg6oaos7twR7IUtEpqcE",
+      "name": "Between The Bars",
+      "added_at": "2023-12-17T09:33:34Z",
+      "popularity": 69,
+      "duration_ms": 141280,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE",
+      "preview_url": "https://p.scdn.co/mp3-preview/0d6140abf71dae24ceabe8cac06a873a1160be8c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "5hryhrT7wEdLnZCbJX9F6L",
+        "name": "Either/Or",
+        "release_date": "1997-02-25",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ea7ac80765aa4549d18a27b9",
+        "url": "https://open.spotify.com/album/5hryhrT7wEdLnZCbJX9F6L"
+      },
+      "artists": [
+        {
+          "id": "2ApaG60P4r0yhBoDCGD8YG",
+          "name": "Elliott Smith",
+          "url": "https://open.spotify.com/artist/2ApaG60P4r0yhBoDCGD8YG"
+        }
+      ]
+    },
+    {
+      "id": "3gxEZXUjrNbl3TlSrTGbR5",
+      "name": "Modern Love - 2018 Remaster",
+      "added_at": "2023-12-17T09:30:59Z",
+      "popularity": 71,
+      "duration_ms": 288339,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/3gxEZXUjrNbl3TlSrTGbR5",
+      "preview_url": "https://p.scdn.co/mp3-preview/40a35b826cb714515fd453645169c1d44a0e0040?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "4NwG11AsDJluT732lSjMrV",
+        "name": "Let's Dance (2018 Remaster)",
+        "release_date": "1983-04-14",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273db0917ddd4139153bc1d1a1a",
+        "url": "https://open.spotify.com/album/4NwG11AsDJluT732lSjMrV"
+      },
+      "artists": [
+        {
+          "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+          "name": "David Bowie",
+          "url": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+        }
+      ]
+    },
+    {
+      "id": "5KUNwkaNf8l5A9sXZhiCgI",
+      "name": "Rapp Snitch Knishes feat. Mr. Fantastik",
+      "added_at": "2023-12-17T09:28:32Z",
+      "popularity": 80,
+      "duration_ms": 172893,
+      "explicit": true,
+      "url": "https://open.spotify.com/track/5KUNwkaNf8l5A9sXZhiCgI",
+      "preview_url": "https://p.scdn.co/mp3-preview/c95692c16a296cde37cd35d8a44503e691174511?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "1UcS2nqUhxrZjrBZ3tHk2N",
+        "name": "MM...FOOD",
+        "release_date": "2004-11-16",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27352f194d02c39909d1b284799",
+        "url": "https://open.spotify.com/album/1UcS2nqUhxrZjrBZ3tHk2N"
+      },
+      "artists": [
+        {
+          "id": "2pAWfrd7WFF3XhVt9GooDL",
+          "name": "MF DOOM",
+          "url": "https://open.spotify.com/artist/2pAWfrd7WFF3XhVt9GooDL"
+        }
+      ]
+    },
+    {
+      "id": "30tie454RN2304xzAu5Din",
+      "name": "Where U Are",
+      "added_at": "2023-12-17T09:25:03Z",
+      "popularity": 42,
+      "duration_ms": 232946,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/30tie454RN2304xzAu5Din",
+      "preview_url": "https://p.scdn.co/mp3-preview/4465067641ba3abd7a6301255a3243c2e93f7f1c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "0wfyoAtPlgWuxo26vPPttJ",
+        "name": "Where U Are",
+        "release_date": "2016-01-28",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d53f7c72eccea3c4223dc9ce",
+        "url": "https://open.spotify.com/album/0wfyoAtPlgWuxo26vPPttJ"
+      },
+      "artists": [
+        {
+          "id": "2KEqzdPS7M5YwGmiuPTdr5",
+          "name": "Rina Sawayama",
+          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
+        }
+      ]
+    },
+    {
+      "id": "0w5Bdu51Ka25Pf3hojsKHh",
+      "name": "Hard Times",
+      "added_at": "2023-12-17T09:15:59Z",
+      "popularity": 76,
+      "duration_ms": 182693,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/0w5Bdu51Ka25Pf3hojsKHh",
+      "preview_url": "https://p.scdn.co/mp3-preview/eb046d4ef05b36f6509b1e764ff2919b22c2baed?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "1c9Sx7XdXuMptGyfCB6hHs",
+        "name": "After Laughter",
+        "release_date": "2017-05-12",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273dbd83e179619408e5d05cc99",
+        "url": "https://open.spotify.com/album/1c9Sx7XdXuMptGyfCB6hHs"
+      },
+      "artists": [
+        {
+          "id": "74XFHRwlV6OrjEM0A2NCMF",
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ]
+    },
+    {
+      "id": "1DIXPcTDzTj8ZMHt3PDt8p",
+      "name": "Gangsta's Paradise",
+      "added_at": "2023-12-17T09:14:47Z",
+      "popularity": 87,
+      "duration_ms": 240693,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/1DIXPcTDzTj8ZMHt3PDt8p",
+      "preview_url": "https://p.scdn.co/mp3-preview/1454c63a66c27ac745f874d6c113270a9c62d28e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "0BJYNipGyMrw4ngKDJXzXZ",
+        "name": "Gangsta's Paradise",
+        "release_date": "1995-11-07",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c31d3c870a3dbaf7b53186cc",
+        "url": "https://open.spotify.com/album/0BJYNipGyMrw4ngKDJXzXZ"
+      },
+      "artists": [
+        {
+          "id": "3y24n3XhZ96wgwRXjvS17T",
+          "name": "Coolio",
+          "url": "https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T"
+        },
+        {
+          "id": "2LhsePRtgCo4THVKULQBL7",
+          "name": "L.V.",
+          "url": "https://open.spotify.com/artist/2LhsePRtgCo4THVKULQBL7"
+        }
+      ]
+    },
+    {
+      "id": "5TxRUOsGeWeRl3xOML59Ai",
+      "name": "ARE WE STILL FRIENDS?",
+      "added_at": "2023-12-17T09:13:20Z",
+      "popularity": 83,
+      "duration_ms": 265480,
+      "explicit": true,
+      "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai",
+      "preview_url": "https://p.scdn.co/mp3-preview/a964890412345dbd4686806312f6a074e089f385?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "5zi7WsKlIiUXv09tbGLKsE",
+        "name": "IGOR",
+        "release_date": "2019-05-17",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2737005885df706891a3c182a57",
+        "url": "https://open.spotify.com/album/5zi7WsKlIiUXv09tbGLKsE"
+      },
+      "artists": [
+        {
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ]
+    },
+    {
+      "id": "5FQ9NDyx3KZXhovWWq4Gxo",
+      "name": "Should've Been Me",
+      "added_at": "2023-12-17T09:11:06Z",
+      "popularity": 68,
+      "duration_ms": 191774,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo",
+      "preview_url": "https://p.scdn.co/mp3-preview/2572aad7644e54ea4c8bbac6d1069aee792e8fb8?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "4rcinMUHEWOxpIwJo2sf22",
+        "name": "Laurel Hell",
+        "release_date": "2022-02-04",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d8041a531487d0e0e4cfb41f",
+        "url": "https://open.spotify.com/album/4rcinMUHEWOxpIwJo2sf22"
+      },
+      "artists": [
+        {
+          "id": "2uYWxilOVlUdk4oV9DvwqK",
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ]
+    },
+    {
+      "id": "7aQjPecQdIuNd1sz3KCDhD",
+      "name": "Lovefool",
+      "added_at": "2023-12-17T09:06:49Z",
+      "popularity": 81,
+      "duration_ms": 193953,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/7aQjPecQdIuNd1sz3KCDhD",
+      "preview_url": "https://p.scdn.co/mp3-preview/f548f1a669b14992fc5d1c2339f8eb114c175f3c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "56vFkneGivqQcoNQq362iZ",
+        "name": "First Band On The Moon (Remastered)",
+        "release_date": "1996-01-01",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2730aac8ca880151fda470e91af",
+        "url": "https://open.spotify.com/album/56vFkneGivqQcoNQq362iZ"
+      },
+      "artists": [
+        {
+          "id": "1tqZaCwM57UFKjWoYwMLrw",
+          "name": "The Cardigans",
+          "url": "https://open.spotify.com/artist/1tqZaCwM57UFKjWoYwMLrw"
+        }
+      ]
+    },
     {
       "id": "42TdMRJSRaxgEz1O3ouvDT",
       "name": "Oceans & Engines",
@@ -260,7 +745,7 @@
       "id": "6hm9OpcIiVgEWwEZuNuXDM",
       "name": "A Strange Kind Of Beautiful",
       "added_at": "2023-07-14T18:22:37Z",
-      "popularity": 18,
+      "popularity": 17,
       "duration_ms": 212052,
       "explicit": false,
       "url": "https://open.spotify.com/track/6hm9OpcIiVgEWwEZuNuXDM",
@@ -534,7 +1019,7 @@
       "id": "3oUam1JxcuLVFKaAr5MWnN",
       "name": "We Were Never Really Friends",
       "added_at": "2023-06-04T18:16:46Z",
-      "popularity": 27,
+      "popularity": 26,
       "duration_ms": 204325,
       "explicit": false,
       "url": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN",
