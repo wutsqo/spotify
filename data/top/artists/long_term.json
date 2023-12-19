@@ -128,6 +128,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian r&b"],
+      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+      "id": "2kxP07DLgs4xlWz8YHlvfh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb74855e013588fd276b25b337",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517474855e013588fd276b25b337",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17874855e013588fd276b25b337",
+          "width": 160
+        }
+      ],
+      "name": "NIKI",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
       "followers": { "href": null, "total": 0 },
@@ -161,36 +191,6 @@
       "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian r&b"],
-      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
-      "id": "2kxP07DLgs4xlWz8YHlvfh",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb74855e013588fd276b25b337",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517474855e013588fd276b25b337",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17874855e013588fd276b25b337",
-          "width": 160
-        }
-      ],
-      "name": "NIKI",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
     },
     {
       "external_urls": {
@@ -770,36 +770,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
-      "id": "1McMsnEElThX1knmY4oliG",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e03a98785f3658f0b6461ec4",
-          "width": 160
-        }
-      ],
-      "name": "Olivia Rodrigo",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
       },
       "followers": { "href": null, "total": 0 },
@@ -827,6 +797,36 @@
       "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
+      "id": "1McMsnEElThX1knmY4oliG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe03a98785f3658f0b6461ec4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e03a98785f3658f0b6461ec4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e03a98785f3658f0b6461ec4",
+          "width": 160
+        }
+      ],
+      "name": "Olivia Rodrigo",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
     },
     {
       "external_urls": {
@@ -1286,36 +1286,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop", "japanese teen pop"],
-      "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
-      "id": "1qM11R4ylJyQiPJ0DffE9z",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb79f98bece3624ebcd0b036bc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517479f98bece3624ebcd0b036bc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17879f98bece3624ebcd0b036bc",
-          "width": 160
-        }
-      ],
-      "name": "Lilas Ikuta",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       "followers": { "href": null, "total": 0 },
@@ -1349,6 +1319,36 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["j-pop", "japanese teen pop"],
+      "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+      "id": "1qM11R4ylJyQiPJ0DffE9z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb79f98bece3624ebcd0b036bc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517479f98bece3624ebcd0b036bc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17879f98bece3624ebcd0b036bc",
+          "width": 160
+        }
+      ],
+      "name": "Lilas Ikuta",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
     },
     {
       "external_urls": {
@@ -1510,36 +1510,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["canadian pop", "pop"],
-      "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
-      "id": "1uNFoZAHBGtllmzznpCI3s",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748ae7f2aaa9817a704a87ea36",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788ae7f2aaa9817a704a87ea36",
-          "width": 160
-        }
-      ],
-      "name": "Justin Bieber",
-      "popularity": 88,
-      "type": "artist",
-      "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
       },
       "followers": { "href": null, "total": 0 },
@@ -1567,6 +1537,36 @@
       "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["canadian pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
+      "id": "1uNFoZAHBGtllmzznpCI3s",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8ae7f2aaa9817a704a87ea36",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051748ae7f2aaa9817a704a87ea36",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1788ae7f2aaa9817a704a87ea36",
+          "width": 160
+        }
+      ],
+      "name": "Justin Bieber",
+      "popularity": 88,
+      "type": "artist",
+      "uri": "spotify:artist:1uNFoZAHBGtllmzznpCI3s"
     },
     {
       "external_urls": {
@@ -1750,36 +1750,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
-      "id": "4Uc8Dsxct0oMqx0P6i60ea",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c1c8fa15e08cb31eeb03b771",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c1c8fa15e08cb31eeb03b771",
-          "width": 160
-        }
-      ],
-      "name": "Conan Gray",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
       },
       "followers": { "href": null, "total": 0 },
@@ -1807,6 +1777,36 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
+      "id": "4Uc8Dsxct0oMqx0P6i60ea",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c1c8fa15e08cb31eeb03b771",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c1c8fa15e08cb31eeb03b771",
+          "width": 160
+        }
+      ],
+      "name": "Conan Gray",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
     },
     {
       "external_urls": {
@@ -1870,6 +1870,41 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["adult standards", "easy listening", "lounge"],
+      "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+      "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+      "images": [
+        {
+          "height": 650,
+          "url": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
+          "width": 999
+        },
+        {
+          "height": 416,
+          "url": "https://i.scdn.co/image/883de3e492364891543bc0313ffe516626778a16",
+          "width": 640
+        },
+        {
+          "height": 130,
+          "url": "https://i.scdn.co/image/810f29651e05c9eae5a31f8151c2e05dc46390f9",
+          "width": 200
+        },
+        {
+          "height": 42,
+          "url": "https://i.scdn.co/image/a283ecdc6252ae305c53d283846cae2e8b22e94c",
+          "width": 64
+        }
+      ],
+      "name": "Frank Sinatra",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
       },
       "followers": { "href": null, "total": 0 },
@@ -1902,41 +1937,6 @@
       "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["adult standards", "easy listening", "lounge"],
-      "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
-      "id": "1Mxqyy3pSjf8kZZL4QVxS0",
-      "images": [
-        {
-          "height": 650,
-          "url": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
-          "width": 999
-        },
-        {
-          "height": 416,
-          "url": "https://i.scdn.co/image/883de3e492364891543bc0313ffe516626778a16",
-          "width": 640
-        },
-        {
-          "height": 130,
-          "url": "https://i.scdn.co/image/810f29651e05c9eae5a31f8151c2e05dc46390f9",
-          "width": 200
-        },
-        {
-          "height": 42,
-          "url": "https://i.scdn.co/image/a283ecdc6252ae305c53d283846cae2e8b22e94c",
-          "width": 64
-        }
-      ],
-      "name": "Frank Sinatra",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
     },
     {
       "external_urls": {
@@ -2144,7 +2144,7 @@
         }
       ],
       "name": "benny blanco",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
     },
@@ -2551,36 +2551,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bubblegrunge", "chicago indie", "indie pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/2vnB6tuQMaQpORiRdvXF9H",
-      "id": "2vnB6tuQMaQpORiRdvXF9H",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebbf42b607fb398365296230b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174bf42b607fb398365296230b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178bf42b607fb398365296230b0",
-          "width": 160
-        }
-      ],
-      "name": "Beach Bunny",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:2vnB6tuQMaQpORiRdvXF9H"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
       },
       "followers": { "href": null, "total": 0 },
@@ -2638,6 +2608,36 @@
       "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:3KedxarmBCyFBevnqQHy3P"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bubblegrunge", "chicago indie", "indie pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/2vnB6tuQMaQpORiRdvXF9H",
+      "id": "2vnB6tuQMaQpORiRdvXF9H",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebbf42b607fb398365296230b0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174bf42b607fb398365296230b0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178bf42b607fb398365296230b0",
+          "width": 160
+        }
+      ],
+      "name": "Beach Bunny",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:2vnB6tuQMaQpORiRdvXF9H"
     },
     {
       "external_urls": {
@@ -2856,6 +2856,42 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "art rock",
+        "classic rock",
+        "glam rock",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+      "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b78f77c5583ae99472dd4a49",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b78f77c5583ae99472dd4a49",
+          "width": 160
+        }
+      ],
+      "name": "David Bowie",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY"
       },
       "followers": { "href": null, "total": 0 },
@@ -2919,7 +2955,7 @@
         }
       ],
       "name": "Vierra",
-      "popularity": 63,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:1WX2v0BiEW19Vw7xmznLdZ"
     },
@@ -3012,36 +3048,6 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:6MDME20pz9RveH9rEXvrOM"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["alt z", "pop"],
-      "href": "https://api.spotify.com/v1/artists/45dkTj5sMRSjrmBSBeiHym",
-      "id": "45dkTj5sMRSjrmBSBeiHym",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb846308bf9bf7d3183958b3a6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174846308bf9bf7d3183958b3a6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178846308bf9bf7d3183958b3a6",
-          "width": 160
-        }
-      ],
-      "name": "Tate McRae",
-      "popularity": 85,
-      "type": "artist",
-      "uri": "spotify:artist:45dkTj5sMRSjrmBSBeiHym"
     }
   ]
 }
