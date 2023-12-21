@@ -1,6 +1,25 @@
 {
-  "total": 8,
+  "total": 9,
   "albums": [
+    {
+      "id": "0um9FI6BLBldL5POP4D4Cw",
+      "name": "The Stone Roses",
+      "added_at": "2023-12-20T13:50:24Z",
+      "type": "album",
+      "total_tracks": 12,
+      "url": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273cf1f6466a493eb73d6d9d280",
+      "release_date": "1989-05-02",
+      "artists": [
+        {
+          "id": "1lYT0A0LV5DUfxr6doRP3d",
+          "name": "The Stone Roses",
+          "url": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+        }
+      ],
+      "genres": [],
+      "popularity": 68
+    },
     {
       "id": "2xkZV2Hl1Omi8rk2D7t5lN",
       "name": "The New Abnormal",
