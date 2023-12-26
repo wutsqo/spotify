@@ -1,42 +1,6 @@
 {
-  "total": 2,
+  "total": 1,
   "playlists": [
-    {
-      "collaborative": false,
-      "description": "",
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/5TdgOffe2sDXXNhwX3bBuR"
-      },
-      "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR",
-      "id": "5TdgOffe2sDXXNhwX3bBuR",
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb1214b559f50db79dc5a7a705",
-          "width": null
-        }
-      ],
-      "name": "life support",
-      "owner": {
-        "display_name": "wutsqo",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-        },
-        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-        "id": "urwatilwutsqo",
-        "type": "user",
-        "uri": "spotify:user:urwatilwutsqo"
-      },
-      "primary_color": null,
-      "public": true,
-      "snapshot_id": "MTM4LGYxMDFlZmEzZWNkZTZlNmE0ZGY5YTQ0YjIzNjQ5ZGY1MWUyM2Y1Nzc=",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR/tracks",
-        "total": 61
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:5TdgOffe2sDXXNhwX3bBuR"
-    },
     {
       "collaborative": false,
       "description": "Shareable Liked Songs playlist synchronised by spotify-to-github.",
@@ -75,10 +39,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "OCw4MWU3NWNmOTc1N2ViZWRmMTg0MTRkYzUxZDM5NmE4NTQ4NmI2OTg1",
+      "snapshot_id": "OSwxNjdiYzUxN2I1NzBlYjFjZTkyZThiMzRhZjlkODkyNzFhNzExOTM2",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/0pjLwygOBrPYVc0rG417iE/tracks",
-        "total": 129
+        "total": 130
       },
       "type": "playlist",
       "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE"

@@ -1,6 +1,25 @@
 {
-  "total": 9,
+  "total": 10,
   "albums": [
+    {
+      "id": "5j6YJDxFLm027k83JLRjno",
+      "name": "At Their Very Best (Live from Madison Square Garden, New York, 07.11.22)",
+      "added_at": "2023-12-25T15:45:36Z",
+      "type": "album",
+      "total_tracks": 25,
+      "url": "https://open.spotify.com/album/5j6YJDxFLm027k83JLRjno",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273707f997692c3367572737a44",
+      "release_date": "2023-01-06",
+      "artists": [
+        {
+          "id": "3mIj9lX2MWuHmhNCA7LSCW",
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ],
+      "genres": [],
+      "popularity": 63
+    },
     {
       "id": "0um9FI6BLBldL5POP4D4Cw",
       "name": "The Stone Roses",
@@ -113,7 +132,7 @@
         }
       ],
       "genres": [],
-      "popularity": 31
+      "popularity": 32
     },
     {
       "id": "0DMdiWcqnutCi81EqBXkF8",
