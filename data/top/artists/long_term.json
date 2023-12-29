@@ -554,7 +554,7 @@
         }
       ],
       "name": "Ed Sheeran",
-      "popularity": 87,
+      "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
     },
@@ -794,7 +794,7 @@
         }
       ],
       "name": "Reality Club",
-      "popularity": 62,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
     },
@@ -884,7 +884,7 @@
         }
       ],
       "name": "ヨルシカ",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
     },
@@ -1280,7 +1280,7 @@
         }
       ],
       "name": "YUKIKA",
-      "popularity": 44,
+      "popularity": 45,
       "type": "artist",
       "uri": "spotify:artist:4RfI1z9u2xIc5Qnqac4JbO"
     },
@@ -1750,36 +1750,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
-      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
-      "id": "0bAsR2unSRpn6BQPEnNlZm",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
-          "width": 160
-        }
-      ],
-      "name": "Aimer",
-      "popularity": 65,
-      "type": "artist",
-      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
       },
       "followers": { "href": null, "total": 0 },
@@ -1870,6 +1840,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["anime", "anime rock", "j-pixie", "j-pop", "j-poprock"],
+      "href": "https://api.spotify.com/v1/artists/0bAsR2unSRpn6BQPEnNlZm",
+      "id": "0bAsR2unSRpn6BQPEnNlZm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
+          "width": 160
+        }
+      ],
+      "name": "Aimer",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:0bAsR2unSRpn6BQPEnNlZm"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
       },
       "followers": { "href": null, "total": 0 },
@@ -1899,7 +1899,7 @@
         }
       ],
       "name": "Frank Sinatra",
-      "popularity": 84,
+      "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
     },
@@ -1934,7 +1934,7 @@
         }
       ],
       "name": "Queen",
-      "popularity": 83,
+      "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
     },
@@ -2174,7 +2174,7 @@
         }
       ],
       "name": "aespa",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
     },
@@ -2234,7 +2234,7 @@
         }
       ],
       "name": "Halsey",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
     },
@@ -2545,7 +2545,7 @@
         }
       ],
       "name": "Dewa 19",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d"
     },
@@ -2695,7 +2695,7 @@
         }
       ],
       "name": "Ariana Grande",
-      "popularity": 89,
+      "popularity": 90,
       "type": "artist",
       "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
     },
