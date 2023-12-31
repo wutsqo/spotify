@@ -563,7 +563,7 @@
         }
       ],
       "name": "Paramore",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
     },
@@ -599,36 +599,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["boy band", "pop"],
-      "href": "https://api.spotify.com/v1/artists/5Rl15oVamLq7FbSb0NNBNy",
-      "id": "5Rl15oVamLq7FbSb0NNBNy",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5048d9616b459ef90f04b6d8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745048d9616b459ef90f04b6d8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785048d9616b459ef90f04b6d8",
-          "width": 160
-        }
-      ],
-      "name": "5 Seconds of Summer",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
       },
       "followers": { "href": null, "total": 0 },
@@ -656,6 +626,36 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["boy band", "pop"],
+      "href": "https://api.spotify.com/v1/artists/5Rl15oVamLq7FbSb0NNBNy",
+      "id": "5Rl15oVamLq7FbSb0NNBNy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5048d9616b459ef90f04b6d8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745048d9616b459ef90f04b6d8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785048d9616b459ef90f04b6d8",
+          "width": 160
+        }
+      ],
+      "name": "5 Seconds of Summer",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
     },
     {
       "external_urls": {
@@ -1051,7 +1051,7 @@
         }
       ],
       "name": "Elliott Smith",
-      "popularity": 63,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:2ApaG60P4r0yhBoDCGD8YG"
     },
@@ -1081,7 +1081,7 @@
         }
       ],
       "name": "The Stone Roses",
-      "popularity": 58,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:1lYT0A0LV5DUfxr6doRP3d"
     },
@@ -1321,7 +1321,7 @@
         }
       ],
       "name": "Refo Dan Fauna",
-      "popularity": 32,
+      "popularity": 31,
       "type": "artist",
       "uri": "spotify:artist:6ILCDTreFre4EDfBZxCGxi"
     },
@@ -1354,6 +1354,36 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:7cYEt1pqMgXJdq00hAwVpT"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie pop", "la indie", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/1r1uxoy19fzMxunt3ONAkG",
+      "id": "1r1uxoy19fzMxunt3ONAkG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb626686e362d30246e816cc5b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174626686e362d30246e816cc5b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178626686e362d30246e816cc5b",
+          "width": 160
+        }
+      ],
+      "name": "Phoebe Bridgers",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
     },
     {
       "external_urls": {
@@ -1817,6 +1847,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop", "uk pop"],
+      "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+      "id": "2wY79sveU1sp5g7SokKOiI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a8eef8322e55fc49ab436eea",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a8eef8322e55fc49ab436eea",
+          "width": 160
+        }
+      ],
+      "name": "Sam Smith",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
       },
       "followers": { "href": null, "total": 0 },
@@ -1949,36 +2009,6 @@
       "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:6yJ6QQ3Y5l0s0tn7b0arrO"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop", "uk pop"],
-      "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
-      "id": "2wY79sveU1sp5g7SokKOiI",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba8eef8322e55fc49ab436eea",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a8eef8322e55fc49ab436eea",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a8eef8322e55fc49ab436eea",
-          "width": 160
-        }
-      ],
-      "name": "Sam Smith",
-      "popularity": 83,
-      "type": "artist",
-      "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
     },
     {
       "external_urls": {
@@ -2168,7 +2198,7 @@
         }
       ],
       "name": "Lomba Sihir",
-      "popularity": 50,
+      "popularity": 51,
       "type": "artist",
       "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
     },
@@ -2264,7 +2294,7 @@
         }
       ],
       "name": "Jason Mraz",
-      "popularity": 71,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
     },
@@ -3068,36 +3098,6 @@
       "popularity": 85,
       "type": "artist",
       "uri": "spotify:artist:53XhwfbYqKCa1cC15pYq2q"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "bedroom r&b"],
-      "href": "https://api.spotify.com/v1/artists/5y8tKLUfMvliMe8IKamR32",
-      "id": "5y8tKLUfMvliMe8IKamR32",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebad447187a35f422307e88ad3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ad447187a35f422307e88ad3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ad447187a35f422307e88ad3",
-          "width": 160
-        }
-      ],
-      "name": "d4vd",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:5y8tKLUfMvliMe8IKamR32"
     }
   ]
 }
