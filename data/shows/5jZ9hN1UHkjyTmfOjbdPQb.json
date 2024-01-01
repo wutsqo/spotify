@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2xQG9sxSsRP6uq0gFTZ431/clip_71518_146384.mp3",
+      "description": "The 3 women had a lot of drama between them. They all hated that they were constantly being compared to one another. Sure, they all ran in the same circles - knew all the same people, but was that really a reason to keep them in competition with one another? Each one felt like they were above the other 2. But Kanae hated Miyuki for a reason that ran a lot deeper than just competition. She hated that her love interest spent a lot of time with Miyuki. What did she have that Kanae didn’t? Kanae stated she had never felt jealousy in her entire life - till this moment. She couldn’t help but wonder… if her love interest was going to write a book on female serial killers - why couldn’t he just have wrote the book about her? Today’s case dives into the lives of Japan’s 3 most notorious female serial killers and their ongoing hatred for each other in prison. It all starts with a man and ends with a bizarre death in prison.  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4129470,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7JTqTZquTmnHoOgN44EYk8"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7JTqTZquTmnHoOgN44EYk8",
+      "html_description": "<p>The 3 women had a lot of drama between them. They all hated that they were constantly being compared to one another. Sure, they all ran in the same circles - knew all the same people, but was that really a reason to keep them in competition with one another?</p><br/><p>Each one felt like they were above the other 2.</p><br/><p>But Kanae hated Miyuki for a reason that ran a lot deeper than just competition. She hated that her love interest spent a lot of time with Miyuki. What did she have that Kanae didn’t?</p><br/><p>Kanae stated she had never felt jealousy in her entire life - till this moment. She couldn’t help but wonder… if her love interest was going to write a book on female serial killers - why couldn’t he just have wrote the book about her?</p><br/><p>Today’s case dives into the lives of Japan’s 3 most notorious female serial killers and their ongoing hatred for each other in prison.</p><br/><p>It all starts with a man and ends with a bizarre death in prison.</p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "7JTqTZquTmnHoOgN44EYk8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Two of Japan’s Most Notorious Female Killers DESPISE Each other In Prison Because of a Man ",
+      "release_date": "2023-12-31",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:7JTqTZquTmnHoOgN44EYk8"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6go0yKvBPrOpw1HEXGGqMW/clip_1040650_1114350.mp3",
       "description": "16-year-old Gao was one of the most popular girls in the entire boarding school - till she went missing. All the students had their own little theories on what happened. Some believed she ran off with a guy she met online. Others speculated her ex-boyfriend had something to do with it. Or her best friend. Her best friend was the last one to see her alive. But they all agreed - wherever she was now… she was far away from the school. They couldn’t have been more wrong. Gao’s body was found in the locked boy’s restroom in the main building of the boarding school. Her body had signs of torture, SA, and even necrophilia. The students had been living with their dead classmate just 30 feet away from them. And now they were living with a killer.  Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4848233,
@@ -3321,7 +3359,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }
