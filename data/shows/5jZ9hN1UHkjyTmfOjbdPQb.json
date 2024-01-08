@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6iL2fxLCBjAJiAjspfHzxX/clip_1113700_1161500.mp3",
+      "description": "Hellen, Coco, and John were 3 peas in a pod. Hellen was dating John but Coco was her best friend and they did everything together. Right now, they were sitting side by side planning what to do for Hellen’s 19th birthday. Hellen and John shared suggestive looks with each other before the door opened and their nemesis walked in. Camellia. Hellen and Camellia had been in a fight over the same boys and it was coming to an end now. Hellen had finally put Camellia in her place. The 3 best friends’ names were called. They stood up, smiled at each other, and made their way to the front. The judge read their charges - “kidnapping, assault, and torture.” How do you plea? “Not guilty.” They smirked and glared at Camellia.  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 3405545,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/58nZicE2ABh9IerthaRx8J"
+      },
+      "href": "https://api.spotify.com/v1/episodes/58nZicE2ABh9IerthaRx8J",
+      "html_description": "<p>Hellen, Coco, and John were 3 peas in a pod. Hellen was dating John but Coco was her best friend and they did everything together. Right now, they were sitting side by side planning what to do for Hellen’s 19th birthday.</p><br/><p>Hellen and John shared suggestive looks with each other before the door opened and their nemesis walked in. Camellia. Hellen and Camellia had been in a fight over the same boys and it was coming to an end now. Hellen had finally put Camellia in her place.</p><br/><p>The 3 best friends’ names were called. They stood up, smiled at each other, and made their way to the front. The judge read their charges - “kidnapping, assault, and torture.” How do you plea?</p><br/><p>“Not guilty.” They smirked and glared at Camellia.</p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "58nZicE2ABh9IerthaRx8J",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Three High Schoolers SMIRKING In Court After Burning Cigarettes On Classmate’s Private Parts",
+      "release_date": "2024-01-07",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:58nZicE2ABh9IerthaRx8J"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/32YcW4OXqpt6usmoXzSVGD/clip_3364700_3421350.mp3",
       "description": "A young woman was rushed into the emergency room carrying a tiny 7-pound baby- she had blood all over her face, body, and feet. She had just given birth in the car coming home from Walmart. A normal delivery is already dangerous but to give birth in a moving vehicle, while driving, could pose a lot of health risks. It was all hands on deck in the emergency room. If the mother’s uterus was bleeding heavily - that could mean life or death for the mother. The nurse put her fingers on her stomach (as a trained nurse she could tell by pressing on the outside of one’s stomach if blood was dangerously flowing from the uterus). But she felt nothing. No blood flow. No uterus. The nurse froze. She turned to her colleagues in pure horror and stated - that’s not her baby. Then whose baby could it be? And whose blood is this woman covered in?  Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 7436180,
@@ -3396,7 +3434,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
