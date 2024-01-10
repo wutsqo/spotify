@@ -1,5 +1,5 @@
 {
-  "total": 2,
+  "total": 1,
   "playlists": [
     {
       "collaborative": false,
@@ -46,42 +46,6 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE"
-    },
-    {
-      "collaborative": false,
-      "description": "A musical time capsule from the past has been unsealed…!",
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/3EUxEf3VHvCkO5CPVYHFNn"
-      },
-      "href": "https://api.spotify.com/v1/playlists/3EUxEf3VHvCkO5CPVYHFNn",
-      "id": "3EUxEf3VHvCkO5CPVYHFNn",
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb9be75f0b15e315de658a9e56",
-          "width": null
-        }
-      ],
-      "name": "My 2023 Playlist in a Bottle",
-      "owner": {
-        "display_name": "wutsqo",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-        },
-        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-        "id": "urwatilwutsqo",
-        "type": "user",
-        "uri": "spotify:user:urwatilwutsqo"
-      },
-      "primary_color": null,
-      "public": true,
-      "snapshot_id": "NCw5OTc0NjBhNDJlZjI1OWY1N2U0MjFiNWFiOGRlNDk4Zjc2Yjc2ZTIz",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/3EUxEf3VHvCkO5CPVYHFNn/tracks",
-        "total": 4
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:3EUxEf3VHvCkO5CPVYHFNn"
     }
   ]
 }

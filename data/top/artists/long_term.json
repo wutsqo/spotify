@@ -158,7 +158,7 @@
         }
       ],
       "name": "The Neighbourhood",
-      "popularity": 82,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
     },
@@ -740,36 +740,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop boy group", "pop"],
-      "href": "https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX",
-      "id": "3Nrfpe0tUJi4K4DXYWgMUX",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a",
-          "width": 160
-        }
-      ],
-      "name": "BTS",
-      "popularity": 86,
-      "type": "artist",
-      "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1DjZI46mVZZZYmmmygRnTw"
       },
       "followers": { "href": null, "total": 0 },
@@ -797,6 +767,36 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop", "k-pop boy group", "pop"],
+      "href": "https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX",
+      "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a",
+          "width": 160
+        }
+      ],
+      "name": "BTS",
+      "popularity": 86,
+      "type": "artist",
+      "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
     },
     {
       "external_urls": {
@@ -1624,7 +1624,7 @@
         }
       ],
       "name": "ITZY",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:2KC9Qb60EaY0kW4eH68vr3"
     },
@@ -2551,6 +2551,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["acoustic pop", "dance pop", "neo mellow", "pop"],
+      "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id": "4phGZZrJZRo4ElhRtViYdl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c3b370fc26c83312db52af14",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c3b370fc26c83312db52af14",
+          "width": 160
+        }
+      ],
+      "name": "Jason Mraz",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K"
       },
       "followers": { "href": null, "total": 0 },
@@ -2680,17 +2710,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebcdce7620dc940db079bf4952",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd254ca4d4fb43ef3051be3d7",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174cdce7620dc940db079bf4952",
+          "url": "https://i.scdn.co/image/ab67616100005174d254ca4d4fb43ef3051be3d7",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178cdce7620dc940db079bf4952",
+          "url": "https://i.scdn.co/image/ab6761610000f178d254ca4d4fb43ef3051be3d7",
           "width": 160
         }
       ],
@@ -2793,36 +2823,6 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:2xaAOVImG2O6lURwqperlD"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["acoustic pop", "dance pop", "neo mellow", "pop"],
-      "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
-      "id": "4phGZZrJZRo4ElhRtViYdl",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c3b370fc26c83312db52af14",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c3b370fc26c83312db52af14",
-          "width": 160
-        }
-      ],
-      "name": "Jason Mraz",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
     },
     {
       "external_urls": {
