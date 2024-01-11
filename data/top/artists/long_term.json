@@ -734,7 +734,7 @@
         }
       ],
       "name": "Kassy",
-      "popularity": 45,
+      "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:6pU8o91xAS0aWNjj06nQSU"
     },
@@ -980,7 +980,7 @@
         }
       ],
       "name": "Panic! At The Disco",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:20JZFwl6HVl6yg8a4H3ZqK"
     },
@@ -1899,7 +1899,7 @@
         }
       ],
       "name": "Frank Sinatra",
-      "popularity": 84,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
     },
@@ -2000,36 +2000,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["canadian pop", "pop", "viral pop"],
-      "href": "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
-      "id": "7n2wHs1TKAczGzO7Dd2rGr",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517446e7a06fa6dfefaed6a3f0db",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17846e7a06fa6dfefaed6a3f0db",
-          "width": 160
-        }
-      ],
-      "name": "Shawn Mendes",
-      "popularity": 81,
-      "type": "artist",
-      "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
       },
       "followers": { "href": null, "total": 0 },
@@ -2087,6 +2057,36 @@
       "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["canadian pop", "pop", "viral pop"],
+      "href": "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id": "7n2wHs1TKAczGzO7Dd2rGr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517446e7a06fa6dfefaed6a3f0db",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17846e7a06fa6dfefaed6a3f0db",
+          "width": 160
+        }
+      ],
+      "name": "Shawn Mendes",
+      "popularity": 81,
+      "type": "artist",
+      "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
     },
     {
       "external_urls": {
@@ -2755,7 +2755,7 @@
         }
       ],
       "name": "Clairo",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
     },

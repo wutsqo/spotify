@@ -201,10 +201,48 @@
   "media_type": "mixed",
   "name": "Rotten Mango Video",
   "publisher": "Stephanie Soo",
-  "total_episodes": 85,
+  "total_episodes": 87,
   "type": "show",
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2e0qcNLDe1jSwP5aovh5lb/clip_410400_483350.mp3",
+      "description": "Deep Sea Liner 2682 was coming back to port early. Nobody knew why - just that something very bad had happened at sea. The original plan was a group of 33 people would embark on a 2 year long deep sea fishing mission. But now they were coming back after just 8 months. What happened? When the giant vessel docked - concerned family, corporate employees of the fishing company, and even 11 police cars were lined up waiting for them. Police went on board escorting each one of the passengers off in handcuffs. Forensic teams in full hazmat suits rushed onto the boat and sprayed it down with Luminol. The whole boat was glowing. Blood. There was blood everywhere. 33 people on a ship in the deep sea for 8 months. 22 murdered and only 11 came back. And nobody wanted to talk about what really happened out at sea.    Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 5194281,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4R2bsOBdXfyVJjqIQgiK60"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4R2bsOBdXfyVJjqIQgiK60",
+      "html_description": "<p>Deep Sea Liner 2682 was coming back to port early. Nobody knew why - just that something very bad had happened at sea. The original plan was a group of 33 people would embark on a 2 year long deep sea fishing mission. But now they were coming back after just 8 months. What happened?</p><br/><p>When the giant vessel docked - concerned family, corporate employees of the fishing company, and even 11 police cars were lined up waiting for them. Police went on board escorting each one of the passengers off in handcuffs.</p><br/><p>Forensic teams in full hazmat suits rushed onto the boat and sprayed it down with Luminol. The whole boat was glowing. Blood. There was blood everywhere.</p><br/><p>33 people on a ship in the deep sea for 8 months. 22 murdered and only 11 came back. And nobody wanted to talk about what really happened out at sea.  </p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "4R2bsOBdXfyVJjqIQgiK60",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "33 People Left For 2 Year Deep Sea Fishing Mission - Only 11 Came Back Alive",
+      "release_date": "2024-01-10",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:4R2bsOBdXfyVJjqIQgiK60"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6iL2fxLCBjAJiAjspfHzxX/clip_1113700_1161500.mp3",
       "description": "Hellen, Coco, and John were 3 peas in a pod. Hellen was dating John but Coco was her best friend and they did everything together. Right now, they were sitting side by side planning what to do for Hellen’s 19th birthday. Hellen and John shared suggestive looks with each other before the door opened and their nemesis walked in. Camellia. Hellen and Camellia had been in a fight over the same boys and it was coming to an end now. Hellen had finally put Camellia in her place. The 3 best friends’ names were called. They stood up, smiled at each other, and made their way to the front. The judge read their charges - “kidnapping, assault, and torture.” How do you plea? “Not guilty.” They smirked and glared at Camellia.  Full Source Notes: rottenmangopodcast.com",
@@ -3434,6 +3472,7 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    }
+    },
+    null
   ]
 }

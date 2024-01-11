@@ -315,36 +315,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["canadian contemporary r&b"],
-      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
-      "id": "20wkVLutqVOYrc0kxFs7rA",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
-          "width": 160
-        }
-      ],
-      "name": "Daniel Caesar",
-      "popularity": 80,
-      "type": "artist",
-      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
       },
       "followers": { "href": null, "total": 0 },
@@ -378,6 +348,36 @@
       "popularity": 85,
       "type": "artist",
       "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["canadian contemporary r&b"],
+      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
+          "width": 160
+        }
+      ],
+      "name": "Daniel Caesar",
+      "popularity": 80,
+      "type": "artist",
+      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
     },
     {
       "external_urls": {
@@ -539,36 +539,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["singer-songwriter pop"],
-      "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
-      "id": "0hDjKSKjl1DC7ovYTDJHe8",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5b43a1fdff498297feb1d128",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745b43a1fdff498297feb1d128",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785b43a1fdff498297feb1d128",
-          "width": 160
-        }
-      ],
-      "name": "Bruno Major",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
       },
       "followers": { "href": null, "total": 0 },
@@ -626,6 +596,36 @@
       "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["singer-songwriter pop"],
+      "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+      "id": "0hDjKSKjl1DC7ovYTDJHe8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5b43a1fdff498297feb1d128",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745b43a1fdff498297feb1d128",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785b43a1fdff498297feb1d128",
+          "width": 160
+        }
+      ],
+      "name": "Bruno Major",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
     },
     {
       "external_urls": {
@@ -1117,36 +1117,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "pop"],
-      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
-      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
-          "width": 160
-        }
-      ],
-      "name": "Billie Eilish",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
       },
       "followers": { "href": null, "total": 0 },
@@ -1351,7 +1321,7 @@
         }
       ],
       "name": "Refo Dan Fauna",
-      "popularity": 31,
+      "popularity": 30,
       "type": "artist",
       "uri": "spotify:artist:6ILCDTreFre4EDfBZxCGxi"
     },
@@ -1621,7 +1591,7 @@
         }
       ],
       "name": "Lana Del Rey",
-      "popularity": 89,
+      "popularity": 90,
       "type": "artist",
       "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
     },
@@ -1746,7 +1716,7 @@
         }
       ],
       "name": "Clairo",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
     },
@@ -1841,7 +1811,7 @@
         }
       ],
       "name": "Frank Sinatra",
-      "popularity": 84,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
     },
@@ -1947,6 +1917,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["art pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
+          "width": 160
+        }
+      ],
+      "name": "Billie Eilish",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
       },
       "followers": { "href": null, "total": 0 },
@@ -2012,6 +2012,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["emo", "modern rock", "pop punk", "pov: indie", "rock"],
+      "href": "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
+      "id": "7FBcuc1gsnv6Y1nwFtNRCb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9c00ad0308287b38b8fdabc2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749c00ad0308287b38b8fdabc2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789c00ad0308287b38b8fdabc2",
+          "width": 160
+        }
+      ],
+      "name": "My Chemical Romance",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
       },
       "followers": { "href": null, "total": 0 },
@@ -2029,17 +2059,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb039b593cfa703e929c02ce3e",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfaeabbf20cf22ba59c117785",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174039b593cfa703e929c02ce3e",
+          "url": "https://i.scdn.co/image/ab67616100005174faeabbf20cf22ba59c117785",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178039b593cfa703e929c02ce3e",
+          "url": "https://i.scdn.co/image/ab6761610000f178faeabbf20cf22ba59c117785",
           "width": 160
         }
       ],
@@ -2486,36 +2516,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
-      "id": "4Uc8Dsxct0oMqx0P6i60ea",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c1c8fa15e08cb31eeb03b771",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c1c8fa15e08cb31eeb03b771",
-          "width": 160
-        }
-      ],
-      "name": "Conan Gray",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/73OtDyghUEJ9QfGtu1pkaJ"
       },
       "followers": { "href": null, "total": 0 },
@@ -2543,36 +2543,6 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:73OtDyghUEJ9QfGtu1pkaJ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["emo", "modern rock", "pop punk", "pov: indie", "rock"],
-      "href": "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
-      "id": "7FBcuc1gsnv6Y1nwFtNRCb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9c00ad0308287b38b8fdabc2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749c00ad0308287b38b8fdabc2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789c00ad0308287b38b8fdabc2",
-          "width": 160
-        }
-      ],
-      "name": "My Chemical Romance",
-      "popularity": 76,
-      "type": "artist",
-      "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb"
     },
     {
       "external_urls": {
@@ -3040,7 +3010,7 @@
         "spotify": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "bedroom r&b"],
+      "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/5y8tKLUfMvliMe8IKamR32",
       "id": "5y8tKLUfMvliMe8IKamR32",
       "images": [
@@ -3094,6 +3064,41 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:69bG9tC62d8oTFC9aTTosn"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6olE6TJLqED3rqDCT0FyPh"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["grunge", "permanent wave", "rock"],
+      "href": "https://api.spotify.com/v1/artists/6olE6TJLqED3rqDCT0FyPh",
+      "id": "6olE6TJLqED3rqDCT0FyPh",
+      "images": [
+        {
+          "height": 1057,
+          "url": "https://i.scdn.co/image/84282c28d851a700132356381fcfbadc67ff498b",
+          "width": 1000
+        },
+        {
+          "height": 677,
+          "url": "https://i.scdn.co/image/a4e10b79a642e9891383448cbf37d7266a6883d6",
+          "width": 640
+        },
+        {
+          "height": 211,
+          "url": "https://i.scdn.co/image/42ae0f180f16e2f21c1f2212717fc436f5b95451",
+          "width": 200
+        },
+        {
+          "height": 68,
+          "url": "https://i.scdn.co/image/e797ad36d56c3fc8fa06c6fe91263a15bf8391b8",
+          "width": 64
+        }
+      ],
+      "name": "Nirvana",
+      "popularity": 80,
+      "type": "artist",
+      "uri": "spotify:artist:6olE6TJLqED3rqDCT0FyPh"
     }
   ]
 }
