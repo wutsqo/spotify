@@ -1,5 +1,5 @@
 {
-  "total": 24,
+  "total": 25,
   "artists": [
     {
       "external_urls": {
@@ -33,7 +33,7 @@
         }
       ],
       "name": "The 1975",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
     },
@@ -554,36 +554,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
-      "id": "6KImCVD70vtIoJWnq6nGn3",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f7db7c8ede90a019c54590bb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f7db7c8ede90a019c54590bb",
-          "width": 160
-        }
-      ],
-      "name": "Harry Styles",
-      "popularity": 84,
-      "type": "artist",
-      "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
       },
       "followers": { "href": null, "total": 0 },
@@ -660,6 +630,66 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id": "6KImCVD70vtIoJWnq6nGn3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f7db7c8ede90a019c54590bb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f7db7c8ede90a019c54590bb",
+          "width": 160
+        }
+      ],
+      "name": "Harry Styles",
+      "popularity": 84,
+      "type": "artist",
+      "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
+      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id": "5INjqkS1o8h1imAzPqGZBb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
+          "width": 160
+        }
+      ],
+      "name": "Tame Impala",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
     },
     {
       "external_urls": {
