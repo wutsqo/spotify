@@ -75,36 +75,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-      "id": "7pbDxGE6nQSZVfiFdq9lOL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebffb90f91cb2f487d7309f7bc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ffb90f91cb2f487d7309f7bc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ffb90f91cb2f487d7309f7bc",
-          "width": 160
-        }
-      ],
-      "name": "Rex Orange County",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
       },
       "followers": { "href": null, "total": 0 },
@@ -135,6 +105,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+      "id": "7pbDxGE6nQSZVfiFdq9lOL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebffb90f91cb2f487d7309f7bc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ffb90f91cb2f487d7309f7bc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ffb90f91cb2f487d7309f7bc",
+          "width": 160
+        }
+      ],
+      "name": "Rex Orange County",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
       },
       "followers": { "href": null, "total": 0 },
@@ -162,6 +162,36 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178859e4c14fa59296c8649e0e4",
+          "width": 160
+        }
+      ],
+      "name": "Taylor Swift",
+      "popularity": 100,
+      "type": "artist",
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
     },
     {
       "external_urls": {
@@ -225,42 +255,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [
-        "alternative rock",
-        "garage rock",
-        "modern rock",
-        "permanent wave",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
-      "id": "0epOFNiUfyON9EYx7Tpr6V",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174caea403b29f6a09260b6a18a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178caea403b29f6a09260b6a18a",
-          "width": 160
-        }
-      ],
-      "name": "The Strokes",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
       "followers": { "href": null, "total": 0 },
@@ -291,33 +285,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-      "id": "06HL4z0CvFAxyc27GXpf02",
+      "genres": [
+        "alternative rock",
+        "garage rock",
+        "modern rock",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+      "id": "0epOFNiUfyON9EYx7Tpr6V",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb859e4c14fa59296c8649e0e4",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebcaea403b29f6a09260b6a18a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174859e4c14fa59296c8649e0e4",
+          "url": "https://i.scdn.co/image/ab67616100005174caea403b29f6a09260b6a18a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178859e4c14fa59296c8649e0e4",
+          "url": "https://i.scdn.co/image/ab6761610000f178caea403b29f6a09260b6a18a",
           "width": 160
         }
       ],
-      "name": "Taylor Swift",
-      "popularity": 100,
+      "name": "The Strokes",
+      "popularity": 75,
       "type": "artist",
-      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+      "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
     },
     {
       "external_urls": {
