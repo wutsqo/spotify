@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5dNNzC1YrYiH71isfpTZpn/clip_2553591_2608891.mp3",
+      "description": "Dr. Bickham was the coroner for the small town of Slaughter. For the past few decades, he had looked death in the face - that was what the job required, and he was good at it. Until January 3, 2022.  He was called out to the small white suburban house with the well manicured lawn - he could tell someone had died there judging by the smell. He walked into the living room and there in the center was a couch.  The living room was organized and tidy even, except this couch was at the center covered in feces. The smell was stinging his eyes. He walked closer, and he saw - melted, into the couch the body of a young woman.  She was unclothed, maggots in her hair, rotting flesh eaten off her bones, and she was sitting there with her eyes and mouth open. She had been sitting on this very couch, alive, for the past 12 years.   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4500478,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6hEAaKIzxpb7Fitmxw7Xye"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6hEAaKIzxpb7Fitmxw7Xye",
+      "html_description": "<p>Dr. Bickham was the coroner for the small town of Slaughter. For the past few decades, he had looked death in the face - that was what the job required, and he was good at it. Until January 3, 2022. </p><br/><p>He was called out to the small white suburban house with the well manicured lawn - he could tell someone had died there judging by the smell. He walked into the living room and there in the center was a couch. </p><br/><p>The living room was organized and tidy even, except this couch was at the center covered in feces. The smell was stinging his eyes. He walked closer, and he saw - melted, into the couch the body of a young woman. </p><br/><p>She was unclothed, maggots in her hair, rotting flesh eaten off her bones, and she was sitting there with her eyes and mouth open. She had been sitting on this very couch, alive, for the past 12 years. </p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "6hEAaKIzxpb7Fitmxw7Xye",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Woman Melted Into The Couch For 12 Years - Tragic Case of Lacey Fletcher ",
+      "release_date": "2024-01-14",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:6hEAaKIzxpb7Fitmxw7Xye"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2e0qcNLDe1jSwP5aovh5lb/clip_410400_483350.mp3",
       "description": "Deep Sea Liner 2682 was coming back to port early. Nobody knew why - just that something very bad had happened at sea. The original plan was a group of 33 people would embark on a 2 year long deep sea fishing mission. But now they were coming back after just 8 months. What happened? When the giant vessel docked - concerned family, corporate employees of the fishing company, and even 11 police cars were lined up waiting for them. Police went on board escorting each one of the passengers off in handcuffs. Forensic teams in full hazmat suits rushed onto the boat and sprayed it down with Luminol. The whole boat was glowing. Blood. There was blood everywhere. 33 people on a ship in the deep sea for 8 months. 22 murdered and only 11 came back. And nobody wanted to talk about what really happened out at sea.    Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 5194281,
@@ -3472,7 +3510,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
