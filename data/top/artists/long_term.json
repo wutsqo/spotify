@@ -368,7 +368,7 @@
         }
       ],
       "name": "Joji",
-      "popularity": 78,
+      "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
     },
@@ -659,17 +659,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb006ff3c0136a71bfb9928d34",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6472c5305d09322b09ca2c9b",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174006ff3c0136a71bfb9928d34",
+          "url": "https://i.scdn.co/image/ab676161000051746472c5305d09322b09ca2c9b",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178006ff3c0136a71bfb9928d34",
+          "url": "https://i.scdn.co/image/ab6761610000f1786472c5305d09322b09ca2c9b",
           "width": 160
         }
       ],
@@ -884,7 +884,7 @@
         }
       ],
       "name": "ヨルシカ",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
     },
@@ -1070,7 +1070,7 @@
         }
       ],
       "name": "The Weeknd",
-      "popularity": 94,
+      "popularity": 95,
       "type": "artist",
       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
     },
@@ -1100,7 +1100,7 @@
         }
       ],
       "name": "Bruno Major",
-      "popularity": 64,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
     },
@@ -1220,7 +1220,7 @@
         }
       ],
       "name": "Why Don't We",
-      "popularity": 67,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:2jnIB6XdLvnJUeNTy5A0J2"
     },
@@ -1376,7 +1376,7 @@
         }
       ],
       "name": ".Feast",
-      "popularity": 54,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
     },
@@ -1450,36 +1450,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop", "japanese teen pop"],
-      "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
-      "id": "1qM11R4ylJyQiPJ0DffE9z",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb79f98bece3624ebcd0b036bc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517479f98bece3624ebcd0b036bc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17879f98bece3624ebcd0b036bc",
-          "width": 160
-        }
-      ],
-      "name": "Lilas Ikuta",
-      "popularity": 59,
-      "type": "artist",
-      "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
       },
       "followers": { "href": null, "total": 0 },
@@ -1507,6 +1477,36 @@
       "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["j-pop", "japanese teen pop"],
+      "href": "https://api.spotify.com/v1/artists/1qM11R4ylJyQiPJ0DffE9z",
+      "id": "1qM11R4ylJyQiPJ0DffE9z",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb79f98bece3624ebcd0b036bc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517479f98bece3624ebcd0b036bc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17879f98bece3624ebcd0b036bc",
+          "width": 160
+        }
+      ],
+      "name": "Lilas Ikuta",
+      "popularity": 59,
+      "type": "artist",
+      "uri": "spotify:artist:1qM11R4ylJyQiPJ0DffE9z"
     },
     {
       "external_urls": {
@@ -2144,7 +2144,7 @@
         }
       ],
       "name": "benny blanco",
-      "popularity": 73,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:5CiGnKThu5ctn9pBxv7DGa"
     },

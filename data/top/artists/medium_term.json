@@ -33,36 +33,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian r&b"],
-      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
-      "id": "2kxP07DLgs4xlWz8YHlvfh",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebad807774e95b4e8febb1a79a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ad807774e95b4e8febb1a79a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ad807774e95b4e8febb1a79a",
-          "width": 160
-        }
-      ],
-      "name": "NIKI",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
       "followers": { "href": null, "total": 0 },
@@ -96,6 +66,36 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian r&b"],
+      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+      "id": "2kxP07DLgs4xlWz8YHlvfh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebad807774e95b4e8febb1a79a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ad807774e95b4e8febb1a79a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ad807774e95b4e8febb1a79a",
+          "width": 160
+        }
+      ],
+      "name": "NIKI",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
     },
     {
       "external_urls": {
@@ -701,36 +701,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["singer-songwriter pop"],
-      "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
-      "id": "0hDjKSKjl1DC7ovYTDJHe8",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5b43a1fdff498297feb1d128",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745b43a1fdff498297feb1d128",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785b43a1fdff498297feb1d128",
-          "width": 160
-        }
-      ],
-      "name": "Bruno Major",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
       },
       "followers": { "href": null, "total": 0 },
@@ -860,6 +830,36 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["singer-songwriter pop"],
+      "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+      "id": "0hDjKSKjl1DC7ovYTDJHe8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb5b43a1fdff498297feb1d128",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051745b43a1fdff498297feb1d128",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1785b43a1fdff498297feb1d128",
+          "width": 160
+        }
+      ],
+      "name": "Bruno Major",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
     },
     {
       "external_urls": {
@@ -1261,7 +1261,7 @@
         }
       ],
       "name": "The Weeknd",
-      "popularity": 94,
+      "popularity": 95,
       "type": "artist",
       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
     },
@@ -1321,7 +1321,7 @@
         }
       ],
       "name": "ヨルシカ",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
     },
@@ -1384,6 +1384,36 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian alternative rock", "indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/31aMmlq8isIAgojvmIwiS4",
+      "id": "31aMmlq8isIAgojvmIwiS4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb993a01b962e04058bcf5c28a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174993a01b962e04058bcf5c28a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178993a01b962e04058bcf5c28a",
+          "width": 160
+        }
+      ],
+      "name": "Noah",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify:artist:31aMmlq8isIAgojvmIwiS4"
     },
     {
       "external_urls": {
@@ -1474,36 +1504,6 @@
       "popularity": 56,
       "type": "artist",
       "uri": "spotify:artist:2vRToyl7mxoVbwwSsRBXAM"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["alternative r&b"],
-      "href": "https://api.spotify.com/v1/artists/7cYEt1pqMgXJdq00hAwVpT",
-      "id": "7cYEt1pqMgXJdq00hAwVpT",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb559c24d0f169d3fc107e3932",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174559c24d0f169d3fc107e3932",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178559c24d0f169d3fc107e3932",
-          "width": 160
-        }
-      ],
-      "name": "Chase Atlantic",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:7cYEt1pqMgXJdq00hAwVpT"
     },
     {
       "external_urls": {
@@ -1784,36 +1784,6 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7FoS5czKb5PCnmOGaSzWi0"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/7FoS5czKb5PCnmOGaSzWi0",
-      "id": "7FoS5czKb5PCnmOGaSzWi0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebafb2c7b639fbe530b302e3c4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174afb2c7b639fbe530b302e3c4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178afb2c7b639fbe530b302e3c4",
-          "width": 160
-        }
-      ],
-      "name": "Zen Aji",
-      "popularity": 5,
-      "type": "artist",
-      "uri": "spotify:artist:7FoS5czKb5PCnmOGaSzWi0"
     },
     {
       "external_urls": {
@@ -2164,7 +2134,7 @@
         }
       ],
       "name": "Eyedress",
-      "popularity": 74,
+      "popularity": 75,
       "type": "artist",
       "uri": "spotify:artist:3XxNRirzbjfLdDli06zMaB"
     },
@@ -2194,7 +2164,7 @@
         }
       ],
       "name": "Katy Perry",
-      "popularity": 83,
+      "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
     },
@@ -2414,7 +2384,7 @@
         }
       ],
       "name": "PinkPantheress",
-      "popularity": 76,
+      "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
     },
@@ -2671,7 +2641,7 @@
         }
       ],
       "name": "Joji",
-      "popularity": 78,
+      "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
     },
@@ -2857,6 +2827,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian jazz", "indonesian pop", "indonesian reggae"],
+      "href": "https://api.spotify.com/v1/artists/18PmEN8ZiHBQlDpxrgR2xs",
+      "id": "18PmEN8ZiHBQlDpxrgR2xs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3ca5bba1b31ac4939d85fedc",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051743ca5bba1b31ac4939d85fedc",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1783ca5bba1b31ac4939d85fedc",
+          "width": 160
+        }
+      ],
+      "name": "MALIQ & D'Essentials",
+      "popularity": 66,
+      "type": "artist",
+      "uri": "spotify:artist:18PmEN8ZiHBQlDpxrgR2xs"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
       },
       "followers": { "href": null, "total": 0 },
@@ -2881,7 +2881,7 @@
         }
       ],
       "name": "Kali Uchis",
-      "popularity": 84,
+      "popularity": 85,
       "type": "artist",
       "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
     },
@@ -3096,7 +3096,7 @@
         }
       ],
       "name": ".Feast",
-      "popularity": 54,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
     }

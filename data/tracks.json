@@ -1,6 +1,164 @@
 {
-  "total": 113,
+  "total": 114,
   "tracks": [
+    {
+      "added_at": "2024-01-17T16:39:55Z",
+      "track": {
+        "album": {
+          "album_type": "album",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+              },
+              "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+              "id": "0du5cEVh5yTK9QJze8zA0C",
+              "name": "Bruno Mars",
+              "type": "artist",
+              "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+            }
+          ],
+          "available_markets": [
+            "AR",
+            "AU",
+            "BN",
+            "BO",
+            "BZ",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "DO",
+            "EC",
+            "GT",
+            "GY",
+            "HK",
+            "HN",
+            "ID",
+            "IN",
+            "KH",
+            "KR",
+            "LA",
+            "MO",
+            "MX",
+            "MY",
+            "NI",
+            "NZ",
+            "PA",
+            "PE",
+            "PH",
+            "PY",
+            "SG",
+            "SR",
+            "SV",
+            "TH",
+            "TL",
+            "TW",
+            "US",
+            "UY",
+            "VE",
+            "VN"
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/1uyf3l2d4XYwiEqAb7t7fX"
+          },
+          "href": "https://api.spotify.com/v1/albums/1uyf3l2d4XYwiEqAb7t7fX",
+          "id": "1uyf3l2d4XYwiEqAb7t7fX",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273f6b55ca93bd33211227b502b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02f6b55ca93bd33211227b502b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851f6b55ca93bd33211227b502b",
+              "width": 64
+            }
+          ],
+          "name": "Doo-Wops & Hooligans",
+          "release_date": "2010-10-05",
+          "release_date_precision": "day",
+          "total_tracks": 10,
+          "type": "album",
+          "uri": "spotify:album:1uyf3l2d4XYwiEqAb7t7fX"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+            },
+            "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+            "id": "0du5cEVh5yTK9QJze8zA0C",
+            "name": "Bruno Mars",
+            "type": "artist",
+            "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
+          }
+        ],
+        "available_markets": [
+          "AR",
+          "AU",
+          "BN",
+          "BO",
+          "BZ",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "DO",
+          "EC",
+          "GT",
+          "GY",
+          "HK",
+          "HN",
+          "ID",
+          "IN",
+          "KH",
+          "KR",
+          "LA",
+          "MO",
+          "MX",
+          "MY",
+          "NI",
+          "NZ",
+          "PA",
+          "PE",
+          "PH",
+          "PY",
+          "SG",
+          "SR",
+          "SV",
+          "TH",
+          "TL",
+          "TW",
+          "US",
+          "UY",
+          "VE",
+          "VN"
+        ],
+        "disc_number": 1,
+        "duration_ms": 220734,
+        "explicit": false,
+        "external_ids": { "isrc": "USAT21001269" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/7BqBn9nzAq8spo5e7cZ0dJ"
+        },
+        "href": "https://api.spotify.com/v1/tracks/7BqBn9nzAq8spo5e7cZ0dJ",
+        "id": "7BqBn9nzAq8spo5e7cZ0dJ",
+        "is_local": false,
+        "name": "Just the Way You Are",
+        "popularity": 87,
+        "preview_url": "https://p.scdn.co/mp3-preview/6d1a901b10c7dc609d4c8628006b04bc6e672be8?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "track_number": 2,
+        "type": "track",
+        "uri": "spotify:track:7BqBn9nzAq8spo5e7cZ0dJ"
+      }
+    },
     {
       "added_at": "2024-01-15T15:45:47Z",
       "track": {
@@ -969,7 +1127,7 @@
         "is_local": false,
         "name": "Girls",
         "popularity": 59,
-        "preview_url": "https://p.scdn.co/mp3-preview/8d6af650bd1c34ecaed48f9c1684cde3bcd81bce?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:2zyz614fJRrqQXW1q0sY1c"
@@ -3198,7 +3356,7 @@
         "id": "2pIUpMhHL6L9Z5lnKxJJr9",
         "is_local": false,
         "name": "Attention",
-        "popularity": 82,
+        "popularity": 81,
         "preview_url": "https://p.scdn.co/mp3-preview/7794e6d9c9f2b8ce10cc7e2564b75e2ca2877f2d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track_number": 1,
         "type": "track",
@@ -6853,7 +7011,7 @@
         "is_local": false,
         "name": "Between The Bars",
         "popularity": 69,
-        "preview_url": "https://p.scdn.co/mp3-preview/0d6140abf71dae24ceabe8cac06a873a1160be8c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 4,
         "type": "track",
         "uri": "spotify:track:52Bg6oaos7twR7IUtEpqcE"
@@ -7300,7 +7458,7 @@
         "id": "3gxEZXUjrNbl3TlSrTGbR5",
         "is_local": false,
         "name": "Modern Love - 2018 Remaster",
-        "popularity": 72,
+        "popularity": 71,
         "preview_url": "https://p.scdn.co/mp3-preview/40a35b826cb714515fd453645169c1d44a0e0040?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track_number": 1,
         "type": "track",
@@ -10447,7 +10605,7 @@
         "is_local": false,
         "name": "Lovefool",
         "popularity": 82,
-        "preview_url": "https://p.scdn.co/mp3-preview/f548f1a669b14992fc5d1c2339f8eb114c175f3c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 7,
         "type": "track",
         "uri": "spotify:track:7aQjPecQdIuNd1sz3KCDhD"
@@ -12683,7 +12841,7 @@
         "is_local": false,
         "name": "Love Epiphany",
         "popularity": 62,
-        "preview_url": "https://p.scdn.co/mp3-preview/f42b5c8d3356c5b9d3165c61a620fd8fbd2d498e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 10,
         "type": "track",
         "uri": "spotify:track:3HEfLSVUo9rxdD0JxbLAUU"
@@ -15417,7 +15575,7 @@
         "is_local": false,
         "name": "Enchanted",
         "popularity": 77,
-        "preview_url": "https://p.scdn.co/mp3-preview/bc9951c4fd5e67339e41ba64375bd2056d104282?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 9,
         "type": "track",
         "uri": "spotify:track:04S1pkp1VaIqjg8zZqknR5"
@@ -19546,7 +19704,7 @@
         "id": "3oUam1JxcuLVFKaAr5MWnN",
         "is_local": false,
         "name": "We Were Never Really Friends",
-        "popularity": 17,
+        "popularity": 16,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
@@ -24119,7 +24277,7 @@
         "is_local": false,
         "name": "My Way",
         "popularity": 76,
-        "preview_url": "https://p.scdn.co/mp3-preview/b139365c252a8956da8c62187950d2e1c54c624d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 6,
         "type": "track",
         "uri": "spotify:track:3spdoTYpuCpmq19tuD0bOe"
@@ -25013,7 +25171,7 @@
         "is_local": false,
         "name": "Let It Happen",
         "popularity": 82,
-        "preview_url": "https://p.scdn.co/mp3-preview/2cfd4012a9ac9bac50a308cfc17b4173a7a84aae?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:2X485T9Z5Ly0xyaghN73ed"
@@ -26799,7 +26957,7 @@
         "is_local": false,
         "name": "After Hours",
         "popularity": 87,
-        "preview_url": "https://p.scdn.co/mp3-preview/2375bc6998d765b02b229ff44e5c3d7b75fff74a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 13,
         "type": "track",
         "uri": "spotify:track:2p8IUWQDrpjuFltbdgLOag"
@@ -27255,7 +27413,7 @@
         "is_local": false,
         "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
         "popularity": 71,
-        "preview_url": "https://p.scdn.co/mp3-preview/c9236c5986791e42321e07aa1aa6918cff1fca61?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:6sCvvleqKbeyOkQDieBYgp"
@@ -27703,7 +27861,7 @@
         "is_local": false,
         "name": "Numb Little Bug",
         "popularity": 76,
-        "preview_url": "https://p.scdn.co/mp3-preview/b9233d42f5ed9aa12756ea783f03eead8f9f1a3a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:3o9kpgkIcffx0iSwxhuNI2"
@@ -29037,7 +29195,7 @@
         "is_local": false,
         "name": "Somewhere Only We Know",
         "popularity": 89,
-        "preview_url": "https://p.scdn.co/mp3-preview/14b8c7f33de3a3a6558d3589b9f2260ae8c513c5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:1SKPmfSYaPsETbRHaiA18G"
@@ -30334,7 +30492,7 @@
         "id": "5kxOQDA9AcuNQXHvg5NpX4",
         "is_local": false,
         "name": "Take A Chance With Me",
-        "popularity": 83,
+        "popularity": 82,
         "preview_url": "https://p.scdn.co/mp3-preview/0790b787606ff57b34b2f99a10e996f859396d1f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track_number": 12,
         "type": "track",
@@ -30683,7 +30841,7 @@
         "is_local": false,
         "name": "How Far I'll Go",
         "popularity": 35,
-        "preview_url": "https://p.scdn.co/mp3-preview/e8afeaa941df78c627fa2275dd740dbbbab3d3dc?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 3,
         "type": "track",
         "uri": "spotify:track:6up1Aswyv9MStvdlxfIDUe"
@@ -31565,7 +31723,7 @@
         "is_local": false,
         "name": "If You’re Too Shy (Let Me Know)",
         "popularity": 67,
-        "preview_url": "https://p.scdn.co/mp3-preview/fa2f0fd18839bb6a61fc6d3be781485660465bc9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 16,
         "type": "track",
         "uri": "spotify:track:1C5utO1I8FoSIn6g1R5DAZ"
@@ -32767,7 +32925,7 @@
         "is_local": false,
         "name": "Nothing Revealed / Everything Denied",
         "popularity": 51,
-        "preview_url": "https://p.scdn.co/mp3-preview/5e7abb5db801c936edc19a3d51e45e1321199d73?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 13,
         "type": "track",
         "uri": "spotify:track:2M4iGyQTIJISEioeVz43vy"
@@ -34714,8 +34872,8 @@
         "id": "2iUXsYOEPhVqEBwsqP70rE",
         "is_local": false,
         "name": "Youngblood",
-        "popularity": 84,
-        "preview_url": "https://p.scdn.co/mp3-preview/87357ede3ba123385a24c959696a6512b878430c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "popularity": 85,
+        "preview_url": null,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:2iUXsYOEPhVqEBwsqP70rE"
@@ -35173,7 +35331,7 @@
         "is_local": false,
         "name": "Sunflower - Spider-Man: Into the Spider-Verse",
         "popularity": 86,
-        "preview_url": "https://p.scdn.co/mp3-preview/801a664529525b366fa6fb8f6cacd5dd83928272?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 2,
         "type": "track",
         "uri": "spotify:track:3KkXRkHbMCARz0aVfEt68P"
@@ -35611,7 +35769,7 @@
         "is_local": false,
         "name": "Happy Little Pill",
         "popularity": 53,
-        "preview_url": "https://p.scdn.co/mp3-preview/e84b1a0ba4dd503b5e1fe7a10e82def81f29ed8d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:4z8Ll8nU1jMqB8HvKTyLP1"
@@ -36955,7 +37113,7 @@
         "is_local": false,
         "name": "Black And White",
         "popularity": 68,
-        "preview_url": "https://p.scdn.co/mp3-preview/90ebfe37ee6f87709c169acac863c2f72ffe5d42?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 2,
         "type": "track",
         "uri": "spotify:track:7rpNuuoMbid56XkDsx2FjE"
@@ -38787,7 +38945,7 @@
         "is_local": false,
         "name": "Eastside (with Halsey & Khalid)",
         "popularity": 77,
-        "preview_url": "https://p.scdn.co/mp3-preview/24726be4c89b67eab298a72560b637581450421c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:0d2iYfpKoM0QCKvcLCkBao"
@@ -39679,7 +39837,7 @@
         "is_local": false,
         "name": "It's Not Living (If It's Not With You)",
         "popularity": 75,
-        "preview_url": "https://p.scdn.co/mp3-preview/7cce4285a5412c5f3a1920ca965c155d04235e97?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:3TgMcrV32NUKjEG2ujn9eh"
@@ -41901,7 +42059,7 @@
         "is_local": false,
         "name": "Every Summertime",
         "popularity": 79,
-        "preview_url": "https://p.scdn.co/mp3-preview/eca762cae8aa197624d11bf30691ff4cefc464f4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:68HocO7fx9z0MgDU0ZPHro"
@@ -44577,7 +44735,7 @@
         "is_local": false,
         "name": "Ceux qui rêvent",
         "popularity": 65,
-        "preview_url": "https://p.scdn.co/mp3-preview/496591de49540c6b977da5672717215ea656ce78?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 11,
         "type": "track",
         "uri": "spotify:track:7as88HhLbDLgobaSbJrVBs"
@@ -45917,7 +46075,7 @@
         "is_local": false,
         "name": "Into the Unknown (End Credit Version)",
         "popularity": 44,
-        "preview_url": "https://p.scdn.co/mp3-preview/c4c8a99132f37f4996efd6d81ca526f59c39030f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 12,
         "type": "track",
         "uri": "spotify:track:4OkHootAlj7w9Eb2zJVlWr"
@@ -46365,7 +46523,7 @@
         "is_local": false,
         "name": "Strawberries & Cigarettes",
         "popularity": 81,
-        "preview_url": "https://p.scdn.co/mp3-preview/116348a4680cd67149fcc8eac049f06ede67972a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "track_number": 1,
         "type": "track",
         "uri": "spotify:track:3afkJSKX0EAMsJXTZnDXXJ"
