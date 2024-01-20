@@ -201,10 +201,48 @@
   "media_type": "mixed",
   "name": "Rotten Mango Video",
   "publisher": "Stephanie Soo",
-  "total_episodes": 87,
+  "total_episodes": 89,
   "type": "show",
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4jGSeWv8ngddGJMOUXgEkg/clip_1576150_1627200.mp3",
+      "description": "It takes 2 minutes for a car to drown to the bottom of the river - and having your car sink to the bottom of the Han River was as good as a death sentence.  33 year old, Minjun, woke up in his sinking car. He had no idea how he got here…  His car was filling up with water. His only way out was to break the window using nothing but the force of his body. He pushed the glass shards out and closed his eyes before jumping out…  He plunged into the cold…  Concrete.  Minjun looked around. He was on a half-submerged concrete island in the middle of the deadly river. The bridge he had been driving on had collapsed - plunging 66 feet down into the water.  He could see people, covered in blood, crawling out of their cars. Screaming for help.  Help would come too late.  It was up to the 49 people to save each other on the concrete island. By the end 32 would be dead.  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 6565203,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5R9iwG7DNzSu4HSScOJAnn"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5R9iwG7DNzSu4HSScOJAnn",
+      "html_description": "<p>It takes 2 minutes for a car to drown to the bottom of the river - and having your car sink to the bottom of the Han River was as good as a death sentence. </p><br/><p>33 year old, Minjun, woke up in his sinking car. He had no idea how he got here… </p><br/><p>His car was filling up with water. His only way out was to break the window using nothing but the force of his body. He pushed the glass shards out and closed his eyes before jumping out… </p><br/><p>He plunged into the cold… </p><br/><p>Concrete. </p><br/><p>Minjun looked around. He was on a half-submerged concrete island in the middle of the deadly river. The bridge he had been driving on had collapsed - plunging 66 feet down into the water. </p><br/><p>He could see people, covered in blood, crawling out of their cars. Screaming for help. </p><br/><p>Help would come too late. </p><br/><p>It was up to the 49 people to save each other on the concrete island. By the end 32 would be dead.</p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "5R9iwG7DNzSu4HSScOJAnn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Deadly Korean Bridge Collapse That Killed 32 - Bus Filled With HS Students Fell 100ft Into Han River",
+      "release_date": "2024-01-19",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5R9iwG7DNzSu4HSScOJAnn"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5dNNzC1YrYiH71isfpTZpn/clip_2553591_2608891.mp3",
       "description": "Dr. Bickham was the coroner for the small town of Slaughter. For the past few decades, he had looked death in the face - that was what the job required, and he was good at it. Until January 3, 2022.  He was called out to the small white suburban house with the well manicured lawn - he could tell someone had died there judging by the smell. He walked into the living room and there in the center was a couch.  The living room was organized and tidy even, except this couch was at the center covered in feces. The smell was stinging his eyes. He walked closer, and he saw - melted, into the couch the body of a young woman.  She was unclothed, maggots in her hair, rotting flesh eaten off her bones, and she was sitting there with her eyes and mouth open. She had been sitting on this very couch, alive, for the past 12 years.   Full Source Notes: rottenmangopodcast.com",
@@ -3510,6 +3548,7 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    }
+    },
+    null
   ]
 }

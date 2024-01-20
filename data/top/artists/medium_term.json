@@ -315,39 +315,9 @@
         }
       ],
       "name": "Arctic Monkeys",
-      "popularity": 85,
+      "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop girl group"],
-      "href": "https://api.spotify.com/v1/artists/6HvZYsbFfjnjFrWF950C9d",
-      "id": "6HvZYsbFfjnjFrWF950C9d",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f5d2200231e6ad75e8485476",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f5d2200231e6ad75e8485476",
-          "width": 160
-        }
-      ],
-      "name": "NewJeans",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
     },
     {
       "external_urls": {
@@ -378,6 +348,36 @@
       "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop", "k-pop girl group"],
+      "href": "https://api.spotify.com/v1/artists/6HvZYsbFfjnjFrWF950C9d",
+      "id": "6HvZYsbFfjnjFrWF950C9d",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f5d2200231e6ad75e8485476",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f5d2200231e6ad75e8485476",
+          "width": 160
+        }
+      ],
+      "name": "NewJeans",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
     },
     {
       "external_urls": {
@@ -593,7 +593,7 @@
         }
       ],
       "name": "5 Seconds of Summer",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
     },
@@ -658,7 +658,7 @@
         }
       ],
       "name": "One Direction",
-      "popularity": 82,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
     },
@@ -1627,41 +1627,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["hollywood"],
-      "href": "https://api.spotify.com/v1/artists/6kXm2YCtdUOpRYNKeKhfue",
-      "id": "6kXm2YCtdUOpRYNKeKhfue",
-      "images": [
-        {
-          "height": 1000,
-          "url": "https://i.scdn.co/image/631a9ec7f910836e4fbdd97f652e2fb032674c08",
-          "width": 1000
-        },
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/a222455c2c9153054737bb14728fefaa6b03b4c1",
-          "width": 640
-        },
-        {
-          "height": 200,
-          "url": "https://i.scdn.co/image/efa9e0b6240fac47c0535ff18bf1fed7f3b44dfc",
-          "width": 200
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/b1a909d1acfa8a9e3440159f4d246847e3011b55",
-          "width": 64
-        }
-      ],
-      "name": "Ryan Gosling",
-      "popularity": 62,
-      "type": "artist",
-      "uri": "spotify:artist:6kXm2YCtdUOpRYNKeKhfue"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
       },
       "followers": { "href": null, "total": 0 },
@@ -1784,6 +1749,41 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6kXm2YCtdUOpRYNKeKhfue"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["hollywood"],
+      "href": "https://api.spotify.com/v1/artists/6kXm2YCtdUOpRYNKeKhfue",
+      "id": "6kXm2YCtdUOpRYNKeKhfue",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/631a9ec7f910836e4fbdd97f652e2fb032674c08",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/a222455c2c9153054737bb14728fefaa6b03b4c1",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/efa9e0b6240fac47c0535ff18bf1fed7f3b44dfc",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/b1a909d1acfa8a9e3440159f4d246847e3011b55",
+          "width": 64
+        }
+      ],
+      "name": "Ryan Gosling",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:6kXm2YCtdUOpRYNKeKhfue"
     },
     {
       "external_urls": {
@@ -1914,36 +1914,6 @@
       "popularity": 52,
       "type": "artist",
       "uri": "spotify:artist:5DD5GZd4ElmQTy9NleMvKJ"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "pop"],
-      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
-      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
-          "width": 160
-        }
-      ],
-      "name": "Billie Eilish",
-      "popularity": 88,
-      "type": "artist",
-      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
     },
     {
       "external_urls": {
@@ -2107,6 +2077,36 @@
       "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:41MozSoPIsD1dJM0CLPjZF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["art pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
+      "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd8b9980db67272cb4d2c3daf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d8b9980db67272cb4d2c3daf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d8b9980db67272cb4d2c3daf",
+          "width": 160
+        }
+      ],
+      "name": "Billie Eilish",
+      "popularity": 88,
+      "type": "artist",
+      "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
     },
     {
       "external_urls": {
@@ -2360,36 +2360,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
-      "id": "78rUTD7y6Cy67W1RVzYs7t",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb90ddbcd825c7b6142d269e26",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517490ddbcd825c7b6142d269e26",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17890ddbcd825c7b6142d269e26",
-          "width": 160
-        }
-      ],
-      "name": "PinkPantheress",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
       },
       "followers": { "href": null, "total": 0 },
@@ -2584,6 +2554,36 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:73OtDyghUEJ9QfGtu1pkaJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+      "id": "78rUTD7y6Cy67W1RVzYs7t",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb90ddbcd825c7b6142d269e26",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517490ddbcd825c7b6142d269e26",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17890ddbcd825c7b6142d269e26",
+          "width": 160
+        }
+      ],
+      "name": "PinkPantheress",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
     },
     {
       "external_urls": {
