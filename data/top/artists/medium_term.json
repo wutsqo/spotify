@@ -93,7 +93,7 @@
         }
       ],
       "name": "NIKI",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
     },
@@ -1117,6 +1117,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["canadian contemporary r&b", "canadian pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174214f3cf1cbe7139c1e26ffbb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178214f3cf1cbe7139c1e26ffbb",
+          "width": 160
+        }
+      ],
+      "name": "The Weeknd",
+      "popularity": 95,
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
       },
       "followers": { "href": null, "total": 0 },
@@ -1207,6 +1237,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["art pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+      "id": "00FQb4jTyendYWaN8pK0wa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b99cacf8acd5378206767261",
+          "width": 160
+        }
+      ],
+      "name": "Lana Del Rey",
+      "popularity": 90,
+      "type": "artist",
+      "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/29vPfjqj8X5ri4AJRt8wVM"
       },
       "followers": { "href": null, "total": 0 },
@@ -1234,36 +1294,6 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:29vPfjqj8X5ri4AJRt8wVM"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["canadian contemporary r&b", "canadian pop", "pop"],
-      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
-      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174214f3cf1cbe7139c1e26ffbb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178214f3cf1cbe7139c1e26ffbb",
-          "width": 160
-        }
-      ],
-      "name": "The Weeknd",
-      "popularity": 95,
-      "type": "artist",
-      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
       "external_urls": {
@@ -1351,7 +1381,7 @@
         }
       ],
       "name": "Refo Dan Fauna",
-      "popularity": 30,
+      "popularity": 29,
       "type": "artist",
       "uri": "spotify:artist:6ILCDTreFre4EDfBZxCGxi"
     },
@@ -1507,36 +1537,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["permanent wave", "pop"],
-      "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
-      "id": "4gzpq5DPGxSnKTe4SA8HAU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174989ed05e1f0570cc4726c2d3",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178989ed05e1f0570cc4726c2d3",
-          "width": 160
-        }
-      ],
-      "name": "Coldplay",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
       },
       "followers": { "href": null, "total": 0 },
@@ -1564,36 +1564,6 @@
       "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "pop"],
-      "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
-      "id": "00FQb4jTyendYWaN8pK0wa",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b99cacf8acd5378206767261",
-          "width": 160
-        }
-      ],
-      "name": "Lana Del Rey",
-      "popularity": 90,
-      "type": "artist",
-      "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
     },
     {
       "external_urls": {
@@ -1659,6 +1629,36 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:1LZEQNv7sE11VDY3SdxQeN"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["permanent wave", "pop"],
+      "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
+      "id": "4gzpq5DPGxSnKTe4SA8HAU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb989ed05e1f0570cc4726c2d3",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174989ed05e1f0570cc4726c2d3",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178989ed05e1f0570cc4726c2d3",
+          "width": 160
+        }
+      ],
+      "name": "Coldplay",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
     },
     {
       "external_urls": {
@@ -2707,36 +2707,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop", "japanese teen pop"],
-      "href": "https://api.spotify.com/v1/artists/64tJ2EAv1R6UaZqc4iOCyj",
-      "id": "64tJ2EAv1R6UaZqc4iOCyj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17883e2d0c9611f1fb6baafcb36",
-          "width": 160
-        }
-      ],
-      "name": "YOASOBI",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:64tJ2EAv1R6UaZqc4iOCyj"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
       },
       "followers": { "href": null, "total": 0 },
@@ -3099,6 +3069,41 @@
       "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "bedroom pop",
+        "bergen indie",
+        "norwegian indie",
+        "pov: indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7wbkl3zgDZEoZer357mVIw",
+      "id": "7wbkl3zgDZEoZer357mVIw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb710f70d7ac2aa5478f2c3aa4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174710f70d7ac2aa5478f2c3aa4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178710f70d7ac2aa5478f2c3aa4",
+          "width": 160
+        }
+      ],
+      "name": "boy pablo",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:7wbkl3zgDZEoZer357mVIw"
     }
   ]
 }
