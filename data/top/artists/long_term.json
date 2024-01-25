@@ -590,36 +590,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop girl group", "pop"],
-      "href": "https://api.spotify.com/v1/artists/7n2Ycct7Beij7Dj7meI4X0",
-      "id": "7n2Ycct7Beij7Dj7meI4X0",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe683a66870b4a3ece4d9747b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e683a66870b4a3ece4d9747b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e683a66870b4a3ece4d9747b",
-          "width": 160
-        }
-      ],
-      "name": "TWICE",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
       "followers": { "href": null, "total": 0 },
@@ -650,6 +620,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop", "k-pop girl group", "pop"],
+      "href": "https://api.spotify.com/v1/artists/7n2Ycct7Beij7Dj7meI4X0",
+      "id": "7n2Ycct7Beij7Dj7meI4X0",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe683a66870b4a3ece4d9747b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e683a66870b4a3ece4d9747b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e683a66870b4a3ece4d9747b",
+          "width": 160
+        }
+      ],
+      "name": "TWICE",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
       },
       "followers": { "href": null, "total": 0 },
@@ -674,7 +674,7 @@
         }
       ],
       "name": "IU",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:3HqSLMAZ3g3d5poNaI7GOU"
     },
@@ -1964,7 +1964,7 @@
         }
       ],
       "name": "Jonas Blue",
-      "popularity": 73,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:1HBjj22wzbscIZ9sEb5dyf"
     },
@@ -2054,7 +2054,7 @@
         }
       ],
       "name": "beabadoobee",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
     },
@@ -2451,7 +2451,7 @@
         }
       ],
       "name": "Lomba Sihir",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
     },

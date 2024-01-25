@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Aobxr85R2AkxErCTWaTSd/clip_5936_76769.mp3",
+      "description": "In the dense forests of Washington - there is a suspicious wooden door leading into a mountain. If you look too quickly you just might miss it. It’s strange. If you were to open the door you would be standing inside of the tall mountain… how is that possible? Peter Keller had spent the past 8 years building his secret bunker inside the mountain. It a massive feat - 2 stories tall, log cabin walls, stockpiles of food, weapons, his favorite candy bars, and all the supplies he would need to live off the grid for years.  He vlogged the process of building his bunker for the end of the world.  Cyberattack that breaks America? Massive earthquake that leaves everyone without power? Peter was ready.  He had his secret bunker to hide out in case the world ended. He just needed to kill 2 people before he could live out his doomsday fantasies…   This is the case of Peter Keller Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4079721,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/61x4pCZGGlwybhVwKcVZlU"
+      },
+      "href": "https://api.spotify.com/v1/episodes/61x4pCZGGlwybhVwKcVZlU",
+      "html_description": "<p>In the dense forests of Washington - there is a suspicious wooden door leading into a mountain. If you look too quickly you just might miss it. It’s strange. If you were to open the door you would be standing inside of the tall mountain… how is that possible?</p><br/><p>Peter Keller had spent the past 8 years building his secret bunker inside the mountain. It a massive feat - 2 stories tall, log cabin walls, stockpiles of food, weapons, his favorite candy bars, and all the supplies he would need to live off the grid for years. </p><br/><p>He vlogged the process of building his bunker for the end of the world. </p><br/><p>Cyberattack that breaks America? Massive earthquake that leaves everyone without power? Peter was ready. </p><br/><p>He had his secret bunker to hide out in case the world ended. He just needed to kill 2 people before he could live out his doomsday fantasies… </p><br/><p><br /></p><br/><p>This is the case of Peter Keller</p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "61x4pCZGGlwybhVwKcVZlU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Killer Who Vlogged His Murder Plan For 8 Years",
+      "release_date": "2024-01-24",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:61x4pCZGGlwybhVwKcVZlU"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4jGSeWv8ngddGJMOUXgEkg/clip_1576150_1627200.mp3",
       "description": "Mr. C looked through his peephole. The police were here again, probably to talk about that psychopath. Just 10 months ago, a complete stranger tried to stab and kill Mr. C. They didn’t even know each other! It was shocking to know that such depraved, evil, monsters existed in this world.  Mr. C let the police officer in but now under the bright light of his foyer… he realized this man was no police officer. He was the killer from 10 months ago - back to finish the job. The attacker grabbed a hammer and slammed it down on Mr. C’s head.  The attacker would be caught and he would scream to the world that he did this for justice. Justice was to kill Mr. C!  This was justice for 8 year old Nayoung. The little girl that Cho Doo Soon (Mr. C) had kidnapped, assaulted within an inch of her life, mutilated, and disemboweled just 12 years ago. He had left her for dead after he brutally SA’d her. She miraculously survived and now Mr. C was a free man - living just half a mile from his victim. This is the case of the most hated - yet most well protected man in all of South Korea. The government has spent over $1 million dollars to ensure Cho Doo Soon’s safety. The safety of the man who assaulted an 8 year old girl in a church bathroom.   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 6565203,
@@ -3549,7 +3587,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }

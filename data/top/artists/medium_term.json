@@ -129,36 +129,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
-      "id": "51kyrUsAVqUBcoDEMFkX12",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb324cea967a456ee680bf6b92",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174324cea967a456ee680bf6b92",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178324cea967a456ee680bf6b92",
-          "width": 160
-        }
-      ],
-      "name": "Hindia",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
       "followers": { "href": null, "total": 0 },
@@ -186,6 +156,36 @@
       "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+      "id": "51kyrUsAVqUBcoDEMFkX12",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb324cea967a456ee680bf6b92",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174324cea967a456ee680bf6b92",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178324cea967a456ee680bf6b92",
+          "width": 160
+        }
+      ],
+      "name": "Hindia",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
     },
     {
       "external_urls": {
@@ -833,6 +833,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["canadian contemporary r&b", "canadian pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
+      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174214f3cf1cbe7139c1e26ffbb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178214f3cf1cbe7139c1e26ffbb",
+          "width": 160
+        }
+      ],
+      "name": "The Weeknd",
+      "popularity": 95,
+      "type": "artist",
+      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
       },
       "followers": { "href": null, "total": 0 },
@@ -863,41 +893,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/24eDfi2MSYo3A87hCcgpIL"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["nordic soundtrack", "orchestral soundtrack", "soundtrack"],
-      "href": "https://api.spotify.com/v1/artists/24eDfi2MSYo3A87hCcgpIL",
-      "id": "24eDfi2MSYo3A87hCcgpIL",
-      "images": [
-        {
-          "height": 1000,
-          "url": "https://i.scdn.co/image/e7a97b420e09f4f125cd3e14fca5e7ea174e74e0",
-          "width": 1000
-        },
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/70cbb19cc5b77451245b2266c0e0bef002886c8a",
-          "width": 640
-        },
-        {
-          "height": 200,
-          "url": "https://i.scdn.co/image/9d98b806041da6d445df412ae7233c55e5ff63d4",
-          "width": 200
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/0602b84d7be66f164ab566553846fdbbe0e78ba3",
-          "width": 64
-        }
-      ],
-      "name": "Ludwig Göransson",
-      "popularity": 66,
-      "type": "artist",
-      "uri": "spotify:artist:24eDfi2MSYo3A87hCcgpIL"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
       },
       "followers": { "href": null, "total": 0 },
@@ -922,39 +917,9 @@
         }
       ],
       "name": "beabadoobee",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["canadian contemporary r&b", "canadian pop", "pop"],
-      "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
-      "id": "1Xyo4u8uXC1ZmMpatF05PJ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb214f3cf1cbe7139c1e26ffbb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174214f3cf1cbe7139c1e26ffbb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178214f3cf1cbe7139c1e26ffbb",
-          "width": 160
-        }
-      ],
-      "name": "The Weeknd",
-      "popularity": 95,
-      "type": "artist",
-      "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
     },
     {
       "external_urls": {
@@ -2085,7 +2050,7 @@
         }
       ],
       "name": "The Beach Boys",
-      "popularity": 73,
+      "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:3oDbviiivRWhXwIE8hxkVV"
     },
@@ -2265,7 +2230,7 @@
         }
       ],
       "name": "Lomba Sihir",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
     },
@@ -3104,6 +3069,36 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:7wbkl3zgDZEoZer357mVIw"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0U7iI0Dk4Ojvi17nZboNO4"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["newcastle nsw indie", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/0U7iI0Dk4Ojvi17nZboNO4",
+      "id": "0U7iI0Dk4Ojvi17nZboNO4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb080c868c83bba9ba37f13639",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174080c868c83bba9ba37f13639",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178080c868c83bba9ba37f13639",
+          "width": 160
+        }
+      ],
+      "name": "Vacations",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:0U7iI0Dk4Ojvi17nZboNO4"
     }
   ]
 }
