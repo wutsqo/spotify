@@ -770,36 +770,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop boy group", "pop"],
-      "href": "https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX",
-      "id": "3Nrfpe0tUJi4K4DXYWgMUX",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a",
-          "width": 160
-        }
-      ],
-      "name": "BTS",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       },
       "followers": { "href": null, "total": 0 },
@@ -827,6 +797,36 @@
       "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:1McMsnEElThX1knmY4oliG"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop", "k-pop boy group", "pop"],
+      "href": "https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX",
+      "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a",
+          "width": 160
+        }
+      ],
+      "name": "BTS",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
     },
     {
       "external_urls": {
@@ -2277,6 +2277,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop", "talent show", "uk pop"],
+      "href": "https://api.spotify.com/v1/artists/4IWBUUAFIplrNtaOHcJPRM",
+      "id": "4IWBUUAFIplrNtaOHcJPRM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb2a0c6d0343c82be9dd6fce0b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051742a0c6d0343c82be9dd6fce0b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1782a0c6d0343c82be9dd6fce0b",
+          "width": 160
+        }
+      ],
+      "name": "James Arthur",
+      "popularity": 81,
+      "type": "artist",
+      "uri": "spotify:artist:4IWBUUAFIplrNtaOHcJPRM"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
       },
       "followers": { "href": null, "total": 0 },
@@ -2334,36 +2364,6 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop", "talent show", "uk pop"],
-      "href": "https://api.spotify.com/v1/artists/4IWBUUAFIplrNtaOHcJPRM",
-      "id": "4IWBUUAFIplrNtaOHcJPRM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb2a0c6d0343c82be9dd6fce0b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051742a0c6d0343c82be9dd6fce0b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1782a0c6d0343c82be9dd6fce0b",
-          "width": 160
-        }
-      ],
-      "name": "James Arthur",
-      "popularity": 81,
-      "type": "artist",
-      "uri": "spotify:artist:4IWBUUAFIplrNtaOHcJPRM"
     },
     {
       "external_urls": {
