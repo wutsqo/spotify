@@ -137,7 +137,7 @@
         "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["modern alternative rock", "modern rock", "pop", "pov: indie"],
+      "genres": ["modern alternative rock", "modern rock", "pop"],
       "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
       "id": "77SW9BnxLY8rJ0RciFqkHh",
       "images": [
@@ -2114,7 +2114,7 @@
         }
       ],
       "name": "Muzammil Hasballah",
-      "popularity": 56,
+      "popularity": 57,
       "type": "artist",
       "uri": "spotify:artist:1Z668NcfvsgVbTNd3hDb89"
     },
@@ -2204,7 +2204,7 @@
         }
       ],
       "name": "DPR LIVE",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:0siBQaURCli5wn2lqv8WZg"
     },
@@ -2820,7 +2820,7 @@
         }
       ],
       "name": "Catfish and the Bottlemen",
-      "popularity": 63,
+      "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:2xaAOVImG2O6lURwqperlD"
     },

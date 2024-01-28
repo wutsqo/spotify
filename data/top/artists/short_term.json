@@ -1,5 +1,5 @@
 {
-  "total": 25,
+  "total": 24,
   "artists": [
     {
       "external_urls": {
@@ -165,36 +165,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/29vPfjqj8X5ri4AJRt8wVM"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["dangdut koplo", "indonesian pop", "indonesian pop rock"],
-      "href": "https://api.spotify.com/v1/artists/29vPfjqj8X5ri4AJRt8wVM",
-      "id": "29vPfjqj8X5ri4AJRt8wVM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb19fd0c20ed2bed2ea04754cf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517419fd0c20ed2bed2ea04754cf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17819fd0c20ed2bed2ea04754cf",
-          "width": 160
-        }
-      ],
-      "name": "Peterpan",
-      "popularity": 64,
-      "type": "artist",
-      "uri": "spotify:artist:29vPfjqj8X5ri4AJRt8wVM"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
       "followers": { "href": null, "total": 0 },
@@ -228,7 +198,7 @@
         "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["modern alternative rock", "modern rock", "pop", "pov: indie"],
+      "genres": ["modern alternative rock", "modern rock", "pop"],
       "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
       "id": "77SW9BnxLY8rJ0RciFqkHh",
       "images": [
