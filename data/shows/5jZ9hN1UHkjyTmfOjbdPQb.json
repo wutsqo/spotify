@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/59OCYUMY0xJwLpicOm0z0S/clip_1730840_1780092.mp3",
+      "description": "It takes 2 minutes for a car to drown to the bottom of the river - and having your car sink to the bottom of the Han River was as good as a death sentence.  33 year old, Minjun, woke up in his sinking car. He had no idea how he got here…  His car was filling up with water. His only way out was to break the window using nothing but the force of his body. He pushed the glass shards out and closed his eyes before jumping out…  He plunged into the cold…  Concrete.  Minjun looked around. He was on a half-submerged concrete island in the middle of the deadly river. The bridge he had been driving on had collapsed - plunging 66 feet down into the water.  He could see people, covered in blood, crawling out of their cars. Screaming for help.  Help would come too late.  It was up to the 49 people to save each other on the concrete island. By the end 32 would be dead.  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 3654078,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5v3errt9UEpOwMDwoAg8mv"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5v3errt9UEpOwMDwoAg8mv",
+      "html_description": "<p>It takes 2 minutes for a car to drown to the bottom of the river - and having your car sink to the bottom of the Han River was as good as a death sentence. </p><br/><p>33 year old, Minjun, woke up in his sinking car. He had no idea how he got here… </p><br/><p>His car was filling up with water. His only way out was to break the window using nothing but the force of his body. He pushed the glass shards out and closed his eyes before jumping out… </p><br/><p>He plunged into the cold… </p><br/><p>Concrete. </p><br/><p>Minjun looked around. He was on a half-submerged concrete island in the middle of the deadly river. The bridge he had been driving on had collapsed - plunging 66 feet down into the water. </p><br/><p>He could see people, covered in blood, crawling out of their cars. Screaming for help. </p><br/><p>Help would come too late. </p><br/><p>It was up to the 49 people to save each other on the concrete island. By the end 32 would be dead.</p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "5v3errt9UEpOwMDwoAg8mv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Deadly Korean Bridge Collapse That Killed 32 - Bus Filled With HS Students Fell 100ft Into Han River",
+      "release_date": "2024-01-28",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5v3errt9UEpOwMDwoAg8mv"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Aobxr85R2AkxErCTWaTSd/clip_5936_76769.mp3",
       "description": "In the dense forests of Washington - there is a suspicious wooden door leading into a mountain. If you look too quickly you just might miss it. It’s strange. If you were to open the door you would be standing inside of the tall mountain… how is that possible? Peter Keller had spent the past 8 years building his secret bunker inside the mountain. It a massive feat - 2 stories tall, log cabin walls, stockpiles of food, weapons, his favorite candy bars, and all the supplies he would need to live off the grid for years.  He vlogged the process of building his bunker for the end of the world.  Cyberattack that breaks America? Massive earthquake that leaves everyone without power? Peter was ready.  He had his secret bunker to hide out in case the world ended. He just needed to kill 2 people before he could live out his doomsday fantasies…   This is the case of Peter Keller Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4079721,
@@ -3587,7 +3625,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }

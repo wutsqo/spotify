@@ -509,36 +509,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop girl group"],
-      "href": "https://api.spotify.com/v1/artists/6HvZYsbFfjnjFrWF950C9d",
-      "id": "6HvZYsbFfjnjFrWF950C9d",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f5d2200231e6ad75e8485476",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f5d2200231e6ad75e8485476",
-          "width": 160
-        }
-      ],
-      "name": "NewJeans",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
       },
       "followers": { "href": null, "total": 0 },
@@ -698,6 +668,36 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop", "k-pop girl group"],
+      "href": "https://api.spotify.com/v1/artists/6HvZYsbFfjnjFrWF950C9d",
+      "id": "6HvZYsbFfjnjFrWF950C9d",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174f5d2200231e6ad75e8485476",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178f5d2200231e6ad75e8485476",
+          "width": 160
+        }
+      ],
+      "name": "NewJeans",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
     },
     {
       "external_urls": {
@@ -1265,7 +1265,7 @@
         "spotify": "https://open.spotify.com/artist/29vPfjqj8X5ri4AJRt8wVM"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": ["dangdut koplo", "indonesian pop", "indonesian pop rock"],
+      "genres": ["dangdut koplo", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/29vPfjqj8X5ri4AJRt8wVM",
       "id": "29vPfjqj8X5ri4AJRt8wVM",
       "images": [
@@ -1982,7 +1982,7 @@
         }
       ],
       "name": "The Smiths",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
     },
@@ -2786,7 +2786,7 @@
         }
       ],
       "name": "Maroon 5",
-      "popularity": 84,
+      "popularity": 85,
       "type": "artist",
       "uri": "spotify:artist:04gDigrS5kc9YWfZHwBETP"
     },
@@ -2876,7 +2876,7 @@
         }
       ],
       "name": "Kali Uchis",
-      "popularity": 86,
+      "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:1U1el3k54VvEUzo3ybLPlM"
     },
@@ -2996,7 +2996,7 @@
         }
       ],
       "name": "Rihanna",
-      "popularity": 89,
+      "popularity": 90,
       "type": "artist",
       "uri": "spotify:artist:5pKCCKE2ajJHZ9KAiaK11H"
     },

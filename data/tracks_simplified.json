@@ -1,6 +1,30 @@
 {
-  "total": 114,
+  "total": 115,
   "tracks": [
+    {
+      "id": "2fywBLXK9GQi8YR8C8d3c4",
+      "name": "Fall for You",
+      "added_at": "2024-01-28T11:21:31Z",
+      "popularity": 69,
+      "duration_ms": 183600,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/2fywBLXK9GQi8YR8C8d3c4",
+      "preview_url": "https://p.scdn.co/mp3-preview/2c2bd980d1ad6e9537615961c0388b2a5660f939?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "3sMhTzlR0pjqVsefzqvbTa",
+        "name": "A Twist in My Story",
+        "release_date": "2008-05-13",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27303369f66d5e71faab15a0751",
+        "url": "https://open.spotify.com/album/3sMhTzlR0pjqVsefzqvbTa"
+      },
+      "artists": [
+        {
+          "id": "6eouuqqGggqDlYRV63cgPo",
+          "name": "Secondhand Serenade",
+          "url": "https://open.spotify.com/artist/6eouuqqGggqDlYRV63cgPo"
+        }
+      ]
+    },
     {
       "id": "7BqBn9nzAq8spo5e7cZ0dJ",
       "name": "Just the Way You Are",
@@ -1163,7 +1187,7 @@
       "id": "3oUam1JxcuLVFKaAr5MWnN",
       "name": "We Were Never Really Friends",
       "added_at": "2023-06-04T18:16:46Z",
-      "popularity": 14,
+      "popularity": 13,
       "duration_ms": 204325,
       "explicit": false,
       "url": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN",

@@ -674,7 +674,7 @@
         }
       ],
       "name": "IU",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:3HqSLMAZ3g3d5poNaI7GOU"
     },
@@ -860,36 +860,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop boy group", "pop"],
-      "href": "https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX",
-      "id": "3Nrfpe0tUJi4K4DXYWgMUX",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a",
-          "width": 160
-        }
-      ],
-      "name": "BTS",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
       },
       "followers": { "href": null, "total": 0 },
@@ -923,6 +893,36 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:3dz0NnIZhtKKeXZxLOxCam"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop", "k-pop boy group", "pop"],
+      "href": "https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX",
+      "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a",
+          "width": 160
+        }
+      ],
+      "name": "BTS",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
     },
     {
       "external_urls": {
@@ -1819,17 +1819,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba0ac627e34c7d1eee4edd2c1",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebef138aa4569dba63ee549997",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a0ac627e34c7d1eee4edd2c1",
+          "url": "https://i.scdn.co/image/ab67616100005174ef138aa4569dba63ee549997",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a0ac627e34c7d1eee4edd2c1",
+          "url": "https://i.scdn.co/image/ab6761610000f178ef138aa4569dba63ee549997",
           "width": 160
         }
       ],
@@ -1979,17 +1979,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6807bb7c7282b00fc618d598",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4f59dbe2f77b0908dbb46583",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746807bb7c7282b00fc618d598",
+          "url": "https://i.scdn.co/image/ab676161000051744f59dbe2f77b0908dbb46583",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786807bb7c7282b00fc618d598",
+          "url": "https://i.scdn.co/image/ab6761610000f1784f59dbe2f77b0908dbb46583",
           "width": 160
         }
       ],
@@ -2925,7 +2925,7 @@
         }
       ],
       "name": "Calvin Harris",
-      "popularity": 84,
+      "popularity": 85,
       "type": "artist",
       "uri": "spotify:artist:7CajNmpbOovFoOoasH2HaY"
     },
