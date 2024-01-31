@@ -644,7 +644,7 @@
         }
       ],
       "name": "TWICE",
-      "popularity": 78,
+      "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:7n2Ycct7Beij7Dj7meI4X0"
     },
@@ -854,7 +854,7 @@
         }
       ],
       "name": "ヨルシカ",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
     },
@@ -893,36 +893,6 @@
       "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:3dz0NnIZhtKKeXZxLOxCam"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["k-pop", "k-pop boy group", "pop"],
-      "href": "https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX",
-      "id": "3Nrfpe0tUJi4K4DXYWgMUX",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a",
-          "width": 160
-        }
-      ],
-      "name": "BTS",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
     },
     {
       "external_urls": {
@@ -983,6 +953,36 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:20JZFwl6HVl6yg8a4H3ZqK"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["k-pop", "k-pop boy group", "pop"],
+      "href": "https://api.spotify.com/v1/artists/3Nrfpe0tUJi4K4DXYWgMUX",
+      "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d642648235ebf3460d2d1f6a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d642648235ebf3460d2d1f6a",
+          "width": 160
+        }
+      ],
+      "name": "BTS",
+      "popularity": 87,
+      "type": "artist",
+      "uri": "spotify:artist:3Nrfpe0tUJi4K4DXYWgMUX"
     },
     {
       "external_urls": {

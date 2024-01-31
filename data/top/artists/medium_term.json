@@ -1346,7 +1346,7 @@
         }
       ],
       "name": "ヨルシカ",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
     },
@@ -2392,36 +2392,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/1Hsdzj7Dlq2I7tHP7501T4",
-      "id": "1Hsdzj7Dlq2I7tHP7501T4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174eccc1cde8e9fdcf1c9289897",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178eccc1cde8e9fdcf1c9289897",
-          "width": 160
-        }
-      ],
-      "name": "Niall Horan",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:1Hsdzj7Dlq2I7tHP7501T4"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
       },
       "followers": { "href": null, "total": 0 },
@@ -2638,6 +2608,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/1Hsdzj7Dlq2I7tHP7501T4",
+      "id": "1Hsdzj7Dlq2I7tHP7501T4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174eccc1cde8e9fdcf1c9289897",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178eccc1cde8e9fdcf1c9289897",
+          "width": 160
+        }
+      ],
+      "name": "Niall Horan",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:1Hsdzj7Dlq2I7tHP7501T4"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
       },
       "followers": { "href": null, "total": 0 },
@@ -2846,7 +2846,7 @@
         }
       ],
       "name": "MALIQ & D'Essentials",
-      "popularity": 66,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:18PmEN8ZiHBQlDpxrgR2xs"
     },
