@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3yKExYK7zE80uISk5P7OaB/clip_2428550_2482050.mp3",
+      "description": "They called it the House of Death. If you’re not careful and step foot inside the house, the owner will kill you and feed you to his dogs. 2 men had visited the House of Death, managed to get out with their lives, and told the police a bizarre story. They saw it with their own eyes they said. The owner of the death house was feeding the pack of dogs the small severed hand of a woman. They said they knew who the hand belonged to. She was a young woman who had gone viral recently for exposing a famous professional soccer player. She told reporters - “If something happens to me - it was him. He did it.” The 2 men told police that she was kidnapped, held hostage, killed, and fed to the dogs in the mysterious “House of Death.”  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4901438,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2942TrFbztHt8qgkbQmlWR"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2942TrFbztHt8qgkbQmlWR",
+      "html_description": "<p>They called it the House of Death.</p><br/><p>If you’re not careful and step foot inside the house, the owner will kill you and feed you to his dogs. 2 men had visited the House of Death, managed to get out with their lives, and told the police a bizarre story.</p><br/><p>They saw it with their own eyes they said. The owner of the death house was feeding the pack of dogs the small severed hand of a woman.</p><br/><p>They said they knew who the hand belonged to.</p><br/><p>She was a young woman who had gone viral recently for exposing a famous professional soccer player.</p><br/><p>She told reporters -</p><br/><p>“If something happens to me - it was him. He did it.”</p><br/><p>The 2 men told police that she was kidnapped, held hostage, killed, and fed to the dogs in the mysterious “House of Death.”</p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "2942TrFbztHt8qgkbQmlWR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "She Exposed Famous Soccer Player, Disappeared, Allegedly FED TO HIS DOGS",
+      "release_date": "2024-02-01",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2942TrFbztHt8qgkbQmlWR"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/59OCYUMY0xJwLpicOm0z0S/clip_1730840_1780092.mp3",
       "description": "It takes 2 minutes for a car to drown to the bottom of the river - and having your car sink to the bottom of the Han River was as good as a death sentence.  33 year old, Minjun, woke up in his sinking car. He had no idea how he got here…  His car was filling up with water. His only way out was to break the window using nothing but the force of his body. He pushed the glass shards out and closed his eyes before jumping out…  He plunged into the cold…  Concrete.  Minjun looked around. He was on a half-submerged concrete island in the middle of the deadly river. The bridge he had been driving on had collapsed - plunging 66 feet down into the water.  He could see people, covered in blood, crawling out of their cars. Screaming for help.  Help would come too late.  It was up to the 49 people to save each other on the concrete island. By the end 32 would be dead.  Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 3654078,
@@ -3625,7 +3663,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }
