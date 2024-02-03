@@ -344,36 +344,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["viral pop"],
-      "href": "https://api.spotify.com/v1/artists/3MZsBdqDrRTJihTHQrO6Dq",
-      "id": "3MZsBdqDrRTJihTHQrO6Dq",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744111c95b5f430c3265c7304b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784111c95b5f430c3265c7304b",
-          "width": 160
-        }
-      ],
-      "name": "Joji",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
       },
       "followers": { "href": null, "total": 0 },
@@ -401,6 +371,36 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["viral pop"],
+      "href": "https://api.spotify.com/v1/artists/3MZsBdqDrRTJihTHQrO6Dq",
+      "id": "3MZsBdqDrRTJihTHQrO6Dq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4111c95b5f430c3265c7304b",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744111c95b5f430c3265c7304b",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784111c95b5f430c3265c7304b",
+          "width": 160
+        }
+      ],
+      "name": "Joji",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
     },
     {
       "external_urls": {
@@ -830,36 +830,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop"],
-      "href": "https://api.spotify.com/v1/artists/4UK2Lzi6fBfUi9rpDt6cik",
-      "id": "4UK2Lzi6fBfUi9rpDt6cik",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e62cff9c6018ae5616b01eab",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e62cff9c6018ae5616b01eab",
-          "width": 160
-        }
-      ],
-      "name": "ヨルシカ",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3dz0NnIZhtKKeXZxLOxCam"
       },
       "followers": { "href": null, "total": 0 },
@@ -893,6 +863,36 @@
       "popularity": 60,
       "type": "artist",
       "uri": "spotify:artist:3dz0NnIZhtKKeXZxLOxCam"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["j-pop"],
+      "href": "https://api.spotify.com/v1/artists/4UK2Lzi6fBfUi9rpDt6cik",
+      "id": "4UK2Lzi6fBfUi9rpDt6cik",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e62cff9c6018ae5616b01eab",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e62cff9c6018ae5616b01eab",
+          "width": 160
+        }
+      ],
+      "name": "ヨルシカ",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
     },
     {
       "external_urls": {
@@ -1250,7 +1250,7 @@
         }
       ],
       "name": "ZAYN",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:5ZsFI1h6hIdQRw2ti0hz81"
     },
