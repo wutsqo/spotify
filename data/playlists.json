@@ -1,6 +1,42 @@
 {
-  "total": 2,
+  "total": 7,
   "playlists": [
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2CdfCFDPibgAZdCm5lnpa2"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2CdfCFDPibgAZdCm5lnpa2",
+      "id": "2CdfCFDPibgAZdCm5lnpa2",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbeeb4200b057be0480bab1b50",
+          "width": null
+        }
+      ],
+      "name": "funeral of my own temptation",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDUsOWQyY2VkN2M3OWIxODgyM2U1ZjNjNzg2ZjYwYzU1NGVmNTFkNzJlYw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2CdfCFDPibgAZdCm5lnpa2/tracks",
+        "total": 17
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2CdfCFDPibgAZdCm5lnpa2"
+    },
     {
       "collaborative": false,
       "description": "",
@@ -12,7 +48,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb1214b559f50db79dc5a7a705",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb6f7c63514f3fbb7dc1f365f2",
           "width": null
         }
       ],
@@ -29,7 +65,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MTQxLGM5MmI1NGFmYjJlNWVlNDk5OTlhYTQzZWJiZjZhOGU4MDRiMWM4ZmU=",
+      "snapshot_id": "MTQ0LDM4MWZlZDk2NzgyNDlhN2VmMWU0OTQ0ZTA0OThiMDViMDRlYzJlYmU=",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR/tracks",
         "total": 64
@@ -47,19 +83,9 @@
       "id": "0pjLwygOBrPYVc0rG417iE",
       "images": [
         {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d0000b2731bd6d088d3d81972af4cb81dab67616d0000b273280a001e43c93792dd1e27c7ab67616d0000b27374c732f8aa0e0ccbb3d17d96ab67616d0000b273c607bcd8355681ab4fac2968",
-          "width": 60
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb5060abec17745d7d1e545d6d",
+          "width": null
         }
       ],
       "name": "Liked Songs (Mirror)",
@@ -75,13 +101,157 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MTMsZjI2OTM3NWY3N2IwYjUwOTJhMjJlNmE3NTI4ZDM4ODVhM2VlY2IzOA==",
+      "snapshot_id": "MTQsMDVlYmMzMGE0MDNjYjU1ZjY1ZTI4MzM5ZTJiMmFjYjY3ZTlhNjE4OQ==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/0pjLwygOBrPYVc0rG417iE/tracks",
         "total": 135
       },
       "type": "playlist",
       "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2fxmftbEDAX5diXLgWYTsf"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2fxmftbEDAX5diXLgWYTsf",
+      "id": "2fxmftbEDAX5diXLgWYTsf",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb689624e6d97ed3de8507f3ca",
+          "width": null
+        }
+      ],
+      "name": "pengantar turu",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzAsZmQwYTdmMzhmNTYyM2RiZDJiYmMzZDFkMmMzYzhmOWU2MjkwODM1Mw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2fxmftbEDAX5diXLgWYTsf/tracks",
+        "total": 8
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2fxmftbEDAX5diXLgWYTsf"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2cjrDiXb98zjUmNbtgh7R0"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2cjrDiXb98zjUmNbtgh7R0",
+      "id": "2cjrDiXb98zjUmNbtgh7R0",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbcdb2ac017fdc55a5d1397e00",
+          "width": null
+        }
+      ],
+      "name": "REX Live in Jakarta 2023",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NSw1NjQzMzljZjY0YWM1OTFjZjFhZjQyNmM4ZjJiMjA2M2E0ZGQ4NTBi",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2cjrDiXb98zjUmNbtgh7R0/tracks",
+        "total": 21
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2cjrDiXb98zjUmNbtgh7R0"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5kVv0zcInwPRsX2uTVu05L"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5kVv0zcInwPRsX2uTVu05L",
+      "id": "5kVv0zcInwPRsX2uTVu05L",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb15270bf50d5ee17436d7f4bb",
+          "width": null
+        }
+      ],
+      "name": "STUCK IN JET WASH",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjAyLDNkNWNkOGRjZjE1M2I1MWVlN2M4ZWQzMzYyMmMxY2RmYTEwNTBiNjE=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5kVv0zcInwPRsX2uTVu05L/tracks",
+        "total": 81
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5kVv0zcInwPRsX2uTVu05L"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0N4XVIqdfLISwh5icfTKd3"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0N4XVIqdfLISwh5icfTKd3",
+      "id": "0N4XVIqdfLISwh5icfTKd3",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbc087f5e5e162a2f501769dea",
+          "width": null
+        }
+      ],
+      "name": "sweet creatures",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NTksY2ZkYmI1MTczNDExNTVjNWNhYjg2ZDEwMmU5ZjExNDBmOTZiMDQxZQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0N4XVIqdfLISwh5icfTKd3/tracks",
+        "total": 32
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0N4XVIqdfLISwh5icfTKd3"
     }
   ]
 }
