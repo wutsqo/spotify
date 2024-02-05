@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/06RFbPPDJBjFe04RvLgMDD/clip_1649600_1705550.mp3",
+      "description": "Most business deals are done at the dinner table. You quite literally wine and dine your potential investors. CEO Chen knew the song and dance better than anyone. He invested in companies with unique products to offer to the market. The businessman in front of him was doing everything to get CEO Chen to open his wallet. “Our product is really unique and hopefully this is comforting to know - I quality assure each and every single product sold.” CEO Chen smiled and the businessman knew it was time to go bigger. He eagerly stated - “We also give back to our local communities. We provide aid for elementary and middle schoolers. Here, take a look at what we’ve given to them.” CEO Chen leaned over to look at the businessman’s phone. The man smiled at his screen and kept swiping from the videos… Each video depicted a 12 year old being brutally assaulted in a dimly lit hotel room. The investment opportunity? A child sex trafficking ring disguised as a student aid foundation.   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 3647486,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6RFmjo1wojs8T2DSoYMUZ7"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6RFmjo1wojs8T2DSoYMUZ7",
+      "html_description": "<p>Most business deals are done at the dinner table. You quite literally wine and dine your potential investors. CEO Chen knew the song and dance better than anyone.</p><br/><p>He invested in companies with unique products to offer to the market.</p><br/><p>The businessman in front of him was doing everything to get CEO Chen to open his wallet.</p><br/><p>“Our product is really unique and hopefully this is comforting to know - I quality assure each and every single product sold.”</p><br/><p>CEO Chen smiled and the businessman knew it was time to go bigger. He eagerly stated -</p><br/><p>“We also give back to our local communities. We provide aid for elementary and middle schoolers. Here, take a look at what we’ve given to them.”</p><br/><p>CEO Chen leaned over to look at the businessman’s phone.</p><br/><p>The man smiled at his screen and kept swiping from the videos…</p><br/><p>Each video depicted a 12 year old being brutally assaulted in a dimly lit hotel room. The investment opportunity? A child sex trafficking ring disguised as a student aid foundation.</p><br/><p><br /></p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "6RFmjo1wojs8T2DSoYMUZ7",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Children’s Charity selling students to rich donors to \"fund their schooling\"",
+      "release_date": "2024-02-04",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:6RFmjo1wojs8T2DSoYMUZ7"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3yKExYK7zE80uISk5P7OaB/clip_2428550_2482050.mp3",
       "description": "They called it the House of Death. If you’re not careful and step foot inside the house, the owner will kill you and feed you to his dogs. 2 men had visited the House of Death, managed to get out with their lives, and told the police a bizarre story. They saw it with their own eyes they said. The owner of the death house was feeding the pack of dogs the small severed hand of a woman. They said they knew who the hand belonged to. She was a young woman who had gone viral recently for exposing a famous professional soccer player. She told reporters - “If something happens to me - it was him. He did it.” The 2 men told police that she was kidnapped, held hostage, killed, and fed to the dogs in the mysterious “House of Death.”  Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4901438,
@@ -3663,7 +3701,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }
