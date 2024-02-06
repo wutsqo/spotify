@@ -926,36 +926,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop"],
-      "href": "https://api.spotify.com/v1/artists/4UK2Lzi6fBfUi9rpDt6cik",
-      "id": "4UK2Lzi6fBfUi9rpDt6cik",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e62cff9c6018ae5616b01eab",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e62cff9c6018ae5616b01eab",
-          "width": 160
-        }
-      ],
-      "name": "ヨルシカ",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
       },
       "followers": { "href": null, "total": 0 },
@@ -983,6 +953,36 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["j-pop"],
+      "href": "https://api.spotify.com/v1/artists/4UK2Lzi6fBfUi9rpDt6cik",
+      "id": "4UK2Lzi6fBfUi9rpDt6cik",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e62cff9c6018ae5616b01eab",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e62cff9c6018ae5616b01eab",
+          "width": 160
+        }
+      ],
+      "name": "ヨルシカ",
+      "popularity": 71,
+      "type": "artist",
+      "uri": "spotify:artist:4UK2Lzi6fBfUi9rpDt6cik"
     },
     {
       "external_urls": {
@@ -1414,7 +1414,7 @@
         }
       ],
       "name": "Paramore",
-      "popularity": 77,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
     },
@@ -1840,41 +1840,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["adult standards", "easy listening", "lounge"],
-      "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
-      "id": "1Mxqyy3pSjf8kZZL4QVxS0",
-      "images": [
-        {
-          "height": 650,
-          "url": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
-          "width": 999
-        },
-        {
-          "height": 416,
-          "url": "https://i.scdn.co/image/883de3e492364891543bc0313ffe516626778a16",
-          "width": 640
-        },
-        {
-          "height": 130,
-          "url": "https://i.scdn.co/image/810f29651e05c9eae5a31f8151c2e05dc46390f9",
-          "width": 200
-        },
-        {
-          "height": 42,
-          "url": "https://i.scdn.co/image/a283ecdc6252ae305c53d283846cae2e8b22e94c",
-          "width": 64
-        }
-      ],
-      "name": "Frank Sinatra",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
       },
       "followers": { "href": null, "total": 0 },
@@ -1907,6 +1872,41 @@
       "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["adult standards", "easy listening", "lounge"],
+      "href": "https://api.spotify.com/v1/artists/1Mxqyy3pSjf8kZZL4QVxS0",
+      "id": "1Mxqyy3pSjf8kZZL4QVxS0",
+      "images": [
+        {
+          "height": 650,
+          "url": "https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411",
+          "width": 999
+        },
+        {
+          "height": 416,
+          "url": "https://i.scdn.co/image/883de3e492364891543bc0313ffe516626778a16",
+          "width": 640
+        },
+        {
+          "height": 130,
+          "url": "https://i.scdn.co/image/810f29651e05c9eae5a31f8151c2e05dc46390f9",
+          "width": 200
+        },
+        {
+          "height": 42,
+          "url": "https://i.scdn.co/image/a283ecdc6252ae305c53d283846cae2e8b22e94c",
+          "width": 64
+        }
+      ],
+      "name": "Frank Sinatra",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
     },
     {
       "external_urls": {
@@ -1994,7 +1994,7 @@
         }
       ],
       "name": "The Temper Trap",
-      "popularity": 65,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
     },

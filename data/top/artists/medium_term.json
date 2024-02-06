@@ -471,41 +471,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
       },
       "followers": { "href": null, "total": 0 },
-      "genres": [
-        "candy pop",
-        "modern rock",
-        "pixie",
-        "pop",
-        "pop emo",
-        "pop punk",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
-      "id": "74XFHRwlV6OrjEM0A2NCMF",
+      "genres": ["modern alternative rock", "modern rock", "pop"],
+      "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
+      "id": "77SW9BnxLY8rJ0RciFqkHh",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b10c34546a4ca2d7faeb8865",
+          "url": "https://i.scdn.co/image/ab67616100005174df0b5ac84376a0a4b2166816",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b10c34546a4ca2d7faeb8865",
+          "url": "https://i.scdn.co/image/ab6761610000f178df0b5ac84376a0a4b2166816",
           "width": 160
         }
       ],
-      "name": "Paramore",
-      "popularity": 77,
+      "name": "The Neighbourhood",
+      "popularity": 83,
       "type": "artist",
-      "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
+      "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
     },
     {
       "external_urls": {
@@ -536,36 +528,6 @@
       "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["modern alternative rock", "modern rock", "pop"],
-      "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
-      "id": "77SW9BnxLY8rJ0RciFqkHh",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174df0b5ac84376a0a4b2166816",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178df0b5ac84376a0a4b2166816",
-          "width": 160
-        }
-      ],
-      "name": "The Neighbourhood",
-      "popularity": 83,
-      "type": "artist",
-      "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
     },
     {
       "external_urls": {
@@ -728,6 +690,44 @@
       "popularity": 95,
       "type": "artist",
       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": [
+        "candy pop",
+        "modern rock",
+        "pixie",
+        "pop",
+        "pop emo",
+        "pop punk",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+      "id": "74XFHRwlV6OrjEM0A2NCMF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b10c34546a4ca2d7faeb8865",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b10c34546a4ca2d7faeb8865",
+          "width": 160
+        }
+      ],
+      "name": "Paramore",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
     },
     {
       "external_urls": {
@@ -1202,6 +1202,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["indie rock italiano", "italian pop"],
+      "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
+      "id": "0lAWpj5szCSwM4rUMHYmrr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517446d0db8a86fda630ec12401f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17846d0db8a86fda630ec12401f",
+          "width": 160
+        }
+      ],
+      "name": "Måneskin",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
       },
       "followers": { "href": null, "total": 0 },
@@ -1259,36 +1289,6 @@
       "popularity": 90,
       "type": "artist",
       "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["indie rock italiano", "italian pop"],
-      "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
-      "id": "0lAWpj5szCSwM4rUMHYmrr",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb46d0db8a86fda630ec12401f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517446d0db8a86fda630ec12401f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17846d0db8a86fda630ec12401f",
-          "width": 160
-        }
-      ],
-      "name": "Måneskin",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
     },
     {
       "external_urls": {
@@ -1466,7 +1466,7 @@
         }
       ],
       "name": "Refo Dan Fauna",
-      "popularity": 29,
+      "popularity": 28,
       "type": "artist",
       "uri": "spotify:artist:6ILCDTreFre4EDfBZxCGxi"
     },
@@ -1529,6 +1529,36 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:31aMmlq8isIAgojvmIwiS4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
+      "id": "4Uc8Dsxct0oMqx0P6i60ea",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c1c8fa15e08cb31eeb03b771",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c1c8fa15e08cb31eeb03b771",
+          "width": 160
+        }
+      ],
+      "name": "Conan Gray",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
     },
     {
       "external_urls": {
@@ -1649,6 +1679,41 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:3uwAm6vQy7kWPS2bciKWx9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["classic rock", "glam rock", "rock"],
+      "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+      "id": "1dfeR4HaWDbWqFHLkxsg1d",
+      "images": [
+        {
+          "height": 806,
+          "url": "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982",
+          "width": 999
+        },
+        {
+          "height": 516,
+          "url": "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42",
+          "width": 640
+        },
+        {
+          "height": 161,
+          "url": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
+          "width": 200
+        },
+        {
+          "height": 52,
+          "url": "https://i.scdn.co/image/6dd0ffd270903d1884edf9058c49f58b03db893d",
+          "width": 64
+        }
+      ],
+      "name": "Queen",
+      "popularity": 84,
+      "type": "artist",
+      "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
     },
     {
       "external_urls": {
@@ -1904,41 +1969,6 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:1Mxqyy3pSjf8kZZL4QVxS0"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["classic rock", "glam rock", "rock"],
-      "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
-      "id": "1dfeR4HaWDbWqFHLkxsg1d",
-      "images": [
-        {
-          "height": 806,
-          "url": "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982",
-          "width": 999
-        },
-        {
-          "height": 516,
-          "url": "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42",
-          "width": 640
-        },
-        {
-          "height": 161,
-          "url": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
-          "width": 200
-        },
-        {
-          "height": 52,
-          "url": "https://i.scdn.co/image/6dd0ffd270903d1884edf9058c49f58b03db893d",
-          "width": 64
-        }
-      ],
-      "name": "Queen",
-      "popularity": 84,
-      "type": "artist",
-      "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
     },
     {
       "external_urls": {
@@ -2263,36 +2293,6 @@
       "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:6jJ0s89eD6GaHleKKya26X"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
-      "id": "4Uc8Dsxct0oMqx0P6i60ea",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c1c8fa15e08cb31eeb03b771",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c1c8fa15e08cb31eeb03b771",
-          "width": 160
-        }
-      ],
-      "name": "Conan Gray",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
     },
     {
       "external_urls": {
