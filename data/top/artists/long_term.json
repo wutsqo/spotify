@@ -284,36 +284,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["j-pop", "japanese teen pop"],
-      "href": "https://api.spotify.com/v1/artists/64tJ2EAv1R6UaZqc4iOCyj",
-      "id": "64tJ2EAv1R6UaZqc4iOCyj",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17883e2d0c9611f1fb6baafcb36",
-          "width": 160
-        }
-      ],
-      "name": "YOASOBI",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:64tJ2EAv1R6UaZqc4iOCyj"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy"
       },
       "followers": { "href": null, "total": 0 },
@@ -341,6 +311,36 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:5Rl15oVamLq7FbSb0NNBNy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["j-pop", "japanese teen pop"],
+      "href": "https://api.spotify.com/v1/artists/64tJ2EAv1R6UaZqc4iOCyj",
+      "id": "64tJ2EAv1R6UaZqc4iOCyj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517483e2d0c9611f1fb6baafcb36",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17883e2d0c9611f1fb6baafcb36",
+          "width": 160
+        }
+      ],
+      "name": "YOASOBI",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:64tJ2EAv1R6UaZqc4iOCyj"
     },
     {
       "external_urls": {
@@ -584,7 +584,7 @@
         }
       ],
       "name": "Rich Brian",
-      "popularity": 67,
+      "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
     },
@@ -860,7 +860,7 @@
         }
       ],
       "name": "Porter Robinson",
-      "popularity": 60,
+      "popularity": 59,
       "type": "artist",
       "uri": "spotify:artist:3dz0NnIZhtKKeXZxLOxCam"
     },
@@ -890,7 +890,7 @@
         }
       ],
       "name": "Avicii",
-      "popularity": 81,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
     },
@@ -1714,7 +1714,7 @@
         }
       ],
       "name": "NewJeans",
-      "popularity": 82,
+      "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
     },
@@ -1940,36 +1940,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["korean r&b"],
-      "href": "https://api.spotify.com/v1/artists/2bWTIIQP9zaVc55RaMGu7e",
-      "id": "2bWTIIQP9zaVc55RaMGu7e",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4f59dbe2f77b0908dbb46583",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744f59dbe2f77b0908dbb46583",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784f59dbe2f77b0908dbb46583",
-          "width": 160
-        }
-      ],
-      "name": "Seori",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:2bWTIIQP9zaVc55RaMGu7e"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
       },
       "followers": { "href": null, "total": 0 },
@@ -1997,6 +1967,36 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:4W48hZAnAHVOC2c8WH8pcq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["korean r&b"],
+      "href": "https://api.spotify.com/v1/artists/2bWTIIQP9zaVc55RaMGu7e",
+      "id": "2bWTIIQP9zaVc55RaMGu7e",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4f59dbe2f77b0908dbb46583",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744f59dbe2f77b0908dbb46583",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784f59dbe2f77b0908dbb46583",
+          "width": 160
+        }
+      ],
+      "name": "Seori",
+      "popularity": 58,
+      "type": "artist",
+      "uri": "spotify:artist:2bWTIIQP9zaVc55RaMGu7e"
     },
     {
       "external_urls": {
@@ -2069,17 +2069,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb46e7a06fa6dfefaed6a3f0db",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517446e7a06fa6dfefaed6a3f0db",
+          "url": "https://i.scdn.co/image/ab6761610000517493e1fe183be0aebda170283a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17846e7a06fa6dfefaed6a3f0db",
+          "url": "https://i.scdn.co/image/ab6761610000f17893e1fe183be0aebda170283a",
           "width": 160
         }
       ],
@@ -2129,17 +2129,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb71d0bf45b169d9f431a72314",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8390e0365f43a9c3e0d56282",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517471d0bf45b169d9f431a72314",
+          "url": "https://i.scdn.co/image/ab676161000051748390e0365f43a9c3e0d56282",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17871d0bf45b169d9f431a72314",
+          "url": "https://i.scdn.co/image/ab6761610000f1788390e0365f43a9c3e0d56282",
           "width": 160
         }
       ],
@@ -2451,7 +2451,7 @@
         }
       ],
       "name": "Lomba Sihir",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
     },
@@ -3030,17 +3030,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7a487027eb0c10af725d5410",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdaed24d10b1ac9addfb8a9f1",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747a487027eb0c10af725d5410",
+          "url": "https://i.scdn.co/image/ab67616100005174daed24d10b1ac9addfb8a9f1",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787a487027eb0c10af725d5410",
+          "url": "https://i.scdn.co/image/ab6761610000f178daed24d10b1ac9addfb8a9f1",
           "width": 160
         }
       ],

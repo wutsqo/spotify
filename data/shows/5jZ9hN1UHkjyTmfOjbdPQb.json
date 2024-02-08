@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5guSkviAlD7iaBxpuPkbk1/clip_1825647_1869560.mp3",
+      "description": "Be like Barbie, Nina thought. She pushed her chest out and applied bubblegum lip gloss as she arrived at the seaside mansion for the first time. The last thing she wanted was to look like a child. But to Jeffrey Epstein, that was absolutely what he wanted. In fact, quite possibly the only thing he desired at all. What do rich men desire when they know they can buy almost everything in the world? They want what they can’t have. For Epstein that was young girls, illegally young girls, inexperienced young girls—his desires weren’t uncommon by any means either. Epstein was a multi millionaire rubbing shoulders with princes, socialites, tycoons, magnates, all over the world who had exactly the same desires. How far would the rich go to get something they couldn’t buy?   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 5372051,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0Bjmrps1xlTvsJTUrh3snh"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0Bjmrps1xlTvsJTUrh3snh",
+      "html_description": "<p>Be like Barbie, Nina thought. She pushed her chest out and applied bubblegum lip gloss as she arrived at the seaside mansion for the first time. The last thing she wanted was to look like a child.</p><br/><p>But to Jeffrey Epstein, that was absolutely what he wanted. In fact, quite possibly the only thing he desired at all.</p><br/><p>What do rich men desire when they know they can buy almost everything in the world? They want what they can’t have. For Epstein that was young girls, illegally young girls, inexperienced young girls—his desires weren’t uncommon by any means either.</p><br/><p>Epstein was a multi millionaire rubbing shoulders with princes, socialites, tycoons, magnates, all over the world who had exactly the same desires. How far would the rich go to get something they couldn’t buy?</p><br/><p><br /></p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "0Bjmrps1xlTvsJTUrh3snh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "What Really Happened On Jeffrey Epstein’s Private Island? Secret Sex Parties & Rituals of Ultra Rich",
+      "release_date": "2024-02-07",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:0Bjmrps1xlTvsJTUrh3snh"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/06RFbPPDJBjFe04RvLgMDD/clip_1649600_1705550.mp3",
       "description": "Most business deals are done at the dinner table. You quite literally wine and dine your potential investors. CEO Chen knew the song and dance better than anyone. He invested in companies with unique products to offer to the market. The businessman in front of him was doing everything to get CEO Chen to open his wallet. “Our product is really unique and hopefully this is comforting to know - I quality assure each and every single product sold.” CEO Chen smiled and the businessman knew it was time to go bigger. He eagerly stated - “We also give back to our local communities. We provide aid for elementary and middle schoolers. Here, take a look at what we’ve given to them.” CEO Chen leaned over to look at the businessman’s phone. The man smiled at his screen and kept swiping from the videos… Each video depicted a 12 year old being brutally assaulted in a dimly lit hotel room. The investment opportunity? A child sex trafficking ring disguised as a student aid foundation.   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 3647486,
@@ -3700,7 +3738,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
