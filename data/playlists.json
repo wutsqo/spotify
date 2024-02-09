@@ -1,5 +1,5 @@
 {
-  "total": 7,
+  "total": 6,
   "playlists": [
     {
       "collaborative": false,
@@ -144,42 +144,6 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:2fxmftbEDAX5diXLgWYTsf"
-    },
-    {
-      "collaborative": false,
-      "description": "",
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/2cjrDiXb98zjUmNbtgh7R0"
-      },
-      "href": "https://api.spotify.com/v1/playlists/2cjrDiXb98zjUmNbtgh7R0",
-      "id": "2cjrDiXb98zjUmNbtgh7R0",
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebbcdb2ac017fdc55a5d1397e00",
-          "width": null
-        }
-      ],
-      "name": "REX Live in Jakarta 2023",
-      "owner": {
-        "display_name": "wutsqo",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-        },
-        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-        "id": "urwatilwutsqo",
-        "type": "user",
-        "uri": "spotify:user:urwatilwutsqo"
-      },
-      "primary_color": null,
-      "public": true,
-      "snapshot_id": "NSw1NjQzMzljZjY0YWM1OTFjZjFhZjQyNmM4ZjJiMjA2M2E0ZGQ4NTBi",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/2cjrDiXb98zjUmNbtgh7R0/tracks",
-        "total": 21
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:2cjrDiXb98zjUmNbtgh7R0"
     },
     {
       "collaborative": false,
