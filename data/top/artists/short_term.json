@@ -1,5 +1,5 @@
 {
-  "total": 24,
+  "total": 26,
   "artists": [
     {
       "external_urls": {
@@ -225,6 +225,66 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
+      "id": "4Uc8Dsxct0oMqx0P6i60ea",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c1c8fa15e08cb31eeb03b771",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c1c8fa15e08cb31eeb03b771",
+          "width": 160
+        }
+      ],
+      "name": "Conan Gray",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["art pop", "pop"],
+      "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
+      "id": "00FQb4jTyendYWaN8pK0wa",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b99cacf8acd5378206767261",
+          "width": 160
+        }
+      ],
+      "name": "Lana Del Rey",
+      "popularity": 90,
+      "type": "artist",
+      "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
       },
       "followers": { "href": null, "total": 0 },
@@ -410,36 +470,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["bedroom pop", "pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
-      "id": "4Uc8Dsxct0oMqx0P6i60ea",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc1c8fa15e08cb31eeb03b771",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c1c8fa15e08cb31eeb03b771",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c1c8fa15e08cb31eeb03b771",
-          "width": 160
-        }
-      ],
-      "name": "Conan Gray",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
       },
       "followers": { "href": null, "total": 0 },
@@ -470,36 +500,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
-      "id": "0Y6dVaC9DZtPNH4591M42W",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0232f5fec7a879ed6ef28f0dfd",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485132f5fec7a879ed6ef28f0dfd",
-          "width": 64
-        }
-      ],
-      "name": "TV Girl",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
       },
       "followers": { "href": null, "total": 0 },
@@ -527,6 +527,36 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:1WgXqy2Dd70QQOU7Ay074N"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
+      "id": "0Y6dVaC9DZtPNH4591M42W",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e0232f5fec7a879ed6ef28f0dfd",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d0000485132f5fec7a879ed6ef28f0dfd",
+          "width": 64
+        }
+      ],
+      "name": "TV Girl",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
     },
     {
       "external_urls": {
@@ -565,36 +595,6 @@
       "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
-      },
-      "followers": { "href": null, "total": 0 },
-      "genres": ["art pop", "pop"],
-      "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
-      "id": "00FQb4jTyendYWaN8pK0wa",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb99cacf8acd5378206767261",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b99cacf8acd5378206767261",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b99cacf8acd5378206767261",
-          "width": 160
-        }
-      ],
-      "name": "Lana Del Rey",
-      "popularity": 90,
-      "type": "artist",
-      "uri": "spotify:artist:00FQb4jTyendYWaN8pK0wa"
     },
     {
       "external_urls": {
@@ -750,6 +750,66 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["bedroom pop", "bubblegrunge", "indie pop", "pov: indie"],
+      "href": "https://api.spotify.com/v1/artists/35l9BRT7MXmM8bv2WDQiyB",
+      "id": "35l9BRT7MXmM8bv2WDQiyB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9d6d0ba276987f19641c27de",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749d6d0ba276987f19641c27de",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789d6d0ba276987f19641c27de",
+          "width": 160
+        }
+      ],
+      "name": "beabadoobee",
+      "popularity": 76,
+      "type": "artist",
+      "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
+      },
+      "followers": { "href": null, "total": 0 },
+      "genres": ["modern indie pop"],
+      "href": "https://api.spotify.com/v1/artists/7gXb99Sf9nNmpNYeAgIQFG",
+      "id": "7gXb99Sf9nNmpNYeAgIQFG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd0019e1ad7a088651a490862",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d0019e1ad7a088651a490862",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d0019e1ad7a088651a490862",
+          "width": 160
+        }
+      ],
+      "name": "Sub Urban",
+      "popularity": 65,
+      "type": "artist",
+      "uri": "spotify:artist:7gXb99Sf9nNmpNYeAgIQFG"
     }
   ]
 }

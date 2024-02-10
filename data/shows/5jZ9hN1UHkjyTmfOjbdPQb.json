@@ -201,7 +201,7 @@
   "media_type": "mixed",
   "name": "Rotten Mango Video",
   "publisher": "Stephanie Soo",
-  "total_episodes": 93,
+  "total_episodes": 94,
   "type": "show",
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
@@ -3738,6 +3738,7 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    }
+    },
+    null
   ]
 }
