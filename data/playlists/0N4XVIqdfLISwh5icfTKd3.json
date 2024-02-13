@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0N4XVIqdfLISwh5icfTKd3"
   },
@@ -8,28 +9,27 @@
   "id": "0N4XVIqdfLISwh5icfTKd3",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84c087f5e5e162a2f501769dea",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da84c087f5e5e162a2f501769dea",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "sweet creatures",
-  "description": "",
-  "type": "playlist",
-  "uri": "spotify:playlist:0N4XVIqdfLISwh5icfTKd3",
   "owner": {
-    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-    "id": "urwatilwutsqo",
-    "type": "user",
-    "uri": "spotify:user:urwatilwutsqo",
     "display_name": "wutsqo",
     "external_urls": {
       "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-    }
+    },
+    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+    "id": "urwatilwutsqo",
+    "type": "user",
+    "uri": "spotify:user:urwatilwutsqo"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "NTksY2ZkYmI1MTczNDExNTVjNWNhYjg2ZDEwMmU5ZjExNDBmOTZiMDQxZQ==",
+  "type": "playlist",
+  "uri": "spotify:playlist:0N4XVIqdfLISwh5icfTKd3",
   "tracks": [
     {
       "added_at": "2023-04-07T09:21:16Z",
@@ -7452,7 +7452,7 @@
         "id": "6yIHGmQLJxWAUZ1ZkENemN",
         "is_local": false,
         "name": "Can't Help Falling in Love",
-        "popularity": 76,
+        "popularity": 75,
         "preview_url": null,
         "track": true,
         "track_number": 4,
@@ -12500,7 +12500,7 @@
         "id": "72MEldEAmz3WMJ2MkII3kP",
         "is_local": false,
         "name": "Sesaat Kau Hadir",
-        "popularity": 70,
+        "popularity": 71,
         "preview_url": "https://p.scdn.co/mp3-preview/e1cb47400cfbb87ba2e77db14aefa6cf9efb6b40?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 1,

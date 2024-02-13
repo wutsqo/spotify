@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5kVv0zcInwPRsX2uTVu05L"
   },
@@ -8,28 +9,27 @@
   "id": "5kVv0zcInwPRsX2uTVu05L",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da8415270bf50d5ee17436d7f4bb",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da8415270bf50d5ee17436d7f4bb",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "STUCK IN JET WASH",
-  "description": "",
-  "type": "playlist",
-  "uri": "spotify:playlist:5kVv0zcInwPRsX2uTVu05L",
   "owner": {
-    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-    "id": "urwatilwutsqo",
-    "type": "user",
-    "uri": "spotify:user:urwatilwutsqo",
     "display_name": "wutsqo",
     "external_urls": {
       "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-    }
+    },
+    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+    "id": "urwatilwutsqo",
+    "type": "user",
+    "uri": "spotify:user:urwatilwutsqo"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MjAyLDNkNWNkOGRjZjE1M2I1MWVlN2M4ZWQzMzYyMmMxY2RmYTEwNTBiNjE=",
+  "type": "playlist",
+  "uri": "spotify:playlist:5kVv0zcInwPRsX2uTVu05L",
   "tracks": [
     {
       "added_at": "2022-04-03T16:58:06Z",
@@ -16088,7 +16088,7 @@
         "id": "6UFivO2zqqPFPoQYsEMuCc",
         "is_local": false,
         "name": "Bags",
-        "popularity": 81,
+        "popularity": 80,
         "preview_url": null,
         "track": true,
         "track_number": 5,
@@ -17940,7 +17940,7 @@
         "id": "0qZXLvlsM5ELq3WfZXgnCi",
         "is_local": false,
         "name": "Why Can't We Be Friends?",
-        "popularity": 57,
+        "popularity": 56,
         "preview_url": null,
         "track": true,
         "track_number": 9,
@@ -18402,7 +18402,7 @@
         "id": "1rcu88dzWE5GyqtpuWvd0C",
         "is_local": false,
         "name": "Pacifier",
-        "popularity": 65,
+        "popularity": 64,
         "preview_url": null,
         "track": true,
         "track_number": 5,

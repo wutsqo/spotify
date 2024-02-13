@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/2fxmftbEDAX5diXLgWYTsf"
   },
@@ -8,28 +9,27 @@
   "id": "2fxmftbEDAX5diXLgWYTsf",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84689624e6d97ed3de8507f3ca",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da84689624e6d97ed3de8507f3ca",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "pengantar turu",
-  "description": "",
-  "type": "playlist",
-  "uri": "spotify:playlist:2fxmftbEDAX5diXLgWYTsf",
   "owner": {
-    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-    "id": "urwatilwutsqo",
-    "type": "user",
-    "uri": "spotify:user:urwatilwutsqo",
     "display_name": "wutsqo",
     "external_urls": {
       "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-    }
+    },
+    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+    "id": "urwatilwutsqo",
+    "type": "user",
+    "uri": "spotify:user:urwatilwutsqo"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MzAsZmQwYTdmMzhmNTYyM2RiZDJiYmMzZDFkMmMzYzhmOWU2MjkwODM1Mw==",
+  "type": "playlist",
+  "uri": "spotify:playlist:2fxmftbEDAX5diXLgWYTsf",
   "tracks": [
     {
       "added_at": "2022-08-04T15:12:34Z",

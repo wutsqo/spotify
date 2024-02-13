@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5TdgOffe2sDXXNhwX3bBuR"
   },
@@ -8,28 +9,27 @@
   "id": "5TdgOffe2sDXXNhwX3bBuR",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da846f7c63514f3fbb7dc1f365f2",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da846f7c63514f3fbb7dc1f365f2",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "life support",
-  "description": "",
-  "type": "playlist",
-  "uri": "spotify:playlist:5TdgOffe2sDXXNhwX3bBuR",
   "owner": {
-    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-    "id": "urwatilwutsqo",
-    "type": "user",
-    "uri": "spotify:user:urwatilwutsqo",
     "display_name": "wutsqo",
     "external_urls": {
       "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-    }
+    },
+    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+    "id": "urwatilwutsqo",
+    "type": "user",
+    "uri": "spotify:user:urwatilwutsqo"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTQ0LDM4MWZlZDk2NzgyNDlhN2VmMWU0OTQ0ZTA0OThiMDViMDRlYzJlYmU=",
+  "type": "playlist",
+  "uri": "spotify:playlist:5TdgOffe2sDXXNhwX3bBuR",
   "tracks": [
     {
       "added_at": "2023-11-07T16:18:27Z",
@@ -6064,7 +6064,7 @@
         "id": "5kZD0TTSYAgRzciBtKCmgT",
         "is_local": false,
         "name": "It's hard to get around the wind",
-        "popularity": 56,
+        "popularity": 55,
         "preview_url": "https://p.scdn.co/mp3-preview/dc835b251798fcfcf958c8e24a2be290f2ae8ca7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 4,
@@ -10218,7 +10218,7 @@
         "id": "3AY6H68WNMDzWw9JhPW4Jv",
         "is_local": false,
         "name": "Fool's Gold - Recorded At RAK Studios, London",
-        "popularity": 60,
+        "popularity": 59,
         "preview_url": null,
         "track": true,
         "track_number": 2,
@@ -20912,7 +20912,7 @@
         "id": "0edtKj1oW6rJ9f4wRtLPPH",
         "is_local": false,
         "name": "Traingazing",
-        "popularity": 49,
+        "popularity": 48,
         "preview_url": null,
         "track": true,
         "track_number": 6,
@@ -25130,7 +25130,7 @@
         "id": "4FxeY2UZeP3kpdBPbpGggN",
         "is_local": false,
         "name": "Wintering",
-        "popularity": 60,
+        "popularity": 59,
         "preview_url": "https://p.scdn.co/mp3-preview/d6cf1a5daf4a0c05907a90ece494586b312629d4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 8,
@@ -26952,7 +26952,7 @@
         "id": "1dODOcUBb5SrXflh3L4zjE",
         "is_local": false,
         "name": "24",
-        "popularity": 70,
+        "popularity": 69,
         "preview_url": "https://p.scdn.co/mp3-preview/5e10f9b9b1f59a03860ed80757c7f52ffbe9f72c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 1,

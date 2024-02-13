@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/2CdfCFDPibgAZdCm5lnpa2"
   },
@@ -8,28 +9,27 @@
   "id": "2CdfCFDPibgAZdCm5lnpa2",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da84eeb4200b057be0480bab1b50",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da84eeb4200b057be0480bab1b50",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "funeral of my own temptation",
-  "description": "",
-  "type": "playlist",
-  "uri": "spotify:playlist:2CdfCFDPibgAZdCm5lnpa2",
   "owner": {
-    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-    "id": "urwatilwutsqo",
-    "type": "user",
-    "uri": "spotify:user:urwatilwutsqo",
     "display_name": "wutsqo",
     "external_urls": {
       "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-    }
+    },
+    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+    "id": "urwatilwutsqo",
+    "type": "user",
+    "uri": "spotify:user:urwatilwutsqo"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "NDYsNTk2YzE5OTgzMTg3MDgyYmJhZWY2N2QxZjI3MTExNjE5ZTAzYmUwYw==",
+  "type": "playlist",
+  "uri": "spotify:playlist:2CdfCFDPibgAZdCm5lnpa2",
   "tracks": [
     {
       "added_at": "2022-12-11T21:47:34Z",
@@ -7124,7 +7124,7 @@
         "id": "3oUam1JxcuLVFKaAr5MWnN",
         "is_local": false,
         "name": "We Were Never Really Friends",
-        "popularity": 10,
+        "popularity": 9,
         "preview_url": null,
         "track": true,
         "track_number": 1,

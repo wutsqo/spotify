@@ -1,5 +1,6 @@
 {
   "collaborative": false,
+  "description": "Shareable Liked Songs playlist synchronised by spotify-to-github.",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0pjLwygOBrPYVc0rG417iE"
   },
@@ -8,28 +9,27 @@
   "id": "0pjLwygOBrPYVc0rG417iE",
   "images": [
     {
-      "url": "https://i.scdn.co/image/ab67706c0000da845060abec17745d7d1e545d6d",
       "height": null,
+      "url": "https://i.scdn.co/image/ab67706c0000da845060abec17745d7d1e545d6d",
       "width": null
     }
   ],
-  "primary_color": null,
   "name": "Liked Songs (Mirror)",
-  "description": "Shareable Liked Songs playlist synchronised by spotify-to-github.",
-  "type": "playlist",
-  "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE",
   "owner": {
-    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-    "id": "urwatilwutsqo",
-    "type": "user",
-    "uri": "spotify:user:urwatilwutsqo",
     "display_name": "wutsqo",
     "external_urls": {
       "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-    }
+    },
+    "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+    "id": "urwatilwutsqo",
+    "type": "user",
+    "uri": "spotify:user:urwatilwutsqo"
   },
+  "primary_color": null,
   "public": true,
   "snapshot_id": "MTQsMDVlYmMzMGE0MDNjYjU1ZjY1ZTI4MzM5ZTJiMmFjYjY3ZTlhNjE4OQ==",
+  "type": "playlist",
+  "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE",
   "tracks": [
     {
       "added_at": "2023-11-09T04:30:14Z",
@@ -8508,7 +8508,7 @@
         "id": "3oUam1JxcuLVFKaAr5MWnN",
         "is_local": false,
         "name": "We Were Never Really Friends",
-        "popularity": 10,
+        "popularity": 9,
         "preview_url": null,
         "track": true,
         "track_number": 1,
@@ -11378,7 +11378,7 @@
         "id": "0edtKj1oW6rJ9f4wRtLPPH",
         "is_local": false,
         "name": "Traingazing",
-        "popularity": 49,
+        "popularity": 48,
         "preview_url": null,
         "track": true,
         "track_number": 6,
@@ -18398,7 +18398,7 @@
         "id": "0n9B2zPLq1AOlUqsENmqLz",
         "is_local": false,
         "name": "Have You Ever Been in Love",
-        "popularity": 55,
+        "popularity": 56,
         "preview_url": "https://p.scdn.co/mp3-preview/efa9cd27a7246518b85d0a73adea24a893648472?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "track": true,
         "track_number": 1,
@@ -29044,7 +29044,7 @@
         "id": "5Htq8DDDN0Xce9MwqzAzui",
         "is_local": false,
         "name": "La La Lost You",
-        "popularity": 60,
+        "popularity": 59,
         "preview_url": null,
         "track": true,
         "track_number": 12,
@@ -39550,7 +39550,7 @@
         "id": "0edtKj1oW6rJ9f4wRtLPPH",
         "is_local": false,
         "name": "Traingazing",
-        "popularity": 49,
+        "popularity": 48,
         "preview_url": null,
         "track": true,
         "track_number": 6,
