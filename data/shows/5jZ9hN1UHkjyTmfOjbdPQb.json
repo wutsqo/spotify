@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3ZpV9ADNHEXtr6ebqopkqv/clip_1853300_1906850.mp3",
+      "description": "He woke up from the smell. His head was pounding as his eyes adjusted to the harsh bathroom light. Did he drink too much the night before? What is that smell? He reached his hand up to rub his eyes… it was covered in blood. He looked down - blood. All over his clothes, the tiles, everywhere. He slowly turned his head to the bathtub - and there floating in the water… were dismembered body parts. Along with a severed head with long black hair that was getting tangled… “I swear I woke up and there was just a body here.” The police would never fall for it. He had no choice but to put on a raincoat, mask, and eye goggles and get to work. Finish the job. But eventually, he would stop, right? This would be the 9th severed head in his collection.  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4942996,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6ywHK6Ucp0jCxJqwPEeTbA"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6ywHK6Ucp0jCxJqwPEeTbA",
+      "html_description": "<p>He woke up from the smell. His head was pounding as his eyes adjusted to the harsh bathroom light. Did he drink too much the night before?</p><br/><p>What is that smell?</p><br/><p>He reached his hand up to rub his eyes… it was covered in blood. He looked down - blood. All over his clothes, the tiles, everywhere.</p><br/><p>He slowly turned his head to the bathtub - and there floating in the water… were dismembered body parts. Along with a severed head with long black hair that was getting tangled…</p><br/><p>“I swear I woke up and there was just a body here.” The police would never fall for it. He had no choice but to put on a raincoat, mask, and eye goggles and get to work. Finish the job.</p><br/><p>But eventually, he would stop, right? This would be the 9th severed head in his collection.</p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "6ywHK6Ucp0jCxJqwPEeTbA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Japan’s Twitter Killer Sleeps With 9 SEVERED HEADS In His Tiny Tokyo Apartment",
+      "release_date": "2024-02-15",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:6ywHK6Ucp0jCxJqwPEeTbA"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4MmqN26FgHtIN9t88zILff/clip_3182150_3228200.mp3",
       "description": "The Maxwell Family rubbed shoulders with the British Royal Family in England. They were untouchable with a net worth of $2 billion. Ghislaine Maxwell, the favorite heir, was well connected. With friends like Prince Andrew, Bill Clinton, and other high profile world leaders. Ghislaine Maxwell could have had anything - but all she wanted was 2 men. She would have done anything to please her father. She would have done anything to please her boyfriend - like run an intricate trafficking ring for the world’s upper elite. But both of them would end up dead. Her billionaire father - that would be found naked & dead off the side of his yacht “Lady Ghislaine.” There are speculations that somebody murdered him. Her billionaire boyfriend - that would be found dead inside his prison cell. There are speculations that somebody murdered him.   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 5559038,
@@ -541,7 +579,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "33 People Left For 2 Year Deep Sea Fishing Mission - Only 11 Came Back Alive",
+      "name": "33 crew members went DEEP SEA squid hunting, turned MAD, and started hunting EACH OTHER",
       "release_date": "2024-01-10",
       "release_date_precision": "day",
       "type": "episode",
@@ -3776,7 +3814,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
