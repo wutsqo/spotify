@@ -1,5 +1,5 @@
 {
-  "total": 37,
+  "total": 33,
   "artists": [
     {
       "external_urls": {
@@ -845,36 +845,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-      },
-      "followers": { "href": null, "total": 5240823 },
-      "genres": ["pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
-      "id": "0Y6dVaC9DZtPNH4591M42W",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b27332f5fec7a879ed6ef28f0dfd",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e0232f5fec7a879ed6ef28f0dfd",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d0000485132f5fec7a879ed6ef28f0dfd",
-          "width": 64
-        }
-      ],
-      "name": "TV Girl",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       "followers": { "href": null, "total": 5410980 },
@@ -911,74 +881,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
-      },
-      "followers": { "href": null, "total": 7053508 },
-      "genres": ["acoustic pop", "dance pop", "neo mellow", "pop"],
-      "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
-      "id": "4phGZZrJZRo4ElhRtViYdl",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c3b370fc26c83312db52af14",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c3b370fc26c83312db52af14",
-          "width": 160
-        }
-      ],
-      "name": "Jason Mraz",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-      },
-      "followers": { "href": null, "total": 8213144 },
-      "genres": [
-        "candy pop",
-        "modern rock",
-        "pixie",
-        "pop",
-        "pop emo",
-        "pop punk",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
-      "id": "74XFHRwlV6OrjEM0A2NCMF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b10c34546a4ca2d7faeb8865",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b10c34546a4ca2d7faeb8865",
-          "width": 160
-        }
-      ],
-      "name": "Paramore",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
       },
       "followers": { "href": null, "total": 2620164 },
@@ -988,17 +890,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc6ee7ba83ec349b96dd957be",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebefef82942ab84b0f1b294288",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c6ee7ba83ec349b96dd957be",
+          "url": "https://i.scdn.co/image/ab67616100005174efef82942ab84b0f1b294288",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c6ee7ba83ec349b96dd957be",
+          "url": "https://i.scdn.co/image/ab6761610000f178efef82942ab84b0f1b294288",
           "width": 160
         }
       ],
@@ -1039,36 +941,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-      },
-      "followers": { "href": null, "total": 6916220 },
-      "genres": ["brooklyn indie", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
-      "id": "2uYWxilOVlUdk4oV9DvwqK",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4bdb3888818637acb71c4a13",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744bdb3888818637acb71c4a13",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784bdb3888818637acb71c4a13",
-          "width": 160
-        }
-      ],
-      "name": "Mitski",
-      "popularity": 84,
-      "type": "artist",
-      "uri": "spotify:artist:2uYWxilOVlUdk4oV9DvwqK"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/46U5WmejGzsPqUiw3Uw0Xq"
       },
       "followers": { "href": null, "total": 61282 },
@@ -1099,33 +971,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        "spotify": "https://open.spotify.com/artist/4phGZZrJZRo4ElhRtViYdl"
       },
-      "followers": { "href": null, "total": 3134294 },
-      "genres": ["bedroom pop", "bubblegrunge", "indie pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/35l9BRT7MXmM8bv2WDQiyB",
-      "id": "35l9BRT7MXmM8bv2WDQiyB",
+      "followers": { "href": null, "total": 7053508 },
+      "genres": ["acoustic pop", "dance pop", "neo mellow", "pop"],
+      "href": "https://api.spotify.com/v1/artists/4phGZZrJZRo4ElhRtViYdl",
+      "id": "4phGZZrJZRo4ElhRtViYdl",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9d6d0ba276987f19641c27de",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc3b370fc26c83312db52af14",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749d6d0ba276987f19641c27de",
+          "url": "https://i.scdn.co/image/ab67616100005174c3b370fc26c83312db52af14",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789d6d0ba276987f19641c27de",
+          "url": "https://i.scdn.co/image/ab6761610000f178c3b370fc26c83312db52af14",
           "width": 160
         }
       ],
-      "name": "beabadoobee",
-      "popularity": 76,
+      "name": "Jason Mraz",
+      "popularity": 72,
       "type": "artist",
-      "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
+      "uri": "spotify:artist:4phGZZrJZRo4ElhRtViYdl"
     },
     {
       "external_urls": {
