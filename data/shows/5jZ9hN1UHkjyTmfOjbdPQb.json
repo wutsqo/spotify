@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2bQfQg4X5WhHL76ElH1S4m/clip_2702650_2748000.mp3",
+      "description": "In South Korea - there were 2 women sitting inside a prison cell together. One was in for fraud. The other for drugs.  But they had a lot in common. They were both young. Pretty. And wanted a lot of money. Around the time their friendship developed - on the other side of the world - at the 92nd Academy Awards (The Oscars), Lee Sun Kyun was standing on stage with the cast of ‘Parasite.’  He was at the height of his career - internationally acclaimed actor and family man.  Within 4 years - he would be found dead in his car after a 19 hour interrogation by the police, leaked personal phone calls, $300k lost to blackmailers, and his life completely ruined.  And those two girls - would have everything to do with it.  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 6192937,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5aQO15txMZX32IXtFDIzyE"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5aQO15txMZX32IXtFDIzyE",
+      "html_description": "<p>In South Korea - there were 2 women sitting inside a prison cell together. One was in for fraud. The other for drugs. </p><br/><p>But they had a lot in common. They were both young. Pretty. And wanted a lot of money.</p><br/><p>Around the time their friendship developed - on the other side of the world - at the 92nd Academy Awards (The Oscars), Lee Sun Kyun was standing on stage with the cast of ‘Parasite.’ </p><br/><p>He was at the height of his career - internationally acclaimed actor and family man. </p><br/><p>Within 4 years - he would be found dead in his car after a 19 hour interrogation by the police, leaked personal phone calls, $300k lost to blackmailers, and his life completely ruined. </p><br/><p>And those two girls - would have everything to do with it.</p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "5aQO15txMZX32IXtFDIzyE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "‘Parasite’ Actor Found Dead After 2 Women Blackmailed Him & 19 Hour Police Interrogation",
+      "release_date": "2024-02-28",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5aQO15txMZX32IXtFDIzyE"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7bTTQP9xzFZqSIpswsUYyw/clip_2223500_2277650.mp3",
       "description": "“I can’t let you in…” The housekeeper was confused - what does the mom mean she can’t let me in? “Could you just toss the keys from your balcony?” The mother threw her keys from the balcony and vanished into the house. The housekeeper walked into the house and it was immediately chaos. The mother was hysterical - the father was banging his head on the wall. The mother threw her arms around the housekeeper. She cried and ushered her to a bedroom, “Come, come, inside and see what happened!” Lying in her bed was the family’s 13 year old daughter, dead. Her throat slit ear to ear. Her body looked posed and so were her stuffed animals, though they were eerily free of any blood or splatter. This case would become known as the JonBenét Ramsey case of India. Rumors of cheating, black mail, revenge, honor killings, truth serum, grooming and orgies consumed the media but the only thing we know for certain is - whoever her killer or killers are – they are free.  Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 6245374,
@@ -3928,7 +3966,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
