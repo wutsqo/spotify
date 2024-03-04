@@ -201,10 +201,48 @@
   "media_type": "mixed",
   "name": "Rotten Mango Video",
   "publisher": "Stephanie Soo",
-  "total_episodes": 100,
+  "total_episodes": 101,
   "type": "show",
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1uWhL30DntJ7dLp5ptLR8W/clip_481650_532600.mp3",
+      "description": "Gustavo stumbled out of the nightclub, barely keeping balance. He felt like he was hallucinating. He noticed people looking at him with very concerned looks – what? Did he have something on his face? He looked back up to a random man rushing towards him with a pail of water. He threw the water onto Gustavo’s arms. Everyone was acting so strange…   Then a woman yelled at him, “HEY! You need to call an ambulance!—There’s something wrong with your body!” Gustavo was taken aback but reassured the woman, “NO! Don’t worry. It’s just my shirt—I tore it on the way out of the club; that’s all…” He was sure of it. He could feel his shirt in that moment, shredded and hanging off his body. Every time he took a step forward or turned around to look at another stranger yelling at him, he could feel it swaying, hitting other parts of his torso.  The woman looked at him very concerned, “Sir. You’re not… wearing a shirt.”   Gustavo walked towards a streetlamp and looked down at his arms. His flesh was eviscerated, hanging only by his wrist.  His skin was melting off..   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4765971,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1R68mKt3iH3AWDOyRxI5aJ"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1R68mKt3iH3AWDOyRxI5aJ",
+      "html_description": "<p>Gustavo stumbled out of the nightclub, barely keeping balance. He felt like he was hallucinating. He noticed people looking at him with very concerned looks – what? Did he have something on his face? He looked back up to a random man rushing towards him with a pail of water. He threw the water onto Gustavo’s arms.</p><br/><p>Everyone was acting so strange…  </p><br/><p>Then a woman yelled at him, “HEY! You need to call an ambulance!—There’s something wrong with your body!”</p><br/><p>Gustavo was taken aback but reassured the woman, “NO! Don’t worry. It’s just my shirt—I tore it on the way out of the club; that’s all…”</p><br/><p>He was sure of it. He could feel his shirt in that moment, shredded and hanging off his body. Every time he took a step forward or turned around to look at another stranger yelling at him, he could feel it swaying, hitting other parts of his torso. </p><br/><p>The woman looked at him very concerned, “Sir. You’re not… wearing a shirt.”  </p><br/><p>Gustavo walked towards a streetlamp and looked down at his arms. His flesh was eviscerated, hanging only by his wrist. </p><br/><p>His skin was melting off.. </p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "1R68mKt3iH3AWDOyRxI5aJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Nightclub Turns Into GAS CHAMBER Killing 242 University Students In One Night",
+      "release_date": "2024-03-03",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:1R68mKt3iH3AWDOyRxI5aJ"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2bQfQg4X5WhHL76ElH1S4m/clip_2702650_2748000.mp3",
       "description": "In South Korea - there were 2 women sitting inside a prison cell together. One was in for fraud. The other for drugs.  But they had a lot in common. They were both young. Pretty. And wanted a lot of money. Around the time their friendship developed - on the other side of the world - at the 92nd Academy Awards (The Oscars), Lee Sun Kyun was standing on stage with the cast of ‘Parasite.’  He was at the height of his career - internationally acclaimed actor and family man.  Within 4 years - he would be found dead in his car after a 19 hour interrogation by the police, leaked personal phone calls, $300k lost to blackmailers, and his life completely ruined.  And those two girls - would have everything to do with it.  Full Source Notes: rottenmangopodcast.com",
@@ -3967,7 +4005,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }

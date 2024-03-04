@@ -1,11 +1,11 @@
 {
-  "total": 41,
+  "total": 42,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
-      "followers": { "href": null, "total": 7047442 },
+      "followers": { "href": null, "total": 7048971 },
       "genres": [
         "modern alternative rock",
         "modern rock",
@@ -41,7 +41,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
       },
-      "followers": { "href": null, "total": 15463409 },
+      "followers": { "href": null, "total": 15474223 },
       "genres": ["modern alternative rock", "modern rock", "pop"],
       "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
       "id": "77SW9BnxLY8rJ0RciFqkHh",
@@ -71,7 +71,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
       },
-      "followers": { "href": null, "total": 6080053 },
+      "followers": { "href": null, "total": 6081536 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv",
       "id": "5JZ7CnR6gTvEMKX4g70Amv",
@@ -93,7 +93,7 @@
         }
       ],
       "name": "Lauv",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:5JZ7CnR6gTvEMKX4g70Amv"
     },
@@ -101,7 +101,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
       },
-      "followers": { "href": null, "total": 23617545 },
+      "followers": { "href": null, "total": 23631888 },
       "genres": [
         "garage rock",
         "modern rock",
@@ -135,9 +135,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "followers": { "href": null, "total": 7437752 },
+      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
+      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id": "5INjqkS1o8h1imAzPqGZBb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
+          "width": 160
+        }
+      ],
+      "name": "Tame Impala",
+      "popularity": 80,
+      "type": "artist",
+      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 5850812 },
+      "followers": { "href": null, "total": 5852032 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -167,7 +197,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
       },
-      "followers": { "href": null, "total": 102814766 },
+      "followers": { "href": null, "total": 102934740 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
       "id": "06HL4z0CvFAxyc27GXpf02",
@@ -197,7 +227,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
       },
-      "followers": { "href": null, "total": 112951884 },
+      "followers": { "href": null, "total": 112969690 },
       "genres": ["pop", "singer-songwriter pop", "uk pop"],
       "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
       "id": "6eUKZXaKkcviH0Ku9w2n3V",
@@ -227,7 +257,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
       },
-      "followers": { "href": null, "total": 1209443 },
+      "followers": { "href": null, "total": 1210393 },
       "genres": [
         "album rock",
         "australian rock",
@@ -266,7 +296,7 @@
         }
       ],
       "name": "Men At Work",
-      "popularity": 66,
+      "popularity": 67,
       "type": "artist",
       "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
     },
@@ -274,7 +304,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
       },
-      "followers": { "href": null, "total": 8383841 },
+      "followers": { "href": null, "total": 8386112 },
       "genres": ["k-pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/3HqSLMAZ3g3d5poNaI7GOU",
       "id": "3HqSLMAZ3g3d5poNaI7GOU",
@@ -302,39 +332,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-      },
-      "followers": { "href": null, "total": 7433902 },
-      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
-      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-      "id": "5INjqkS1o8h1imAzPqGZBb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
-          "width": 160
-        }
-      ],
-      "name": "Tame Impala",
-      "popularity": 80,
-      "type": "artist",
-      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
       },
-      "followers": { "href": null, "total": 10135734 },
+      "followers": { "href": null, "total": 10152968 },
       "genres": ["ambient pop", "dream pop", "el paso indie", "shoegaze"],
       "href": "https://api.spotify.com/v1/artists/1QAJqy2dA3ihHBFIHRphZj",
       "id": "1QAJqy2dA3ihHBFIHRphZj",
@@ -364,7 +364,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/69bG9tC62d8oTFC9aTTosn"
       },
-      "followers": { "href": null, "total": 371037 },
+      "followers": { "href": null, "total": 371503 },
       "genres": ["toronto indie"],
       "href": "https://api.spotify.com/v1/artists/69bG9tC62d8oTFC9aTTosn",
       "id": "69bG9tC62d8oTFC9aTTosn",
@@ -394,7 +394,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
       },
-      "followers": { "href": null, "total": 586647 },
+      "followers": { "href": null, "total": 587232 },
       "genres": ["indonesian indie"],
       "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
       "id": "7Gy1PxqrgsiqWF6JNYPHeB",
@@ -424,7 +424,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
       },
-      "followers": { "href": null, "total": 31282849 },
+      "followers": { "href": null, "total": 31296332 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
       "id": "6KImCVD70vtIoJWnq6nGn3",
@@ -454,7 +454,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
       },
-      "followers": { "href": null, "total": 1330951 },
+      "followers": { "href": null, "total": 1331587 },
       "genres": ["singer-songwriter pop"],
       "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
       "id": "0hDjKSKjl1DC7ovYTDJHe8",
@@ -484,7 +484,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
       },
-      "followers": { "href": null, "total": 3593422 },
+      "followers": { "href": null, "total": 3597135 },
       "genres": ["indonesian r&b"],
       "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
       "id": "2kxP07DLgs4xlWz8YHlvfh",
@@ -514,7 +514,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
       },
-      "followers": { "href": null, "total": 2119664 },
+      "followers": { "href": null, "total": 2119760 },
       "genres": ["indonesian hip hop"],
       "href": "https://api.spotify.com/v1/artists/2IDLDx25HU1nQMKde4n61a",
       "id": "2IDLDx25HU1nQMKde4n61a",
@@ -544,7 +544,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       },
-      "followers": { "href": null, "total": 9434943 },
+      "followers": { "href": null, "total": 9440080 },
       "genres": [
         "alternative rock",
         "art rock",
@@ -581,7 +581,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2xaAOVImG2O6lURwqperlD"
       },
-      "followers": { "href": null, "total": 1049416 },
+      "followers": { "href": null, "total": 1049763 },
       "genres": [
         "modern alternative rock",
         "modern rock",
@@ -616,7 +616,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
       },
-      "followers": { "href": null, "total": 23810419 },
+      "followers": { "href": null, "total": 23818097 },
       "genres": ["modern rock", "pop", "pov: indie", "rock"],
       "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
       "id": "3YQKmKGau1PzlVlkL1iodx",
@@ -646,7 +646,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
       },
-      "followers": { "href": null, "total": 9299562 },
+      "followers": { "href": null, "total": 9303576 },
       "genres": ["bedroom pop", "pop", "pov: indie"],
       "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
       "id": "4Uc8Dsxct0oMqx0P6i60ea",
@@ -676,7 +676,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5bzB0U9rZmDmnLdUqlZhjC"
       },
-      "followers": { "href": null, "total": 10132 },
+      "followers": { "href": null, "total": 10138 },
       "genres": [
         "indonesian emo",
         "indonesian indie",
@@ -708,9 +708,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+      },
+      "followers": { "href": null, "total": 15970539 },
+      "genres": ["pop", "pop r&b"],
+      "href": "https://api.spotify.com/v1/artists/6LuN9FCkKOj5PcnpouEgny",
+      "id": "6LuN9FCkKOj5PcnpouEgny",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb31072db9da0311ecfabe96bf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517431072db9da0311ecfabe96bf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17831072db9da0311ecfabe96bf",
+          "width": 160
+        }
+      ],
+      "name": "Khalid",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:6LuN9FCkKOj5PcnpouEgny"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7uMDnSZyUYNBPLhPMNuaM2"
       },
-      "followers": { "href": null, "total": 458274 },
+      "followers": { "href": null, "total": 459708 },
       "genres": ["singer-songwriter pop"],
       "href": "https://api.spotify.com/v1/artists/7uMDnSZyUYNBPLhPMNuaM2",
       "id": "7uMDnSZyUYNBPLhPMNuaM2",
@@ -740,7 +770,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
-      "followers": { "href": null, "total": 3050741 },
+      "followers": { "href": null, "total": 3056492 },
       "genres": ["indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
       "id": "51kyrUsAVqUBcoDEMFkX12",
@@ -770,7 +800,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
       },
-      "followers": { "href": null, "total": 11998734 },
+      "followers": { "href": null, "total": 12001252 },
       "genres": ["modern rock", "pop"],
       "href": "https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK",
       "id": "20JZFwl6HVl6yg8a4H3ZqK",
@@ -800,7 +830,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
       },
-      "followers": { "href": null, "total": 79668656 },
+      "followers": { "href": null, "total": 79730259 },
       "genres": ["canadian contemporary r&b", "canadian pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
       "id": "1Xyo4u8uXC1ZmMpatF05PJ",
@@ -830,7 +860,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
       },
-      "followers": { "href": null, "total": 5417307 },
+      "followers": { "href": null, "total": 5430716 },
       "genres": ["pov: indie"],
       "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
       "id": "0Y6dVaC9DZtPNH4591M42W",
@@ -860,7 +890,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
       },
-      "followers": { "href": null, "total": 32775370 },
+      "followers": { "href": null, "total": 32806327 },
       "genres": ["art pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/00FQb4jTyendYWaN8pK0wa",
       "id": "00FQb4jTyendYWaN8pK0wa",
@@ -890,7 +920,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 5446123 },
+      "followers": { "href": null, "total": 5448214 },
       "genres": [
         "alternative rock",
         "garage rock",
@@ -926,7 +956,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
       },
-      "followers": { "href": null, "total": 8253523 },
+      "followers": { "href": null, "total": 8256167 },
       "genres": [
         "candy pop",
         "modern rock",
@@ -964,7 +994,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
       },
-      "followers": { "href": null, "total": 2309947 },
+      "followers": { "href": null, "total": 2312290 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/5y8tKLUfMvliMe8IKamR32",
       "id": "5y8tKLUfMvliMe8IKamR32",
@@ -994,7 +1024,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
       },
-      "followers": { "href": null, "total": 5879517 },
+      "followers": { "href": null, "total": 5880451 },
       "genres": ["neo mellow", "singer-songwriter"],
       "href": "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
       "id": "0hEurMDQu99nJRq8pTxO14",
@@ -1024,7 +1054,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N"
       },
-      "followers": { "href": null, "total": 3483290 },
+      "followers": { "href": null, "total": 3485285 },
       "genres": ["art pop", "norwegian pop"],
       "href": "https://api.spotify.com/v1/artists/1WgXqy2Dd70QQOU7Ay074N",
       "id": "1WgXqy2Dd70QQOU7Ay074N",
@@ -1054,7 +1084,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
       },
-      "followers": { "href": null, "total": 34065408 },
+      "followers": { "href": null, "total": 34078124 },
       "genres": ["boy band", "pop", "post-teen pop", "talent show"],
       "href": "https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq",
       "id": "4AK6F7OLvEQ5QYCBNiQWHq",
@@ -1089,7 +1119,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH"
       },
-      "followers": { "href": null, "total": 1468355 },
+      "followers": { "href": null, "total": 1469160 },
       "genres": ["pop punk", "uk pop punk"],
       "href": "https://api.spotify.com/v1/artists/2TM0qnbJH4QPhGMCdPt7fH",
       "id": "2TM0qnbJH4QPhGMCdPt7fH",
@@ -1119,7 +1149,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
       },
-      "followers": { "href": null, "total": 378609 },
+      "followers": { "href": null, "total": 378736 },
       "genres": ["dublin indie"],
       "href": "https://api.spotify.com/v1/artists/6lyMYewq2SuTFIXgiv7OxH",
       "id": "6lyMYewq2SuTFIXgiv7OxH",
@@ -1149,7 +1179,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7wbkl3zgDZEoZer357mVIw"
       },
-      "followers": { "href": null, "total": 1239367 },
+      "followers": { "href": null, "total": 1239529 },
       "genres": [
         "bedroom pop",
         "bergen indie",
@@ -1184,7 +1214,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
       },
-      "followers": { "href": null, "total": 7059868 },
+      "followers": { "href": null, "total": 7071296 },
       "genres": ["brooklyn indie", "pov: indie"],
       "href": "https://api.spotify.com/v1/artists/2uYWxilOVlUdk4oV9DvwqK",
       "id": "2uYWxilOVlUdk4oV9DvwqK",
@@ -1214,7 +1244,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0"
       },
-      "followers": { "href": null, "total": 1747314 },
+      "followers": { "href": null, "total": 1748402 },
       "genres": ["k-pop", "k-pop girl group"],
       "href": "https://api.spotify.com/v1/artists/01XYiBYaoMJcNhPokrg0l0",
       "id": "01XYiBYaoMJcNhPokrg0l0",
@@ -1244,7 +1274,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
       },
-      "followers": { "href": null, "total": 6776105 },
+      "followers": { "href": null, "total": 6780892 },
       "genres": ["alternative metal"],
       "href": "https://api.spotify.com/v1/artists/0nmQIMXWTXfhgOBdNzhGOs",
       "id": "0nmQIMXWTXfhgOBdNzhGOs",
@@ -1274,7 +1304,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7gXb99Sf9nNmpNYeAgIQFG"
       },
-      "followers": { "href": null, "total": 1629103 },
+      "followers": { "href": null, "total": 1629778 },
       "genres": ["modern indie pop"],
       "href": "https://api.spotify.com/v1/artists/7gXb99Sf9nNmpNYeAgIQFG",
       "id": "7gXb99Sf9nNmpNYeAgIQFG",
