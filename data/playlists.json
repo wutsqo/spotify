@@ -1,6 +1,42 @@
 {
-  "total": 6,
+  "total": 7,
   "playlists": [
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4ZuzSAcnWQ6uxgraVBnLKN"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4ZuzSAcnWQ6uxgraVBnLKN",
+      "id": "4ZuzSAcnWQ6uxgraVBnLKN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468",
+          "width": 640
+        }
+      ],
+      "name": "comfort songs",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MiwwOWRiN2Q4YjNkNDA4ZjFhYzEyZjdjNzRjMjY3YTVmNDRiNTNmNmUw",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4ZuzSAcnWQ6uxgraVBnLKN/tracks",
+        "total": 1
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4ZuzSAcnWQ6uxgraVBnLKN"
+    },
     {
       "collaborative": false,
       "description": "",
@@ -29,10 +65,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "NDYsNTk2YzE5OTgzMTg3MDgyYmJhZWY2N2QxZjI3MTExNjE5ZTAzYmUwYw==",
+      "snapshot_id": "NDcsM2M4MDQzYjZmMDFjNjI1ZjZkOGM1ZWEzZjhjYWQ5MzQ1N2MwZGM2YQ==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/2CdfCFDPibgAZdCm5lnpa2/tracks",
-        "total": 18
+        "total": 17
       },
       "type": "playlist",
       "uri": "spotify:playlist:2CdfCFDPibgAZdCm5lnpa2"
