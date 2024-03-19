@@ -1,11 +1,11 @@
 {
-  "total": 3,
+  "total": 4,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
       },
-      "followers": { "href": null, "total": 22558174 },
+      "followers": { "href": null, "total": 22561448 },
       "genres": ["dance pop", "edm", "pop", "pop dance"],
       "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
       "id": "1vCWHaC5f2uS3yhpwWbIA6",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 5875348 },
+      "followers": { "href": null, "total": 5877069 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
-      "followers": { "href": null, "total": 7069134 },
+      "followers": { "href": null, "total": 7070693 },
       "genres": [
         "modern alternative rock",
         "modern rock",
@@ -96,6 +96,36 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+      },
+      "followers": { "href": null, "total": 15617766 },
+      "genres": ["modern alternative rock", "modern rock", "pop"],
+      "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
+      "id": "77SW9BnxLY8rJ0RciFqkHh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174df0b5ac84376a0a4b2166816",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178df0b5ac84376a0a4b2166816",
+          "width": 160
+        }
+      ],
+      "name": "The Neighbourhood",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
     }
   ]
 }

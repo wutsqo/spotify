@@ -1,5 +1,5 @@
 {
-  "total": 7,
+  "total": 8,
   "playlists": [
     {
       "collaborative": false,
@@ -29,13 +29,59 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MiwwOWRiN2Q4YjNkNDA4ZjFhYzEyZjdjNzRjMjY3YTVmNDRiNTNmNmUw",
+      "snapshot_id": "Myw3NzAxYzM5NjRjOWMyNzljYmYwNDg2MDg2ZWEwMmMzNDI3ZWFmNDQx",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4ZuzSAcnWQ6uxgraVBnLKN/tracks",
-        "total": 1
+        "total": 2
       },
       "type": "playlist",
       "uri": "spotify:playlist:4ZuzSAcnWQ6uxgraVBnLKN"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6Xs5Nd9R14Fpd1ifeveuid"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6Xs5Nd9R14Fpd1ifeveuid",
+      "id": "6Xs5Nd9R14Fpd1ifeveuid",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2734756c2e9ae436437cd75e9f3ab67616d0000b2737437083c2521a8c077b9cfd7ab67616d0000b27381fccd758776d16b87721b17ab67616d0000b273a03e3d24ccee1c370899c342",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2734756c2e9ae436437cd75e9f3ab67616d0000b2737437083c2521a8c077b9cfd7ab67616d0000b27381fccd758776d16b87721b17ab67616d0000b273a03e3d24ccee1c370899c342",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2734756c2e9ae436437cd75e9f3ab67616d0000b2737437083c2521a8c077b9cfd7ab67616d0000b27381fccd758776d16b87721b17ab67616d0000b273a03e3d24ccee1c370899c342",
+          "width": 60
+        }
+      ],
+      "name": "Daylist 19/3",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MyxkZjU1ODRlNDM5NjE1MWVlZThjZDM0OTllMzM3ZjI5NTA5NGFmMTNk",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6Xs5Nd9R14Fpd1ifeveuid/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6Xs5Nd9R14Fpd1ifeveuid"
     },
     {
       "collaborative": false,
@@ -84,7 +130,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb6f7c63514f3fbb7dc1f365f2",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb6f7c63514f3fbb7dc1f365f2",
           "width": null
         }
       ],
@@ -120,7 +166,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb5060abec17745d7d1e545d6d",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb5060abec17745d7d1e545d6d",
           "width": null
         }
       ],
