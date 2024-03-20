@@ -1,11 +1,107 @@
 {
-  "total": 125,
+  "total": 129,
   "tracks": [
+    {
+      "id": "0rzaRSujxA0bKyjJl6vHYq",
+      "name": "Satellite",
+      "added_at": "2024-03-19T11:08:08Z",
+      "popularity": 80,
+      "duration_ms": 218577,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq",
+      "preview_url": "https://p.scdn.co/mp3-preview/cff61b71737a5d6389666dde5d14a2d76e04fe7b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "5r36AJ6VOJtp00oxSkBZ5h",
+        "name": "Harry's House",
+        "release_date": "2022-05-20",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732e8ed79e177ff6011076f5f0",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ]
+    },
+    {
+      "id": "254bXAqt3zP6P50BdQvEsq",
+      "name": "Everywhere - 2017 Remaster",
+      "added_at": "2024-03-19T09:02:03Z",
+      "popularity": 82,
+      "duration_ms": 226653,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/254bXAqt3zP6P50BdQvEsq",
+      "preview_url": "https://p.scdn.co/mp3-preview/4921b87278a9e93cddc10310efadc09b5952da92?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "4AsXQ17Arq1cUVoa9dKJ3F",
+        "name": "Tango In the Night (Deluxe Edition)",
+        "release_date": "1987-04-13",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273aaba065944cd82a6f15c86b6",
+        "url": "https://open.spotify.com/album/4AsXQ17Arq1cUVoa9dKJ3F"
+      },
+      "artists": [
+        {
+          "id": "08GQAI4eElDnROBrJRGE0X",
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ]
+    },
+    {
+      "id": "2MLHyLy5z5l5YRp7momlgw",
+      "name": "Island In The Sun",
+      "added_at": "2024-03-19T08:59:00Z",
+      "popularity": 80,
+      "duration_ms": 200306,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw",
+      "preview_url": "https://p.scdn.co/mp3-preview/521139742aef149a3d58924c1e9dd6f1ff6b816a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "2OBSz5Nlto0Q5CtYPzPY7c",
+        "name": "Weezer",
+        "release_date": "2001-05-15",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2731e0dc5baaabda304b0ad1815",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "id": "3jOstUTkEu2JkjvRdBA5Gu",
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ]
+    },
+    {
+      "id": "48UPSzbZjgc449aqz8bxox",
+      "name": "Californication",
+      "added_at": "2024-03-19T08:49:58Z",
+      "popularity": 84,
+      "duration_ms": 329733,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox",
+      "preview_url": "https://p.scdn.co/mp3-preview/0fd595c5b63db10f4a99683f8248ea5d13700683?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "2Y9IRtehByVkegoD7TcLfi",
+        "name": "Californication (Deluxe Edition)",
+        "release_date": "1999-06-08",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27394d08ab63e57b0cae74e8595",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "id": "0L8ExT028jH3ddEcZwqJJ5",
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ]
+    },
     {
       "id": "4gKgefMQuie6nz017V6jiP",
       "name": "Yasudah",
       "added_at": "2024-03-19T02:24:37Z",
-      "popularity": 46,
+      "popularity": 48,
       "duration_ms": 296402,
       "explicit": false,
       "url": "https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP",
@@ -178,7 +274,7 @@
       "id": "7lfhZrzXYSQ4qRMCpPTp5j",
       "name": "An Invisible Bridge Above the Ocean",
       "added_at": "2024-02-14T18:15:37Z",
-      "popularity": 28,
+      "popularity": 27,
       "duration_ms": 496000,
       "explicit": false,
       "url": "https://open.spotify.com/track/7lfhZrzXYSQ4qRMCpPTp5j",
@@ -394,7 +490,7 @@
       "id": "5ikdUUm6JbnEVnp35c7dvy",
       "name": "I Am the Resurrection - Remastered",
       "added_at": "2023-12-20T13:33:33Z",
-      "popularity": 59,
+      "popularity": 58,
       "duration_ms": 492946,
       "explicit": false,
       "url": "https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy",
@@ -682,7 +778,7 @@
       "id": "52Bg6oaos7twR7IUtEpqcE",
       "name": "Between The Bars",
       "added_at": "2023-12-17T09:33:34Z",
-      "popularity": 68,
+      "popularity": 67,
       "duration_ms": 141280,
       "explicit": false,
       "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE",
@@ -975,7 +1071,7 @@
       "id": "1zFbBrZmJr1Z49HYe84dBg",
       "name": "Harvey",
       "added_at": "2023-10-13T15:42:05Z",
-      "popularity": 68,
+      "popularity": 67,
       "duration_ms": 211165,
       "explicit": false,
       "url": "https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg",
@@ -1110,7 +1206,7 @@
       "id": "2SmKwCCSiUTjtR8I8rv6MS",
       "name": "Berdansalah, Karir Ini Tak Ada Artinya",
       "added_at": "2023-07-27T20:37:10Z",
-      "popularity": 65,
+      "popularity": 64,
       "duration_ms": 224418,
       "explicit": false,
       "url": "https://open.spotify.com/track/2SmKwCCSiUTjtR8I8rv6MS",
@@ -1230,7 +1326,7 @@
       "id": "7J0isBrUxhIYZVdrBOOlIh",
       "name": "Cincin",
       "added_at": "2023-07-08T13:41:00Z",
-      "popularity": 76,
+      "popularity": 75,
       "duration_ms": 266330,
       "explicit": false,
       "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh",
@@ -1576,7 +1672,7 @@
       "id": "5M5TD1Tlpcgq0Fj1l6Mz6Z",
       "name": "When We Are Together",
       "added_at": "2023-05-24T15:04:35Z",
-      "popularity": 63,
+      "popularity": 62,
       "duration_ms": 216586,
       "explicit": false,
       "url": "https://open.spotify.com/track/5M5TD1Tlpcgq0Fj1l6Mz6Z",
@@ -1600,7 +1696,7 @@
       "id": "0edtKj1oW6rJ9f4wRtLPPH",
       "name": "Traingazing",
       "added_at": "2023-04-17T01:45:10Z",
-      "popularity": 34,
+      "popularity": 33,
       "duration_ms": 214159,
       "explicit": false,
       "url": "https://open.spotify.com/track/0edtKj1oW6rJ9f4wRtLPPH",
@@ -1629,7 +1725,7 @@
       "id": "37mbA1RwYja7WFaIOzSczX",
       "name": "You'll Be In My Heart - Spotify Singles",
       "added_at": "2023-04-08T22:27:26Z",
-      "popularity": 54,
+      "popularity": 53,
       "duration_ms": 241776,
       "explicit": false,
       "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX",
@@ -1653,7 +1749,7 @@
       "id": "1fDFHXcykq4iw8Gg7s5hG9",
       "name": "About You",
       "added_at": "2023-04-06T12:13:46Z",
-      "popularity": 82,
+      "popularity": 81,
       "duration_ms": 326490,
       "explicit": false,
       "url": "https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9",
@@ -1730,7 +1826,7 @@
       "id": "5IkJrOPj656jkcvLKaOc7i",
       "name": "Godzilla",
       "added_at": "2022-12-28T09:32:10Z",
-      "popularity": 43,
+      "popularity": 42,
       "duration_ms": 208884,
       "explicit": true,
       "url": "https://open.spotify.com/track/5IkJrOPj656jkcvLKaOc7i",
@@ -2412,7 +2508,7 @@
       "id": "0TAmnCzOtqRfvA38DDLTjj",
       "name": "Little Things",
       "added_at": "2021-11-11T12:20:05Z",
-      "popularity": 75,
+      "popularity": 74,
       "duration_ms": 219040,
       "explicit": false,
       "url": "https://open.spotify.com/track/0TAmnCzOtqRfvA38DDLTjj",
@@ -2888,7 +2984,7 @@
       "id": "7as88HhLbDLgobaSbJrVBs",
       "name": "Ceux qui rêvent",
       "added_at": "2021-03-02T09:20:20Z",
-      "popularity": 66,
+      "popularity": 65,
       "duration_ms": 118386,
       "explicit": false,
       "url": "https://open.spotify.com/track/7as88HhLbDLgobaSbJrVBs",
