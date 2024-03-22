@@ -1,6 +1,926 @@
 {
-  "total": 8,
+  "total": 43,
   "playlists": [
+    {
+      "collaborative": false,
+      "description": "if you like rex, you’d like these. organized by artists monthly listeners fewest to greatest.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/33oPERePfWdGCtwUOcWD1M"
+      },
+      "href": "https://api.spotify.com/v1/playlists/33oPERePfWdGCtwUOcWD1M",
+      "id": "33oPERePfWdGCtwUOcWD1M",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c1ad48d80e69c3bb0c90a5be",
+          "width": null
+        }
+      ],
+      "name": "20 REX RECS",
+      "owner": {
+        "display_name": "aaronn.808",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/aaronn_808"
+        },
+        "href": "https://api.spotify.com/v1/users/aaronn_808",
+        "id": "aaronn_808",
+        "type": "user",
+        "uri": "spotify:user:aaronn_808"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NjgsNjc3ZTZjZjIxYTZjYWJhNmFlODJlYTZhN2IwNTNhYjE4ZmNkOGJiNg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/33oPERePfWdGCtwUOcWD1M/tracks",
+        "total": 22
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:33oPERePfWdGCtwUOcWD1M"
+    },
+    {
+      "collaborative": false,
+      "description": "same shit everyday???",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK",
+      "id": "1xK58TJGuZ40HyCStwLNRK",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+          "width": null
+        }
+      ],
+      "name": "piledriver waltzes and bad mornings ",
+      "owner": {
+        "display_name": "em acebedo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/22smqzctcue65nlfh4ifzdwkq"
+        },
+        "href": "https://api.spotify.com/v1/users/22smqzctcue65nlfh4ifzdwkq",
+        "id": "22smqzctcue65nlfh4ifzdwkq",
+        "type": "user",
+        "uri": "spotify:user:22smqzctcue65nlfh4ifzdwkq"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjUyLDk2MmY0MDcxYjk2N2UwMTJhM2RjMGNhYzRlMGVhNzQ1YTIzZTQ5Mjk=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK/tracks",
+        "total": 195
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1xK58TJGuZ40HyCStwLNRK"
+    },
+    {
+      "collaborative": false,
+      "description": "October 8, 2023",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1dFSy7jT4hSsbMiof1fTTA"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1dFSy7jT4hSsbMiof1fTTA",
+      "id": "1dFSy7jT4hSsbMiof1fTTA",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8407d19d79e4b4532dee704e85",
+          "width": null
+        }
+      ],
+      "name": "Rex Orange County Asia Tour 2023",
+      "owner": {
+        "display_name": "ernz",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/ninaisthisyouu"
+        },
+        "href": "https://api.spotify.com/v1/users/ninaisthisyouu",
+        "id": "ninaisthisyouu",
+        "type": "user",
+        "uri": "spotify:user:ninaisthisyouu"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDQsZmExMDBlNGNlZTc5OWU1MzE5MTY1MTg0ODU0YTA2MzcxYjFjYWNiNA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1dFSy7jT4hSsbMiof1fTTA/tracks",
+        "total": 21
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1dFSy7jT4hSsbMiof1fTTA"
+    },
+    {
+      "collaborative": false,
+      "description": "Songs with an &quot;Only ones who know&quot; or &quot;Despair in the departure lounge&quot; vibe",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2sf5zMRhz2iBLdOj9gwwcP"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2sf5zMRhz2iBLdOj9gwwcP",
+      "id": "2sf5zMRhz2iBLdOj9gwwcP",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
+          "width": null
+        }
+      ],
+      "name": "Saddest Arctic Monkeys Playlist",
+      "owner": {
+        "display_name": "isaaclima41",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/isaaclima41"
+        },
+        "href": "https://api.spotify.com/v1/users/isaaclima41",
+        "id": "isaaclima41",
+        "type": "user",
+        "uri": "spotify:user:isaaclima41"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjcsYzU1YjViOWMxZTc5N2ZjOTIwOTEzZGM4Nzg5M2EwMGIwMWU3Y2M1MA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2sf5zMRhz2iBLdOj9gwwcP/tracks",
+        "total": 19
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2sf5zMRhz2iBLdOj9gwwcP"
+    },
+    {
+      "collaborative": false,
+      "description": "alt rock",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4lHf1Zh4sB3fE7QOTIqtAV"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV",
+      "id": "4lHf1Zh4sB3fE7QOTIqtAV",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f7851a6d18af96141bc1d481",
+          "width": null
+        }
+      ],
+      "name": "arctic monkeys + the neighbourhood + the 1975 + 80’s & 90’s rock + other cool tunes",
+      "owner": {
+        "display_name": "Laurinha",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/laura8558"
+        },
+        "href": "https://api.spotify.com/v1/users/laura8558",
+        "id": "laura8558",
+        "type": "user",
+        "uri": "spotify:user:laura8558"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjQ3NCwyYWI3OWVlZjBmMjNhNDYyZGM1YTZjMjgwZjdhYWY5NmRjYTE4ZmQ3",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
+        "total": 437
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
+    },
+    {
+      "collaborative": false,
+      "description": "Musical references in the first novel by Murakami - 𝓱𝓮𝓪𝓻 𝓽𝓱𝓮 𝔀𝓲𝓷𝓭 𝓼𝓲𝓷𝓰 -",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0mGHcGuklrskxmCPBhlIty"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty",
+      "id": "0mGHcGuklrskxmCPBhlIty",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846e000d7fc90982490a7e3e11",
+          "width": null
+        }
+      ],
+      "name": "Hear the wind sing - Haruki Murakami",
+      "owner": {
+        "display_name": "Linda Arrighi",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/21rj7e5ovvtoaajsxuc4hwr3y"
+        },
+        "href": "https://api.spotify.com/v1/users/21rj7e5ovvtoaajsxuc4hwr3y",
+        "id": "21rj7e5ovvtoaajsxuc4hwr3y",
+        "type": "user",
+        "uri": "spotify:user:21rj7e5ovvtoaajsxuc4hwr3y"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDAsN2NmMDYwNjZhNGY5MmI2ZTUzYWI3OTU4OTFiZjNlNTIxNDc2YzcyNQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty/tracks",
+        "total": 12
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0mGHcGuklrskxmCPBhlIty"
+    },
+    {
+      "collaborative": false,
+      "description": "A playlist of music featured in the film Chungking Express. ",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5t3CWKpVW9wo6HO7A4lBWU"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5t3CWKpVW9wo6HO7A4lBWU",
+      "id": "5t3CWKpVW9wo6HO7A4lBWU",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a2c774f7992a14acae7f8aca",
+          "width": null
+        }
+      ],
+      "name": "Chungking Express Soundtrack",
+      "owner": {
+        "display_name": "matthewditta1999",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/matthewditta1999"
+        },
+        "href": "https://api.spotify.com/v1/users/matthewditta1999",
+        "id": "matthewditta1999",
+        "type": "user",
+        "uri": "spotify:user:matthewditta1999"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTAsYTJhZTIwNGM5YzU5ZDZlMjM0ZTc5NDI2NzY1MjM2NzAwNjQ3ZDA5Yw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5t3CWKpVW9wo6HO7A4lBWU/tracks",
+        "total": 6
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5t3CWKpVW9wo6HO7A4lBWU"
+    },
+    {
+      "collaborative": false,
+      "description": "lagu lagu",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2zkbJ5J9ePUk1UUUU90ptK"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2zkbJ5J9ePUk1UUUU90ptK",
+      "id": "2zkbJ5J9ePUk1UUUU90ptK",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434bf38a510ae676cd24f9f5e",
+          "width": null
+        }
+      ],
+      "name": "alasan pulang",
+      "owner": {
+        "display_name": "Naufalrafi",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/r3thd1tnqphgiy8acmhogl3wl"
+        },
+        "href": "https://api.spotify.com/v1/users/r3thd1tnqphgiy8acmhogl3wl",
+        "id": "r3thd1tnqphgiy8acmhogl3wl",
+        "type": "user",
+        "uri": "spotify:user:r3thd1tnqphgiy8acmhogl3wl"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTA0OCw0MTBhMDkzNjA5NmE0ZjQ1MWM1MjY4NGYyY2IxZWI0NzdiZTg5ZWIx",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2zkbJ5J9ePUk1UUUU90ptK/tracks",
+        "total": 80
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2zkbJ5J9ePUk1UUUU90ptK"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3c4vUnqSDlo3JS5H7KNs6l"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3c4vUnqSDlo3JS5H7KNs6l",
+      "id": "3c4vUnqSDlo3JS5H7KNs6l",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e029567e1aa41657425d046733bab67616d00001e02c4441140f4483bb1c18fe7aeab67616d00001e02d5aaab3d01be71ee5b3d7469ab67616d00001e02dc252547af66fa6a5e3ed781",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e029567e1aa41657425d046733bab67616d00001e02c4441140f4483bb1c18fe7aeab67616d00001e02d5aaab3d01be71ee5b3d7469ab67616d00001e02dc252547af66fa6a5e3ed781",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e029567e1aa41657425d046733bab67616d00001e02c4441140f4483bb1c18fe7aeab67616d00001e02d5aaab3d01be71ee5b3d7469ab67616d00001e02dc252547af66fa6a5e3ed781",
+          "width": 60
+        }
+      ],
+      "name": "Rex's 2023 Playlist",
+      "owner": {
+        "display_name": "Rex",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/314brsyex2njneym7uq7imdwh6u4"
+        },
+        "href": "https://api.spotify.com/v1/users/314brsyex2njneym7uq7imdwh6u4",
+        "id": "314brsyex2njneym7uq7imdwh6u4",
+        "type": "user",
+        "uri": "spotify:user:314brsyex2njneym7uq7imdwh6u4"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzUsY2Q3NDU0ZjY1OTA5ZWRlMmQ1ZWY5OTQxNGFlYWE1OGIzNGMzNTE0MQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3c4vUnqSDlo3JS5H7KNs6l/tracks",
+        "total": 24
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3c4vUnqSDlo3JS5H7KNs6l"
+    },
+    {
+      "collaborative": false,
+      "description": "Your day in a playlist.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EP6YuccBxUcC1"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1",
+      "id": "37i9dQZF1EP6YuccBxUcC1",
+      "images": [
+        {
+          "height": null,
+          "url": "https://daylist.spotifycdn.com/playlist-covers/night_default.jpg",
+          "width": null
+        }
+      ],
+      "name": "daylist",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": "#ffffff",
+      "public": true,
+      "snapshot_id": "MCwwMDAwMDAwMDAzNmM1MTY5ZjI1ZDQyZDZmYjc5Y2I0OTliNzZhNmM4",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EP6YuccBxUcC1"
+    },
+    {
+      "collaborative": false,
+      "description": "Keep calm and focus with ambient and post-rock music.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZeKCadgRdKQ",
+      "id": "37i9dQZF1DWZeKCadgRdKQ",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f00000002f3ce4c5b615e345331a22830",
+          "width": null
+        }
+      ],
+      "name": "Deep Focus",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": "#ffffff",
+      "public": true,
+      "snapshot_id": "MTcxMDQ1NjEwOCwwMDAwMDAwMGI0MDgwMzRlMTQ4MWVmMmU4OTVjOWQ5NGQ5MTM0NTk4",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZeKCadgRdKQ/tracks",
+        "total": 195
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DWZeKCadgRdKQ"
+    },
+    {
+      "collaborative": false,
+      "description": "A Blend of music for wutsqo, vanni, and Fadhila. Updates daily.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJFMHbUjXDffx"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJFMHbUjXDffx",
+      "id": "37i9dQZF1EJFMHbUjXDffx",
+      "images": [
+        {
+          "height": null,
+          "url": "https://blend-playlist-covers.spotifycdn.com/group-blends-v1/group-blend-red-2-DEFAULT-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Fadhila + vanni + wutsqo",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MCwwMDAwMDAwMDY3ZWY1NGU2M2NjYjczN2UzOWQ5Y2JiMzI2YzA2Nzhm",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJFMHbUjXDffx/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EJFMHbUjXDffx"
+    },
+    {
+      "collaborative": false,
+      "description": "<a href=spotify:playlist:37i9dQZF1EIW4CMwrNEKYU>The Strokes</a>, <a href=spotify:playlist:37i9dQZF1EIVAnL1vgdDkU>The 1975</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a> and more",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2",
+      "id": "37i9dQZF1EVJSvZp5AOML2",
+      "images": [
+        {
+          "height": null,
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/0epOFNiUfyON9EYx7Tpr6V/en/default",
+          "width": null
+        }
+      ],
+      "name": "Happy Mix",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MCwwMDAwMDAwMDBiMWJmYzZiMjg0OTM0NWIyYzkyZTEwOWJiY2FkYzhl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EVJSvZp5AOML2"
+    },
+    {
+      "collaborative": false,
+      "description": "A Blend of music for wutsqo and hoot. Updates daily.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJGjX4DP4XuND"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJGjX4DP4XuND",
+      "id": "37i9dQZF1EJGjX4DP4XuND",
+      "images": [
+        {
+          "height": null,
+          "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_DEFAULT-forest-seafoam-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "hoot + wutsqo",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MCwwMDAwMDAwMGQ2ZWE2ZWMzODJlNGQ0YjYyZTczZDE4ODM3MzM3Mzhh",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJGjX4DP4XuND/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EJGjX4DP4XuND"
+    },
+    {
+      "collaborative": false,
+      "description": "A Blend of music for wutsqo and Indirarara. Updates daily.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJEFQnFndDSPa"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJEFQnFndDSPa",
+      "id": "37i9dQZF1EJEFQnFndDSPa",
+      "images": [
+        {
+          "height": null,
+          "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_DEFAULT-royal-aqua-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Indirarara + wutsqo",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MCwwMDAwMDAwMDZjNDc1NDFkMTAyNTc4YmI1NDM5ZmVjZGJiZDRmNzQ2",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJEFQnFndDSPa/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EJEFQnFndDSPa"
+    },
+    {
+      "collaborative": false,
+      "description": "Songs you love right now",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EpAdQ0k33KxPq"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EpAdQ0k33KxPq",
+      "id": "37i9dQZF1EpAdQ0k33KxPq",
+      "images": [
+        {
+          "height": null,
+          "url": "https://daily-mix.scdn.co/covers/on_repeat/PZN_On_Repeat2_DEFAULT-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "On Repeat",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTcxMDk2NzYzNSwwMDAwMDAwMDkxOWI0ODVkMmEyNGMzYTM3ZmY4YWI3MjQyNTA5NjZk",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EpAdQ0k33KxPq/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EpAdQ0k33KxPq"
+    },
+    {
+      "collaborative": false,
+      "description": "A Blend of music for wutsqo and rere. Updates daily.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJy0HzFYw0OkA"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJy0HzFYw0OkA",
+      "id": "37i9dQZF1EJy0HzFYw0OkA",
+      "images": [
+        {
+          "height": null,
+          "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_DEFAULT-lavender-royal-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "rere + wutsqo",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MCwwMDAwMDAwMDc1MjdlMTNhZDQ1MjNkZTc0NmEwNDFhYzNiNGNkMjI1",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJy0HzFYw0OkA/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EJy0HzFYw0OkA"
+    },
+    {
+      "collaborative": false,
+      "description": "A Blend of music for wutsqo and vanni. Updates daily.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJwzRS2T5lKVY"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJwzRS2T5lKVY",
+      "id": "37i9dQZF1EJwzRS2T5lKVY",
+      "images": [
+        {
+          "height": null,
+          "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_DEFAULT-maroon-red-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "vanni + wutsqo",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MCwwMDAwMDAwMGM1NTlhMzBlZWIyN2M4ZTgzM2NiMzAyZWMyNTIwOWI5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJwzRS2T5lKVY/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EJwzRS2T5lKVY"
+    },
+    {
+      "collaborative": false,
+      "description": "Spotify Wrapped presents the songs you loved this year.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU",
+      "id": "37i9dQZF1Fa1IIVtEpGUcU",
+      "images": [
+        {
+          "height": null,
+          "url": "https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Your Top Songs 2023",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTY5OTk4OTcyMCwwMDAwMDAwMGY0ZjgwN2ZjOGVmOWVmNWI5NDY1NmZkNTAwZjg1NGY5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW",
+      "id": "5e19c9XXF0zXOpAgEmYStW",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
+          "width": null
+        }
+      ],
+      "name": "headbang sambil nangis",
+      "owner": {
+        "display_name": "uwii",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/o8q5yxil6n1a5vyp1vaqo9zjj"
+        },
+        "href": "https://api.spotify.com/v1/users/o8q5yxil6n1a5vyp1vaqo9zjj",
+        "id": "o8q5yxil6n1a5vyp1vaqo9zjj",
+        "type": "user",
+        "uri": "spotify:user:o8q5yxil6n1a5vyp1vaqo9zjj"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTYyLDFlMmZiYzIxMGQzY2EyOTc3MjlmM2VhZWM4M2QyYmJlYjVjNDcyNzQ=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW/tracks",
+        "total": 104
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5e19c9XXF0zXOpAgEmYStW"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7IgQ5AgZyoI6bSl6t8nmmh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7IgQ5AgZyoI6bSl6t8nmmh",
+      "id": "7IgQ5AgZyoI6bSl6t8nmmh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e02017b009cfe0fd69ba09d3e24ab67616d00001e02638485c4d4b6d57885c5e540ab67616d00001e027eeb168bdd4e3f6ab3bcbb22ab67616d00001e02ea993ba5be148c73133b2e46",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e02017b009cfe0fd69ba09d3e24ab67616d00001e02638485c4d4b6d57885c5e540ab67616d00001e027eeb168bdd4e3f6ab3bcbb22ab67616d00001e02ea993ba5be148c73133b2e46",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e02017b009cfe0fd69ba09d3e24ab67616d00001e02638485c4d4b6d57885c5e540ab67616d00001e027eeb168bdd4e3f6ab3bcbb22ab67616d00001e02ea993ba5be148c73133b2e46",
+          "width": 60
+        }
+      ],
+      "name": "2021 Q1",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTUsMWM3MWU5YjI3MDkwMDY2YWNlOGMzZWRjZTZjOTJkMGQxMGZlMDU2MQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7IgQ5AgZyoI6bSl6t8nmmh/tracks",
+        "total": 13
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7IgQ5AgZyoI6bSl6t8nmmh"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2Kbn5hzIPHSPvWyX2LrIlG"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2Kbn5hzIPHSPvWyX2LrIlG",
+      "id": "2Kbn5hzIPHSPvWyX2LrIlG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e021121a528557155240feb9273ab67616d00001e02879d6e7efd58db5b00c9d930ab67616d00001e02a220092391684fd27f02affbab67616d00001e02c06f0e8b33ac2d246158253e",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e021121a528557155240feb9273ab67616d00001e02879d6e7efd58db5b00c9d930ab67616d00001e02a220092391684fd27f02affbab67616d00001e02c06f0e8b33ac2d246158253e",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e021121a528557155240feb9273ab67616d00001e02879d6e7efd58db5b00c9d930ab67616d00001e02a220092391684fd27f02affbab67616d00001e02c06f0e8b33ac2d246158253e",
+          "width": 60
+        }
+      ],
+      "name": "2021 Q2",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "OCxjNzBiNjg1ODQzOTNkNDM2ZmNkMTA2YWFkYzk3ZWZhNjE2ZjUwNDBm",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2Kbn5hzIPHSPvWyX2LrIlG/tracks",
+        "total": 6
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2Kbn5hzIPHSPvWyX2LrIlG"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7xOerbbn2JM5gYAXSKUIqh"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7xOerbbn2JM5gYAXSKUIqh",
+      "id": "7xOerbbn2JM5gYAXSKUIqh",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67616d00001e026b3fa88bdd4af566fbbf2bbf",
+          "width": null
+        }
+      ],
+      "name": "arctic monkeys",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "Niw5OTc5NzYwOWM4MWFmNjljNDI1ZDBmMGMwMzZlOGU3ZjJhN2U0NTNk",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7xOerbbn2JM5gYAXSKUIqh/tracks",
+        "total": 4
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7xOerbbn2JM5gYAXSKUIqh"
+    },
+    {
+      "collaborative": false,
+      "description": "My personal favorites of music that performed, written, or produced by our legend Tim Bergling.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7HQPFmJVqKQDPiIMyRIdTJ"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7HQPFmJVqKQDPiIMyRIdTJ",
+      "id": "7HQPFmJVqKQDPiIMyRIdTJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e020ae4f4d42e4a09f3a29f64adab67616d00001e023862d62a50dc6b928651bdebab67616d00001e025393c5d3cac806092a9bc468ab67616d00001e02e14f11f796cef9f9a82691a7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e020ae4f4d42e4a09f3a29f64adab67616d00001e023862d62a50dc6b928651bdebab67616d00001e025393c5d3cac806092a9bc468ab67616d00001e02e14f11f796cef9f9a82691a7",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e020ae4f4d42e4a09f3a29f64adab67616d00001e023862d62a50dc6b928651bdebab67616d00001e025393c5d3cac806092a9bc468ab67616d00001e02e14f11f796cef9f9a82691a7",
+          "width": 60
+        }
+      ],
+      "name": "Avicii",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzQsMzhlZDdkNWJmYjgwOWE5NTc4NTI3N2M0MTkzNDBjMzk3YmFkZTdmNw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7HQPFmJVqKQDPiIMyRIdTJ/tracks",
+        "total": 23
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7HQPFmJVqKQDPiIMyRIdTJ"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6EnmWh4IRypf5s5HAgS4DT"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6EnmWh4IRypf5s5HAgS4DT",
+      "id": "6EnmWh4IRypf5s5HAgS4DT",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e8943059b1441c61328ee1f0",
+          "width": null
+        }
+      ],
+      "name": "bing chilling",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MzMsOWY1OWI5NDdkNGU0NzRiYTBlMzczYzFlM2Q1MTNjNzJkOGFjMTMxNw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6EnmWh4IRypf5s5HAgS4DT/tracks",
+        "total": 15
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6EnmWh4IRypf5s5HAgS4DT"
+    },
     {
       "collaborative": false,
       "description": "",
@@ -11,9 +931,9 @@
       "id": "4ZuzSAcnWQ6uxgraVBnLKN",
       "images": [
         {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b2735393c5d3cac806092a9bc468",
-          "width": 640
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67616d00001e025393c5d3cac806092a9bc468",
+          "width": null
         }
       ],
       "name": "comfort songs",
@@ -48,17 +968,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d0000b2734756c2e9ae436437cd75e9f3ab67616d0000b2737437083c2521a8c077b9cfd7ab67616d0000b27381fccd758776d16b87721b17ab67616d0000b273a03e3d24ccee1c370899c342",
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e024756c2e9ae436437cd75e9f3ab67616d00001e027437083c2521a8c077b9cfd7ab67616d00001e0281fccd758776d16b87721b17ab67616d00001e02a03e3d24ccee1c370899c342",
           "width": 640
         },
         {
           "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d0000b2734756c2e9ae436437cd75e9f3ab67616d0000b2737437083c2521a8c077b9cfd7ab67616d0000b27381fccd758776d16b87721b17ab67616d0000b273a03e3d24ccee1c370899c342",
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e024756c2e9ae436437cd75e9f3ab67616d00001e027437083c2521a8c077b9cfd7ab67616d00001e0281fccd758776d16b87721b17ab67616d00001e02a03e3d24ccee1c370899c342",
           "width": 300
         },
         {
           "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d0000b2734756c2e9ae436437cd75e9f3ab67616d0000b2737437083c2521a8c077b9cfd7ab67616d0000b27381fccd758776d16b87721b17ab67616d0000b273a03e3d24ccee1c370899c342",
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e024756c2e9ae436437cd75e9f3ab67616d00001e027437083c2521a8c077b9cfd7ab67616d00001e0281fccd758776d16b87721b17ab67616d00001e02a03e3d24ccee1c370899c342",
           "width": 60
         }
       ],
@@ -87,6 +1007,52 @@
       "collaborative": false,
       "description": "",
       "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2nflnxUm0zebsgJkWLccNN"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2nflnxUm0zebsgJkWLccNN",
+      "id": "2nflnxUm0zebsgJkWLccNN",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e02379e6c84ab1b58aba26fb0c7ab67616d00001e02671195ac699b5a8c8ee45c33ab67616d00001e02811dc5f40b81693ffc7b8bfeab67616d00001e02b79b022c1d73036b0a4d52e1",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e02379e6c84ab1b58aba26fb0c7ab67616d00001e02671195ac699b5a8c8ee45c33ab67616d00001e02811dc5f40b81693ffc7b8bfeab67616d00001e02b79b022c1d73036b0a4d52e1",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e02379e6c84ab1b58aba26fb0c7ab67616d00001e02671195ac699b5a8c8ee45c33ab67616d00001e02811dc5f40b81693ffc7b8bfeab67616d00001e02b79b022c1d73036b0a4d52e1",
+          "width": 60
+        }
+      ],
+      "name": "deep focus",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTMsMmYzMDBiMTkwOTRjM2E2OGYwZDBjNGM4MzBkZTcxYjcxM2UwOWM0NQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2nflnxUm0zebsgJkWLccNN/tracks",
+        "total": 12
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2nflnxUm0zebsgJkWLccNN"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
         "spotify": "https://open.spotify.com/playlist/2CdfCFDPibgAZdCm5lnpa2"
       },
       "href": "https://api.spotify.com/v1/playlists/2CdfCFDPibgAZdCm5lnpa2",
@@ -94,7 +1060,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbeeb4200b057be0480bab1b50",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84eeb4200b057be0480bab1b50",
           "width": null
         }
       ],
@@ -123,6 +1089,42 @@
       "collaborative": false,
       "description": "",
       "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7ehMo6TIbL2LK5q1VAlI0j"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7ehMo6TIbL2LK5q1VAlI0j",
+      "id": "7ehMo6TIbL2LK5q1VAlI0j",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84eb4e010ca3a2f54a738cd4fe",
+          "width": null
+        }
+      ],
+      "name": "happy little pill",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTEsYTUxZGU2OWNjMmE0MTBjYTUzMzg0M2I2MDQ0N2ZkYjhhNTc1ZTk5Ng==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7ehMo6TIbL2LK5q1VAlI0j/tracks",
+        "total": 9
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7ehMo6TIbL2LK5q1VAlI0j"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
         "spotify": "https://open.spotify.com/playlist/5TdgOffe2sDXXNhwX3bBuR"
       },
       "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR",
@@ -130,7 +1132,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb6f7c63514f3fbb7dc1f365f2",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f7c63514f3fbb7dc1f365f2",
           "width": null
         }
       ],
@@ -157,6 +1159,42 @@
     },
     {
       "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7LAbXoUaUUFN0yyaAJ2aLj"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7LAbXoUaUUFN0yyaAJ2aLj",
+      "id": "7LAbXoUaUUFN0yyaAJ2aLj",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846771f87d75feb46bd3670e34",
+          "width": null
+        }
+      ],
+      "name": "life support",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjEsODM2MDc2NWNlMzQzMTMwOGU2MjJjMjE0Y2ZkMmJjMWY1ZTdhMjI2OQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7LAbXoUaUUFN0yyaAJ2aLj/tracks",
+        "total": 8
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7LAbXoUaUUFN0yyaAJ2aLj"
+    },
+    {
+      "collaborative": false,
       "description": "Shareable Liked Songs playlist synchronised by spotify-to-github.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0pjLwygOBrPYVc0rG417iE"
@@ -166,7 +1204,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb5060abec17745d7d1e545d6d",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845060abec17745d7d1e545d6d",
           "width": null
         }
       ],
@@ -193,6 +1231,42 @@
     },
     {
       "collaborative": false,
+      "description": "A musical time capsule from the past has been unsealed…!",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3EUxEf3VHvCkO5CPVYHFNn"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3EUxEf3VHvCkO5CPVYHFNn",
+      "id": "3EUxEf3VHvCkO5CPVYHFNn",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849be75f0b15e315de658a9e56",
+          "width": null
+        }
+      ],
+      "name": "My 2023 Playlist in a Bottle",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NCw5OTc0NjBhNDJlZjI1OWY1N2U0MjFiNWFiOGRlNDk4Zjc2Yjc2ZTIz",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3EUxEf3VHvCkO5CPVYHFNn/tracks",
+        "total": 4
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3EUxEf3VHvCkO5CPVYHFNn"
+    },
+    {
+      "collaborative": false,
       "description": "",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/2fxmftbEDAX5diXLgWYTsf"
@@ -202,7 +1276,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb689624e6d97ed3de8507f3ca",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84689624e6d97ed3de8507f3ca",
           "width": null
         }
       ],
@@ -231,6 +1305,88 @@
       "collaborative": false,
       "description": "",
       "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4E8Fs4sp2YiigwGtbHszxy"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4E8Fs4sp2YiigwGtbHszxy",
+      "id": "4E8Fs4sp2YiigwGtbHszxy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e023154f0bdf9a17385d7afc6baab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02879d6e7efd58db5b00c9d930ab67616d00001e02a7e481899b7e0396f93d10b8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e023154f0bdf9a17385d7afc6baab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02879d6e7efd58db5b00c9d930ab67616d00001e02a7e481899b7e0396f93d10b8",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e023154f0bdf9a17385d7afc6baab67616d00001e028164cd1a2e03b7ca2db9ff5eab67616d00001e02879d6e7efd58db5b00c9d930ab67616d00001e02a7e481899b7e0396f93d10b8",
+          "width": 60
+        }
+      ],
+      "name": "Q4 2021",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTYsYjFkOGMzM2RhMDI3ZTNmYTExN2I4ZTVkOThkNjMyOWJlYmE5ZjQ0NQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4E8Fs4sp2YiigwGtbHszxy/tracks",
+        "total": 11
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4E8Fs4sp2YiigwGtbHszxy"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2cjrDiXb98zjUmNbtgh7R0"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2cjrDiXb98zjUmNbtgh7R0",
+      "id": "2cjrDiXb98zjUmNbtgh7R0",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84cdb2ac017fdc55a5d1397e00",
+          "width": null
+        }
+      ],
+      "name": "REX Live in Jakarta 2023",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NSw1NjQzMzljZjY0YWM1OTFjZjFhZjQyNmM4ZjJiMjA2M2E0ZGQ4NTBi",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2cjrDiXb98zjUmNbtgh7R0/tracks",
+        "total": 21
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2cjrDiXb98zjUmNbtgh7R0"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
         "spotify": "https://open.spotify.com/playlist/5kVv0zcInwPRsX2uTVu05L"
       },
       "href": "https://api.spotify.com/v1/playlists/5kVv0zcInwPRsX2uTVu05L",
@@ -238,7 +1394,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb15270bf50d5ee17436d7f4bb",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8415270bf50d5ee17436d7f4bb",
           "width": null
         }
       ],
@@ -274,7 +1430,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbc087f5e5e162a2f501769dea",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84c087f5e5e162a2f501769dea",
           "width": null
         }
       ],
@@ -298,6 +1454,170 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:0N4XVIqdfLISwh5icfTKd3"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0jNNuCW6FctYSt7hWXJULr"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0jNNuCW6FctYSt7hWXJULr",
+      "id": "0jNNuCW6FctYSt7hWXJULr",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67616d00001e029e1cfc756886ac782e363d79",
+          "width": null
+        }
+      ],
+      "name": "tame impala",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "Miw4ZjViNzMzYjllMzM4ZmI3ZDE1NjQ2YmJiODQ0ZDEzZmExMjI0N2Ew",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0jNNuCW6FctYSt7hWXJULr/tracks",
+        "total": 1
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0jNNuCW6FctYSt7hWXJULr"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0fs1evYdoE3OHDQdaRolmg"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0fs1evYdoE3OHDQdaRolmg",
+      "id": "0fs1evYdoE3OHDQdaRolmg",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
+          "width": null
+        }
+      ],
+      "name": "tersesat di nambo",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTYsOTUwN2UyZmYzZDNkMThmYTMyODFlMGZiM2E5ZWQ4NjkwODBkODJhNA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0fs1evYdoE3OHDQdaRolmg/tracks",
+        "total": 4
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0fs1evYdoE3OHDQdaRolmg"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6ugPdVyBfZEdtRG3iGclmC"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6ugPdVyBfZEdtRG3iGclmC",
+      "id": "6ugPdVyBfZEdtRG3iGclmC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e021f44db452a68e229650a302cab67616d00001e024400af0debecb047939c9254ab67616d00001e028a63c4fe32457453cb0f3103ab67616d00001e02cffd176abde4a8a8c8c9fb73",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e021f44db452a68e229650a302cab67616d00001e024400af0debecb047939c9254ab67616d00001e028a63c4fe32457453cb0f3103ab67616d00001e02cffd176abde4a8a8c8c9fb73",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e021f44db452a68e229650a302cab67616d00001e024400af0debecb047939c9254ab67616d00001e028a63c4fe32457453cb0f3103ab67616d00001e02cffd176abde4a8a8c8c9fb73",
+          "width": 60
+        }
+      ],
+      "name": "the 1975",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDgsYTA0YzQ2NGY5MzFlMmZjMjI3NjdiMWY4MmZjMzc4MGE1MDBjYjlmMQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6ugPdVyBfZEdtRG3iGclmC/tracks",
+        "total": 21
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6ugPdVyBfZEdtRG3iGclmC"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4Huwz4so5ChHBkstAGmBDo"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4Huwz4so5ChHBkstAGmBDo",
+      "id": "4Huwz4so5ChHBkstAGmBDo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0213b3e37318a0c247b550bccdab67616d00001e0249091440fe73435983406f43ab67616d00001e02a048415db06a5b6fa7ec4e1aab67616d00001e02d304ba2d71de306812eebaf4",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0213b3e37318a0c247b550bccdab67616d00001e0249091440fe73435983406f43ab67616d00001e02a048415db06a5b6fa7ec4e1aab67616d00001e02d304ba2d71de306812eebaf4",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0213b3e37318a0c247b550bccdab67616d00001e0249091440fe73435983406f43ab67616d00001e02a048415db06a5b6fa7ec4e1aab67616d00001e02d304ba2d71de306812eebaf4",
+          "width": 60
+        }
+      ],
+      "name": "vol.3",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjAsNmUxOGY4M2VmOTlhNjAyY2QzNTJmYTVhZGNjZjIxNDFlOTIzMTAzNg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4Huwz4so5ChHBkstAGmBDo/tracks",
+        "total": 18
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4Huwz4so5ChHBkstAGmBDo"
     }
   ]
 }
