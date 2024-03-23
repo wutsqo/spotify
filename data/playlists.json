@@ -173,10 +173,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjQ3NCwyYWI3OWVlZjBmMjNhNDYyZGM1YTZjMjgwZjdhYWY5NmRjYTE4ZmQ3",
+      "snapshot_id": "MjQ4MSw5ZWZiOGU1ZGQ2ZTIzN2U4NjE3NDE1Y2NiZDYyODYwZTI4NmQ3N2Y4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 437
+        "total": 444
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -439,7 +439,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIW4CMwrNEKYU>The Strokes</a>, <a href=spotify:playlist:37i9dQZF1EIVAnL1vgdDkU>The 1975</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIWMJHFKMrHsK>NIKI</a>, <a href=spotify:playlist:37i9dQZF1EIVAnL1vgdDkU>The 1975</a>, <a href=spotify:playlist:37i9dQZF1EIYCwEpjSusKH>The Cardigans</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -448,7 +448,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/0epOFNiUfyON9EYx7Tpr6V/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/2kxP07DLgs4xlWz8YHlvfh/en/default",
           "width": null
         }
       ],
@@ -463,7 +463,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MCwwMDAwMDAwMDBiMWJmYzZiMjg0OTM0NWIyYzkyZTEwOWJiY2FkYzhl",
+      "snapshot_id": "MCwwMDAwMDAwMGU1ZTY0ZDMyYTc2Yzg3NjM3YzM3NjFkZGNhM2Q3MmI1",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -602,44 +602,10 @@
       "snapshot_id": "MCwwMDAwMDAwMDc1MjdlMTNhZDQ1MjNkZTc0NmEwNDFhYzNiNGNkMjI1",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJy0HzFYw0OkA/tracks",
-        "total": 50
+        "total": 49
       },
       "type": "playlist",
       "uri": "spotify:playlist:37i9dQZF1EJy0HzFYw0OkA"
-    },
-    {
-      "collaborative": false,
-      "description": "A Blend of music for wutsqo and vanni. Updates daily.",
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJwzRS2T5lKVY"
-      },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJwzRS2T5lKVY",
-      "id": "37i9dQZF1EJwzRS2T5lKVY",
-      "images": [
-        {
-          "height": null,
-          "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_DEFAULT-maroon-red-en.jpg",
-          "width": null
-        }
-      ],
-      "name": "vanni + wutsqo",
-      "owner": {
-        "display_name": "Spotify",
-        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
-        "href": "https://api.spotify.com/v1/users/spotify",
-        "id": "spotify",
-        "type": "user",
-        "uri": "spotify:user:spotify"
-      },
-      "primary_color": null,
-      "public": true,
-      "snapshot_id": "MCwwMDAwMDAwMGM1NTlhMzBlZWIyN2M4ZTgzM2NiMzAyZWMyNTIwOWI5",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJwzRS2T5lKVY/tracks",
-        "total": 50
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1EJwzRS2T5lKVY"
     },
     {
       "collaborative": false,
@@ -1572,6 +1538,42 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:6ugPdVyBfZEdtRG3iGclmC"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/29BD0idFYJB3nTeciUoPsJ"
+      },
+      "href": "https://api.spotify.com/v1/playlists/29BD0idFYJB3nTeciUoPsJ",
+      "id": "29BD0idFYJB3nTeciUoPsJ",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67616d00001e02a015e381dfce8e948ced24ce",
+          "width": null
+        }
+      ],
+      "name": "The Simple Things",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "Miw5ZGFiYzY0NjNlZGYxMmIyYzdjYmNlZTM3ODJkODM4ODYyYzM0Njcw",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/29BD0idFYJB3nTeciUoPsJ/tracks",
+        "total": 1
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:29BD0idFYJB3nTeciUoPsJ"
     },
     {
       "collaborative": false,
