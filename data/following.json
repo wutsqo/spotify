@@ -1,11 +1,11 @@
 {
-  "total": 4,
+  "total": 5,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6"
       },
-      "followers": { "href": null, "total": 22573159 },
+      "followers": { "href": null, "total": 22575836 },
       "genres": ["dance pop", "edm", "pop", "pop dance"],
       "href": "https://api.spotify.com/v1/artists/1vCWHaC5f2uS3yhpwWbIA6",
       "id": "1vCWHaC5f2uS3yhpwWbIA6",
@@ -33,9 +33,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+      },
+      "followers": { "href": null, "total": 5688422 },
+      "genres": ["la pop", "opm"],
+      "href": "https://api.spotify.com/v1/artists/49tQo2QULno7gxHutgccqF",
+      "id": "49tQo2QULno7gxHutgccqF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb90c77d2ffb0fe10130f03230",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517490c77d2ffb0fe10130f03230",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17890c77d2ffb0fe10130f03230",
+          "width": 160
+        }
+      ],
+      "name": "LANY",
+      "popularity": 75,
+      "type": "artist",
+      "uri": "spotify:artist:49tQo2QULno7gxHutgccqF"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 5882962 },
+      "followers": { "href": null, "total": 5884487 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -65,7 +95,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
-      "followers": { "href": null, "total": 7076027 },
+      "followers": { "href": null, "total": 7077256 },
       "genres": [
         "modern alternative rock",
         "modern rock",
@@ -101,7 +131,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
       },
-      "followers": { "href": null, "total": 15651176 },
+      "followers": { "href": null, "total": 15658794 },
       "genres": ["modern alternative rock", "modern rock", "pop"],
       "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
       "id": "77SW9BnxLY8rJ0RciFqkHh",

@@ -1,6 +1,30 @@
 {
-  "total": 130,
+  "total": 131,
   "tracks": [
+    {
+      "id": "6BZ6pl5bczDc3cMF1kBaOy",
+      "name": "pink skies",
+      "added_at": "2024-03-24T02:40:36Z",
+      "popularity": 68,
+      "duration_ms": 185922,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/6BZ6pl5bczDc3cMF1kBaOy",
+      "preview_url": "https://p.scdn.co/mp3-preview/56b00a89fec4c8bbfb4bf218380abc7833f523cd?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "42jFcn7WDz3hkdkEUUQaM7",
+        "name": "kinda",
+        "release_date": "2016-06-24",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c7a37e0649c5bea6f9ec3aff",
+        "url": "https://open.spotify.com/album/42jFcn7WDz3hkdkEUUQaM7"
+      },
+      "artists": [
+        {
+          "id": "49tQo2QULno7gxHutgccqF",
+          "name": "LANY",
+          "url": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
+        }
+      ]
+    },
     {
       "id": "755gQFe8AygwKePVjrMDoj",
       "name": "The Simple Things",
@@ -125,7 +149,7 @@
       "id": "4gKgefMQuie6nz017V6jiP",
       "name": "Yasudah",
       "added_at": "2024-03-19T02:24:37Z",
-      "popularity": 52,
+      "popularity": 53,
       "duration_ms": 296402,
       "explicit": false,
       "url": "https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP",
@@ -466,7 +490,7 @@
       "id": "2zyz614fJRrqQXW1q0sY1c",
       "name": "Girls",
       "added_at": "2023-12-25T15:17:29Z",
-      "popularity": 58,
+      "popularity": 57,
       "duration_ms": 254620,
       "explicit": true,
       "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c",
@@ -538,7 +562,7 @@
       "id": "3lOMJTQTd6J34faYwASc33",
       "name": "POP!",
       "added_at": "2023-12-17T10:17:03Z",
-      "popularity": 76,
+      "popularity": 75,
       "duration_ms": 168106,
       "explicit": false,
       "url": "https://open.spotify.com/track/3lOMJTQTd6J34faYwASc33",
@@ -1143,7 +1167,7 @@
       "id": "39fD0qvjgk8RarJnoBiDTx",
       "name": "Lovesick",
       "added_at": "2023-09-21T13:01:48Z",
-      "popularity": 73,
+      "popularity": 72,
       "duration_ms": 225360,
       "explicit": false,
       "url": "https://open.spotify.com/track/39fD0qvjgk8RarJnoBiDTx",
@@ -1326,7 +1350,7 @@
       "id": "3lyNwsohK73iKsGWHLFtMp",
       "name": "Satu Hari Lagi",
       "added_at": "2023-07-09T05:35:53Z",
-      "popularity": 49,
+      "popularity": 48,
       "duration_ms": 272732,
       "explicit": false,
       "url": "https://open.spotify.com/track/3lyNwsohK73iKsGWHLFtMp",
@@ -1946,7 +1970,7 @@
       "id": "2wJ1eOCIBwoQiN7xQtrTAY",
       "name": "GROWING UP IS _____",
       "added_at": "2022-11-30T21:38:29Z",
-      "popularity": 57,
+      "popularity": 56,
       "duration_ms": 233587,
       "explicit": true,
       "url": "https://open.spotify.com/track/2wJ1eOCIBwoQiN7xQtrTAY",
@@ -2811,7 +2835,7 @@
       "id": "3bnVBN67NBEzedqQuWrpP4",
       "name": "Tear in My Heart",
       "added_at": "2021-10-13T02:08:39Z",
-      "popularity": 77,
+      "popularity": 76,
       "duration_ms": 188493,
       "explicit": false,
       "url": "https://open.spotify.com/track/3bnVBN67NBEzedqQuWrpP4",
