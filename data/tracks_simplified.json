@@ -1,6 +1,78 @@
 {
-  "total": 131,
+  "total": 134,
   "tracks": [
+    {
+      "id": "4WiiRw2PHMNQE0ad6y6GdD",
+      "name": "Chocolate",
+      "added_at": "2024-03-27T06:27:03Z",
+      "popularity": 67,
+      "duration_ms": 224673,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/4WiiRw2PHMNQE0ad6y6GdD",
+      "preview_url": "https://p.scdn.co/mp3-preview/37a14b0d56e9bb40257d83f2c9dab7468deda098?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "6Z1zv6Hw9bdvSoxI5uYk2h",
+        "name": "The 1975",
+        "release_date": "2013-01-01",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27304f21e12e67ba0dfd5db4fbf",
+        "url": "https://open.spotify.com/album/6Z1zv6Hw9bdvSoxI5uYk2h"
+      },
+      "artists": [
+        {
+          "id": "3mIj9lX2MWuHmhNCA7LSCW",
+          "name": "The 1975",
+          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+        }
+      ]
+    },
+    {
+      "id": "4rfaoyaZvNa60cj3OKSQV9",
+      "name": "Migraine",
+      "added_at": "2024-03-27T06:11:11Z",
+      "popularity": 68,
+      "duration_ms": 239014,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/4rfaoyaZvNa60cj3OKSQV9",
+      "preview_url": "https://p.scdn.co/mp3-preview/c9d942ec3acb52d61896b48d8a43830993e78545?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "2r2r78NE05YjyHyVbVgqFn",
+        "name": "Vessel",
+        "release_date": "2013-01-08",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27368372d58b58898008e805d0d",
+        "url": "https://open.spotify.com/album/2r2r78NE05YjyHyVbVgqFn"
+      },
+      "artists": [
+        {
+          "id": "3YQKmKGau1PzlVlkL1iodx",
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ]
+    },
+    {
+      "id": "1tTV7mRV9uB2Nr9VcwkuFX",
+      "name": "Greek Tragedy",
+      "added_at": "2024-03-27T05:36:40Z",
+      "popularity": 59,
+      "duration_ms": 209557,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/1tTV7mRV9uB2Nr9VcwkuFX",
+      "preview_url": "https://p.scdn.co/mp3-preview/985409f5172e2138c91605c7d0b5d5755fdd657a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "0XOseclZGO4NnaBz5Shjxp",
+        "name": "Glitterbug",
+        "release_date": "2015-01-13",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27341b101371fdf898f679dd0d6",
+        "url": "https://open.spotify.com/album/0XOseclZGO4NnaBz5Shjxp"
+      },
+      "artists": [
+        {
+          "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ]
+    },
     {
       "id": "6BZ6pl5bczDc3cMF1kBaOy",
       "name": "pink skies",
@@ -173,7 +245,7 @@
       "id": "2RJfK2pOvGpnxC255YOy5k",
       "name": "Rose-Colored Boy",
       "added_at": "2024-03-08T09:56:27Z",
-      "popularity": 65,
+      "popularity": 64,
       "duration_ms": 212853,
       "explicit": false,
       "url": "https://open.spotify.com/track/2RJfK2pOvGpnxC255YOy5k",
@@ -634,7 +706,7 @@
       "id": "2QqHUcl4IIQmcbPOBF7eeo",
       "name": "Anti GanDJa",
       "added_at": "2023-12-17T09:45:45Z",
-      "popularity": 19,
+      "popularity": 18,
       "duration_ms": 217399,
       "explicit": false,
       "url": "https://open.spotify.com/track/2QqHUcl4IIQmcbPOBF7eeo",
@@ -754,7 +826,7 @@
       "id": "7MwwPyZJ7UKFROj2oVnH6R",
       "name": "Caramelldansen",
       "added_at": "2023-12-17T09:38:20Z",
-      "popularity": 69,
+      "popularity": 68,
       "duration_ms": 175333,
       "explicit": false,
       "url": "https://open.spotify.com/track/7MwwPyZJ7UKFROj2oVnH6R",
@@ -1047,7 +1119,7 @@
       "id": "42TdMRJSRaxgEz1O3ouvDT",
       "name": "Oceans & Engines",
       "added_at": "2023-11-15T11:24:20Z",
-      "popularity": 60,
+      "popularity": 59,
       "duration_ms": 336000,
       "explicit": false,
       "url": "https://open.spotify.com/track/42TdMRJSRaxgEz1O3ouvDT",
@@ -1374,7 +1446,7 @@
       "id": "7J0isBrUxhIYZVdrBOOlIh",
       "name": "Cincin",
       "added_at": "2023-07-08T13:41:00Z",
-      "popularity": 75,
+      "popularity": 74,
       "duration_ms": 266330,
       "explicit": false,
       "url": "https://open.spotify.com/track/7J0isBrUxhIYZVdrBOOlIh",
@@ -1422,7 +1494,7 @@
       "id": "4nVBt6MZDDP6tRVdQTgxJg",
       "name": "Story of My Life",
       "added_at": "2023-06-20T09:09:49Z",
-      "popularity": 85,
+      "popularity": 84,
       "duration_ms": 245493,
       "explicit": false,
       "url": "https://open.spotify.com/track/4nVBt6MZDDP6tRVdQTgxJg",
@@ -1696,7 +1768,7 @@
       "id": "1aOxOpH4AkGAd8OMrKjyNY",
       "name": "Why Are Sundays So Depressing",
       "added_at": "2023-05-24T15:04:57Z",
-      "popularity": 66,
+      "popularity": 65,
       "duration_ms": 275666,
       "explicit": false,
       "url": "https://open.spotify.com/track/1aOxOpH4AkGAd8OMrKjyNY",
@@ -1744,7 +1816,7 @@
       "id": "0edtKj1oW6rJ9f4wRtLPPH",
       "name": "Traingazing",
       "added_at": "2023-04-17T01:45:10Z",
-      "popularity": 31,
+      "popularity": 30,
       "duration_ms": 214159,
       "explicit": false,
       "url": "https://open.spotify.com/track/0edtKj1oW6rJ9f4wRtLPPH",
@@ -1773,7 +1845,7 @@
       "id": "37mbA1RwYja7WFaIOzSczX",
       "name": "You'll Be In My Heart - Spotify Singles",
       "added_at": "2023-04-08T22:27:26Z",
-      "popularity": 53,
+      "popularity": 52,
       "duration_ms": 241776,
       "explicit": false,
       "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX",
@@ -2782,7 +2854,7 @@
       "id": "5Htq8DDDN0Xce9MwqzAzui",
       "name": "La La Lost You",
       "added_at": "2021-10-30T17:26:45Z",
-      "popularity": 42,
+      "popularity": 41,
       "duration_ms": 200000,
       "explicit": true,
       "url": "https://open.spotify.com/track/5Htq8DDDN0Xce9MwqzAzui",
@@ -2907,7 +2979,7 @@
       "id": "3j1fOrxmfuym91Cf9v397b",
       "name": "Warpaint",
       "added_at": "2021-09-04T09:42:49Z",
-      "popularity": 24,
+      "popularity": 23,
       "duration_ms": 213787,
       "explicit": true,
       "url": "https://open.spotify.com/track/3j1fOrxmfuym91Cf9v397b",
@@ -2960,7 +3032,7 @@
       "id": "73JnItJ3dofEssv5hWFHDs",
       "name": "Another Sunny Day",
       "added_at": "2021-06-09T16:06:58Z",
-      "popularity": 49,
+      "popularity": 48,
       "duration_ms": 244400,
       "explicit": true,
       "url": "https://open.spotify.com/track/73JnItJ3dofEssv5hWFHDs",
@@ -3056,7 +3128,7 @@
       "id": "2wAiFWjRupWmnDkQcu91MF",
       "name": "Rumah Ke Rumah",
       "added_at": "2021-02-20T15:53:46Z",
-      "popularity": 78,
+      "popularity": 77,
       "duration_ms": 277457,
       "explicit": false,
       "url": "https://open.spotify.com/track/2wAiFWjRupWmnDkQcu91MF",
@@ -3152,7 +3224,7 @@
       "id": "1ggYjU6zdFHgANcku82boU",
       "name": "Afterthought",
       "added_at": "2020-10-04T06:55:09Z",
-      "popularity": 42,
+      "popularity": 41,
       "duration_ms": 194871,
       "explicit": false,
       "url": "https://open.spotify.com/track/1ggYjU6zdFHgANcku82boU",

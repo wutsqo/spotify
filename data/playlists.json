@@ -3,42 +3,6 @@
   "playlists": [
     {
       "collaborative": false,
-      "description": "Musical references in the first novel by Murakami - 𝓱𝓮𝓪𝓻 𝓽𝓱𝓮 𝔀𝓲𝓷𝓭 𝓼𝓲𝓷𝓰 -",
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/0mGHcGuklrskxmCPBhlIty"
-      },
-      "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty",
-      "id": "0mGHcGuklrskxmCPBhlIty",
-      "images": [
-        {
-          "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846e000d7fc90982490a7e3e11",
-          "width": null
-        }
-      ],
-      "name": "Hear the wind sing - Haruki Murakami",
-      "owner": {
-        "display_name": "21rj7e5ovvtoaajsxuc4hwr3y",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/21rj7e5ovvtoaajsxuc4hwr3y"
-        },
-        "href": "https://api.spotify.com/v1/users/21rj7e5ovvtoaajsxuc4hwr3y",
-        "id": "21rj7e5ovvtoaajsxuc4hwr3y",
-        "type": "user",
-        "uri": "spotify:user:21rj7e5ovvtoaajsxuc4hwr3y"
-      },
-      "primary_color": null,
-      "public": true,
-      "snapshot_id": "NDAsN2NmMDYwNjZhNGY5MmI2ZTUzYWI3OTU4OTFiZjNlNTIxNDc2YzcyNQ==",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty/tracks",
-        "total": 12
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:0mGHcGuklrskxmCPBhlIty"
-    },
-    {
-      "collaborative": false,
       "description": "if you like rex, you’d like these. organized by artists monthly listeners fewest to greatest.",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/33oPERePfWdGCtwUOcWD1M"
@@ -120,7 +84,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8407d19d79e4b4532dee704e85",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8407d19d79e4b4532dee704e85",
           "width": null
         }
       ],
@@ -209,13 +173,49 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjQ4OCxhODMwOTA3ZTIwOGVjZDZmYTQ1MzU1ZDM0N2E5YWRkYzBmM2ZjMzE2",
+      "snapshot_id": "MjQ5MSxkYWZmNjFjYzBiOWVmZjgzOWVlZGE0YTE5MGNhMmMxM2EyMjdiZmJj",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 451
+        "total": 454
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
+    },
+    {
+      "collaborative": false,
+      "description": "Musical references in the first novel by Murakami - 𝓱𝓮𝓪𝓻 𝓽𝓱𝓮 𝔀𝓲𝓷𝓭 𝓼𝓲𝓷𝓰 -",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0mGHcGuklrskxmCPBhlIty"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty",
+      "id": "0mGHcGuklrskxmCPBhlIty",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846e000d7fc90982490a7e3e11",
+          "width": null
+        }
+      ],
+      "name": "Hear the wind sing - Haruki Murakami",
+      "owner": {
+        "display_name": "Linda Arrighi",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/21rj7e5ovvtoaajsxuc4hwr3y"
+        },
+        "href": "https://api.spotify.com/v1/users/21rj7e5ovvtoaajsxuc4hwr3y",
+        "id": "21rj7e5ovvtoaajsxuc4hwr3y",
+        "type": "user",
+        "uri": "spotify:user:21rj7e5ovvtoaajsxuc4hwr3y"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDAsN2NmMDYwNjZhNGY5MmI2ZTUzYWI3OTU4OTFiZjNlNTIxNDc2YzcyNQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty/tracks",
+        "total": 12
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0mGHcGuklrskxmCPBhlIty"
     },
     {
       "collaborative": false,
@@ -382,7 +382,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/night_default.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_default.jpg",
           "width": null
         }
       ],
@@ -397,7 +397,7 @@
       },
       "primary_color": "#ffffff",
       "public": true,
-      "snapshot_id": "MCwwMDAwMDAwMDAzNmM1MTY5ZjI1ZDQyZDZmYjc5Y2I0OTliNzZhNmM4",
+      "snapshot_id": "MCwwMDAwMDAwMDc4M2EyYjU1ZWY0Nzk4MmY5MTE5MWI2MmQyMzJkMzI5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -475,7 +475,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIVW0Ng2A146s>Rex Orange County</a>, <a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a>, <a href=spotify:playlist:37i9dQZF1EIXHhba8nzY1M>Reality Club</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIW4CMwrNEKYU>The Strokes</a>, <a href=spotify:playlist:37i9dQZF1EIZdW2qKBCK2T>Sal Priadi</a>, <a href=spotify:playlist:37i9dQZF1EIVW0Ng2A146s>Rex Orange County</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -484,7 +484,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/7pbDxGE6nQSZVfiFdq9lOL/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/0epOFNiUfyON9EYx7Tpr6V/en/default",
           "width": null
         }
       ],
@@ -499,7 +499,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MCwwMDAwMDAwMDk0ZTY2NDRhNzk3OTczNDNiNzZjODVjOTFjY2M3N2E4",
+      "snapshot_id": "MCwwMDAwMDAwMDNjYWI5MDVjZDIyZjgyODk1MmYxM2FkZmVjOWQwNTIw",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -688,7 +688,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
           "width": null
         }
       ],
@@ -1170,7 +1170,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846771f87d75feb46bd3670e34",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846771f87d75feb46bd3670e34",
           "width": null
         }
       ],
