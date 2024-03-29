@@ -2,19 +2,19 @@
   "collaborative": false,
   "description": "",
   "external_urls": {
-    "spotify": "https://open.spotify.com/playlist/0fs1evYdoE3OHDQdaRolmg"
+    "spotify": "https://open.spotify.com/playlist/7cwI2PxwNXinh7OiSUOQX2"
   },
   "followers": { "href": null, "total": 0 },
-  "href": "https://api.spotify.com/v1/playlists/0fs1evYdoE3OHDQdaRolmg?locale=*",
-  "id": "0fs1evYdoE3OHDQdaRolmg",
+  "href": "https://api.spotify.com/v1/playlists/7cwI2PxwNXinh7OiSUOQX2?locale=*",
+  "id": "7cwI2PxwNXinh7OiSUOQX2",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
+      "url": "https://i.scdn.co/image/ab67616d00001e02211df972d345dced01b7c6c9",
       "width": null
     }
   ],
-  "name": "tersesat di nambo",
+  "name": "My playlist #25",
   "owner": {
     "display_name": "wutsqo",
     "external_urls": {
@@ -27,12 +27,12 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "MTYsOTUwN2UyZmYzZDNkMThmYTMyODFlMGZiM2E5ZWQ4NjkwODBkODJhNA==",
+  "snapshot_id": "NCw0YTE0ZTEyOTIwMmJmMDRiYmFmODc2ZjUxYzZjNjg4NDg2ODI5M2Ri",
   "type": "playlist",
-  "uri": "spotify:playlist:0fs1evYdoE3OHDQdaRolmg",
+  "uri": "spotify:playlist:7cwI2PxwNXinh7OiSUOQX2",
   "tracks": [
     {
-      "added_at": "2023-06-11T05:40:31Z",
+      "added_at": "2024-03-29T01:13:12Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -45,7 +45,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/392943fec90313dec65b40afa326c3c822984b1d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": "https://p.scdn.co/mp3-preview/a4952c489b8040eb74d9dbd6b7c5b3a60705651a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "available_markets": [
           "AR",
           "AU",
@@ -426,76 +426,96 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/6Jx4cGhWHewTcfKDJKguBQ",
-          "id": "6Jx4cGhWHewTcfKDJKguBQ",
+          "href": "https://api.spotify.com/v1/albums/47sgsXaFHbxEPiOFwyKkax",
+          "id": "47sgsXaFHbxEPiOFwyKkax",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273397d02cfe1aab2923f9d1697",
+              "url": "https://i.scdn.co/image/ab67616d0000b273211df972d345dced01b7c6c9",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02397d02cfe1aab2923f9d1697",
+              "url": "https://i.scdn.co/image/ab67616d00001e02211df972d345dced01b7c6c9",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851397d02cfe1aab2923f9d1697",
+              "url": "https://i.scdn.co/image/ab67616d00004851211df972d345dced01b7c6c9",
               "width": 64
             }
           ],
-          "name": "Angles",
-          "release_date": "2011-03-21",
+          "name": "Just Call It Love",
+          "release_date": "2024-03-15",
           "release_date_precision": "day",
-          "uri": "spotify:album:6Jx4cGhWHewTcfKDJKguBQ",
+          "uri": "spotify:album:47sgsXaFHbxEPiOFwyKkax",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+                "spotify": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
               },
-              "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
-              "id": "0epOFNiUfyON9EYx7Tpr6V",
-              "name": "The Strokes",
+              "href": "https://api.spotify.com/v1/artists/1y2yWwjdEenenVdGvm3hqi",
+              "id": "1y2yWwjdEenenVdGvm3hqi",
+              "name": "Dennis van Aarssen",
               "type": "artist",
-              "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+              "uri": "spotify:artist:1y2yWwjdEenenVdGvm3hqi"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1kEXxo5JZtSrDYsMeyk33f"
+              },
+              "href": "https://api.spotify.com/v1/artists/1kEXxo5JZtSrDYsMeyk33f",
+              "id": "1kEXxo5JZtSrDYsMeyk33f",
+              "name": "Jeff Franzel",
+              "type": "artist",
+              "uri": "spotify:artist:1kEXxo5JZtSrDYsMeyk33f"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/6Jx4cGhWHewTcfKDJKguBQ"
+            "spotify": "https://open.spotify.com/album/47sgsXaFHbxEPiOFwyKkax"
           },
-          "total_tracks": 10
+          "total_tracks": 11
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+              "spotify": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
             },
-            "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
-            "id": "0epOFNiUfyON9EYx7Tpr6V",
-            "name": "The Strokes",
+            "href": "https://api.spotify.com/v1/artists/1y2yWwjdEenenVdGvm3hqi",
+            "id": "1y2yWwjdEenenVdGvm3hqi",
+            "name": "Dennis van Aarssen",
             "type": "artist",
-            "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+            "uri": "spotify:artist:1y2yWwjdEenenVdGvm3hqi"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kEXxo5JZtSrDYsMeyk33f"
+            },
+            "href": "https://api.spotify.com/v1/artists/1kEXxo5JZtSrDYsMeyk33f",
+            "id": "1kEXxo5JZtSrDYsMeyk33f",
+            "name": "Jeff Franzel",
+            "type": "artist",
+            "uri": "spotify:artist:1kEXxo5JZtSrDYsMeyk33f"
           }
         ],
         "disc_number": 1,
-        "track_number": 2,
-        "duration_ms": 235546,
-        "external_ids": { "isrc": "USRC11100031" },
+        "track_number": 3,
+        "duration_ms": 245496,
+        "external_ids": { "isrc": "NL2FM2400044" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c"
+          "spotify": "https://open.spotify.com/track/4u5KnLA0vKlooc6JonUyTu"
         },
-        "href": "https://api.spotify.com/v1/tracks/6u0x5ad9ewHvs3z6u9Oe3c",
-        "id": "6u0x5ad9ewHvs3z6u9Oe3c",
-        "name": "Under Cover of Darkness",
-        "popularity": 67,
-        "uri": "spotify:track:6u0x5ad9ewHvs3z6u9Oe3c",
+        "href": "https://api.spotify.com/v1/tracks/4u5KnLA0vKlooc6JonUyTu",
+        "id": "4u5KnLA0vKlooc6JonUyTu",
+        "name": "Just Call It Love",
+        "popularity": 33,
+        "uri": "spotify:track:4u5KnLA0vKlooc6JonUyTu",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-06-11T05:42:05Z",
+      "added_at": "2024-03-29T01:16:44Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -508,7 +528,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/455acaee128458b8ff84add5136c250d26f7a8b3?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": "https://p.scdn.co/mp3-preview/08b0c15cd718022f9fb4507c3e41ad830f942da4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "available_markets": [
           "AR",
           "AU",
@@ -889,76 +909,96 @@
           ],
           "type": "album",
           "album_type": "album",
-          "href": "https://api.spotify.com/v1/albums/2xkZV2Hl1Omi8rk2D7t5lN",
-          "id": "2xkZV2Hl1Omi8rk2D7t5lN",
+          "href": "https://api.spotify.com/v1/albums/47sgsXaFHbxEPiOFwyKkax",
+          "id": "47sgsXaFHbxEPiOFwyKkax",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
+              "url": "https://i.scdn.co/image/ab67616d0000b273211df972d345dced01b7c6c9",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02bfa99afb5ef0d26d5064b23b",
+              "url": "https://i.scdn.co/image/ab67616d00001e02211df972d345dced01b7c6c9",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851bfa99afb5ef0d26d5064b23b",
+              "url": "https://i.scdn.co/image/ab67616d00004851211df972d345dced01b7c6c9",
               "width": 64
             }
           ],
-          "name": "The New Abnormal",
-          "release_date": "2020-04-10",
+          "name": "Just Call It Love",
+          "release_date": "2024-03-15",
           "release_date_precision": "day",
-          "uri": "spotify:album:2xkZV2Hl1Omi8rk2D7t5lN",
+          "uri": "spotify:album:47sgsXaFHbxEPiOFwyKkax",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+                "spotify": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
               },
-              "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
-              "id": "0epOFNiUfyON9EYx7Tpr6V",
-              "name": "The Strokes",
+              "href": "https://api.spotify.com/v1/artists/1y2yWwjdEenenVdGvm3hqi",
+              "id": "1y2yWwjdEenenVdGvm3hqi",
+              "name": "Dennis van Aarssen",
               "type": "artist",
-              "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+              "uri": "spotify:artist:1y2yWwjdEenenVdGvm3hqi"
+            },
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1kEXxo5JZtSrDYsMeyk33f"
+              },
+              "href": "https://api.spotify.com/v1/artists/1kEXxo5JZtSrDYsMeyk33f",
+              "id": "1kEXxo5JZtSrDYsMeyk33f",
+              "name": "Jeff Franzel",
+              "type": "artist",
+              "uri": "spotify:artist:1kEXxo5JZtSrDYsMeyk33f"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
+            "spotify": "https://open.spotify.com/album/47sgsXaFHbxEPiOFwyKkax"
           },
-          "total_tracks": 9
+          "total_tracks": 11
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+              "spotify": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
             },
-            "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
-            "id": "0epOFNiUfyON9EYx7Tpr6V",
-            "name": "The Strokes",
+            "href": "https://api.spotify.com/v1/artists/1y2yWwjdEenenVdGvm3hqi",
+            "id": "1y2yWwjdEenenVdGvm3hqi",
+            "name": "Dennis van Aarssen",
             "type": "artist",
-            "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+            "uri": "spotify:artist:1y2yWwjdEenenVdGvm3hqi"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1kEXxo5JZtSrDYsMeyk33f"
+            },
+            "href": "https://api.spotify.com/v1/artists/1kEXxo5JZtSrDYsMeyk33f",
+            "id": "1kEXxo5JZtSrDYsMeyk33f",
+            "name": "Jeff Franzel",
+            "type": "artist",
+            "uri": "spotify:artist:1kEXxo5JZtSrDYsMeyk33f"
           }
         ],
         "disc_number": 1,
-        "track_number": 7,
-        "duration_ms": 275666,
-        "external_ids": { "isrc": "USRC11902732" },
+        "track_number": 10,
+        "duration_ms": 175862,
+        "external_ids": { "isrc": "NL2FM2400051" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1aOxOpH4AkGAd8OMrKjyNY"
+          "spotify": "https://open.spotify.com/track/1S4KWnfSBko7gjUsLSayw5"
         },
-        "href": "https://api.spotify.com/v1/tracks/1aOxOpH4AkGAd8OMrKjyNY",
-        "id": "1aOxOpH4AkGAd8OMrKjyNY",
-        "name": "Why Are Sundays So Depressing",
-        "popularity": 65,
-        "uri": "spotify:track:1aOxOpH4AkGAd8OMrKjyNY",
+        "href": "https://api.spotify.com/v1/tracks/1S4KWnfSBko7gjUsLSayw5",
+        "id": "1S4KWnfSBko7gjUsLSayw5",
+        "name": "She",
+        "popularity": 41,
+        "uri": "spotify:track:1S4KWnfSBko7gjUsLSayw5",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
     },
     {
-      "added_at": "2023-06-18T23:55:29Z",
+      "added_at": "2024-03-29T01:17:16Z",
       "added_by": {
         "external_urls": {
           "spotify": "https://open.spotify.com/user/urwatilwutsqo"
@@ -971,7 +1011,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d5d94d4681580d3508cc5180e151375773997924?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": "https://p.scdn.co/mp3-preview/5b144cfb8f469379ed61b0682ec51745c4f34489?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "available_markets": [
           "AR",
           "AU",
@@ -1022,466 +1062,6 @@
           "SK",
           "ES",
           "SE",
-          "CH",
-          "TW",
-          "TR",
-          "UY",
-          "US",
-          "GB",
-          "AD",
-          "LI",
-          "MC",
-          "ID",
-          "JP",
-          "TH",
-          "VN",
-          "RO",
-          "IL",
-          "ZA",
-          "SA",
-          "AE",
-          "BH",
-          "QA",
-          "OM",
-          "KW",
-          "EG",
-          "MA",
-          "DZ",
-          "TN",
-          "LB",
-          "JO",
-          "PS",
-          "IN",
-          "KZ",
-          "MD",
-          "UA",
-          "AL",
-          "BA",
-          "HR",
-          "ME",
-          "MK",
-          "RS",
-          "SI",
-          "KR",
-          "BD",
-          "PK",
-          "LK",
-          "GH",
-          "KE",
-          "NG",
-          "TZ",
-          "UG",
-          "AG",
-          "AM",
-          "BS",
-          "BB",
-          "BZ",
-          "BT",
-          "BW",
-          "BF",
-          "CV",
-          "CW",
-          "DM",
-          "FJ",
-          "GM",
-          "GE",
-          "GD",
-          "GW",
-          "GY",
-          "HT",
-          "JM",
-          "KI",
-          "LS",
-          "LR",
-          "MW",
-          "MV",
-          "ML",
-          "MH",
-          "FM",
-          "NA",
-          "NR",
-          "NE",
-          "PW",
-          "PG",
-          "WS",
-          "SM",
-          "ST",
-          "SN",
-          "SC",
-          "SL",
-          "SB",
-          "KN",
-          "LC",
-          "VC",
-          "SR",
-          "TL",
-          "TO",
-          "TT",
-          "TV",
-          "VU",
-          "AZ",
-          "BN",
-          "BI",
-          "KH",
-          "CM",
-          "TD",
-          "KM",
-          "GQ",
-          "SZ",
-          "GA",
-          "GN",
-          "KG",
-          "LA",
-          "MO",
-          "MR",
-          "MN",
-          "NP",
-          "RW",
-          "TG",
-          "UZ",
-          "ZW",
-          "BJ",
-          "MG",
-          "MU",
-          "MZ",
-          "AO",
-          "CI",
-          "DJ",
-          "ZM",
-          "CD",
-          "CG",
-          "IQ",
-          "LY",
-          "TJ",
-          "VE",
-          "ET",
-          "XK"
-        ],
-        "explicit": false,
-        "type": "track",
-        "episode": false,
-        "track": true,
-        "album": {
-          "available_markets": [
-            "AR",
-            "AU",
-            "AT",
-            "BE",
-            "BO",
-            "BR",
-            "BG",
-            "CA",
-            "CL",
-            "CO",
-            "CR",
-            "CY",
-            "CZ",
-            "DK",
-            "DO",
-            "DE",
-            "EC",
-            "EE",
-            "SV",
-            "FI",
-            "FR",
-            "GR",
-            "GT",
-            "HN",
-            "HK",
-            "HU",
-            "IS",
-            "IE",
-            "IT",
-            "LV",
-            "LT",
-            "LU",
-            "MY",
-            "MT",
-            "MX",
-            "NL",
-            "NZ",
-            "NI",
-            "NO",
-            "PA",
-            "PY",
-            "PE",
-            "PH",
-            "PL",
-            "PT",
-            "SG",
-            "SK",
-            "ES",
-            "SE",
-            "CH",
-            "TW",
-            "TR",
-            "UY",
-            "US",
-            "GB",
-            "AD",
-            "LI",
-            "MC",
-            "ID",
-            "JP",
-            "TH",
-            "VN",
-            "RO",
-            "IL",
-            "ZA",
-            "SA",
-            "AE",
-            "BH",
-            "QA",
-            "OM",
-            "KW",
-            "EG",
-            "MA",
-            "DZ",
-            "TN",
-            "LB",
-            "JO",
-            "PS",
-            "IN",
-            "KZ",
-            "MD",
-            "UA",
-            "AL",
-            "BA",
-            "HR",
-            "ME",
-            "MK",
-            "RS",
-            "SI",
-            "KR",
-            "BD",
-            "PK",
-            "LK",
-            "GH",
-            "KE",
-            "NG",
-            "TZ",
-            "UG",
-            "AG",
-            "AM",
-            "BS",
-            "BB",
-            "BZ",
-            "BT",
-            "BW",
-            "BF",
-            "CV",
-            "CW",
-            "DM",
-            "FJ",
-            "GM",
-            "GE",
-            "GD",
-            "GW",
-            "GY",
-            "HT",
-            "JM",
-            "KI",
-            "LS",
-            "LR",
-            "MW",
-            "MV",
-            "ML",
-            "MH",
-            "FM",
-            "NA",
-            "NR",
-            "NE",
-            "PW",
-            "PG",
-            "PR",
-            "WS",
-            "SM",
-            "ST",
-            "SN",
-            "SC",
-            "SL",
-            "SB",
-            "KN",
-            "LC",
-            "VC",
-            "SR",
-            "TL",
-            "TO",
-            "TT",
-            "TV",
-            "VU",
-            "AZ",
-            "BN",
-            "BI",
-            "KH",
-            "CM",
-            "TD",
-            "KM",
-            "GQ",
-            "SZ",
-            "GA",
-            "GN",
-            "KG",
-            "LA",
-            "MO",
-            "MR",
-            "MN",
-            "NP",
-            "RW",
-            "TG",
-            "UZ",
-            "ZW",
-            "BJ",
-            "MG",
-            "MU",
-            "MZ",
-            "AO",
-            "CI",
-            "DJ",
-            "ZM",
-            "CD",
-            "CG",
-            "IQ",
-            "LY",
-            "TJ",
-            "VE",
-            "ET",
-            "XK"
-          ],
-          "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/3tEGBDGnejHf4mx1YSqKnb",
-          "id": "3tEGBDGnejHf4mx1YSqKnb",
-          "images": [
-            {
-              "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2734fe0b5be5a42d53d5bc645f7",
-              "width": 640
-            },
-            {
-              "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e024fe0b5be5a42d53d5bc645f7",
-              "width": 300
-            },
-            {
-              "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048514fe0b5be5a42d53d5bc645f7",
-              "width": 64
-            }
-          ],
-          "name": "Who The F*** Are Arctic Monkeys?",
-          "release_date": "2006-04-22",
-          "release_date_precision": "day",
-          "uri": "spotify:album:3tEGBDGnejHf4mx1YSqKnb",
-          "artists": [
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-              },
-              "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
-              "id": "7Ln80lUS6He07XvHI8qqHH",
-              "name": "Arctic Monkeys",
-              "type": "artist",
-              "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
-            }
-          ],
-          "external_urls": {
-            "spotify": "https://open.spotify.com/album/3tEGBDGnejHf4mx1YSqKnb"
-          },
-          "total_tracks": 5
-        },
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-            },
-            "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
-            "id": "7Ln80lUS6He07XvHI8qqHH",
-            "name": "Arctic Monkeys",
-            "type": "artist",
-            "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
-          }
-        ],
-        "disc_number": 1,
-        "track_number": 4,
-        "duration_ms": 197320,
-        "external_ids": { "isrc": "GBCEL0600172" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/track/6mOiT65GFmXgBAviM3lrsE"
-        },
-        "href": "https://api.spotify.com/v1/tracks/6mOiT65GFmXgBAviM3lrsE",
-        "id": "6mOiT65GFmXgBAviM3lrsE",
-        "name": "No Buses",
-        "popularity": 62,
-        "uri": "spotify:track:6mOiT65GFmXgBAviM3lrsE",
-        "is_local": false
-      },
-      "video_thumbnail": { "url": null }
-    },
-    {
-      "added_at": "2023-06-21T00:32:58Z",
-      "added_by": {
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-        },
-        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-        "id": "urwatilwutsqo",
-        "type": "user",
-        "uri": "spotify:user:urwatilwutsqo"
-      },
-      "is_local": false,
-      "primary_color": null,
-      "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/057cec6add1baa6b27cdf62930e8c40341bbda55?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-        "available_markets": [
-          "AR",
-          "AU",
-          "AT",
-          "BE",
-          "BO",
-          "BR",
-          "BG",
-          "CA",
-          "CL",
-          "CO",
-          "CR",
-          "CY",
-          "CZ",
-          "DK",
-          "DO",
-          "DE",
-          "EC",
-          "EE",
-          "SV",
-          "FI",
-          "FR",
-          "GR",
-          "GT",
-          "HN",
-          "HK",
-          "HU",
-          "IS",
-          "IE",
-          "IT",
-          "LV",
-          "LT",
-          "LU",
-          "MY",
-          "MT",
-          "MX",
-          "NL",
-          "NZ",
-          "NI",
-          "NO",
-          "PA",
-          "PY",
-          "PE",
-          "PH",
-          "PL",
-          "PT",
-          "SG",
-          "SK",
-          "ES",
           "CH",
           "TW",
           "TR",
@@ -1672,6 +1252,7 @@
             "SG",
             "SK",
             "ES",
+            "SE",
             "CH",
             "TW",
             "TR",
@@ -1810,71 +1391,71 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "single",
-          "href": "https://api.spotify.com/v1/albums/1DFNeS38zvoPkx9wwMEwbc",
-          "id": "1DFNeS38zvoPkx9wwMEwbc",
+          "album_type": "album",
+          "href": "https://api.spotify.com/v1/albums/5R3YIYy4faDKKUtdBqbE52",
+          "id": "5R3YIYy4faDKKUtdBqbE52",
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27309f2f176083d10c8c3c822da",
+              "url": "https://i.scdn.co/image/ab67616d0000b273a015e381dfce8e948ced24ce",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0209f2f176083d10c8c3c822da",
+              "url": "https://i.scdn.co/image/ab67616d00001e02a015e381dfce8e948ced24ce",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485109f2f176083d10c8c3c822da",
+              "url": "https://i.scdn.co/image/ab67616d00004851a015e381dfce8e948ced24ce",
               "width": 64
             }
           ],
-          "name": "THE LONELIEST",
-          "release_date": "2022-10-07",
+          "name": "Love Adolescent",
+          "release_date": "2014-01-01",
           "release_date_precision": "day",
-          "uri": "spotify:album:1DFNeS38zvoPkx9wwMEwbc",
+          "uri": "spotify:album:5R3YIYy4faDKKUtdBqbE52",
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+                "spotify": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
               },
-              "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
-              "id": "0lAWpj5szCSwM4rUMHYmrr",
-              "name": "Måneskin",
+              "href": "https://api.spotify.com/v1/artists/5rYJsXiNw3NxHJfOxtmDuC",
+              "id": "5rYJsXiNw3NxHJfOxtmDuC",
+              "name": "Michael Carreon",
               "type": "artist",
-              "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+              "uri": "spotify:artist:5rYJsXiNw3NxHJfOxtmDuC"
             }
           ],
           "external_urls": {
-            "spotify": "https://open.spotify.com/album/1DFNeS38zvoPkx9wwMEwbc"
+            "spotify": "https://open.spotify.com/album/5R3YIYy4faDKKUtdBqbE52"
           },
-          "total_tracks": 1
+          "total_tracks": 11
         },
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0lAWpj5szCSwM4rUMHYmrr"
+              "spotify": "https://open.spotify.com/artist/5rYJsXiNw3NxHJfOxtmDuC"
             },
-            "href": "https://api.spotify.com/v1/artists/0lAWpj5szCSwM4rUMHYmrr",
-            "id": "0lAWpj5szCSwM4rUMHYmrr",
-            "name": "Måneskin",
+            "href": "https://api.spotify.com/v1/artists/5rYJsXiNw3NxHJfOxtmDuC",
+            "id": "5rYJsXiNw3NxHJfOxtmDuC",
+            "name": "Michael Carreon",
             "type": "artist",
-            "uri": "spotify:artist:0lAWpj5szCSwM4rUMHYmrr"
+            "uri": "spotify:artist:5rYJsXiNw3NxHJfOxtmDuC"
           }
         ],
         "disc_number": 1,
-        "track_number": 1,
-        "duration_ms": 247067,
-        "external_ids": { "isrc": "ITB002200745" },
+        "track_number": 11,
+        "duration_ms": 263633,
+        "external_ids": { "isrc": "TCABS1300916" },
         "external_urls": {
-          "spotify": "https://open.spotify.com/track/1Ame8XTX6QHY0l0ahqUhgv"
+          "spotify": "https://open.spotify.com/track/755gQFe8AygwKePVjrMDoj"
         },
-        "href": "https://api.spotify.com/v1/tracks/1Ame8XTX6QHY0l0ahqUhgv",
-        "id": "1Ame8XTX6QHY0l0ahqUhgv",
-        "name": "THE LONELIEST",
-        "popularity": 73,
-        "uri": "spotify:track:1Ame8XTX6QHY0l0ahqUhgv",
+        "href": "https://api.spotify.com/v1/tracks/755gQFe8AygwKePVjrMDoj",
+        "id": "755gQFe8AygwKePVjrMDoj",
+        "name": "The Simple Things",
+        "popularity": 56,
+        "uri": "spotify:track:755gQFe8AygwKePVjrMDoj",
         "is_local": false
       },
       "video_thumbnail": { "url": null }

@@ -1,6 +1,35 @@
 {
-  "total": 134,
+  "total": 135,
   "tracks": [
+    {
+      "id": "1S4KWnfSBko7gjUsLSayw5",
+      "name": "She",
+      "added_at": "2024-03-29T01:16:38Z",
+      "popularity": 41,
+      "duration_ms": 175862,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/1S4KWnfSBko7gjUsLSayw5",
+      "preview_url": "https://p.scdn.co/mp3-preview/08b0c15cd718022f9fb4507c3e41ad830f942da4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "47sgsXaFHbxEPiOFwyKkax",
+        "name": "Just Call It Love",
+        "release_date": "2024-03-15",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273211df972d345dced01b7c6c9",
+        "url": "https://open.spotify.com/album/47sgsXaFHbxEPiOFwyKkax"
+      },
+      "artists": [
+        {
+          "id": "1y2yWwjdEenenVdGvm3hqi",
+          "name": "Dennis van Aarssen",
+          "url": "https://open.spotify.com/artist/1y2yWwjdEenenVdGvm3hqi"
+        },
+        {
+          "id": "1kEXxo5JZtSrDYsMeyk33f",
+          "name": "Jeff Franzel",
+          "url": "https://open.spotify.com/artist/1kEXxo5JZtSrDYsMeyk33f"
+        }
+      ]
+    },
     {
       "id": "4WiiRw2PHMNQE0ad6y6GdD",
       "name": "Chocolate",
@@ -269,7 +298,7 @@
       "id": "6LWS6iYUZKYHNl2VwNytpo",
       "name": "rEaR vIeW",
       "added_at": "2024-03-08T09:38:02Z",
-      "popularity": 51,
+      "popularity": 52,
       "duration_ms": 201293,
       "explicit": false,
       "url": "https://open.spotify.com/track/6LWS6iYUZKYHNl2VwNytpo",
@@ -1071,7 +1100,7 @@
       "id": "5FQ9NDyx3KZXhovWWq4Gxo",
       "name": "Should've Been Me",
       "added_at": "2023-12-17T09:11:06Z",
-      "popularity": 66,
+      "popularity": 65,
       "duration_ms": 191774,
       "explicit": false,
       "url": "https://open.spotify.com/track/5FQ9NDyx3KZXhovWWq4Gxo",
@@ -1624,7 +1653,7 @@
       "id": "6u0x5ad9ewHvs3z6u9Oe3c",
       "name": "Under Cover of Darkness",
       "added_at": "2023-06-11T05:36:42Z",
-      "popularity": 68,
+      "popularity": 67,
       "duration_ms": 235546,
       "explicit": false,
       "url": "https://open.spotify.com/track/6u0x5ad9ewHvs3z6u9Oe3c",
@@ -2114,7 +2143,7 @@
       "id": "3o9kpgkIcffx0iSwxhuNI2",
       "name": "Numb Little Bug",
       "added_at": "2022-10-23T05:07:59Z",
-      "popularity": 74,
+      "popularity": 73,
       "duration_ms": 169237,
       "explicit": false,
       "url": "https://open.spotify.com/track/3o9kpgkIcffx0iSwxhuNI2",
@@ -2186,7 +2215,7 @@
       "id": "1SKPmfSYaPsETbRHaiA18G",
       "name": "Somewhere Only We Know",
       "added_at": "2022-08-31T05:03:14Z",
-      "popularity": 86,
+      "popularity": 85,
       "duration_ms": 237146,
       "explicit": false,
       "url": "https://open.spotify.com/track/1SKPmfSYaPsETbRHaiA18G",
@@ -2330,7 +2359,7 @@
       "id": "1C5utO1I8FoSIn6g1R5DAZ",
       "name": "If You’re Too Shy (Let Me Know)",
       "added_at": "2022-06-27T06:16:28Z",
-      "popularity": 66,
+      "popularity": 65,
       "duration_ms": 319370,
       "explicit": false,
       "url": "https://open.spotify.com/track/1C5utO1I8FoSIn6g1R5DAZ",
@@ -2527,7 +2556,7 @@
       "id": "6SQLk9HSNketfgs2AyIiMs",
       "name": "She",
       "added_at": "2022-01-27T08:46:52Z",
-      "popularity": 70,
+      "popularity": 69,
       "duration_ms": 362653,
       "explicit": false,
       "url": "https://open.spotify.com/track/6SQLk9HSNketfgs2AyIiMs",
@@ -2604,7 +2633,7 @@
       "id": "4z8Ll8nU1jMqB8HvKTyLP1",
       "name": "Happy Little Pill",
       "added_at": "2021-11-16T05:59:58Z",
-      "popularity": 50,
+      "popularity": 49,
       "duration_ms": 224874,
       "explicit": false,
       "url": "https://open.spotify.com/track/4z8Ll8nU1jMqB8HvKTyLP1",
@@ -2700,7 +2729,7 @@
       "id": "1ZMiCix7XSAbfAJlEZWMCp",
       "name": "Falling",
       "added_at": "2021-11-09T13:24:56Z",
-      "popularity": 84,
+      "popularity": 83,
       "duration_ms": 240133,
       "explicit": false,
       "url": "https://open.spotify.com/track/1ZMiCix7XSAbfAJlEZWMCp",
