@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/2sf5zMRhz2iBLdOj9gwwcP"
   },
-  "followers": { "href": null, "total": 2451 },
+  "followers": { "href": null, "total": 2450 },
   "href": "https://api.spotify.com/v1/playlists/2sf5zMRhz2iBLdOj9gwwcP?locale=*",
   "id": "2sf5zMRhz2iBLdOj9gwwcP",
   "images": [
@@ -7660,7 +7660,7 @@
         "href": "https://api.spotify.com/v1/tracks/4VysGAsuHWHDxasPnTgwbo",
         "id": "4VysGAsuHWHDxasPnTgwbo",
         "name": "The Ultracheese",
-        "popularity": 2,
+        "popularity": 1,
         "uri": "spotify:track:4VysGAsuHWHDxasPnTgwbo",
         "is_local": false
       },
