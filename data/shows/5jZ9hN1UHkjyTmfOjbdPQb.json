@@ -206,6 +206,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0MbazZi7tU8yguZUK6fnck/clip_30950_99050.mp3",
+      "description": "Jolly’s whole family was dead. Well, almost all of them, but she never let that get her down. But this time, her friends noticed - something was very wrong with Jolly.  She seemed out of it at the small gathering. Anytime someone tried talking to her - she would glance across the room. It seemed like she was waiting for someone to walk in.  “Don’t you want to marry someone like him?” - Jolly said.  Her friend looked at her like she sprouted another head - “Excuse me?” “That guy over there - he just seems so peaceful and calm.” Jolly’s friends were confused - was she talking about Shaju? He’s happily married with two kids… and not to mention… he’s her cousin.  Her friends didn’t think too much into it until Shaju, Jolly’s new love interest, his wife and child died mysteriously…  Was Jolly Joseph killing everyone that she felt was in her way? Or… was there something just in the curry?   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4759806,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0MWkAROgE15B2nP1wAdHZB"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0MWkAROgE15B2nP1wAdHZB",
+      "html_description": "<p>Jolly’s whole family was dead. Well, almost all of them, but she never let that get her down. But this time, her friends noticed - something was very wrong with Jolly. </p><br/><p>She seemed out of it at the small gathering.</p><br/><p>Anytime someone tried talking to her - she would glance across the room. It seemed like she was waiting for someone to walk in. </p><br/><p>“Don’t you want to marry someone like him?” - Jolly said. </p><br/><p>Her friend looked at her like she sprouted another head - “Excuse me?”</p><br/><p>“That guy over there - he just seems so peaceful and calm.”</p><br/><p>Jolly’s friends were confused - was she talking about Shaju? He’s happily married with two kids… and not to mention… he’s her cousin. </p><br/><p>Her friends didn’t think too much into it until Shaju, Jolly’s new love interest, his wife and child died mysteriously… </p><br/><p>Was Jolly Joseph killing everyone that she felt was in her way? Or… was there something just in the curry? </p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "0MWkAROgE15B2nP1wAdHZB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Curry Killer - She Killed 6 Of Her Husband’s Family Members With CURRY So She Could Marry Her Cousin",
+      "release_date": "2024-04-01",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:0MWkAROgE15B2nP1wAdHZB"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5tP6LAtFI31ZOC4BCL4QkB/clip_872100_936450.mp3",
       "description": "Kenta's Tuesday morning routine was always the same — a 5 a.m. breakfast of rice, miso soup, and salted salmon, followed by his walk to work at Tomogaoka Middle School, where he greeted students at the blue gates every morning. But today was different. Kenta took the same route as always — turned the same corner — and dropped his briefcase onto the ground. His hand flew to his mouth. Maybe he let out a scream, maybe he didn’t – and it was all just in his head. Shaking, Kenta read the letter: \"This is the beginning of a game You stupid police Try and stop me if you can Murder is something I cannot help but enjoy There's nothing I want to see MORE than people's deaths Let the foul vegetables be punished with death Let there be bloody judgment for my many years of bitterness.\" On the blue metal gates of the school — right next to the sign that read TOMOGAOKA MIDDLE SCHOOL — sprouting from one of the jagged metal picks of the fence -  The severed head of an 11-year-old. The note was shoved in his mouth.  Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 5429203,
@@ -4233,7 +4271,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }
