@@ -1,5 +1,5 @@
 {
-  "total": 44,
+  "total": 45,
   "playlists": [
     {
       "collaborative": false,
@@ -173,10 +173,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjUwNCw5MjZiZDQ5MmFjMjZmMjU4OGRhODk5MzQ4NjQzNTE0YjY5NWQ3YjEx",
+      "snapshot_id": "MjUwNyxiMTc3MDAwYzA5NGQxYmJiOTQ2M2Y5MzcwNjVkNzIyNGRjYWIyN2Y5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 467
+        "total": 470
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -475,7 +475,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIVW0Ng2A146s>Rex Orange County</a>, <a href=spotify:playlist:37i9dQZF1EIW4CMwrNEKYU>The Strokes</a>, <a href=spotify:playlist:37i9dQZF1EIVn04KabAIGQ>MALIQ & D'Essentials</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIXHhba8nzY1M>Reality Club</a>, <a href=spotify:playlist:37i9dQZF1EIW4CMwrNEKYU>The Strokes</a>, <a href=spotify:playlist:37i9dQZF1EIWMJHFKMrHsK>NIKI</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -484,7 +484,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/7pbDxGE6nQSZVfiFdq9lOL/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/1DjZI46mVZZZYmmmygRnTw/en/default",
           "width": null
         }
       ],
@@ -499,7 +499,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MCwwMDAwMDAwMDUxMWNiMTFlNDVkN2U2ZWIxOGM1ZGU4ODg2ZGU0MzEz",
+      "snapshot_id": "MCwwMDAwMDAwMDk4MWFhM2JiYWQ4N2JmMGU1ZmIxNWQxMDgxOGUwOTYw",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -676,6 +676,42 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1",
+      "id": "1WCRwQ0f4yT8tuIUUxP5m1",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84296e55118da94739e6849434",
+          "width": null
+        }
+      ],
+      "name": "TØP PLAYLIST",
+      "owner": {
+        "display_name": "Twenty One Pilots",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/twentyonepilots"
+        },
+        "href": "https://api.spotify.com/v1/users/twentyonepilots",
+        "id": "twentyonepilots",
+        "type": "user",
+        "uri": "spotify:user:twentyonepilots"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NTI0LDk0YjMzMzNlM2E3ZTBjYzBiNzhiMjgwYWVkZDhmNTBmM2EyMDBlOWU=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1/tracks",
+        "total": 54
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1WCRwQ0f4yT8tuIUUxP5m1"
     },
     {
       "collaborative": false,
@@ -1170,7 +1206,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846771f87d75feb46bd3670e34",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846771f87d75feb46bd3670e34",
           "width": null
         }
       ],
@@ -1449,10 +1485,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjksNjY2YTkxNzZjNzRjOGVjZTk4NDhiODAyMjdlMmRhOTdiZDNkODYwYw==",
+      "snapshot_id": "MzEsN2FjZWE2ZWI0ZDk4YWFiMmFmMWZjYjQ0ZTkyNDc3MWNmMmI4N2ZiOQ==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/7cwI2PxwNXinh7OiSUOQX2/tracks",
-        "total": 13
+        "total": 15
       },
       "type": "playlist",
       "uri": "spotify:playlist:7cwI2PxwNXinh7OiSUOQX2"
