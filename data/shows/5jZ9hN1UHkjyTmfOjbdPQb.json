@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7IJEMN8uYHXXA0nqvKhLtg/clip_2533150_2585100.mp3",
+      "description": "Teenage girls start rushing to the apartment building, jumping excitedly and shouting “Hey Lindemberg! Come to the window, I came here just to see you!”  “We like bad boys!” - it’s like a concert for a boy group celebrity.  But Lindemberg is a ticking time bomb. He’s hiding away from the window in the apartment.  The hollers, catcalls, hearing his name - ugh he can’t focus! He needs to focus right now.  He stretches his arm out the window and waves his hand around wildly as a pulls the trigger on his gun.  Pop! Pop! Pop! He shoots straight into the crowd that had formed below him - the groupies and admirers scatter - but Lindemberg is still fuming.  He can shoot into a crowd of admirers but he can’t shoot the girl he came to kill. The one he had taken hostage just hours before. The one he had groomed since she was 12 years old. The love of his life. He’s still deciding if he should spare her or shoot her.  Maybe he should give the big crowd below him what they came for - a show.   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 6071017,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1WI4pUVcbwdnmHWAGlK1UR"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1WI4pUVcbwdnmHWAGlK1UR",
+      "html_description": "<p>Teenage girls start rushing to the apartment building, jumping excitedly and shouting “Hey Lindemberg! Come to the window, I came here just to see you!” </p><br/><p>“We like bad boys!” - it’s like a concert for a boy group celebrity. </p><br/><p>But Lindemberg is a ticking time bomb. He’s hiding away from the window in the apartment. </p><br/><p>The hollers, catcalls, hearing his name - ugh he can’t focus! He needs to focus right now. </p><br/><p>He stretches his arm out the window and waves his hand around wildly as a pulls the trigger on his gun. </p><br/><p>Pop! Pop! Pop! He shoots straight into the crowd that had formed below him - the groupies and admirers scatter - but Lindemberg is still fuming. </p><br/><p>He can shoot into a crowd of admirers but he can’t shoot the girl he came to kill. The one he had taken hostage just hours before. The one he had groomed since she was 12 years old. The love of his life. He’s still deciding if he should spare her or shoot her. </p><br/><p>Maybe he should give the big crowd below him what they came for - a show. </p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "1WI4pUVcbwdnmHWAGlK1UR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "“Lover boy” Gives LIVE TV Interview While Holding 15-Yr-Old Girl Hostage for 100 Hours",
+      "release_date": "2024-04-03",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:1WI4pUVcbwdnmHWAGlK1UR"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0MbazZi7tU8yguZUK6fnck/clip_30950_99050.mp3",
       "description": "Jolly’s whole family was dead. Well, almost all of them, but she never let that get her down. But this time, her friends noticed - something was very wrong with Jolly.  She seemed out of it at the small gathering. Anytime someone tried talking to her - she would glance across the room. It seemed like she was waiting for someone to walk in.  “Don’t you want to marry someone like him?” - Jolly said.  Her friend looked at her like she sprouted another head - “Excuse me?” “That guy over there - he just seems so peaceful and calm.” Jolly’s friends were confused - was she talking about Shaju? He’s happily married with two kids… and not to mention… he’s her cousin.  Her friends didn’t think too much into it until Shaju, Jolly’s new love interest, his wife and child died mysteriously…  Was Jolly Joseph killing everyone that she felt was in her way? Or… was there something just in the curry?   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4759806,
@@ -4271,7 +4309,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
