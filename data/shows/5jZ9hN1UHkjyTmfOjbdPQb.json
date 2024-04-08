@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4QLI58SNWJTeRqIiGfBeyb/clip_2635850_2684040.mp3",
+      "description": "In the seat facing away from the camera, all they could see was the student’s back and her arms digging through whatever was in her lap. For several minutes, she stayed like this. Then she got up. Turned around. And looked straight into the lens of the CCTV camera in the corner.  She locked eyes and stayed like that. They felt a chill as they watched the footage. An icy stare. Frozen in place. Then she lifted up her hands and held a body up to the camera. A cat--a campus stray, lovingly named Princess by the other University students. She grabbed the back of the kitten’s neck. Then, with her other hand, wrapped her grip firmly around the kitten’s throat and squeezed.  Shanghai Tech’s very own serial cat killer. This is the case dubbed the ‘animal Nth rooms,’ about the world-wide cat (crush, torture, and kill) gang that was responsible for the viral video—the cat blender. Who is behind it all? And why?  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 5910291,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6qvFQ4PbxjVyfMkELjn3y9"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6qvFQ4PbxjVyfMkELjn3y9",
+      "html_description": "<p>In the seat facing away from the camera, all they could see was the student’s back and her arms digging through whatever was in her lap. For several minutes, she stayed like this. Then she got up. Turned around. And looked straight into the lens of the CCTV camera in the corner. </p><br/><p>She locked eyes and stayed like that. They felt a chill as they watched the footage. An icy stare. Frozen in place. Then she lifted up her hands and held a body up to the camera. A cat--a campus stray, lovingly named Princess by the other University students. She grabbed the back of the kitten’s neck. Then, with her other hand, wrapped her grip firmly around the kitten’s throat and squeezed. </p><br/><p>Shanghai Tech’s very own serial cat killer. This is the case dubbed the ‘animal Nth rooms,’ about the world-wide cat (crush, torture, and kill) gang that was responsible for the viral video—the cat blender.</p><br/><p>Who is behind it all? And why?</p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "6qvFQ4PbxjVyfMkELjn3y9",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Animal Nth Room- University Students Killing & Selling \"Cat In Blender\" & \"Cat in Microwave\" Videos",
+      "release_date": "2024-04-07",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:6qvFQ4PbxjVyfMkELjn3y9"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7IJEMN8uYHXXA0nqvKhLtg/clip_2533150_2585100.mp3",
       "description": "Teenage girls start rushing to the apartment building, jumping excitedly and shouting “Hey Lindemberg! Come to the window, I came here just to see you!”  “We like bad boys!” - it’s like a concert for a boy group celebrity.  But Lindemberg is a ticking time bomb. He’s hiding away from the window in the apartment.  The hollers, catcalls, hearing his name - ugh he can’t focus! He needs to focus right now.  He stretches his arm out the window and waves his hand around wildly as a pulls the trigger on his gun.  Pop! Pop! Pop! He shoots straight into the crowd that had formed below him - the groupies and admirers scatter - but Lindemberg is still fuming.  He can shoot into a crowd of admirers but he can’t shoot the girl he came to kill. The one he had taken hostage just hours before. The one he had groomed since she was 12 years old. The love of his life. He’s still deciding if he should spare her or shoot her.  Maybe he should give the big crowd below him what they came for - a show.   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 6071017,
@@ -4309,7 +4347,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
