@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/3c4vUnqSDlo3JS5H7KNs6l"
   },
-  "followers": { "href": null, "total": 1002 },
+  "followers": { "href": null, "total": 1000 },
   "href": "https://api.spotify.com/v1/playlists/3c4vUnqSDlo3JS5H7KNs6l?locale=*",
   "id": "3c4vUnqSDlo3JS5H7KNs6l",
   "images": [
@@ -5755,7 +5755,7 @@
         "href": "https://api.spotify.com/v1/tracks/6gOxexvj0mjwnRRrLXT1cB",
         "id": "6gOxexvj0mjwnRRrLXT1cB",
         "name": "Name of God",
-        "popularity": 43,
+        "popularity": 42,
         "uri": "spotify:track:6gOxexvj0mjwnRRrLXT1cB",
         "is_local": false
       },
@@ -7585,7 +7585,7 @@
         "href": "https://api.spotify.com/v1/tracks/3Q8SnMp3lhGGoIJBDmYRPa",
         "id": "3Q8SnMp3lhGGoIJBDmYRPa",
         "name": "Pyjamas (feat. Remi Wolf)",
-        "popularity": 56,
+        "popularity": 57,
         "uri": "spotify:track:3Q8SnMp3lhGGoIJBDmYRPa",
         "is_local": false
       },
@@ -8529,7 +8529,7 @@
         "href": "https://api.spotify.com/v1/tracks/1yeB8MUNeLo9Ek1UEpsyz6",
         "id": "1yeB8MUNeLo9Ek1UEpsyz6",
         "name": "Rich Baby Daddy (feat. Sexyy Red & SZA)",
-        "popularity": 88,
+        "popularity": 89,
         "uri": "spotify:track:1yeB8MUNeLo9Ek1UEpsyz6",
         "is_local": false
       },
