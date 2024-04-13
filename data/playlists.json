@@ -1,5 +1,5 @@
 {
-  "total": 46,
+  "total": 47,
   "playlists": [
     {
       "collaborative": false,
@@ -47,22 +47,12 @@
       "id": "3FPjBuN07Xiobd8BYAeirU",
       "images": [
         {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e022f41dd0c7e1f7038499510daab67616d00001e0265a472d8326d4571bf725422ab67616d00001e026ee35072df1af802cca09918ab67616d00001e02a987515783d010661bfd631e",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e022f41dd0c7e1f7038499510daab67616d00001e0265a472d8326d4571bf725422ab67616d00001e026ee35072df1af802cca09918ab67616d00001e02a987515783d010661bfd631e",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e022f41dd0c7e1f7038499510daab67616d00001e0265a472d8326d4571bf725422ab67616d00001e026ee35072df1af802cca09918ab67616d00001e02a987515783d010661bfd631e",
-          "width": 60
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ecaeb41c1b85f7a2e2bae855",
+          "width": null
         }
       ],
-      "name": "Apart Andre",
+      "name": "UI Bermain",
       "owner": {
         "display_name": "Alyaratri",
         "external_urls": {
@@ -75,13 +65,49 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjgsM2MzZDMwZGU5MDUzZGUxYjNmY2Y5ZjI5MzdjNjg2NDk0MDc0OWZjNg==",
+      "snapshot_id": "MzMsZjVhN2MzNjE4NjY4OWI4YzJhMjlkZTMzYzFlYmJjZjliODEzMThiMg==",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/3FPjBuN07Xiobd8BYAeirU/tracks",
-        "total": 26
+        "total": 29
       },
       "type": "playlist",
       "uri": "spotify:playlist:3FPjBuN07Xiobd8BYAeirU"
+    },
+    {
+      "collaborative": false,
+      "description": "translation: loudoldmusic",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1PJYA9axGNVNWqLa0f5p49"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1PJYA9axGNVNWqLa0f5p49",
+      "id": "1PJYA9axGNVNWqLa0f5p49",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ce14b62d79fbec5eaa0eda5c",
+          "width": null
+        }
+      ],
+      "name": "musiktuakeras",
+      "owner": {
+        "display_name": "drepram",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/f1zigxnzn6f3ojtf4v4zy39f3"
+        },
+        "href": "https://api.spotify.com/v1/users/f1zigxnzn6f3ojtf4v4zy39f3",
+        "id": "f1zigxnzn6f3ojtf4v4zy39f3",
+        "type": "user",
+        "uri": "spotify:user:f1zigxnzn6f3ojtf4v4zy39f3"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDU0LDUxYzYwYzQ4MWYzZmM4ZmEzZjI0OTQxNDdhN2RmYWNiODgwMTQwNGE=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1PJYA9axGNVNWqLa0f5p49/tracks",
+        "total": 611
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1PJYA9axGNVNWqLa0f5p49"
     },
     {
       "collaborative": false,
@@ -219,10 +245,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MjUzMiwzMzJiNDk4ZjQ4ZjZlZDJlNWU1ODdiYTBkZjVmYzc2YWI2MTYyYzRj",
+      "snapshot_id": "MjUzNSxlYjBiYjI0MWQ1NWIzYjIzMDU4ZTI3YTlhMTM1ZGQxNGMxNWM4Mjkw",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 495
+        "total": 498
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -310,7 +336,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434bf38a510ae676cd24f9f5e",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434bf38a510ae676cd24f9f5e",
           "width": null
         }
       ],
@@ -346,7 +372,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8494a4220f439f526003610bc4",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8494a4220f439f526003610bc4",
           "width": null
         }
       ],
@@ -521,7 +547,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a>, <a href=spotify:playlist:37i9dQZF1EIVn04KabAIGQ>MALIQ & D'Essentials</a>, <a href=spotify:playlist:37i9dQZF1EIVLRVklebOIE>Twenty One Pilots</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIZexEUzyOPQ4>Paramore</a>, <a href=spotify:playlist:37i9dQZF1EIVLRVklebOIE>Twenty One Pilots</a>, <a href=spotify:playlist:37i9dQZF1EIVn04KabAIGQ>MALIQ & D'Essentials</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -530,7 +556,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/4AK6F7OLvEQ5QYCBNiQWHq/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/74XFHRwlV6OrjEM0A2NCMF/en/default",
           "width": null
         }
       ],
@@ -545,7 +571,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "MCwwMDAwMDAwMDhmZGM0NmYwOGQ4NTdjZWJjYzhmNWY0MDA3ZGIyYTZk",
+      "snapshot_id": "MCwwMDAwMDAwMGMzMjY5ZDI3ODM1YzA3NDYwOGUwNjgxZTgwZDVmOGZh",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -734,7 +760,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84296e55118da94739e6849434",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84296e55118da94739e6849434",
           "width": null
         }
       ],
