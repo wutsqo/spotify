@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/3c4vUnqSDlo3JS5H7KNs6l"
   },
-  "followers": { "href": null, "total": 1002 },
+  "followers": { "href": null, "total": 1004 },
   "href": "https://api.spotify.com/v1/playlists/3c4vUnqSDlo3JS5H7KNs6l?locale=*",
   "id": "3c4vUnqSDlo3JS5H7KNs6l",
   "images": [
@@ -2405,7 +2405,7 @@
         "href": "https://api.spotify.com/v1/tracks/410ZZP746AQeiywhKvXWCo",
         "id": "410ZZP746AQeiywhKvXWCo",
         "name": "SORRY NOT SORRY",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:410ZZP746AQeiywhKvXWCo",
         "is_local": false
       },
@@ -4745,7 +4745,7 @@
         "href": "https://api.spotify.com/v1/tracks/3re91K41XNVsViNbCPumTw",
         "id": "3re91K41XNVsViNbCPumTw",
         "name": "Oral",
-        "popularity": 58,
+        "popularity": 59,
         "uri": "spotify:track:3re91K41XNVsViNbCPumTw",
         "is_local": false
       },
