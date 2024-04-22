@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 4092 },
+  "followers": { "href": null, "total": 4099 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -9515,7 +9515,7 @@
         "href": "https://api.spotify.com/v1/tracks/37y7iDayfwm3WXn5BiAoRk",
         "id": "37y7iDayfwm3WXn5BiAoRk",
         "name": "Dark Red",
-        "popularity": 4,
+        "popularity": 3,
         "uri": "spotify:track:37y7iDayfwm3WXn5BiAoRk",
         "is_local": false
       },
@@ -10627,7 +10627,7 @@
         "href": "https://api.spotify.com/v1/tracks/5HKv1sFHbXgmXBih203HxT",
         "id": "5HKv1sFHbXgmXBih203HxT",
         "name": "I Don't Wanna Be Okay Without You",
-        "popularity": 4,
+        "popularity": 3,
         "uri": "spotify:track:5HKv1sFHbXgmXBih203HxT",
         "is_local": false
       },
@@ -10719,7 +10719,7 @@
         "href": "https://api.spotify.com/v1/tracks/01TyFEZu6mHbffsVfxgrFn",
         "id": "01TyFEZu6mHbffsVfxgrFn",
         "name": "Show Me How",
-        "popularity": 39,
+        "popularity": 38,
         "uri": "spotify:track:01TyFEZu6mHbffsVfxgrFn",
         "is_local": false
       },
@@ -68029,7 +68029,7 @@
         "href": "https://api.spotify.com/v1/tracks/3TO7bbrUKrOSPGRTB5MeCz",
         "id": "3TO7bbrUKrOSPGRTB5MeCz",
         "name": "Time",
-        "popularity": 71,
+        "popularity": 72,
         "uri": "spotify:track:3TO7bbrUKrOSPGRTB5MeCz",
         "is_local": false
       },
@@ -75895,7 +75895,7 @@
         "href": "https://api.spotify.com/v1/tracks/3qhlB30KknSejmIvZZLjOD",
         "id": "3qhlB30KknSejmIvZZLjOD",
         "name": "End of Beginning",
-        "popularity": 99,
+        "popularity": 100,
         "uri": "spotify:track:3qhlB30KknSejmIvZZLjOD",
         "is_local": false
       },
