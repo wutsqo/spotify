@@ -1,11 +1,11 @@
 {
-  "total": 21,
+  "total": 18,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 5929591 },
+      "followers": { "href": null, "total": 5931403 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -27,7 +27,7 @@
         }
       ],
       "name": "Rex Orange County",
-      "popularity": 71,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
     },
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
       },
-      "followers": { "href": null, "total": 108297902 },
+      "followers": { "href": null, "total": 108387326 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
       "id": "06HL4z0CvFAxyc27GXpf02",
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
       },
-      "followers": { "href": null, "total": 24015791 },
+      "followers": { "href": null, "total": 24020800 },
       "genres": ["modern rock", "pop", "pov: indie", "rock"],
       "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
       "id": "3YQKmKGau1PzlVlkL1iodx",
@@ -87,51 +87,15 @@
         }
       ],
       "name": "Twenty One Pilots",
-      "popularity": 79,
+      "popularity": 78,
       "type": "artist",
       "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-      },
-      "followers": { "href": null, "total": 7123012 },
-      "genres": [
-        "modern alternative rock",
-        "modern rock",
-        "pop",
-        "pov: indie",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
-      "id": "3mIj9lX2MWuHmhNCA7LSCW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb89348336354096fd4e36ca73",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517489348336354096fd4e36ca73",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73",
-          "width": 160
-        }
-      ],
-      "name": "The 1975",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 5567208 },
+      "followers": { "href": null, "total": 5569266 },
       "genres": [
         "alternative rock",
         "garage rock",
@@ -165,69 +129,45 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+        "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
-      "followers": { "href": null, "total": 1356694 },
-      "genres": ["singer-songwriter pop"],
-      "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
-      "id": "0hDjKSKjl1DC7ovYTDJHe8",
+      "followers": { "href": null, "total": 7125033 },
+      "genres": [
+        "modern alternative rock",
+        "modern rock",
+        "pop",
+        "pov: indie",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+      "id": "3mIj9lX2MWuHmhNCA7LSCW",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb5b43a1fdff498297feb1d128",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb89348336354096fd4e36ca73",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051745b43a1fdff498297feb1d128",
+          "url": "https://i.scdn.co/image/ab6761610000517489348336354096fd4e36ca73",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1785b43a1fdff498297feb1d128",
+          "url": "https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73",
           "width": 160
         }
       ],
-      "name": "Bruno Major",
-      "popularity": 62,
+      "name": "The 1975",
+      "popularity": 73,
       "type": "artist",
-      "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-      },
-      "followers": { "href": null, "total": 31819893 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
-      "id": "6KImCVD70vtIoJWnq6nGn3",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174f7db7c8ede90a019c54590bb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178f7db7c8ede90a019c54590bb",
-          "width": 160
-        }
-      ],
-      "name": "Harry Styles",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+      "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4xXCRXOfQKQ2gjWxNhNzYW"
       },
-      "followers": { "href": null, "total": 4247651 },
+      "followers": { "href": null, "total": 4249632 },
       "genres": ["soft rock"],
       "href": "https://api.spotify.com/v1/artists/4xXCRXOfQKQ2gjWxNhNzYW",
       "id": "4xXCRXOfQKQ2gjWxNhNzYW",
@@ -257,7 +197,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
       },
-      "followers": { "href": null, "total": 82224523 },
+      "followers": { "href": null, "total": 82283637 },
       "genres": ["canadian contemporary r&b", "canadian pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
       "id": "1Xyo4u8uXC1ZmMpatF05PJ",
@@ -287,7 +227,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
       },
-      "followers": { "href": null, "total": 5719601 },
+      "followers": { "href": null, "total": 5721122 },
       "genres": ["la pop", "opm"],
       "href": "https://api.spotify.com/v1/artists/49tQo2QULno7gxHutgccqF",
       "id": "49tQo2QULno7gxHutgccqF",
@@ -315,39 +255,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-      },
-      "followers": { "href": null, "total": 549718 },
-      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
-      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
-      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb8b79450af3d0d0d166998a4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b8b79450af3d0d0d166998a4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b8b79450af3d0d0d166998a4",
-          "width": 160
-        }
-      ],
-      "name": "Sal Priadi",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7zMVPOJPs5jgU8NorRxqJe"
       },
-      "followers": { "href": null, "total": 1394192 },
+      "followers": { "href": null, "total": 1394844 },
       "genres": ["boy band", "danish pop rock"],
       "href": "https://api.spotify.com/v1/artists/7zMVPOJPs5jgU8NorRxqJe",
       "id": "7zMVPOJPs5jgU8NorRxqJe",
@@ -375,9 +285,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+      },
+      "followers": { "href": null, "total": 550521 },
+      "genres": ["indonesian indie", "indonesian pop", "malang indie"],
+      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb8b79450af3d0d0d166998a4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b8b79450af3d0d0d166998a4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b8b79450af3d0d0d166998a4",
+          "width": 160
+        }
+      ],
+      "name": "Sal Priadi",
+      "popularity": 60,
+      "type": "artist",
+      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
       },
-      "followers": { "href": null, "total": 95818522 },
+      "followers": { "href": null, "total": 95842683 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
       "id": "66CXWjxzNUsdJxJ2JdwvnR",
@@ -407,7 +347,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
       },
-      "followers": { "href": null, "total": 54649606 },
+      "followers": { "href": null, "total": 54682900 },
       "genres": ["dance pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
       "id": "0du5cEVh5yTK9QJze8zA0C",
@@ -429,7 +369,7 @@
         }
       ],
       "name": "Bruno Mars",
-      "popularity": 86,
+      "popularity": 85,
       "type": "artist",
       "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
     },
@@ -437,7 +377,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
       },
-      "followers": { "href": null, "total": 2485671 },
+      "followers": { "href": null, "total": 2489335 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/5y8tKLUfMvliMe8IKamR32",
       "id": "5y8tKLUfMvliMe8IKamR32",
@@ -467,7 +407,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/70ZTdbPEcEugBNay4MvxfL"
       },
-      "followers": { "href": null, "total": 1650528 },
+      "followers": { "href": null, "total": 1651238 },
       "genres": ["folk rock", "mellow gold", "singer-songwriter", "soft rock"],
       "href": "https://api.spotify.com/v1/artists/70ZTdbPEcEugBNay4MvxfL",
       "id": "70ZTdbPEcEugBNay4MvxfL",
@@ -502,7 +442,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
       },
-      "followers": { "href": null, "total": 7973630 },
+      "followers": { "href": null, "total": 7991686 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
       "id": "74KM79TiuVKeVCqs8QtB0B",
@@ -532,7 +472,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
       },
-      "followers": { "href": null, "total": 35206396 },
+      "followers": { "href": null, "total": 35238440 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/1McMsnEElThX1knmY4oliG",
       "id": "1McMsnEElThX1knmY4oliG",
@@ -562,7 +502,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
       },
-      "followers": { "href": null, "total": 8110930 },
+      "followers": { "href": null, "total": 8111879 },
       "genres": ["australian pop", "pop", "viral pop"],
       "href": "https://api.spotify.com/v1/artists/3WGpXCj9YhhfX11TToZcXP",
       "id": "3WGpXCj9YhhfX11TToZcXP",
@@ -590,39 +530,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-      },
-      "followers": { "href": null, "total": 6140421 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv",
-      "id": "5JZ7CnR6gTvEMKX4g70Amv",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb173d69f77530d77a991984f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b173d69f77530d77a991984f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b173d69f77530d77a991984f",
-          "width": 160
-        }
-      ],
-      "name": "Lauv",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:5JZ7CnR6gTvEMKX4g70Amv"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
       },
-      "followers": { "href": null, "total": 15991519 },
+      "followers": { "href": null, "total": 16004016 },
       "genres": ["modern alternative rock", "modern rock", "pop"],
       "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
       "id": "77SW9BnxLY8rJ0RciFqkHh",
@@ -644,7 +554,7 @@
         }
       ],
       "name": "The Neighbourhood",
-      "popularity": 81,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
     }
