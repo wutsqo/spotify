@@ -1,6 +1,25 @@
 {
-  "total": 10,
+  "total": 11,
   "albums": [
+    {
+      "id": "5uAcLj2EJLtQtKMyDYCI0Q",
+      "name": "MARKERS AND SUCH PENS FLASHDISKS",
+      "added_at": "2024-04-29T17:00:00Z",
+      "type": "album",
+      "total_tracks": 15,
+      "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273acd5325ef7257b7471e1691e",
+      "release_date": "2024-04-30",
+      "artists": [
+        {
+          "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "genres": [],
+      "popularity": 0
+    },
     {
       "id": "5j6YJDxFLm027k83JLRjno",
       "name": "At Their Very Best (Live from Madison Square Garden, New York, 07.11.22)",
@@ -75,7 +94,7 @@
         }
       ],
       "genres": [],
-      "popularity": 40
+      "popularity": 39
     },
     {
       "id": "4DxNdQzm6cBYuSn4dCimmT",
