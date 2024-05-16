@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/24jPTvsoX5dHWhtCUH7yOJ/clip_2028500_2089650.mp3",
+      "description": "There’s a boring red brick building in the middle of Yale University’s campus. If you walk past it you might think it’s an administrative office. It looks - boring.  But if you look closely - there are 75 CCTV cameras pointed directly at the building. Covering every square inch of the exterior. Why would they need so much security for a university building? It is the Animal Research Laboratory. It houses over 4000 research mice and has tens of millions of dollars of research experiments being conducted inside the brick walls.  It is one of the most secure buildings on campus.  Till a brilliant Yale graduate student disappears inside.  She walks in.  Never walks out.  She is nowhere to be found in the building - or at least that’s what the authorities initially thought.  But have they checked the walls?   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 6551550,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3JTFuPXNCpTAVvPr00RJjK"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3JTFuPXNCpTAVvPr00RJjK",
+      "html_description": "<p>There’s a boring red brick building in the middle of Yale University’s campus. If you walk past it you might think it’s an administrative office. It looks - boring. </p><br/><p>But if you look closely - there are 75 CCTV cameras pointed directly at the building. Covering every square inch of the exterior. Why would they need so much security for a university building?</p><br/><p>It is the Animal Research Laboratory. It houses over 4000 research mice and has tens of millions of dollars of research experiments being conducted inside the brick walls. </p><br/><p>It is one of the most secure buildings on campus. </p><br/><p>Till a brilliant Yale graduate student disappears inside. </p><br/><p>She walks in. </p><br/><p>Never walks out. </p><br/><p>She is nowhere to be found in the building - or at least that’s what the authorities initially thought. </p><br/><p>But have they checked the walls?</p><br/><p><br /></p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "3JTFuPXNCpTAVvPr00RJjK",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Yale Student Found Inside The Wall of Multi Million Dollar Research Lab on Campus",
+      "release_date": "2024-05-15",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3JTFuPXNCpTAVvPr00RJjK"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2RTzTWr0kye2pYhvF74Jsm/clip_499850_541160.mp3",
       "description": "The summer sleep away camp for youths is held on the Island of UTOYA every single summer. About 500 teenagers will gather on the wooded island. They sleep in tents, have bonfires, and tell creepy stories while roasting marshmallows. But when the kids start playing games - that’s usually when the fun starts. Card games, tag, hide and seek - A group of 11 teenagers were lying down in the grass right off the “Lover’s Path.” “Here lay down right here and don’t move. Shhhh. Act like you’re dead.” If a single one of them sneezes, coughs, or so much as moves - their covers are blown. They hear the footsteps getting nearer on the path… closer… One of the 11 looks up. There is a young guy, blonde hair, striking blue eyes - just standing over them. She makes eye contact with him… he lifts his hand up and a black rifle appears. He opens fire. Out of the 11. 10 will die. 1 will survive. Another 59 on the island will be killed within the hour. There is a mad gunman on the loose on an island full of teenagers.   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 5631294,
@@ -4576,7 +4614,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }
