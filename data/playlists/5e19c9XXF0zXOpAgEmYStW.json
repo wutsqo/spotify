@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
   },
-  "followers": { "href": null, "total": 1970 },
+  "followers": { "href": null, "total": 1971 },
   "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW?locale=*",
   "id": "5e19c9XXF0zXOpAgEmYStW",
   "images": [
@@ -26717,7 +26717,6 @@
         "preview_url": "https://p.scdn.co/mp3-preview/9df477007ebc420717eb5c2b9d0cc9eba1ba293d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "available_markets": [
           "AR",
-          "AU",
           "BO",
           "BR",
           "BG",
@@ -26734,11 +26733,9 @@
           "HN",
           "HK",
           "HU",
-          "IT",
           "MY",
           "MT",
           "MX",
-          "NZ",
           "NI",
           "PA",
           "PY",
@@ -37562,7 +37559,7 @@
         "href": "https://api.spotify.com/v1/tracks/50jyxHSIHAz7N5jIzODvs4",
         "id": "50jyxHSIHAz7N5jIzODvs4",
         "name": "More the Victim",
-        "popularity": 61,
+        "popularity": 62,
         "uri": "spotify:track:50jyxHSIHAz7N5jIzODvs4",
         "is_local": false
       },
