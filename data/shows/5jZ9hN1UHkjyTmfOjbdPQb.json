@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4Hi17tVdpUZ8skUqRDh8EC/clip_3178650_3241600.mp3",
+      "description": "The 3 Body Problem was going to be Jeff Bezoz’s billion dollar investment. The plan? Invest $1B into a new sci-fi series and watch the subscriptions to Amazon Prime Video flow in. All they have to do is buy the English adaptation rights off from the Chinese gaming giant – Yoozoo Gaming. They own the film and TV rights to the “3 Body Problem Universe.” The deal was close to being done – till CEO Lin Qi of Yoozoo walks into a conference room in LA. Dressed like a gangster. Puts his feet up on the table and suggests a co-production. He blew up the deal that Amazon had been working on for 8 months. Amazon was upset but as they were walking out of the meeting room… they noticed something. Nobody around CEO Lin looked happy either. They wouldn’t be surprised when they heard the news 2 years later. The billionaire CEO Lin was murdered by someone inside his company.  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 7101438,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5sJUEDn71MHFUk0bKRZY5o"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5sJUEDn71MHFUk0bKRZY5o",
+      "html_description": "<p>The 3 Body Problem was going to be Jeff Bezoz’s billion dollar investment. The plan? Invest $1B into a new sci-fi series and watch the subscriptions to Amazon Prime Video flow in.</p><br/><p>All they have to do is buy the English adaptation rights off from the Chinese gaming giant – Yoozoo Gaming. They own the film and TV rights to the “3 Body Problem Universe.”</p><br/><p>The deal was close to being done – till CEO Lin Qi of Yoozoo walks into a conference room in LA. Dressed like a gangster. Puts his feet up on the table and suggests a co-production. He blew up the deal that Amazon had been working on for 8 months.</p><br/><p>Amazon was upset but as they were walking out of the meeting room… they noticed something. Nobody around CEO Lin looked happy either.</p><br/><p>They wouldn’t be surprised when they heard the news 2 years later. The billionaire CEO Lin was murdered by someone inside his company.</p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "5sJUEDn71MHFUk0bKRZY5o",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Netflix’s “3 Body Problem” New Show Leads To MURDER Of YOUNG BILLIONAIRE",
+      "release_date": "2024-05-22",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5sJUEDn71MHFUk0bKRZY5o"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/24jPTvsoX5dHWhtCUH7yOJ/clip_2028500_2089650.mp3",
       "description": "There’s a boring red brick building in the middle of Yale University’s campus. If you walk past it you might think it’s an administrative office. It looks - boring.  But if you look closely - there are 75 CCTV cameras pointed directly at the building. Covering every square inch of the exterior. Why would they need so much security for a university building? It is the Animal Research Laboratory. It houses over 4000 research mice and has tens of millions of dollars of research experiments being conducted inside the brick walls.  It is one of the most secure buildings on campus.  Till a brilliant Yale graduate student disappears inside.  She walks in.  Never walks out.  She is nowhere to be found in the building - or at least that’s what the authorities initially thought.  But have they checked the walls?   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 6551550,
@@ -4613,7 +4651,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
