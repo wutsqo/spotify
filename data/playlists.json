@@ -1,5 +1,5 @@
 {
-  "total": 47,
+  "total": 48,
   "playlists": [
     {
       "collaborative": false,
@@ -147,6 +147,42 @@
     },
     {
       "collaborative": false,
+      "description": "Let’s celebrate this holiday season by listening to our artist friends who performed at Erasmus Huis and who are back releasing singles and touring to promote their music. ",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5G5Unv4duumybzGQzpaJAE"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5G5Unv4duumybzGQzpaJAE",
+      "id": "5G5Unv4duumybzGQzpaJAE",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842bf977fd6e7a0225e48bc67a",
+          "width": null
+        }
+      ],
+      "name": "2022 Favorites",
+      "owner": {
+        "display_name": "Erasmus Huis",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/45qpto9orpw3r6gmqh4yl4ibc"
+        },
+        "href": "https://api.spotify.com/v1/users/45qpto9orpw3r6gmqh4yl4ibc",
+        "id": "45qpto9orpw3r6gmqh4yl4ibc",
+        "type": "user",
+        "uri": "spotify:user:45qpto9orpw3r6gmqh4yl4ibc"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAATcvyS23Sw14vqzhDV4suza95sEiq",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5G5Unv4duumybzGQzpaJAE/tracks",
+        "total": 22
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5G5Unv4duumybzGQzpaJAE"
+    },
+    {
+      "collaborative": false,
       "description": "October 8, 2023",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/1dFSy7jT4hSsbMiof1fTTA"
@@ -228,7 +264,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f7851a6d18af96141bc1d481",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f7851a6d18af96141bc1d481",
           "width": null
         }
       ],
@@ -454,7 +490,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/night_default.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_default.jpg",
           "width": null
         }
       ],
@@ -469,7 +505,7 @@
       },
       "primary_color": "#ffffff",
       "public": true,
-      "snapshot_id": "AAAAAAAAAAADbFFp8l1C1vt5y0mbdqbI",
+      "snapshot_id": "AAAAAAAAAAB4OitV70eYL5EZG2LSMtMp",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -547,7 +583,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIXq0EHAtFyCb>Willy Anggawinata</a>, <a href=spotify:playlist:37i9dQZF1EIW4CMwrNEKYU>The Strokes</a>, <a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIW4CMwrNEKYU>The Strokes</a>, <a href=spotify:playlist:37i9dQZF1EIXq0EHAtFyCb>Willy Anggawinata</a>, <a href=spotify:playlist:37i9dQZF1EIZdW2qKBCK2T>Sal Priadi</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -556,7 +592,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/6KZL22Io61OAjmyPw2tPor/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/0epOFNiUfyON9EYx7Tpr6V/en/default",
           "width": null
         }
       ],
@@ -571,7 +607,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAAAAAADHZpWIKBcDsfzB6lK7Lm7p",
+      "snapshot_id": "AAAAAAAAAABiK5LqPKQiFI5wIGPxfAFV",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -673,7 +709,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "Zko3AQAAAAC5B//t6+9ZKx7j8nNMcpV1",
+      "snapshot_id": "Zk94WgAAAAC7kSbtu/lwIn0+FCSlCFzD",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EpAdQ0k33KxPq/tracks",
         "total": 30
@@ -751,7 +787,7 @@
     },
     {
       "collaborative": false,
-      "description": "",
+      "description": "Listen to the new album Clancy and songs from Scaled And Icy, Trench, Blurryface, Vessel and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
       },
@@ -760,11 +796,11 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84296e55118da94739e6849434",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8480f6823a195f2fa70b128472",
           "width": null
         }
       ],
-      "name": "TØP PLAYLIST",
+      "name": "Twenty One Pilots - Clancy",
       "owner": {
         "display_name": "Twenty One Pilots",
         "external_urls": {
@@ -777,10 +813,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAACEIxKx0ZpKjVTNfyXNegj5rW78CIQ",
+      "snapshot_id": "AAACGQ3/w5JDNqFnXNxDPBCmnrBRravr",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1/tracks",
-        "total": 56
+        "total": 66
       },
       "type": "playlist",
       "uri": "spotify:playlist:1WCRwQ0f4yT8tuIUUxP5m1"
@@ -1242,7 +1278,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f7c63514f3fbb7dc1f365f2",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f7c63514f3fbb7dc1f365f2",
           "width": null
         }
       ],
@@ -1386,7 +1422,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84689624e6d97ed3de8507f3ca",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84689624e6d97ed3de8507f3ca",
           "width": null
         }
       ],
@@ -1648,7 +1684,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
           "width": null
         }
       ],
