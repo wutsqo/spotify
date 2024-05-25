@@ -5,7 +5,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
       },
-      "followers": { "href": null, "total": 571552 },
+      "followers": { "href": null, "total": 572300 },
       "genres": ["indonesian indie", "indonesian pop", "malang indie"],
       "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
       "id": "1NjxFrpEGZTV2Ny0OJxeWu",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
       },
-      "followers": { "href": null, "total": 5763367 },
+      "followers": { "href": null, "total": 5764890 },
       "genres": ["la pop"],
       "href": "https://api.spotify.com/v1/artists/49tQo2QULno7gxHutgccqF",
       "id": "49tQo2QULno7gxHutgccqF",
@@ -57,7 +57,7 @@
         }
       ],
       "name": "LANY",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:49tQo2QULno7gxHutgccqF"
     },
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
-      "followers": { "href": null, "total": 13859095 },
+      "followers": { "href": null, "total": 13870078 },
       "genres": ["lgbtq+ hip hop", "neo soul"],
       "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
       "id": "2h93pZq0e7k5yf4dywlkpM",
@@ -95,7 +95,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
       },
-      "followers": { "href": null, "total": 24132020 },
+      "followers": { "href": null, "total": 24137092 },
       "genres": ["modern rock", "pop", "pov: indie", "rock"],
       "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
       "id": "3YQKmKGau1PzlVlkL1iodx",
@@ -125,7 +125,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
-      "followers": { "href": null, "total": 7164817 },
+      "followers": { "href": null, "total": 7166357 },
       "genres": [
         "modern alternative rock",
         "modern rock",
@@ -161,7 +161,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
       },
-      "followers": { "href": null, "total": 83639801 },
+      "followers": { "href": null, "total": 83683032 },
       "genres": ["canadian contemporary r&b", "canadian pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
       "id": "1Xyo4u8uXC1ZmMpatF05PJ",
@@ -191,7 +191,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
       },
-      "followers": { "href": null, "total": 24681143 },
+      "followers": { "href": null, "total": 24693175 },
       "genres": [
         "garage rock",
         "modern rock",
@@ -225,69 +225,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-      },
-      "followers": { "href": null, "total": 114064646 },
-      "genres": ["pop", "singer-songwriter pop", "uk pop"],
-      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
-      "id": "6eUKZXaKkcviH0Ku9w2n3V",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3bcef85e105dfc42399ef0ba",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743bcef85e105dfc42399ef0ba",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783bcef85e105dfc42399ef0ba",
-          "width": 160
-        }
-      ],
-      "name": "Ed Sheeran",
-      "popularity": 84,
-      "type": "artist",
-      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-      },
-      "followers": { "href": null, "total": 110764501 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
-      "id": "06HL4z0CvFAxyc27GXpf02",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e672b5f553298dcdccb0e676",
-          "width": 160
-        }
-      ],
-      "name": "Taylor Swift",
-      "popularity": 100,
-      "type": "artist",
-      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
       },
-      "followers": { "href": null, "total": 50512769 },
+      "followers": { "href": null, "total": 50528898 },
       "genres": ["permanent wave", "pop"],
       "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
       "id": "4gzpq5DPGxSnKTe4SA8HAU",
@@ -317,7 +257,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
       },
-      "followers": { "href": null, "total": 16315397 },
+      "followers": { "href": null, "total": 16325181 },
       "genres": ["modern alternative rock", "modern rock", "pop"],
       "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
       "id": "77SW9BnxLY8rJ0RciFqkHh",
@@ -345,39 +285,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
       },
-      "followers": { "href": null, "total": 23657204 },
-      "genres": ["pop", "uk pop"],
-      "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
-      "id": "2wY79sveU1sp5g7SokKOiI",
+      "followers": { "href": null, "total": 110851300 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+      "id": "06HL4z0CvFAxyc27GXpf02",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7ba9b5726cdd0814dc0cda2e",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe672b5f553298dcdccb0e676",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747ba9b5726cdd0814dc0cda2e",
+          "url": "https://i.scdn.co/image/ab67616100005174e672b5f553298dcdccb0e676",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787ba9b5726cdd0814dc0cda2e",
+          "url": "https://i.scdn.co/image/ab6761610000f178e672b5f553298dcdccb0e676",
           "width": 160
         }
       ],
-      "name": "Sam Smith",
-      "popularity": 80,
+      "name": "Taylor Swift",
+      "popularity": 100,
       "type": "artist",
-      "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+      "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/30gojhXynjLSWe1kHNUZ1Q"
       },
-      "followers": { "href": null, "total": 21458 },
+      "followers": { "href": null, "total": 21515 },
       "genres": ["dark r&b"],
       "href": "https://api.spotify.com/v1/artists/30gojhXynjLSWe1kHNUZ1Q",
       "id": "30gojhXynjLSWe1kHNUZ1Q",
@@ -405,39 +345,69 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
+        "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
-      "followers": { "href": null, "total": 22897195 },
-      "genres": ["pop", "uk pop"],
-      "href": "https://api.spotify.com/v1/artists/5ZsFI1h6hIdQRw2ti0hz81",
-      "id": "5ZsFI1h6hIdQRw2ti0hz81",
+      "followers": { "href": null, "total": 15020512 },
+      "genres": ["hip hop", "rap"],
+      "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+      "id": "4V8LLVI7PbaPR0K2TGSxFF",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7a1fba1bb3618ef71355f82a",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8278b782cbb5a3963db88ada",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747a1fba1bb3618ef71355f82a",
+          "url": "https://i.scdn.co/image/ab676161000051748278b782cbb5a3963db88ada",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787a1fba1bb3618ef71355f82a",
+          "url": "https://i.scdn.co/image/ab6761610000f1788278b782cbb5a3963db88ada",
           "width": 160
         }
       ],
-      "name": "ZAYN",
-      "popularity": 74,
+      "name": "Tyler, The Creator",
+      "popularity": 83,
       "type": "artist",
-      "uri": "spotify:artist:5ZsFI1h6hIdQRw2ti0hz81"
+      "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+      },
+      "followers": { "href": null, "total": 4576153 },
+      "genres": ["afrofuturism"],
+      "href": "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
+      "id": "57vWImR43h4CaDao012Ofp",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb09ac9d040c168d4e4f58eb42",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517409ac9d040c168d4e4f58eb42",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17809ac9d040c168d4e4f58eb42",
+          "width": 160
+        }
+      ],
+      "name": "Steve Lacy",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:57vWImR43h4CaDao012Ofp"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 5972577 },
+      "followers": { "href": null, "total": 5973950 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -467,7 +437,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
       },
-      "followers": { "href": null, "total": 3083614 },
+      "followers": { "href": null, "total": 3084621 },
       "genres": [
         "alternative rock",
         "indie rock",
@@ -503,7 +473,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
       },
-      "followers": { "href": null, "total": 12153248 },
+      "followers": { "href": null, "total": 12154875 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK",
       "id": "20JZFwl6HVl6yg8a4H3ZqK",
@@ -533,7 +503,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
       },
-      "followers": { "href": null, "total": 5815657 },
+      "followers": { "href": null, "total": 5820749 },
       "genres": ["canadian contemporary r&b"],
       "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
       "id": "20wkVLutqVOYrc0kxFs7rA",
@@ -561,9 +531,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+      },
+      "followers": { "href": null, "total": 23661262 },
+      "genres": ["pop", "uk pop"],
+      "href": "https://api.spotify.com/v1/artists/2wY79sveU1sp5g7SokKOiI",
+      "id": "2wY79sveU1sp5g7SokKOiI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7ba9b5726cdd0814dc0cda2e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747ba9b5726cdd0814dc0cda2e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787ba9b5726cdd0814dc0cda2e",
+          "width": 160
+        }
+      ],
+      "name": "Sam Smith",
+      "popularity": 80,
+      "type": "artist",
+      "uri": "spotify:artist:2wY79sveU1sp5g7SokKOiI"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
       },
-      "followers": { "href": null, "total": 2391165 },
+      "followers": { "href": null, "total": 2391701 },
       "genres": [
         "indie rock",
         "indietronica",
@@ -598,39 +598,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
-      },
-      "followers": { "href": null, "total": 4572988 },
-      "genres": ["afrofuturism"],
-      "href": "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
-      "id": "57vWImR43h4CaDao012Ofp",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb09ac9d040c168d4e4f58eb42",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517409ac9d040c168d4e4f58eb42",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17809ac9d040c168d4e4f58eb42",
-          "width": 160
-        }
-      ],
-      "name": "Steve Lacy",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:57vWImR43h4CaDao012Ofp"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
-      "followers": { "href": null, "total": 7741778 },
+      "followers": { "href": null, "total": 7745093 },
       "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
       "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
       "id": "5INjqkS1o8h1imAzPqGZBb",
@@ -658,39 +628,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        "spotify": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
       },
-      "followers": { "href": null, "total": 96443739 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/66CXWjxzNUsdJxJ2JdwvnR",
-      "id": "66CXWjxzNUsdJxJ2JdwvnR",
+      "followers": { "href": null, "total": 22901474 },
+      "genres": ["pop", "uk pop"],
+      "href": "https://api.spotify.com/v1/artists/5ZsFI1h6hIdQRw2ti0hz81",
+      "id": "5ZsFI1h6hIdQRw2ti0hz81",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb40b5c07ab77b6b1a9075fdc0",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7a1fba1bb3618ef71355f82a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517440b5c07ab77b6b1a9075fdc0",
+          "url": "https://i.scdn.co/image/ab676161000051747a1fba1bb3618ef71355f82a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17840b5c07ab77b6b1a9075fdc0",
+          "url": "https://i.scdn.co/image/ab6761610000f1787a1fba1bb3618ef71355f82a",
           "width": 160
         }
       ],
-      "name": "Ariana Grande",
-      "popularity": 90,
+      "name": "ZAYN",
+      "popularity": 75,
       "type": "artist",
-      "uri": "spotify:artist:66CXWjxzNUsdJxJ2JdwvnR"
+      "uri": "spotify:artist:5ZsFI1h6hIdQRw2ti0hz81"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
       },
-      "followers": { "href": null, "total": 32074672 },
+      "followers": { "href": null, "total": 32088254 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
       "id": "6KImCVD70vtIoJWnq6nGn3",
@@ -715,6 +685,36 @@
       "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+      },
+      "followers": { "href": null, "total": 3957349 },
+      "genres": ["gen z singer-songwriter"],
+      "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+      "id": "7gW0r5CkdEUMm42w9XpyZO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb71eb8f92b86868400ed4e006",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517471eb8f92b86868400ed4e006",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17871eb8f92b86868400ed4e006",
+          "width": 160
+        }
+      ],
+      "name": "Laufey",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
     }
   ]
 }
