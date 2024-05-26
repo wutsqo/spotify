@@ -10,7 +10,7 @@
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ce14b62d79fbec5eaa0eda5c",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ce14b62d79fbec5eaa0eda5c",
       "width": null
     }
   ],
@@ -22885,7 +22885,7 @@
         "href": "https://api.spotify.com/v1/tracks/6V9IM2Uts85xMj7rEkqGQA",
         "id": "6V9IM2Uts85xMj7rEkqGQA",
         "name": "Away Away Away - BBC Live Session",
-        "popularity": 11,
+        "popularity": 10,
         "uri": "spotify:track:6V9IM2Uts85xMj7rEkqGQA",
         "is_local": false
       },
@@ -23347,7 +23347,7 @@
         "href": "https://api.spotify.com/v1/tracks/3o7k5Mcdi0PFAXICTqjxra",
         "id": "3o7k5Mcdi0PFAXICTqjxra",
         "name": "Massachusetts - Stereo Version",
-        "popularity": 55,
+        "popularity": 54,
         "uri": "spotify:track:3o7k5Mcdi0PFAXICTqjxra",
         "is_local": false
       },
@@ -26423,7 +26423,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Tuout5bAcki6wuD7PTAT9",
         "id": "5Tuout5bAcki6wuD7PTAT9",
         "name": "Apple Of My Eye - Remastered 2010",
-        "popularity": 30,
+        "popularity": 29,
         "uri": "spotify:track:5Tuout5bAcki6wuD7PTAT9",
         "is_local": false
       },
@@ -40961,7 +40961,7 @@
         "href": "https://api.spotify.com/v1/tracks/7oOOI85fVQvVnK5ynNMdW7",
         "id": "7oOOI85fVQvVnK5ynNMdW7",
         "name": "Rock with You - Single Version",
-        "popularity": 79,
+        "popularity": 78,
         "uri": "spotify:track:7oOOI85fVQvVnK5ynNMdW7",
         "is_local": false
       },
@@ -47135,7 +47135,7 @@
         "href": "https://api.spotify.com/v1/tracks/1DqWuYud6jDyfnDk297XTU",
         "id": "1DqWuYud6jDyfnDk297XTU",
         "name": "Since I Don’t Have You",
-        "popularity": 31,
+        "popularity": 30,
         "uri": "spotify:track:1DqWuYud6jDyfnDk297XTU",
         "is_local": false
       },
@@ -56907,7 +56907,7 @@
         "href": "https://api.spotify.com/v1/tracks/74uIcD4qg6dkRvc0cYBzgR",
         "id": "74uIcD4qg6dkRvc0cYBzgR",
         "name": "Cherryl's Goin' Home",
-        "popularity": 8,
+        "popularity": 7,
         "uri": "spotify:track:74uIcD4qg6dkRvc0cYBzgR",
         "is_local": false
       },
@@ -57371,7 +57371,7 @@
         "href": "https://api.spotify.com/v1/tracks/3VgVhmZkA99quKw6O5NLNh",
         "id": "3VgVhmZkA99quKw6O5NLNh",
         "name": "Copacabana - Remastered",
-        "popularity": 51,
+        "popularity": 50,
         "uri": "spotify:track:3VgVhmZkA99quKw6O5NLNh",
         "is_local": false
       },
@@ -60803,7 +60803,7 @@
         "href": "https://api.spotify.com/v1/tracks/3QksrtI9VFCBHWA4rgvcV8",
         "id": "3QksrtI9VFCBHWA4rgvcV8",
         "name": "Theme From New York, New York",
-        "popularity": 60,
+        "popularity": 59,
         "uri": "spotify:track:3QksrtI9VFCBHWA4rgvcV8",
         "is_local": false
       },
@@ -63153,7 +63153,7 @@
         "href": "https://api.spotify.com/v1/tracks/6BQVbqCKuROQNvc5WtwiPG",
         "id": "6BQVbqCKuROQNvc5WtwiPG",
         "name": "An Angel Cried",
-        "popularity": 32,
+        "popularity": 31,
         "uri": "spotify:track:6BQVbqCKuROQNvc5WtwiPG",
         "is_local": false
       },
@@ -77337,7 +77337,7 @@
         "href": "https://api.spotify.com/v1/tracks/61IBpJ6TymrEwd7bz3oPNp",
         "id": "61IBpJ6TymrEwd7bz3oPNp",
         "name": "She's A Rainbow - Full Version / With Intro",
-        "popularity": 46,
+        "popularity": 45,
         "uri": "spotify:track:61IBpJ6TymrEwd7bz3oPNp",
         "is_local": false
       },
@@ -81143,7 +81143,7 @@
         "href": "https://api.spotify.com/v1/tracks/4vqTb5Ru3IW1ZpARQsyd8L",
         "id": "4vqTb5Ru3IW1ZpARQsyd8L",
         "name": "Sevilla",
-        "popularity": 33,
+        "popularity": 32,
         "uri": "spotify:track:4vqTb5Ru3IW1ZpARQsyd8L",
         "is_local": false
       },
@@ -84394,14 +84394,10 @@
         "preview_url": "https://p.scdn.co/mp3-preview/f0a4723c551cf165f978b075ca38ab03cf945fda?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "available_markets": [
           "AR",
-          "AU",
           "AT",
           "BE",
           "BO",
-          "BR",
           "BG",
-          "CA",
-          "CL",
           "CO",
           "CR",
           "CY",
@@ -84427,9 +84423,7 @@
           "LU",
           "MY",
           "MT",
-          "MX",
           "NL",
-          "NZ",
           "NI",
           "NO",
           "PA",
@@ -84446,7 +84440,6 @@
           "TW",
           "TR",
           "UY",
-          "US",
           "GB",
           "AD",
           "LI",
@@ -84586,14 +84579,10 @@
         "album": {
           "available_markets": [
             "AR",
-            "AU",
             "AT",
             "BE",
             "BO",
-            "BR",
             "BG",
-            "CA",
-            "CL",
             "CO",
             "CR",
             "CY",
@@ -84619,9 +84608,7 @@
             "LU",
             "MY",
             "MT",
-            "MX",
             "NL",
-            "NZ",
             "NI",
             "NO",
             "PA",
@@ -84638,7 +84625,6 @@
             "TW",
             "TR",
             "UY",
-            "US",
             "GB",
             "AD",
             "LI",
@@ -91301,7 +91287,7 @@
         "href": "https://api.spotify.com/v1/tracks/27hpjHYx6duzBH99XW7ENn",
         "id": "27hpjHYx6duzBH99XW7ENn",
         "name": "Hello Walls",
-        "popularity": 48,
+        "popularity": 47,
         "uri": "spotify:track:27hpjHYx6duzBH99XW7ENn",
         "is_local": false
       },
@@ -91759,7 +91745,7 @@
         "href": "https://api.spotify.com/v1/tracks/0qTshI3BGj8Qq2IeRTdepl",
         "id": "0qTshI3BGj8Qq2IeRTdepl",
         "name": "Gonna Buy Me a Dog - Original Stereo Version; 2006 Remaster",
-        "popularity": 21,
+        "popularity": 20,
         "uri": "spotify:track:0qTshI3BGj8Qq2IeRTdepl",
         "is_local": false
       },
@@ -92321,7 +92307,7 @@
         "href": "https://api.spotify.com/v1/tracks/2CycawdBZIDL2cxtjhfztA",
         "id": "2CycawdBZIDL2cxtjhfztA",
         "name": "Tie a Yellow Ribbon Round the Ole Oak Tree (feat. Tony Orlando)",
-        "popularity": 45,
+        "popularity": 44,
         "uri": "spotify:track:2CycawdBZIDL2cxtjhfztA",
         "is_local": false
       },
@@ -99933,7 +99919,7 @@
         "href": "https://api.spotify.com/v1/tracks/1rJi8cf8OWsrX4CqBnMSoQ",
         "id": "1rJi8cf8OWsrX4CqBnMSoQ",
         "name": "Who Loves the Sun - 2015 Remaster",
-        "popularity": 53,
+        "popularity": 52,
         "uri": "spotify:track:1rJi8cf8OWsrX4CqBnMSoQ",
         "is_local": false
       },
@@ -100859,7 +100845,7 @@
         "href": "https://api.spotify.com/v1/tracks/1o6DclZHw0HomxXEQR1ijX",
         "id": "1o6DclZHw0HomxXEQR1ijX",
         "name": "Rock & Roll - Full Length Version; 2015 Remaster",
-        "popularity": 54,
+        "popularity": 53,
         "uri": "spotify:track:1o6DclZHw0HomxXEQR1ijX",
         "is_local": false
       },
@@ -107055,7 +107041,7 @@
         "href": "https://api.spotify.com/v1/tracks/37Yccv8dpwJKc0wYCDRBuM",
         "id": "37Yccv8dpwJKc0wYCDRBuM",
         "name": "Paradiso",
-        "popularity": 26,
+        "popularity": 25,
         "uri": "spotify:track:37Yccv8dpwJKc0wYCDRBuM",
         "is_local": false
       },
@@ -107989,7 +107975,7 @@
         "href": "https://api.spotify.com/v1/tracks/2BUfuy4p88WKk3d49B1ayP",
         "id": "2BUfuy4p88WKk3d49B1ayP",
         "name": "Pastorale - Remastered",
-        "popularity": 44,
+        "popularity": 43,
         "uri": "spotify:track:2BUfuy4p88WKk3d49B1ayP",
         "is_local": false
       },
@@ -109835,7 +109821,7 @@
         "href": "https://api.spotify.com/v1/tracks/3D9iV6cYkYJRAPFO6DRKIE",
         "id": "3D9iV6cYkYJRAPFO6DRKIE",
         "name": "Jealous Guy - Remastered 2010",
-        "popularity": 66,
+        "popularity": 65,
         "uri": "spotify:track:3D9iV6cYkYJRAPFO6DRKIE",
         "is_local": false
       },
@@ -110297,7 +110283,7 @@
         "href": "https://api.spotify.com/v1/tracks/0ESIjVxnDnCDaTPo6sStHm",
         "id": "0ESIjVxnDnCDaTPo6sStHm",
         "name": "Till There Was You - Remastered 2009",
-        "popularity": 63,
+        "popularity": 62,
         "uri": "spotify:track:0ESIjVxnDnCDaTPo6sStHm",
         "is_local": false
       },
@@ -116685,7 +116671,7 @@
         "href": "https://api.spotify.com/v1/tracks/1Qn5jElT7XqjvVeJ8pYM2w",
         "id": "1Qn5jElT7XqjvVeJ8pYM2w",
         "name": "A Teenager's Romance",
-        "popularity": 50,
+        "popularity": 49,
         "uri": "spotify:track:1Qn5jElT7XqjvVeJ8pYM2w",
         "is_local": false
       },
@@ -117871,7 +117857,7 @@
         "href": "https://api.spotify.com/v1/tracks/7xsrfbE3uNQgXoUl0t1TmO",
         "id": "7xsrfbE3uNQgXoUl0t1TmO",
         "name": "Cry Me A River",
-        "popularity": 52,
+        "popularity": 51,
         "uri": "spotify:track:7xsrfbE3uNQgXoUl0t1TmO",
         "is_local": false
       },
@@ -120271,7 +120257,7 @@
         "href": "https://api.spotify.com/v1/tracks/74i6ZrnR1WzZsuc3qrJg7I",
         "id": "74i6ZrnR1WzZsuc3qrJg7I",
         "name": "This Magic Moment",
-        "popularity": 45,
+        "popularity": 44,
         "uri": "spotify:track:74i6ZrnR1WzZsuc3qrJg7I",
         "is_local": false
       },
@@ -122743,7 +122729,7 @@
         "href": "https://api.spotify.com/v1/tracks/2cBcDL88A6c5IoFWceo7C7",
         "id": "2cBcDL88A6c5IoFWceo7C7",
         "name": "Forget Him - Bonus Track",
-        "popularity": 40,
+        "popularity": 39,
         "uri": "spotify:track:2cBcDL88A6c5IoFWceo7C7",
         "is_local": false
       },
@@ -129077,7 +129063,7 @@
         "href": "https://api.spotify.com/v1/tracks/1lHiKWnlJtjzA4vHnjAr39",
         "id": "1lHiKWnlJtjzA4vHnjAr39",
         "name": "Windy - Remastered Version",
-        "popularity": 48,
+        "popularity": 47,
         "uri": "spotify:track:1lHiKWnlJtjzA4vHnjAr39",
         "is_local": false
       },
@@ -129539,7 +129525,7 @@
         "href": "https://api.spotify.com/v1/tracks/4UteAW3ZmZaB2Ru3FjB0dp",
         "id": "4UteAW3ZmZaB2Ru3FjB0dp",
         "name": "Let's Live For Today - Uncensored Version",
-        "popularity": 54,
+        "popularity": 53,
         "uri": "spotify:track:4UteAW3ZmZaB2Ru3FjB0dp",
         "is_local": false
       },
@@ -131383,7 +131369,7 @@
         "href": "https://api.spotify.com/v1/tracks/4Vng7f02Hz7XvPFsC1qFjl",
         "id": "4Vng7f02Hz7XvPFsC1qFjl",
         "name": "I'm into Something Good",
-        "popularity": 53,
+        "popularity": 52,
         "uri": "spotify:track:4Vng7f02Hz7XvPFsC1qFjl",
         "is_local": false
       },
@@ -137154,7 +137140,7 @@
         "href": "https://api.spotify.com/v1/tracks/4t9EUCjCPbdfqtOH25k8AU",
         "id": "4t9EUCjCPbdfqtOH25k8AU",
         "name": "Moviestar",
-        "popularity": 56,
+        "popularity": 55,
         "uri": "spotify:track:4t9EUCjCPbdfqtOH25k8AU",
         "is_local": false
       },
@@ -138374,7 +138360,7 @@
         "href": "https://api.spotify.com/v1/tracks/35ItUJlMtjOQW3SSiTCrrw",
         "id": "35ItUJlMtjOQW3SSiTCrrw",
         "name": "Crazy Little Thing Called Love - Remastered 2011",
-        "popularity": 74,
+        "popularity": 73,
         "uri": "spotify:track:35ItUJlMtjOQW3SSiTCrrw",
         "is_local": false
       },
@@ -141088,7 +141074,7 @@
         "href": "https://api.spotify.com/v1/tracks/7ycbzcY195RLhJEcAPXTfO",
         "id": "7ycbzcY195RLhJEcAPXTfO",
         "name": "Anak Sekolah",
-        "popularity": 13,
+        "popularity": 12,
         "uri": "spotify:track:7ycbzcY195RLhJEcAPXTfO",
         "is_local": false
       },
@@ -148416,7 +148402,7 @@
         "href": "https://api.spotify.com/v1/tracks/2DKYifoQBEr6Q8o3eOQJda",
         "id": "2DKYifoQBEr6Q8o3eOQJda",
         "name": "Sha-La-La-La-La",
-        "popularity": 31,
+        "popularity": 30,
         "uri": "spotify:track:2DKYifoQBEr6Q8o3eOQJda",
         "is_local": false
       },
@@ -149618,7 +149604,7 @@
         "href": "https://api.spotify.com/v1/tracks/7JdkhIgdzkAr27zplnH9xL",
         "id": "7JdkhIgdzkAr27zplnH9xL",
         "name": "Mr. Dan",
-        "popularity": 29,
+        "popularity": 28,
         "uri": "spotify:track:7JdkhIgdzkAr27zplnH9xL",
         "is_local": false
       },
@@ -159241,7 +159227,7 @@
         "href": "https://api.spotify.com/v1/tracks/3NlLmKBJozwoi0k03Feb1N",
         "id": "3NlLmKBJozwoi0k03Feb1N",
         "name": "Isn't She Lovely",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:3NlLmKBJozwoi0k03Feb1N",
         "is_local": false
       },
@@ -162487,7 +162473,7 @@
         "href": "https://api.spotify.com/v1/tracks/0sDeU2murnLh4yVHQ5IV70",
         "id": "0sDeU2murnLh4yVHQ5IV70",
         "name": "Cry to Me",
-        "popularity": 70,
+        "popularity": 69,
         "uri": "spotify:track:0sDeU2murnLh4yVHQ5IV70",
         "is_local": false
       },
@@ -168535,7 +168521,7 @@
         "href": "https://api.spotify.com/v1/tracks/1IrrcAS7VL8gUcOF0KHBfU",
         "id": "1IrrcAS7VL8gUcOF0KHBfU",
         "name": "Stitch in Time",
-        "popularity": 28,
+        "popularity": 27,
         "uri": "spotify:track:1IrrcAS7VL8gUcOF0KHBfU",
         "is_local": false
       },
@@ -173999,7 +173985,7 @@
         "href": "https://api.spotify.com/v1/tracks/294ii3rwz6bTJ2XMn5BDu0",
         "id": "294ii3rwz6bTJ2XMn5BDu0",
         "name": "Sugar Baby Love",
-        "popularity": 55,
+        "popularity": 54,
         "uri": "spotify:track:294ii3rwz6bTJ2XMn5BDu0",
         "is_local": false
       },
@@ -176793,7 +176779,7 @@
         "href": "https://api.spotify.com/v1/tracks/0ZfkRyUUYS9Hvl6N5PXPot",
         "id": "0ZfkRyUUYS9Hvl6N5PXPot",
         "name": "Tossin' and Turnin'",
-        "popularity": 28,
+        "popularity": 27,
         "uri": "spotify:track:0ZfkRyUUYS9Hvl6N5PXPot",
         "is_local": false
       },
@@ -178855,7 +178841,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bzvhZFlV9UqQ3EmV2i8s4",
         "id": "4bzvhZFlV9UqQ3EmV2i8s4",
         "name": "Who's Sorry Now",
-        "popularity": 53,
+        "popularity": 52,
         "uri": "spotify:track:4bzvhZFlV9UqQ3EmV2i8s4",
         "is_local": false
       },
@@ -181185,7 +181171,7 @@
         "href": "https://api.spotify.com/v1/tracks/6vcG9EgeqJUSmmF65lxUm6",
         "id": "6vcG9EgeqJUSmmF65lxUm6",
         "name": "One Fine Day",
-        "popularity": 60,
+        "popularity": 59,
         "uri": "spotify:track:6vcG9EgeqJUSmmF65lxUm6",
         "is_local": false
       },
@@ -182081,7 +182067,7 @@
         "href": "https://api.spotify.com/v1/tracks/6o8SclNJZqOXHztiSOIhjI",
         "id": "6o8SclNJZqOXHztiSOIhjI",
         "name": "Any Day Now",
-        "popularity": 21,
+        "popularity": 20,
         "uri": "spotify:track:6o8SclNJZqOXHztiSOIhjI",
         "is_local": false
       },
@@ -185427,7 +185413,7 @@
         "href": "https://api.spotify.com/v1/tracks/1MMp1H2Kib2BCDtdL5nL63",
         "id": "1MMp1H2Kib2BCDtdL5nL63",
         "name": "Hey Jude",
-        "popularity": 47,
+        "popularity": 46,
         "uri": "spotify:track:1MMp1H2Kib2BCDtdL5nL63",
         "is_local": false
       },
@@ -187759,7 +187745,7 @@
         "href": "https://api.spotify.com/v1/tracks/6KDG8vvFerlCU63IXdw1zb",
         "id": "6KDG8vvFerlCU63IXdw1zb",
         "name": "Suspicious Minds",
-        "popularity": 58,
+        "popularity": 57,
         "uri": "spotify:track:6KDG8vvFerlCU63IXdw1zb",
         "is_local": false
       },
@@ -206265,7 +206251,7 @@
         "href": "https://api.spotify.com/v1/tracks/11DjZQEZ69EXLo77HVj6yW",
         "id": "11DjZQEZ69EXLo77HVj6yW",
         "name": "Green River",
-        "popularity": 76,
+        "popularity": 75,
         "uri": "spotify:track:11DjZQEZ69EXLo77HVj6yW",
         "is_local": false
       },
@@ -207645,7 +207631,7 @@
         "href": "https://api.spotify.com/v1/tracks/587bVBCHYW5Q2VNRLig4AS",
         "id": "587bVBCHYW5Q2VNRLig4AS",
         "name": "Born On The Bayou",
-        "popularity": 67,
+        "popularity": 66,
         "uri": "spotify:track:587bVBCHYW5Q2VNRLig4AS",
         "is_local": false
       },
@@ -208567,7 +208553,7 @@
         "href": "https://api.spotify.com/v1/tracks/1YqJSpIxdavjQ8BxAttU0r",
         "id": "1YqJSpIxdavjQ8BxAttU0r",
         "name": "Lookin' Out My Back Door",
-        "popularity": 74,
+        "popularity": 73,
         "uri": "spotify:track:1YqJSpIxdavjQ8BxAttU0r",
         "is_local": false
       },
@@ -219619,7 +219605,7 @@
         "href": "https://api.spotify.com/v1/tracks/7BcohpfU3yL8ORXb4plTQS",
         "id": "7BcohpfU3yL8ORXb4plTQS",
         "name": "Ninety-Nine And A Half (Won't Do)",
-        "popularity": 49,
+        "popularity": 48,
         "uri": "spotify:track:7BcohpfU3yL8ORXb4plTQS",
         "is_local": false
       },
@@ -226080,7 +226066,7 @@
         "href": "https://api.spotify.com/v1/tracks/77ms3KtLzapktOdGZcNEK9",
         "id": "77ms3KtLzapktOdGZcNEK9",
         "name": "Red Sun In The Sky",
-        "popularity": 51,
+        "popularity": 50,
         "uri": "spotify:track:77ms3KtLzapktOdGZcNEK9",
         "is_local": false
       },
@@ -227420,7 +227406,7 @@
         "href": "https://api.spotify.com/v1/tracks/4UMFglAuTDcDj6rbmIS6tW",
         "id": "4UMFglAuTDcDj6rbmIS6tW",
         "name": "(There's) Always Something There To Remind Me",
-        "popularity": 48,
+        "popularity": 47,
         "uri": "spotify:track:4UMFglAuTDcDj6rbmIS6tW",
         "is_local": false
       },
@@ -228810,7 +228796,7 @@
         "href": "https://api.spotify.com/v1/tracks/11NYLe5NovWv3t5IpY2bJY",
         "id": "11NYLe5NovWv3t5IpY2bJY",
         "name": "Pasar Baru",
-        "popularity": 3,
+        "popularity": 4,
         "uri": "spotify:track:11NYLe5NovWv3t5IpY2bJY",
         "is_local": false
       },
@@ -239274,7 +239260,7 @@
         "href": "https://api.spotify.com/v1/tracks/0mG8Hety4RELeo6p808fcy",
         "id": "0mG8Hety4RELeo6p808fcy",
         "name": "He's a Rebel",
-        "popularity": 44,
+        "popularity": 43,
         "uri": "spotify:track:0mG8Hety4RELeo6p808fcy",
         "is_local": false
       },
