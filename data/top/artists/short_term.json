@@ -1,11 +1,11 @@
 {
-  "total": 16,
+  "total": 11,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
       },
-      "followers": { "href": null, "total": 575112 },
+      "followers": { "href": null, "total": 575756 },
       "genres": ["indonesian indie", "indonesian pop", "malang indie"],
       "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
       "id": "1NjxFrpEGZTV2Ny0OJxeWu",
@@ -33,39 +33,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/49tQo2QULno7gxHutgccqF"
-      },
-      "followers": { "href": null, "total": 5771201 },
-      "genres": ["la pop"],
-      "href": "https://api.spotify.com/v1/artists/49tQo2QULno7gxHutgccqF",
-      "id": "49tQo2QULno7gxHutgccqF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb90c77d2ffb0fe10130f03230",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517490c77d2ffb0fe10130f03230",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17890c77d2ffb0fe10130f03230",
-          "width": 160
-        }
-      ],
-      "name": "LANY",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:49tQo2QULno7gxHutgccqF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
-      "followers": { "href": null, "total": 13915847 },
+      "followers": { "href": null, "total": 13926812 },
       "genres": ["lgbtq+ hip hop", "neo soul"],
       "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
       "id": "2h93pZq0e7k5yf4dywlkpM",
@@ -95,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
       },
-      "followers": { "href": null, "total": 24167667 },
+      "followers": { "href": null, "total": 24173411 },
       "genres": ["modern rock", "pop", "pov: indie", "rock"],
       "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
       "id": "3YQKmKGau1PzlVlkL1iodx",
@@ -117,7 +87,7 @@
         }
       ],
       "name": "Twenty One Pilots",
-      "popularity": 81,
+      "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
     },
@@ -125,7 +95,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
-      "followers": { "href": null, "total": 7172654 },
+      "followers": { "href": null, "total": 7174409 },
       "genres": [
         "modern alternative rock",
         "modern rock",
@@ -161,7 +131,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
       },
-      "followers": { "href": null, "total": 24742206 },
+      "followers": { "href": null, "total": 24753895 },
       "genres": [
         "garage rock",
         "modern rock",
@@ -195,69 +165,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-      },
-      "followers": { "href": null, "total": 5976666 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-      "id": "7pbDxGE6nQSZVfiFdq9lOL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebffb90f91cb2f487d7309f7bc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ffb90f91cb2f487d7309f7bc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ffb90f91cb2f487d7309f7bc",
-          "width": 160
-        }
-      ],
-      "name": "Rex Orange County",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-      },
-      "followers": { "href": null, "total": 50586567 },
-      "genres": ["permanent wave", "pop"],
-      "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
-      "id": "4gzpq5DPGxSnKTe4SA8HAU",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc878d7a8f8299a3a09e29fb6",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c878d7a8f8299a3a09e29fb6",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c878d7a8f8299a3a09e29fb6",
-          "width": 160
-        }
-      ],
-      "name": "Coldplay",
-      "popularity": 85,
-      "type": "artist",
-      "uri": "spotify:artist:4gzpq5DPGxSnKTe4SA8HAU"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
       },
-      "followers": { "href": null, "total": 4590561 },
+      "followers": { "href": null, "total": 4594076 },
       "genres": ["afrofuturism"],
       "href": "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
       "id": "57vWImR43h4CaDao012Ofp",
@@ -287,7 +197,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
       },
-      "followers": { "href": null, "total": 16367318 },
+      "followers": { "href": null, "total": 16377110 },
       "genres": ["modern alternative rock", "modern rock", "pop"],
       "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
       "id": "77SW9BnxLY8rJ0RciFqkHh",
@@ -315,45 +225,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 3088401 },
-      "genres": [
-        "alternative rock",
-        "indie rock",
-        "indietronica",
-        "modern rock",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-      "id": "0SwO7SWeDHJijQ3XNS7xEE",
+      "followers": { "href": null, "total": 5977878 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+      "id": "7pbDxGE6nQSZVfiFdq9lOL",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9dccdc8f4087cbe2bdedc9d3",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebffb90f91cb2f487d7309f7bc",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749dccdc8f4087cbe2bdedc9d3",
+          "url": "https://i.scdn.co/image/ab67616100005174ffb90f91cb2f487d7309f7bc",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789dccdc8f4087cbe2bdedc9d3",
+          "url": "https://i.scdn.co/image/ab6761610000f178ffb90f91cb2f487d7309f7bc",
           "width": 160
         }
       ],
-      "name": "MGMT",
-      "popularity": 72,
+      "name": "Rex Orange County",
+      "popularity": 71,
       "type": "artist",
-      "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+      "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/20JZFwl6HVl6yg8a4H3ZqK"
       },
-      "followers": { "href": null, "total": 12161820 },
+      "followers": { "href": null, "total": 12163478 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/20JZFwl6HVl6yg8a4H3ZqK",
       "id": "20JZFwl6HVl6yg8a4H3ZqK",
@@ -383,7 +287,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
-      "followers": { "href": null, "total": 15060922 },
+      "followers": { "href": null, "total": 15070334 },
       "genres": ["hip hop", "rap"],
       "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
       "id": "4V8LLVI7PbaPR0K2TGSxFF",
@@ -411,76 +315,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
-      },
-      "followers": { "href": null, "total": 2393550 },
-      "genres": [
-        "indie rock",
-        "indietronica",
-        "irish rock",
-        "modern alternative rock",
-        "modern rock",
-        "northern irish indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
-      "id": "536BYVgOnRky0xjsPT96zl",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb86faeb97a905a571b2c361a0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517486faeb97a905a571b2c361a0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17886faeb97a905a571b2c361a0",
-          "width": 160
-        }
-      ],
-      "name": "Two Door Cinema Club",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-      },
-      "followers": { "href": null, "total": 7758459 },
-      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
-      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-      "id": "5INjqkS1o8h1imAzPqGZBb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
-          "width": 160
-        }
-      ],
-      "name": "Tame Impala",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
-      "followers": { "href": null, "total": 4001258 },
+      "followers": { "href": null, "total": 4012572 },
       "genres": ["gen z singer-songwriter"],
       "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
       "id": "7gW0r5CkdEUMm42w9XpyZO",

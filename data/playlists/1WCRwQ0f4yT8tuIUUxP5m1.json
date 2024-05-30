@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 381924 },
+  "followers": { "href": null, "total": 381946 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
@@ -444,7 +444,7 @@
               "width": 64
             }
           ],
-          "name": "The Craving (single version)",
+          "name": "The Craving",
           "release_date": "2024-05-22",
           "release_date_precision": "day",
           "uri": "spotify:album:7K7eWZNR5t9UBlrN2ltzLI",
@@ -486,8 +486,8 @@
         },
         "href": "https://api.spotify.com/v1/tracks/0S7lkKStHgfgjgwSFOvRNA",
         "id": "0S7lkKStHgfgjgwSFOvRNA",
-        "name": "The Craving (single version)",
-        "popularity": 72,
+        "name": "The Craving - single version",
+        "popularity": 74,
         "uri": "spotify:track:0S7lkKStHgfgjgwSFOvRNA",
         "is_local": false
       },
@@ -949,7 +949,7 @@
         "href": "https://api.spotify.com/v1/tracks/1LAlLBTGBUO0MDA8IbSysd",
         "id": "1LAlLBTGBUO0MDA8IbSysd",
         "name": "Overcompensate",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:1LAlLBTGBUO0MDA8IbSysd",
         "is_local": false
       },
@@ -1411,7 +1411,7 @@
         "href": "https://api.spotify.com/v1/tracks/1BANPzYIhCQkJ1ZFq2Fb0O",
         "id": "1BANPzYIhCQkJ1ZFq2Fb0O",
         "name": "Next Semester",
-        "popularity": 68,
+        "popularity": 70,
         "uri": "spotify:track:1BANPzYIhCQkJ1ZFq2Fb0O",
         "is_local": false
       },
@@ -1873,7 +1873,7 @@
         "href": "https://api.spotify.com/v1/tracks/6fNaHkjAxP6rI2sZhT7QJn",
         "id": "6fNaHkjAxP6rI2sZhT7QJn",
         "name": "Backslide",
-        "popularity": 68,
+        "popularity": 70,
         "uri": "spotify:track:6fNaHkjAxP6rI2sZhT7QJn",
         "is_local": false
       },
@@ -2335,7 +2335,7 @@
         "href": "https://api.spotify.com/v1/tracks/7GVQS66ukm48XZVymA3ZUg",
         "id": "7GVQS66ukm48XZVymA3ZUg",
         "name": "Midwest Indigo",
-        "popularity": 71,
+        "popularity": 72,
         "uri": "spotify:track:7GVQS66ukm48XZVymA3ZUg",
         "is_local": false
       },
@@ -2797,7 +2797,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bDIAWaOBGAAk95nyXI6zJ",
         "id": "4bDIAWaOBGAAk95nyXI6zJ",
         "name": "Routines In The Night",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:4bDIAWaOBGAAk95nyXI6zJ",
         "is_local": false
       },
@@ -3259,7 +3259,7 @@
         "href": "https://api.spotify.com/v1/tracks/3sEufjE0ITaW5qhtnW3avv",
         "id": "3sEufjE0ITaW5qhtnW3avv",
         "name": "Vignette",
-        "popularity": 71,
+        "popularity": 73,
         "uri": "spotify:track:3sEufjE0ITaW5qhtnW3avv",
         "is_local": false
       },
@@ -3721,7 +3721,7 @@
         "href": "https://api.spotify.com/v1/tracks/4hfqe20vqkuRv1RDsA1LbQ",
         "id": "4hfqe20vqkuRv1RDsA1LbQ",
         "name": "The Craving (Jenna's version)",
-        "popularity": 69,
+        "popularity": 71,
         "uri": "spotify:track:4hfqe20vqkuRv1RDsA1LbQ",
         "is_local": false
       },
@@ -4183,7 +4183,7 @@
         "href": "https://api.spotify.com/v1/tracks/49oxuPnuWOL793zpF6zgLQ",
         "id": "49oxuPnuWOL793zpF6zgLQ",
         "name": "Lavish",
-        "popularity": 70,
+        "popularity": 72,
         "uri": "spotify:track:49oxuPnuWOL793zpF6zgLQ",
         "is_local": false
       },
@@ -4645,7 +4645,7 @@
         "href": "https://api.spotify.com/v1/tracks/3gy21TwRSP40aUMwcY7Rtq",
         "id": "3gy21TwRSP40aUMwcY7Rtq",
         "name": "Navigating",
-        "popularity": 71,
+        "popularity": 73,
         "uri": "spotify:track:3gy21TwRSP40aUMwcY7Rtq",
         "is_local": false
       },
@@ -5107,7 +5107,7 @@
         "href": "https://api.spotify.com/v1/tracks/5QPGnFslbDUQ7mDteKn3By",
         "id": "5QPGnFslbDUQ7mDteKn3By",
         "name": "Snap Back",
-        "popularity": 69,
+        "popularity": 71,
         "uri": "spotify:track:5QPGnFslbDUQ7mDteKn3By",
         "is_local": false
       },
@@ -5569,7 +5569,7 @@
         "href": "https://api.spotify.com/v1/tracks/7dI0mSvbdJTynUnEkWIom1",
         "id": "7dI0mSvbdJTynUnEkWIom1",
         "name": "Oldies Station",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:7dI0mSvbdJTynUnEkWIom1",
         "is_local": false
       },
@@ -6031,7 +6031,7 @@
         "href": "https://api.spotify.com/v1/tracks/0ZucyPms79Cydv0RMYV2Oi",
         "id": "0ZucyPms79Cydv0RMYV2Oi",
         "name": "At The Risk Of Feeling Dumb",
-        "popularity": 69,
+        "popularity": 71,
         "uri": "spotify:track:0ZucyPms79Cydv0RMYV2Oi",
         "is_local": false
       },
@@ -6493,7 +6493,7 @@
         "href": "https://api.spotify.com/v1/tracks/5HvDKyJlHWg42BdsE4ycSm",
         "id": "5HvDKyJlHWg42BdsE4ycSm",
         "name": "Paladin Strait",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:5HvDKyJlHWg42BdsE4ycSm",
         "is_local": false
       },
@@ -11475,7 +11475,7 @@
         "href": "https://api.spotify.com/v1/tracks/3bnVBN67NBEzedqQuWrpP4",
         "id": "3bnVBN67NBEzedqQuWrpP4",
         "name": "Tear in My Heart",
-        "popularity": 75,
+        "popularity": 74,
         "uri": "spotify:track:3bnVBN67NBEzedqQuWrpP4",
         "is_local": false
       },
@@ -21579,7 +21579,7 @@
         "href": "https://api.spotify.com/v1/tracks/7kcApwUclbIw9B6MuVmqPc",
         "id": "7kcApwUclbIw9B6MuVmqPc",
         "name": "Overcompensate (edit)",
-        "popularity": 63,
+        "popularity": 62,
         "uri": "spotify:track:7kcApwUclbIw9B6MuVmqPc",
         "is_local": false
       },
@@ -22465,7 +22465,7 @@
         "href": "https://api.spotify.com/v1/tracks/01vv2AjxgP4uUyb8waYO5Y",
         "id": "01vv2AjxgP4uUyb8waYO5Y",
         "name": "Morph",
-        "popularity": 66,
+        "popularity": 65,
         "uri": "spotify:track:01vv2AjxgP4uUyb8waYO5Y",
         "is_local": false
       },
@@ -22929,7 +22929,7 @@
         "href": "https://api.spotify.com/v1/tracks/732E6ibFkQR5lNIPEeiEnx",
         "id": "732E6ibFkQR5lNIPEeiEnx",
         "name": "Choker",
-        "popularity": 63,
+        "popularity": 62,
         "uri": "spotify:track:732E6ibFkQR5lNIPEeiEnx",
         "is_local": false
       },
@@ -27867,7 +27867,7 @@
         "href": "https://api.spotify.com/v1/tracks/2XPmTamsj7d9i3gzLCL4JI",
         "id": "2XPmTamsj7d9i3gzLCL4JI",
         "name": "Redecorate",
-        "popularity": 63,
+        "popularity": 62,
         "uri": "spotify:track:2XPmTamsj7d9i3gzLCL4JI",
         "is_local": false
       },
@@ -28329,7 +28329,7 @@
         "href": "https://api.spotify.com/v1/tracks/6gFtgkh8ShkrJn52Cbdhxy",
         "id": "6gFtgkh8ShkrJn52Cbdhxy",
         "name": "Cut My Lip",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:6gFtgkh8ShkrJn52Cbdhxy",
         "is_local": false
       },
