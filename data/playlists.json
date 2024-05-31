@@ -1,5 +1,5 @@
 {
-  "total": 48,
+  "total": 47,
   "playlists": [
     {
       "collaborative": false,
@@ -48,7 +48,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ecaeb41c1b85f7a2e2bae855",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ecaeb41c1b85f7a2e2bae855",
           "width": null
         }
       ],
@@ -228,7 +228,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
           "width": null
         }
       ],
@@ -281,10 +281,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAKZ6yyFYk06f2E+K9JRwttHU1sFDnH",
+      "snapshot_id": "AAAKayc4JFwpZmcp33PSt9XWhUG5aua0",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 626
+        "total": 630
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -336,7 +336,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a2c774f7992a14acae7f8aca",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a2c774f7992a14acae7f8aca",
           "width": null
         }
       ],
@@ -408,7 +408,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8494a4220f439f526003610bc4",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8494a4220f439f526003610bc4",
           "width": null
         }
       ],
@@ -490,7 +490,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/night_default.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_default.jpg",
           "width": null
         }
       ],
@@ -505,7 +505,7 @@
       },
       "primary_color": "#ffffff",
       "public": true,
-      "snapshot_id": "AAAAAAAAAAADbFFp8l1C1vt5y0mbdqbI",
+      "snapshot_id": "AAAAAAAAAAB4OitV70eYL5EZG2LSMtMp",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -539,7 +539,7 @@
       },
       "primary_color": "#ffffff",
       "public": true,
-      "snapshot_id": "ZkO3mwAAAACuO5McKSz4kHqGcYO1xone",
+      "snapshot_id": "ZljDpgAAAABaDveJSo9us2rOrohpSjoZ",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZeKCadgRdKQ/tracks",
         "total": 145
@@ -583,7 +583,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYCwEpjSusKH>The Cardigans</a>, <a href=spotify:playlist:37i9dQZF1EIZdW2qKBCK2T>Sal Priadi</a>, <a href=spotify:playlist:37i9dQZF1EIVAnL1vgdDkU>The 1975</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIVAnL1vgdDkU>The 1975</a>, <a href=spotify:playlist:37i9dQZF1EIYCwEpjSusKH>The Cardigans</a>, <a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -592,7 +592,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/1tqZaCwM57UFKjWoYwMLrw/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/3mIj9lX2MWuHmhNCA7LSCW/en/default",
           "width": null
         }
       ],
@@ -607,47 +607,13 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAAAAAACHeW4UYBKKaW/0TMK/zCLS",
+      "snapshot_id": "AAAAAAAAAAAhfoUBvHZh9grEe4LdruIh",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
       },
       "type": "playlist",
       "uri": "spotify:playlist:37i9dQZF1EVJSvZp5AOML2"
-    },
-    {
-      "collaborative": false,
-      "description": "A Blend of music for wutsqo and hoot. Updates daily.",
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJGjX4DP4XuND"
-      },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJGjX4DP4XuND",
-      "id": "37i9dQZF1EJGjX4DP4XuND",
-      "images": [
-        {
-          "height": null,
-          "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_DEFAULT-forest-seafoam-en.jpg",
-          "width": null
-        }
-      ],
-      "name": "hoot + wutsqo",
-      "owner": {
-        "display_name": "Spotify",
-        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
-        "href": "https://api.spotify.com/v1/users/spotify",
-        "id": "spotify",
-        "type": "user",
-        "uri": "spotify:user:spotify"
-      },
-      "primary_color": null,
-      "public": true,
-      "snapshot_id": "AAAAAAAAAADW6m7DguTUti5z0Yg3M3OK",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJGjX4DP4XuND/tracks",
-        "total": 50
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1EJGjX4DP4XuND"
     },
     {
       "collaborative": false,
@@ -721,14 +687,14 @@
       "collaborative": false,
       "description": "A Blend of music for wutsqo and rere. Updates daily.",
       "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJy0HzFYw0OkA"
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJysIVWRVlG0O"
       },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJy0HzFYw0OkA",
-      "id": "37i9dQZF1EJy0HzFYw0OkA",
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJysIVWRVlG0O",
+      "id": "37i9dQZF1EJysIVWRVlG0O",
       "images": [
         {
           "height": null,
-          "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_DEFAULT-lavender-royal-en.jpg",
+          "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_DEFAULT-tangerine-red-en.jpg",
           "width": null
         }
       ],
@@ -743,13 +709,13 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAAAAAAB1J+E61FI950agQaw7TNIl",
+      "snapshot_id": "AAAAAAAAAAA3sFYmpNVWIqzXOMeykgHn",
       "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJy0HzFYw0OkA/tracks",
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJysIVWRVlG0O/tracks",
         "total": 50
       },
       "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1EJy0HzFYw0OkA"
+      "uri": "spotify:playlist:37i9dQZF1EJysIVWRVlG0O"
     },
     {
       "collaborative": false,
