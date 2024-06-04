@@ -1,20 +1,20 @@
 {
   "collaborative": false,
-  "description": "Listen to the new album Clancy and songs from Scaled And Icy, Trench, Blurryface, Vessel and more",
+  "description": "",
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 381938 },
+  "followers": { "href": null, "total": 382019 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8480f6823a195f2fa70b128472",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
       "width": null
     }
   ],
-  "name": "Twenty One Pilots - Clancy",
+  "name": "Twenty One Pilots Playlist ",
   "owner": {
     "display_name": "Twenty One Pilots",
     "external_urls": {
@@ -27,7 +27,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "AAACGnyGx3tpU1ERGFeqVUPm6DXr+cNT",
+  "snapshot_id": "AAACHB/Sczlyp2y9/rw5LO+FaqM9A+wt",
   "type": "playlist",
   "uri": "spotify:playlist:1WCRwQ0f4yT8tuIUUxP5m1",
   "tracks": [
@@ -1411,7 +1411,7 @@
         "href": "https://api.spotify.com/v1/tracks/1BANPzYIhCQkJ1ZFq2Fb0O",
         "id": "1BANPzYIhCQkJ1ZFq2Fb0O",
         "name": "Next Semester",
-        "popularity": 73,
+        "popularity": 74,
         "uri": "spotify:track:1BANPzYIhCQkJ1ZFq2Fb0O",
         "is_local": false
       },
@@ -2335,7 +2335,7 @@
         "href": "https://api.spotify.com/v1/tracks/7GVQS66ukm48XZVymA3ZUg",
         "id": "7GVQS66ukm48XZVymA3ZUg",
         "name": "Midwest Indigo",
-        "popularity": 75,
+        "popularity": 76,
         "uri": "spotify:track:7GVQS66ukm48XZVymA3ZUg",
         "is_local": false
       },
@@ -6031,7 +6031,7 @@
         "href": "https://api.spotify.com/v1/tracks/0ZucyPms79Cydv0RMYV2Oi",
         "id": "0ZucyPms79Cydv0RMYV2Oi",
         "name": "At The Risk Of Feeling Dumb",
-        "popularity": 74,
+        "popularity": 75,
         "uri": "spotify:track:0ZucyPms79Cydv0RMYV2Oi",
         "is_local": false
       },
@@ -15019,7 +15019,7 @@
         "href": "https://api.spotify.com/v1/tracks/1OpJNP2QNZ78TnewxSVybt",
         "id": "1OpJNP2QNZ78TnewxSVybt",
         "name": "Level of Concern",
-        "popularity": 60,
+        "popularity": 59,
         "uri": "spotify:track:1OpJNP2QNZ78TnewxSVybt",
         "is_local": false
       },
@@ -20257,7 +20257,7 @@
         "href": "https://api.spotify.com/v1/tracks/773xZHHSHJvC1z3AAtWgH6",
         "id": "773xZHHSHJvC1z3AAtWgH6",
         "name": "Ode to Sleep",
-        "popularity": 63,
+        "popularity": 62,
         "uri": "spotify:track:773xZHHSHJvC1z3AAtWgH6",
         "is_local": false
       },
@@ -21579,7 +21579,7 @@
         "href": "https://api.spotify.com/v1/tracks/7kcApwUclbIw9B6MuVmqPc",
         "id": "7kcApwUclbIw9B6MuVmqPc",
         "name": "Overcompensate (edit)",
-        "popularity": 62,
+        "popularity": 61,
         "uri": "spotify:track:7kcApwUclbIw9B6MuVmqPc",
         "is_local": false
       },
