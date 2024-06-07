@@ -21903,81 +21903,6 @@
     },
     {
       "album": {
-        "album_type": "SINGLE",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-            },
-            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
-            "id": "0hDjKSKjl1DC7ovYTDJHe8",
-            "name": "Bruno Major",
-            "type": "artist",
-            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
-        },
-        "href": "https://api.spotify.com/v1/albums/2S7z1CuntMrp5YhDvVRQA9",
-        "id": "2S7z1CuntMrp5YhDvVRQA9",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273fe4c72d5a1f7581e4fd9e4d2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02fe4c72d5a1f7581e4fd9e4d2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851fe4c72d5a1f7581e4fd9e4d2",
-            "width": 64
-          }
-        ],
-        "name": "We Were Never Really Friends",
-        "release_date": "2023-05-05",
-        "release_date_precision": "day",
-        "total_tracks": 1,
-        "type": "album",
-        "uri": "spotify:album:2S7z1CuntMrp5YhDvVRQA9"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
-          },
-          "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
-          "id": "0hDjKSKjl1DC7ovYTDJHe8",
-          "name": "Bruno Major",
-          "type": "artist",
-          "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 204325,
-      "explicit": false,
-      "external_ids": { "isrc": "QM6N22333318" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
-      },
-      "href": "https://api.spotify.com/v1/tracks/3oUam1JxcuLVFKaAr5MWnN",
-      "id": "3oUam1JxcuLVFKaAr5MWnN",
-      "is_local": false,
-      "name": "We Were Never Really Friends",
-      "popularity": 0,
-      "preview_url": "https://p.scdn.co/mp3-preview/af5d995076659adcbeb64997c5aa51611b833bfb?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-      "track_number": 1,
-      "type": "track",
-      "uri": "spotify:track:3oUam1JxcuLVFKaAr5MWnN"
-    },
-    {
-      "album": {
         "album_type": "ALBUM",
         "artists": [
           {
@@ -31344,6 +31269,81 @@
       "track_number": 12,
       "type": "track",
       "uri": "spotify:track:3Vy5o3HyApcsEwkD4sw9j6"
+    },
+    {
+      "album": {
+        "album_type": "SINGLE",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+            },
+            "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+            "id": "0hDjKSKjl1DC7ovYTDJHe8",
+            "name": "Bruno Major",
+            "type": "artist",
+            "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2S7z1CuntMrp5YhDvVRQA9"
+        },
+        "href": "https://api.spotify.com/v1/albums/2S7z1CuntMrp5YhDvVRQA9",
+        "id": "2S7z1CuntMrp5YhDvVRQA9",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273fe4c72d5a1f7581e4fd9e4d2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02fe4c72d5a1f7581e4fd9e4d2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851fe4c72d5a1f7581e4fd9e4d2",
+            "width": 64
+          }
+        ],
+        "name": "We Were Never Really Friends",
+        "release_date": "2023-05-05",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:2S7z1CuntMrp5YhDvVRQA9"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0hDjKSKjl1DC7ovYTDJHe8"
+          },
+          "href": "https://api.spotify.com/v1/artists/0hDjKSKjl1DC7ovYTDJHe8",
+          "id": "0hDjKSKjl1DC7ovYTDJHe8",
+          "name": "Bruno Major",
+          "type": "artist",
+          "uri": "spotify:artist:0hDjKSKjl1DC7ovYTDJHe8"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 204325,
+      "explicit": false,
+      "external_ids": { "isrc": "QM6N22333318" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3oUam1JxcuLVFKaAr5MWnN"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3oUam1JxcuLVFKaAr5MWnN",
+      "id": "3oUam1JxcuLVFKaAr5MWnN",
+      "is_local": false,
+      "name": "We Were Never Really Friends",
+      "popularity": 0,
+      "preview_url": "https://p.scdn.co/mp3-preview/af5d995076659adcbeb64997c5aa51611b833bfb?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3oUam1JxcuLVFKaAr5MWnN"
     },
     {
       "album": {

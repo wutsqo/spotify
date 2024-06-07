@@ -1,5 +1,5 @@
 {
-  "total": 47,
+  "total": 46,
   "playlists": [
     {
       "collaborative": false,
@@ -264,7 +264,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f7851a6d18af96141bc1d481",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f7851a6d18af96141bc1d481",
           "width": null
         }
       ],
@@ -281,10 +281,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAKeFAWUL5GqGrLFTF3FuMfJWnWMd5h",
+      "snapshot_id": "AAAKfkYckewyZ+hJm3Z7eDsMcpa/2mIQ",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 643
+        "total": 649
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -336,7 +336,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a2c774f7992a14acae7f8aca",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a2c774f7992a14acae7f8aca",
           "width": null
         }
       ],
@@ -490,7 +490,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers/night_default.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers/late-night_default.jpg",
           "width": null
         }
       ],
@@ -505,7 +505,7 @@
       },
       "primary_color": "#ffffff",
       "public": true,
-      "snapshot_id": "AAAAAAAAAAADbFFp8l1C1vt5y0mbdqbI",
+      "snapshot_id": "AAAAAAAAAAB4OitV70eYL5EZG2LSMtMp",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -583,7 +583,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a>, <a href=spotify:playlist:37i9dQZF1EIVNX3XbvPimn>The Neighbourhood</a>, <a href=spotify:playlist:37i9dQZF1EIYCwEpjSusKH>The Cardigans</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIVLRVklebOIE>Twenty One Pilots</a>, <a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a>, <a href=spotify:playlist:37i9dQZF1EIYCwEpjSusKH>The Cardigans</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -592,7 +592,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/6KImCVD70vtIoJWnq6nGn3/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/3YQKmKGau1PzlVlkL1iodx/en/default",
           "width": null
         }
       ],
@@ -607,47 +607,13 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAAAAAAAI/OXghCo6VgjHPinDK080",
+      "snapshot_id": "AAAAAAAAAAByIZc7nvVa5jSaxTCBIGYp",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
       },
       "type": "playlist",
       "uri": "spotify:playlist:37i9dQZF1EVJSvZp5AOML2"
-    },
-    {
-      "collaborative": false,
-      "description": "A Blend of music for wutsqo and Indirarara. Updates daily.",
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJEFQnFndDSPa"
-      },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJEFQnFndDSPa",
-      "id": "37i9dQZF1EJEFQnFndDSPa",
-      "images": [
-        {
-          "height": null,
-          "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_DEFAULT-royal-aqua-en.jpg",
-          "width": null
-        }
-      ],
-      "name": "Indirarara + wutsqo",
-      "owner": {
-        "display_name": "Spotify",
-        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
-        "href": "https://api.spotify.com/v1/users/spotify",
-        "id": "spotify",
-        "type": "user",
-        "uri": "spotify:user:spotify"
-      },
-      "primary_color": null,
-      "public": true,
-      "snapshot_id": "AAAAAAAAAABsR1QdECV4u1Q5/s271PdG",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJEFQnFndDSPa/tracks",
-        "total": 50
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1EJEFQnFndDSPa"
     },
     {
       "collaborative": false,
@@ -1352,7 +1318,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da849be75f0b15e315de658a9e56",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849be75f0b15e315de658a9e56",
           "width": null
         }
       ],
