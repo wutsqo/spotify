@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3o8hQKm00gKgZz4F9SJzlu/clip_1190750_1249100.mp3",
+      "description": "The police office ran through the apartment complex - only stopping to investigate a suspicious looking Korean girl in a blue mustang.  “What unit?” “656” she said.  The exact unit he was called to for a potential home invasion and hostage situation.  “What’s your name?” “My name is Sunny Han.” He tried to memorize her face before running to the unit. They found in the apartment 2 college girls had been tied up by gunmen. They were trying to kill the girls.  As the officer is interviewing the two female victims he can’t help but shake the feeling of deja vu.  “Wait, I’m sorry what did you say your name was?” “Sunny. Sunny Han.” But that’s not possible. How can someone be two places at once?    Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4008531,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3jTD0vCyoEYzKx6CpJv964"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3jTD0vCyoEYzKx6CpJv964",
+      "html_description": "<p>The police office ran through the apartment complex - only stopping to investigate a suspicious looking Korean girl in a blue mustang. </p><br/><p>“What unit?”</p><br/><p>“656” she said. </p><br/><p>The exact unit he was called to for a potential home invasion and hostage situation. </p><br/><p>“What’s your name?”</p><br/><p>“My name is Sunny Han.”</p><br/><p>He tried to memorize her face before running to the unit. They found in the apartment 2 college girls had been tied up by gunmen. They were trying to kill the girls. </p><br/><p>As the officer is interviewing the two female victims he can’t help but shake the feeling of deja vu. </p><br/><p>“Wait, I’m sorry what did you say your name was?”</p><br/><p>“Sunny. Sunny Han.”</p><br/><p>But that’s not possible. How can someone be two places at once? </p><br/><p><br /></p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "3jTD0vCyoEYzKx6CpJv964",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Korean “Evil” Twin Tried To Kill “Perfect” Sister To Take Over Her Identity ",
+      "release_date": "2024-06-09",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3jTD0vCyoEYzKx6CpJv964"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3RClHUp7AIxotARp7czyOl/clip_2123100_2181700.mp3",
       "description": "It was supposed to be a cute little road trip.  12-year-old Isabella, her best friend Asunta, and Isabella’s mom were in the car heading towards the beach.  Isabella’s mom tried to keep the spirits high for the girls -  “Okay, why don’t we all share a story! Get our creative juices flowing!” 12-year-old Asunta offers to start. Her voice suddenly shaky -  “There once was a girl who laid in her bed to sleep. She awoke to a man in a mask dragging her body off her bed, covering her mouth, and then choking her with his big strong hands. The girl could not breathe. She could not scream. She was going to die.” Isabella’s mom pulls the car over to the side of the road because Asunta is bawling her eyes out. “Sweetie, are you alright?” Asunta was not alright. This was a true story, and it happened to Asunta - a man broke into their home and tried to kill her.  But when Isabella’s mom talks to Asunta’s parents about it - she’s even more confused. Why are they not freaked out? Why didn’t they report this to the police? Who is this masked man, and is he still out there? Why would he want to kill Asunta? And did the man come back? Because 2 months later, Asunta would be murdered.  Soon - everyone in Asunta’s life would become a prime suspect. Including her wealthy adoptive parents.     Full Source Notes: rottenmangopodcast.com ",
       "duration_ms": 6896617,
@@ -4803,7 +4841,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
