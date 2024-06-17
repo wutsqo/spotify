@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4czv2D1qBdSZ4xEfGccpFR/clip_2929300_2982160.mp3",
+      "description": "“I’m going to use the restroom real quick.” Jia’s husband opens his eyes and looks at his phone. It’s 1AM. The two of them are on an overnight train heading home. He blinks before ripping his blanket off to escort his wife -  “No, it’s okay. I have my phone with me. Just stay here. I’ll be back quick.” She leaves for the restroom - careful to not wake up any of the other passengers in the sleeper carriage. She climbs down the bunk bed steps and balances through the aisle to the restroom.  BAM. Jia’s husband eye’s fly open and he checks the time. 1:30AM. It’s been thirty minutes and his wife is not back from the restroom. Strange…  He searches the entire carriage before alerting the train conductor…  “Please you have to help my wife is missing!” The train conductor smiles at him.  “Don’t be ridiculous. Nobody goes missing on a moving train.”  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 3359273,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5dndCKOtUZKOdEqtMfEqzL"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5dndCKOtUZKOdEqtMfEqzL",
+      "html_description": "<p>“I’m going to use the restroom real quick.”</p><br/><p>Jia’s husband opens his eyes and looks at his phone. It’s 1AM. The two of them are on an overnight train heading home. He blinks before ripping his blanket off to escort his wife - </p><br/><p>“No, it’s okay. I have my phone with me. Just stay here. I’ll be back quick.”</p><br/><p>She leaves for the restroom - careful to not wake up any of the other passengers in the sleeper carriage. She climbs down the bunk bed steps and balances through the aisle to the restroom. </p><br/><p>BAM. Jia’s husband eye’s fly open and he checks the time. 1:30AM. It’s been thirty minutes and his wife is not back from the restroom. Strange… </p><br/><p>He searches the entire carriage before alerting the train conductor… </p><br/><p>“Please you have to help my wife is missing!”</p><br/><p>The train conductor smiles at him.</p><br/><p><br /></p><br/><p>“Don’t be ridiculous. Nobody goes missing on a moving train.”<br /></p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "5dndCKOtUZKOdEqtMfEqzL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "His Wife Vanished On A Moving Train - Everybody On Train Is A Suspect",
+      "release_date": "2024-06-16",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5dndCKOtUZKOdEqtMfEqzL"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3o8hQKm00gKgZz4F9SJzlu/clip_1190750_1249100.mp3",
       "description": "The police office ran through the apartment complex - only stopping to investigate a suspicious looking Korean girl in a blue mustang.  “What unit?” “656” she said.  The exact unit he was called to for a potential home invasion and hostage situation.  “What’s your name?” “My name is Sunny Han.” He tried to memorize her face before running to the unit. They found in the apartment 2 college girls had been tied up by gunmen. They were trying to kill the girls.  As the officer is interviewing the two female victims he can’t help but shake the feeling of deja vu.  “Wait, I’m sorry what did you say your name was?” “Sunny. Sunny Han.” But that’s not possible. How can someone be two places at once?    Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4008531,
@@ -4841,7 +4879,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
