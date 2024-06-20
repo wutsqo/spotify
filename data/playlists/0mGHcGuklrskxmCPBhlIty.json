@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0mGHcGuklrskxmCPBhlIty"
   },
-  "followers": { "href": null, "total": 225 },
+  "followers": { "href": null, "total": 226 },
   "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty?locale=*",
   "id": "0mGHcGuklrskxmCPBhlIty",
   "images": [
@@ -945,7 +945,7 @@
         "href": "https://api.spotify.com/v1/tracks/1mRmNpeDpEbPXQluq7hmTe",
         "id": "1mRmNpeDpEbPXQluq7hmTe",
         "name": "Rainy Night in Georgia",
-        "popularity": 27,
+        "popularity": 28,
         "uri": "spotify:track:1mRmNpeDpEbPXQluq7hmTe",
         "is_local": false
       },
