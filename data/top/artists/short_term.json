@@ -1,11 +1,11 @@
 {
-  "total": 4,
+  "total": 3,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81"
       },
-      "followers": { "href": null, "total": 23032829 },
+      "followers": { "href": null, "total": 23036444 },
       "genres": ["pop", "uk pop"],
       "href": "https://api.spotify.com/v1/artists/5ZsFI1h6hIdQRw2ti0hz81",
       "id": "5ZsFI1h6hIdQRw2ti0hz81",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
       },
-      "followers": { "href": null, "total": 24296489 },
+      "followers": { "href": null, "total": 24301079 },
       "genres": ["modern rock", "pop", "pov: indie", "rock"],
       "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
       "id": "3YQKmKGau1PzlVlkL1iodx",
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
       },
-      "followers": { "href": null, "total": 2752199 },
+      "followers": { "href": null, "total": 2752941 },
       "genres": ["pov: indie"],
       "href": "https://api.spotify.com/v1/artists/0NIPkIjTV8mB795yEIiPYL",
       "id": "0NIPkIjTV8mB795yEIiPYL",
@@ -90,42 +90,6 @@
       "popularity": 72,
       "type": "artist",
       "uri": "spotify:artist:0NIPkIjTV8mB795yEIiPYL"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-      },
-      "followers": { "href": null, "total": 7216673 },
-      "genres": [
-        "modern alternative rock",
-        "modern rock",
-        "pop",
-        "pov: indie",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
-      "id": "3mIj9lX2MWuHmhNCA7LSCW",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb89348336354096fd4e36ca73",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517489348336354096fd4e36ca73",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17889348336354096fd4e36ca73",
-          "width": 160
-        }
-      ],
-      "name": "The 1975",
-      "popularity": 75,
-      "type": "artist",
-      "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
     }
   ]
 }
