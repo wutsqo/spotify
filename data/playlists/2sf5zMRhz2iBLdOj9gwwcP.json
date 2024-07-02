@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/2sf5zMRhz2iBLdOj9gwwcP"
   },
-  "followers": { "href": null, "total": 2469 },
+  "followers": { "href": null, "total": 2472 },
   "href": "https://api.spotify.com/v1/playlists/2sf5zMRhz2iBLdOj9gwwcP?locale=*",
   "id": "2sf5zMRhz2iBLdOj9gwwcP",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
       "width": null
     }
   ],
@@ -2869,7 +2869,7 @@
         "href": "https://api.spotify.com/v1/tracks/71ytDkCnYc11VRiRCrhDHX",
         "id": "71ytDkCnYc11VRiRCrhDHX",
         "name": "Only Ones Who Know",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:71ytDkCnYc11VRiRCrhDHX",
         "is_local": false
       },
@@ -7119,7 +7119,7 @@
         "href": "https://api.spotify.com/v1/tracks/605E2oDpy3uSIhbRFcrQyn",
         "id": "605E2oDpy3uSIhbRFcrQyn",
         "name": "Despair In The Departure Lounge",
-        "popularity": 50,
+        "popularity": 51,
         "uri": "spotify:track:605E2oDpy3uSIhbRFcrQyn",
         "is_local": false
       },
