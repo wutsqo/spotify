@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2qtvAoSSrSNccTdG7dr6iW/clip_1434700_1486300.mp3",
+      "description": "A church in South Carolina has gone viral recently--even making national headlines. A young pastor by the name of JP is caught on a recorded sermon saying: “One day I’m going to preach about getting rich, strong, healthy, and finding a hot wife that loves Jesus!”  The congregation laughs awkwardly because on his left hand ring finger is a wedding band—he’s already married—but he won’t be for much longer.   Just a few weeks later, Pastor JP’s wife—14 years younger than him—is found face down, submerged in a marsh, an entire state away.  Just four days after that, the media reports that Pastor JP was drinking at a bar with a woman thought to be his mistress.  This is the ongoing investigation into the tragic death of Mica Francis Miller.   Mica Francis Miller’s Go Fund Me link: https://www.gofundme.com/f/justiceformica  Official Justice For Mica website link: https://justiceformica.com/home  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 7934420,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5mAR4pS4vsYr0yTbIANsbO"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5mAR4pS4vsYr0yTbIANsbO",
+      "html_description": "<p>A church in South Carolina has gone viral recently--even making national headlines. A young pastor by the name of JP is caught on a recorded sermon saying:</p><br/><p>“One day I’m going to preach about getting rich, strong, healthy, and finding a hot wife that loves Jesus!” </p><br/><p>The congregation laughs awkwardly because on his left hand ring finger is a wedding band—he’s already married—but he won’t be for much longer. </p><br/><p><br /></p><br/><p>Just a few weeks later, Pastor JP’s wife—14 years younger than him—is found face down, submerged in a marsh, an entire state away. </p><br/><p>Just four days after that, the media reports that Pastor JP was drinking at a bar with a woman thought to be his mistress. </p><br/><p>This is the ongoing investigation into the tragic death of Mica Francis Miller. </p><br/><p><br /></p><br/><p>Mica Francis Miller’s Go Fund Me link: <a href=\"https://www.gofundme.com/f/justiceformica\" rel=\"nofollow\">https://www.gofundme.com/f/justiceformica</a> </p><br/><p>Official Justice For Mica website link: <a href=\"https://justiceformica.com/home\" rel=\"nofollow\">https://justiceformica.com/home</a> </p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "5mAR4pS4vsYr0yTbIANsbO",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Toxic Pastor Humiliates Wife In Sermon, She Leaves Him, Then Found Mysteriously Dead In River",
+      "release_date": "2024-07-03",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5mAR4pS4vsYr0yTbIANsbO"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7qggf0CiiKtNrFCH3DZ97S/clip_3032650_3081400.mp3",
       "description": "3 people are sitting at a table in a diner. Miriam, a middle aged woman sits stiffly, and across from her are two young men. One of them fiddles with a radio; a police scanner. He leans towards Miriam as if they’re sharing a secret across the table. “Your daughter smoke weed or something?” She gives him a look. Radio man continues, “I mean… she’s just so relaxed. Easy to deal with which is good. I like that. That’s why I want to let her go… for a price.”  He tells Miriam that he will convince his boss to spare her daughter from a torturous death for $2k USD cash. Miriam suppresses a smile; she has to play along or else everything she’s planned will fall apart.  Her daughter Karen had been kidnapped by one of the most dangerous cartels in all of Mexico and Miriam knew that nobody gets taken by that cartel and gets out alive. She also knew that she would not stop until she took every single member out for what they had done to her family.  Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4716222,
@@ -4994,7 +5032,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }

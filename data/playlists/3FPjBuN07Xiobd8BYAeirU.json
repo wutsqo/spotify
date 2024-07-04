@@ -16,14 +16,12 @@
   ],
   "name": "Dave Lantai 17",
   "owner": {
-    "display_name": "Alyaratri",
-    "external_urls": {
-      "spotify": "https://open.spotify.com/user/21q5cxll4sbi4fyj5lmovn5ry"
-    },
-    "href": "https://api.spotify.com/v1/users/21q5cxll4sbi4fyj5lmovn5ry",
-    "id": "21q5cxll4sbi4fyj5lmovn5ry",
+    "display_name": null,
+    "external_urls": { "spotify": "https://open.spotify.com/user/null" },
+    "href": "https://api.spotify.com/v1/users/null",
+    "id": null,
     "type": "user",
-    "uri": "spotify:user:21q5cxll4sbi4fyj5lmovn5ry"
+    "uri": null
   },
   "primary_color": null,
   "public": true,
@@ -1873,7 +1871,7 @@
         "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
         "id": "0j3mqDTK4Z6lvrLzFCUUz6",
         "name": "Good Looking",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
         "is_local": false
       },
@@ -2797,7 +2795,7 @@
         "href": "https://api.spotify.com/v1/tracks/7KA4W4McWYRpgf0fWsJZWB",
         "id": "7KA4W4McWYRpgf0fWsJZWB",
         "name": "See You Again (feat. Kali Uchis)",
-        "popularity": 88,
+        "popularity": 89,
         "uri": "spotify:track:7KA4W4McWYRpgf0fWsJZWB",
         "is_local": false
       },
@@ -7009,7 +7007,7 @@
         "href": "https://api.spotify.com/v1/tracks/3EaJDYHA0KnX88JvDhL9oa",
         "id": "3EaJDYHA0KnX88JvDhL9oa",
         "name": "Dark Red",
-        "popularity": 84,
+        "popularity": 85,
         "uri": "spotify:track:3EaJDYHA0KnX88JvDhL9oa",
         "is_local": false
       },
