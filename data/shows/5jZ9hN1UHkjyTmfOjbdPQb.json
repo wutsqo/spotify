@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2qbQYNfeAsekHpHclX5EBH/clip_2457810_2510611.mp3",
+      "description": "A young man calls the police around 3:30 am to report that he had just been physically assaulted by his ex-girlfriend. Officers are dispatched and the caller greets them with a few red scratches on his face. He had gone over to his ex-girlfriend’s apartment to break up with her—but that’s when she went crazy; scratching his face and twisting his arm. The officers ask the man for her name.  Goo Hara. A K-pop idol from the girl group KARA.    When the police begin investigating, the man’s story begins to fall apart. If what he’s saying is true, why is there CCTV footage of Goo Hara on her knees—seemingly begging the young man? Why did he email Dispatch, a Korean tabloid, twice during this so-called ‘one sided assault?’ And what does all of this have to do with Burning Sun?  A couple of months pass, and Goo Hara helps reporters blow the lid off the Burning Sun case.  Not even a year later, she is found dead.  This is part two of Burning Sun. Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 5221374,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3LTekla5ax1Kz7MQ0Q78Tf"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3LTekla5ax1Kz7MQ0Q78Tf",
+      "html_description": "<p>A young man calls the police around 3:30 am to report that he had just been physically assaulted by his ex-girlfriend. Officers are dispatched and the caller greets them with a few red scratches on his face. He had gone over to his ex-girlfriend’s apartment to break up with her—but that’s when she went crazy; scratching his face and twisting his arm. The officers ask the man for her name. </p><br/><p>Goo Hara. A K-pop idol from the girl group KARA. </p><br/><p> </p><br/><p>When the police begin investigating, the man’s story begins to fall apart. If what he’s saying is true, why is there CCTV footage of Goo Hara on her knees—seemingly begging the young man? Why did he email Dispatch, a Korean tabloid, twice during this so-called ‘one sided assault?’ And what does all of this have to do with Burning Sun? </p><br/><p>A couple of months pass, and Goo Hara helps reporters blow the lid off the Burning Sun case. </p><br/><p>Not even a year later, she is found dead. </p><br/><p>This is part two of Burning Sun.<br /></p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "3LTekla5ax1Kz7MQ0Q78Tf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "K-pop Idol Goo Hara Helped Expose the BURNING SUN Sex Scandal In Her Final Days",
+      "release_date": "2024-07-07",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3LTekla5ax1Kz7MQ0Q78Tf"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2qtvAoSSrSNccTdG7dr6iW/clip_1434700_1486300.mp3",
       "description": "A church in South Carolina has gone viral recently--even making national headlines. A young pastor by the name of JP is caught on a recorded sermon saying: “One day I’m going to preach about getting rich, strong, healthy, and finding a hot wife that loves Jesus!”  The congregation laughs awkwardly because on his left hand ring finger is a wedding band—he’s already married—but he won’t be for much longer.   Just a few weeks later, Pastor JP’s wife—14 years younger than him—is found face down, submerged in a marsh, an entire state away.  Just four days after that, the media reports that Pastor JP was drinking at a bar with a woman thought to be his mistress.  This is the ongoing investigation into the tragic death of Mica Francis Miller.   Mica Francis Miller’s Go Fund Me link: https://www.gofundme.com/f/justiceformica  Official Justice For Mica website link: https://justiceformica.com/home  Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 7934420,
@@ -5032,7 +5070,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }
