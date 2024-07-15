@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0mGHcGuklrskxmCPBhlIty"
   },
-  "followers": { "href": null, "total": 228 },
+  "followers": { "href": null, "total": 229 },
   "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty?locale=*",
   "id": "0mGHcGuklrskxmCPBhlIty",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846e000d7fc90982490a7e3e11",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846e000d7fc90982490a7e3e11",
       "width": null
     }
   ],
@@ -487,7 +487,7 @@
         "href": "https://api.spotify.com/v1/tracks/6bJuuCtXYiwOcKT9s8uRh8",
         "id": "6bJuuCtXYiwOcKT9s8uRh8",
         "name": "California Girls - Remix/Remastered 2001",
-        "popularity": 59,
+        "popularity": 60,
         "uri": "spotify:track:6bJuuCtXYiwOcKT9s8uRh8",
         "is_local": false
       },
@@ -945,7 +945,7 @@
         "href": "https://api.spotify.com/v1/tracks/1mRmNpeDpEbPXQluq7hmTe",
         "id": "1mRmNpeDpEbPXQluq7hmTe",
         "name": "Rainy Night in Georgia",
-        "popularity": 31,
+        "popularity": 32,
         "uri": "spotify:track:1mRmNpeDpEbPXQluq7hmTe",
         "is_local": false
       },

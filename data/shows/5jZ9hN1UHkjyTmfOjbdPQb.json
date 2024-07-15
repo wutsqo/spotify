@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/28IZa3h3k9namWNnYVs8qh/clip_645800_698950.mp3",
+      "description": "The police had a strange situation on their hands.  A thief had broken into a multi-million dollar home - to steal a safe.   The safe had 3 items in it.  Jewelry.  Investment documents.  And the home owner’s old phones.   The police were able to quickly determine that the thief did not want the jewelry or the investment documents in the safe. Which means - the thief is going after the home owner’s old phones.   Why would a thief want some old phones? Was there something on there that they didn’t want anyone else to see?  But most puzzling is - who would do this to Goo Hara? The home belonged to a k-pop idol who had just died just 49 days ago.   What did they want from her safe? And how does this connect to the Burning Sun case? Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 7041641,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2I0cDu5OvWT3mmsA6gHaO4"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2I0cDu5OvWT3mmsA6gHaO4",
+      "html_description": "<p>The police had a strange situation on their hands. </p><br/><p>A thief had broken into a multi-million dollar home - to steal a safe. </p><br/><p><br /></p><br/><p>The safe had 3 items in it. </p><br/><p>Jewelry. </p><br/><p>Investment documents. </p><br/><p>And the home owner’s old phones. </p><br/><p><br /></p><br/><p>The police were able to quickly determine that the thief did not want the jewelry or the investment documents in the safe. Which means - the thief is going after the home owner’s old phones. </p><br/><p><br /></p><br/><p>Why would a thief want some old phones? Was there something on there that they didn’t want anyone else to see?</p><br/><p><br /></p><br/><p>But most puzzling is - who would do this to Goo Hara?</p><br/><p>The home belonged to a k-pop idol who had just died just 49 days ago. </p><br/><p><br /></p><br/><p>What did they want from her safe?</p><br/><p>And how does this connect to the Burning Sun case?<br /></p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "2I0cDu5OvWT3mmsA6gHaO4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Burning Sun’s K-Pop Idols Released From Prison - Now Trying To Make Comeback & Open New Club",
+      "release_date": "2024-07-14",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2I0cDu5OvWT3mmsA6gHaO4"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7mEBnWsaf6SlerHzEOpU9c/clip_1345120_1391800.mp3",
       "description": " There’s this fascinating little town called ‘Little Japan.’ It’s a gated community with cookie cutter houses, though they boast beautiful chandeliers, heated floors, and all of them have a matching set of priceless portraits hanging on their walls.  The residents are nine Japanese families, hence the name, and they have their own private chefs, maids, even chauffeurs in black Mercedes. A small movie theater, a massive sauna house, and a grocery store where they never have to pay. The catch? If they ever want to leave the community ‘gates,’ they must ask for permission from the Supreme Leader… The town itself is not even an hour outside of North Korea’s capital.  The families themselves are neither Japanese nor North Korean royalty, nor are they diplomats or even government officials either.  They’re a gang of hijackers. Hijackers who stole a plane and flew it into North Korea—and now the distinguished guests of Kim regime’s were to become his secret weapon.  Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4452777,
@@ -5108,7 +5146,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }
