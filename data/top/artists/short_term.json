@@ -1,11 +1,41 @@
 {
-  "total": 5,
+  "total": 7,
   "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+      },
+      "followers": { "href": null, "total": 42925310 },
+      "genres": ["canadian pop", "pop", "viral pop"],
+      "href": "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
+      "id": "7n2wHs1TKAczGzO7Dd2rGr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb93e1fe183be0aebda170283a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517493e1fe183be0aebda170283a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17893e1fe183be0aebda170283a",
+          "width": 160
+        }
+      ],
+      "name": "Shawn Mendes",
+      "popularity": 81,
+      "type": "artist",
+      "uri": "spotify:artist:7n2wHs1TKAczGzO7Dd2rGr"
+    },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 5750269 },
+      "followers": { "href": null, "total": 5752318 },
       "genres": [
         "alternative rock",
         "garage rock",
@@ -41,7 +71,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
       },
-      "followers": { "href": null, "total": 7350535 },
+      "followers": { "href": null, "total": 7352137 },
       "genres": [
         "alternative rock",
         "dance rock",
@@ -75,9 +105,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2AL02x65Azh5v7Drur4KNp"
+      },
+      "followers": { "href": null, "total": 42297 },
+      "genres": ["violin"],
+      "href": "https://api.spotify.com/v1/artists/2AL02x65Azh5v7Drur4KNp",
+      "id": "2AL02x65Azh5v7Drur4KNp",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/a82b3bb7d04578e64a3c11f4487e1cf12f18a6b2",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/d1c450f7065b7fe43566291a084203b663c76847",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/67eb9a39255f451ac81c249f2237c79d25f1d231",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/976ac001eaf8d5f694500081045e24d0df69aa10",
+          "width": 64
+        }
+      ],
+      "name": "Maxim Vengerov",
+      "popularity": 36,
+      "type": "artist",
+      "uri": "spotify:artist:2AL02x65Azh5v7Drur4KNp"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       },
-      "followers": { "href": null, "total": 10143891 },
+      "followers": { "href": null, "total": 10148940 },
       "genres": [
         "alternative rock",
         "art rock",
@@ -114,7 +179,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
       },
-      "followers": { "href": null, "total": 51504136 },
+      "followers": { "href": null, "total": 51523767 },
       "genres": ["permanent wave", "pop"],
       "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
       "id": "4gzpq5DPGxSnKTe4SA8HAU",
@@ -144,7 +209,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
-      "followers": { "href": null, "total": 7939224 },
+      "followers": { "href": null, "total": 7943027 },
       "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
       "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
       "id": "5INjqkS1o8h1imAzPqGZBb",
