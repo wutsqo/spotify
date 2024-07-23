@@ -1,11 +1,11 @@
 {
-  "total": 7,
+  "total": 15,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
       },
-      "followers": { "href": null, "total": 42925310 },
+      "followers": { "href": null, "total": 42930797 },
       "genres": ["canadian pop", "pop", "viral pop"],
       "href": "https://api.spotify.com/v1/artists/7n2wHs1TKAczGzO7Dd2rGr",
       "id": "7n2wHs1TKAczGzO7Dd2rGr",
@@ -33,9 +33,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+      },
+      "followers": { "href": null, "total": 24389154 },
+      "genres": ["modern rock", "pop", "pov: indie", "rock"],
+      "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+      "id": "3YQKmKGau1PzlVlkL1iodx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb274df4dfcb960867eccedfb5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174274df4dfcb960867eccedfb5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178274df4dfcb960867eccedfb5",
+          "width": 160
+        }
+      ],
+      "name": "Twenty One Pilots",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 5752318 },
+      "followers": { "href": null, "total": 5754377 },
       "genres": [
         "alternative rock",
         "garage rock",
@@ -69,9 +99,116 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+      },
+      "followers": { "href": null, "total": 50360454 },
+      "genres": ["classic rock", "glam rock", "rock"],
+      "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
+      "id": "1dfeR4HaWDbWqFHLkxsg1d",
+      "images": [
+        {
+          "height": 806,
+          "url": "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982",
+          "width": 999
+        },
+        {
+          "height": 516,
+          "url": "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42",
+          "width": 640
+        },
+        {
+          "height": 161,
+          "url": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
+          "width": 200
+        },
+        {
+          "height": 52,
+          "url": "https://i.scdn.co/image/6dd0ffd270903d1884edf9058c49f58b03db893d",
+          "width": 64
+        }
+      ],
+      "name": "Queen",
+      "popularity": 84,
+      "type": "artist",
+      "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+      },
+      "followers": { "href": null, "total": 27820069 },
+      "genres": [
+        "british invasion",
+        "classic rock",
+        "merseybeat",
+        "psychedelic rock",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+      "id": "3WrFJ7ztbogyGnTHbHJFl2",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e9348cc01ff5d55971b22433",
+          "width": 160
+        }
+      ],
+      "name": "The Beatles",
+      "popularity": 84,
+      "type": "artist",
+      "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+      },
+      "followers": { "href": null, "total": 25381445 },
+      "genres": [
+        "garage rock",
+        "modern rock",
+        "permanent wave",
+        "rock",
+        "sheffield indie"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
+      "id": "7Ln80lUS6He07XvHI8qqHH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051747da39dea0a72f581535fb11f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1787da39dea0a72f581535fb11f",
+          "width": 160
+        }
+      ],
+      "name": "Arctic Monkeys",
+      "popularity": 85,
+      "type": "artist",
+      "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
       },
-      "followers": { "href": null, "total": 7352137 },
+      "followers": { "href": null, "total": 7353619 },
       "genres": [
         "alternative rock",
         "dance rock",
@@ -105,9 +242,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "followers": { "href": null, "total": 6120889 },
+      "genres": ["canadian contemporary r&b"],
+      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
+          "width": 160
+        }
+      ],
+      "name": "Daniel Caesar",
+      "popularity": 80,
+      "type": "artist",
+      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2AL02x65Azh5v7Drur4KNp"
       },
-      "followers": { "href": null, "total": 42297 },
+      "followers": { "href": null, "total": 42316 },
       "genres": ["violin"],
       "href": "https://api.spotify.com/v1/artists/2AL02x65Azh5v7Drur4KNp",
       "id": "2AL02x65Azh5v7Drur4KNp",
@@ -140,9 +307,75 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+      },
+      "followers": { "href": null, "total": 10132217 },
+      "genres": [
+        "beatlesque",
+        "britpop",
+        "madchester",
+        "permanent wave",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/2DaxqgrOhkeH0fpeiQq2f4",
+      "id": "2DaxqgrOhkeH0fpeiQq2f4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0522e98a6f0cf1ddbee9a74f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740522e98a6f0cf1ddbee9a74f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780522e98a6f0cf1ddbee9a74f",
+          "width": 160
+        }
+      ],
+      "name": "Oasis",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:2DaxqgrOhkeH0fpeiQq2f4"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+      },
+      "followers": { "href": null, "total": 14531304 },
+      "genres": ["lgbtq+ hip hop", "neo soul"],
+      "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+      "id": "2h93pZq0e7k5yf4dywlkpM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ee3123e593174208f9754fab",
+          "width": 160
+        }
+      ],
+      "name": "Frank Ocean",
+      "popularity": 86,
+      "type": "artist",
+      "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       },
-      "followers": { "href": null, "total": 10148940 },
+      "followers": { "href": null, "total": 10154003 },
       "genres": [
         "alternative rock",
         "art rock",
@@ -179,7 +412,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
       },
-      "followers": { "href": null, "total": 51523767 },
+      "followers": { "href": null, "total": 51543559 },
       "genres": ["permanent wave", "pop"],
       "href": "https://api.spotify.com/v1/artists/4gzpq5DPGxSnKTe4SA8HAU",
       "id": "4gzpq5DPGxSnKTe4SA8HAU",
@@ -209,7 +442,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
-      "followers": { "href": null, "total": 7943027 },
+      "followers": { "href": null, "total": 7946353 },
       "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
       "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
       "id": "5INjqkS1o8h1imAzPqGZBb",
@@ -234,6 +467,36 @@
       "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+      },
+      "followers": { "href": null, "total": 16964675 },
+      "genres": ["modern alternative rock", "modern rock", "pop"],
+      "href": "https://api.spotify.com/v1/artists/77SW9BnxLY8rJ0RciFqkHh",
+      "id": "77SW9BnxLY8rJ0RciFqkHh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdf0b5ac84376a0a4b2166816",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174df0b5ac84376a0a4b2166816",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178df0b5ac84376a0a4b2166816",
+          "width": 160
+        }
+      ],
+      "name": "The Neighbourhood",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
     }
   ]
 }
