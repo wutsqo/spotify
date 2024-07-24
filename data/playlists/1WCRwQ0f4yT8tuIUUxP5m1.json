@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 388509 },
+  "followers": { "href": null, "total": 388567 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
@@ -949,7 +949,7 @@
         "href": "https://api.spotify.com/v1/tracks/1LAlLBTGBUO0MDA8IbSysd",
         "id": "1LAlLBTGBUO0MDA8IbSysd",
         "name": "Overcompensate",
-        "popularity": 73,
+        "popularity": 72,
         "uri": "spotify:track:1LAlLBTGBUO0MDA8IbSysd",
         "is_local": false
       },
@@ -2797,7 +2797,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bDIAWaOBGAAk95nyXI6zJ",
         "id": "4bDIAWaOBGAAk95nyXI6zJ",
         "name": "Routines In The Night",
-        "popularity": 75,
+        "popularity": 74,
         "uri": "spotify:track:4bDIAWaOBGAAk95nyXI6zJ",
         "is_local": false
       },
@@ -5107,7 +5107,7 @@
         "href": "https://api.spotify.com/v1/tracks/5QPGnFslbDUQ7mDteKn3By",
         "id": "5QPGnFslbDUQ7mDteKn3By",
         "name": "Snap Back",
-        "popularity": 70,
+        "popularity": 69,
         "uri": "spotify:track:5QPGnFslbDUQ7mDteKn3By",
         "is_local": false
       },
