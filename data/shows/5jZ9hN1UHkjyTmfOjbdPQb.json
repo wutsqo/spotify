@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2pJxmE7jI1SXCiL6K3brU0/clip_1312650_1365250.mp3",
+      "description": "7-year-old Mary Galvin has plans to kill her older brother. The way he roams around town with that empty gaze. The way their parents refuse to talk about his behavior. It was all going to end.  Mary had her older brother, Donald Galvin, tied to a tree as she gathers sticks to pile at his feet. He is a witch about to be burnt at the stake.  Donald is more than happy to play along. In the end, Mary backs out of her plan to kill him—she didn’t bring matches along and by the time she realizes what she’s really doing—she’s sprinting away like it never happened. Donald is fine either way. If she had gone through with it he would’ve happily died right then and there because to him, Mary is more than just his little sister.  She is the Virgin Mary. The Mother of Christ himself—and it makes sense—because they’re not even real siblings. Donald had been switched at birth and his real mother is actually an octopus.  This is the story of the ‘most mentally disturbed family in America’ (according to one psychiatrist). 12 full blood siblings living in one house. 6 out of the 12 siblings would be diagnosed with schizophrenia. This is the case of the Galvin family.    Donate To The Galvin Family Trust: https://galvinfamilytrust.org/   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 6443198,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3ddHLTHs5whMRqmkE3jtsh"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3ddHLTHs5whMRqmkE3jtsh",
+      "html_description": "<p>7-year-old Mary Galvin has plans to kill her older brother. The way he roams around town with that empty gaze. The way their parents refuse to talk about his behavior. It was all going to end. </p><br/><p>Mary had her older brother, Donald Galvin, tied to a tree as she gathers sticks to pile at his feet. He is a witch about to be burnt at the stake. </p><br/><p>Donald is more than happy to play along. In the end, Mary backs out of her plan to kill him—she didn’t bring matches along and by the time she realizes what she’s really doing—she’s sprinting away like it never happened. Donald is fine either way. If she had gone through with it he would’ve happily died right then and there because to him, Mary is more than just his little sister. </p><br/><p>She is the Virgin Mary. The Mother of Christ himself—and it makes sense—because they’re not even real siblings. Donald had been switched at birth and his real mother is actually an octopus. </p><br/><p>This is the story of the ‘most mentally disturbed family in America’ (according to one psychiatrist). 12 full blood siblings living in one house. 6 out of the 12 siblings would be diagnosed with schizophrenia. This is the case of the Galvin family. </p><br/><p><br /></p><br/><p><br /></p><br/><p>Donate To The Galvin Family Trust: <a href=\"https://galvinfamilytrust.org/\" rel=\"nofollow\">https://galvinfamilytrust.org/</a> </p><br/><p><br /></p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "3ddHLTHs5whMRqmkE3jtsh",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Most “Mentally Insane” Family In America- Six Schizophrenic Brothers",
+      "release_date": "2024-07-28",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3ddHLTHs5whMRqmkE3jtsh"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0I2Lyo2Anm8Xfry1NRXECJ/clip_3124750_3193350.mp3",
       "description": "They are the only ones inside the laundromat and they need help.   The two sisters are standing over baby Benson’s tiny body trying to do chest compressions. Everything was fine two seconds ago.   He was asleep in the car and they brought him while they were running errands - why is he ice cold to the touch? None of this makes sense?  When the police arrive at the scene. They agree. None of this makes sense.   Because baby Benson was dead when the sisters pulled him out of his car seat to perform CPR.He was dead when they walked into the laundromat.   In fact - he had been dead for a few hours.   Which begs the questions - how long has he been dead, how did nobody notice, and who did this to him?   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 3827668,
@@ -5221,7 +5259,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
