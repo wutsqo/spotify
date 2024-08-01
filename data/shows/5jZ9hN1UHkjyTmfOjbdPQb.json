@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/66b60fFGRs5lNx2T7CUYAt/clip_1940944_2014436.mp3",
+      "description": "Earlier this month, an audio clip went viral on the internet. In the clip you can hear a man’s voice aggressively screaming -  “SHUT UP SHUT UP! You stupid b*tch, didn’t I tell you not to this??” You can hear a woman crying, begging for him to stop. Begging him to stop and spare her life.  That woman is TzuYang. She is the biggest YouTuber in South Korea with over 10 million subscribers.  And she had essentially been held hostage for the last 4 years of her life and forced to film eating (Mukbang) videos.   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 7681769,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2VIaiKeczU2tFMuaAEKVjS"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2VIaiKeczU2tFMuaAEKVjS",
+      "html_description": "<p>Earlier this month, an audio clip went viral on the internet. In the clip you can hear a man’s voice aggressively screaming - </p><br/><p>“SHUT UP SHUT UP! You stupid b*tch, didn’t I tell you not to this??”</p><br/><p>You can hear a woman crying, begging for him to stop. Begging him to stop and spare her life. </p><br/><p>That woman is TzuYang. She is the biggest YouTuber in South Korea with over 10 million subscribers. </p><br/><p>And she had essentially been held hostage for the last 4 years of her life and forced to film eating (Mukbang) videos. </p><br/><p><br /></p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "2VIaiKeczU2tFMuaAEKVjS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "#1 YouTuber of Korea BEATEN to film videos then blackmailed by “Social Justice” Youtubers",
+      "release_date": "2024-07-31",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2VIaiKeczU2tFMuaAEKVjS"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2pJxmE7jI1SXCiL6K3brU0/clip_1312650_1365250.mp3",
       "description": "7-year-old Mary Galvin has plans to kill her older brother. The way he roams around town with that empty gaze. The way their parents refuse to talk about his behavior. It was all going to end.  Mary had her older brother, Donald Galvin, tied to a tree as she gathers sticks to pile at his feet. He is a witch about to be burnt at the stake.  Donald is more than happy to play along. In the end, Mary backs out of her plan to kill him—she didn’t bring matches along and by the time she realizes what she’s really doing—she’s sprinting away like it never happened. Donald is fine either way. If she had gone through with it he would’ve happily died right then and there because to him, Mary is more than just his little sister.  She is the Virgin Mary. The Mother of Christ himself—and it makes sense—because they’re not even real siblings. Donald had been switched at birth and his real mother is actually an octopus.  This is the story of the ‘most mentally disturbed family in America’ (according to one psychiatrist). 12 full blood siblings living in one house. 6 out of the 12 siblings would be diagnosed with schizophrenia. This is the case of the Galvin family.    Donate To The Galvin Family Trust: https://galvinfamilytrust.org/   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 6443198,
@@ -5259,7 +5297,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
