@@ -101,10 +101,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAB073ON3WkT0QeHpQclo8IJlrTlBs7",
+      "snapshot_id": "AAAB1EVmld8YWCO30vAhxjGhFfHlJLkf",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/1PJYA9axGNVNWqLa0f5p49/tracks",
-        "total": 625
+        "total": 626
       },
       "type": "playlist",
       "uri": "spotify:playlist:1PJYA9axGNVNWqLa0f5p49"
@@ -281,10 +281,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAALB/CYWTUZ0ljFlzr+bXZVUnqvdQOc",
+      "snapshot_id": "AAALC1EPMxeYIkrYa34OXt02dhnz4xwW",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 777
+        "total": 781
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -583,7 +583,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYYFDoKytKLg>Queen</a>, <a href=spotify:playlist:37i9dQZF1EIV7kTfg13qvh>Elton John</a>, <a href=spotify:playlist:37i9dQZF1EIZdW2qKBCK2T>Sal Priadi</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a>, <a href=spotify:playlist:37i9dQZF1EIZdW2qKBCK2T>Sal Priadi</a>, <a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -592,7 +592,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/1dfeR4HaWDbWqFHLkxsg1d/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/6KImCVD70vtIoJWnq6nGn3/en/default",
           "width": null
         }
       ],
@@ -607,7 +607,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAAAAAABm4v6AmEkItHOVHkUDkvvr",
+      "snapshot_id": "AAAAAAAAAADXoaPLwEHJZgGtOLru0++I",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -1174,7 +1174,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84eb4e010ca3a2f54a738cd4fe",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84eb4e010ca3a2f54a738cd4fe",
           "width": null
         }
       ],
@@ -1616,7 +1616,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
           "width": null
         }
       ],
