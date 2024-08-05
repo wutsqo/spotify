@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/37i9dQZF1DWZeKCadgRdKQ"
   },
-  "followers": { "href": null, "total": 4479396 },
+  "followers": { "href": null, "total": 4479801 },
   "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZeKCadgRdKQ?locale=*",
   "id": "37i9dQZF1DWZeKCadgRdKQ",
   "images": [
@@ -2333,7 +2333,7 @@
         "href": "https://api.spotify.com/v1/tracks/1K2pzcuinGj4FEzIgruh4B",
         "id": "1K2pzcuinGj4FEzIgruh4B",
         "name": "Photographic",
-        "popularity": 60,
+        "popularity": 59,
         "uri": "spotify:track:1K2pzcuinGj4FEzIgruh4B",
         "is_local": false
       },
@@ -8339,7 +8339,7 @@
         "href": "https://api.spotify.com/v1/tracks/1fcLdpNHknoDarCIFj21du",
         "id": "1fcLdpNHknoDarCIFj21du",
         "name": "The Collection",
-        "popularity": 51,
+        "popularity": 52,
         "uri": "spotify:track:1fcLdpNHknoDarCIFj21du",
         "is_local": false
       },
@@ -9725,7 +9725,7 @@
         "href": "https://api.spotify.com/v1/tracks/2GDkzLMtW2eAtuB8a2DK96",
         "id": "2GDkzLMtW2eAtuB8a2DK96",
         "name": "Rouge",
-        "popularity": 0,
+        "popularity": 32,
         "uri": "spotify:track:2GDkzLMtW2eAtuB8a2DK96",
         "is_local": false
       },
@@ -10187,7 +10187,7 @@
         "href": "https://api.spotify.com/v1/tracks/0bubXiwTEAyU22reRWngHM",
         "id": "0bubXiwTEAyU22reRWngHM",
         "name": "beyond the stars",
-        "popularity": 46,
+        "popularity": 47,
         "uri": "spotify:track:0bubXiwTEAyU22reRWngHM",
         "is_local": false
       },
@@ -11111,7 +11111,7 @@
         "href": "https://api.spotify.com/v1/tracks/14CQdqVFygEls6szbfwuTL",
         "id": "14CQdqVFygEls6szbfwuTL",
         "name": "summer breeze",
-        "popularity": 0,
+        "popularity": 31,
         "uri": "spotify:track:14CQdqVFygEls6szbfwuTL",
         "is_local": false
       },
@@ -12923,13 +12923,13 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3qfRuoQ6A1uFzEdXfJsUTG"
+                "spotify": "https://open.spotify.com/artist/1MPnkkIDlbT3ZoryQbOiyc"
               },
-              "href": "https://api.spotify.com/v1/artists/3qfRuoQ6A1uFzEdXfJsUTG",
-              "id": "3qfRuoQ6A1uFzEdXfJsUTG",
+              "href": "https://api.spotify.com/v1/artists/1MPnkkIDlbT3ZoryQbOiyc",
+              "id": "1MPnkkIDlbT3ZoryQbOiyc",
               "name": "Antonio Roberto",
               "type": "artist",
-              "uri": "spotify:artist:3qfRuoQ6A1uFzEdXfJsUTG"
+              "uri": "spotify:artist:1MPnkkIDlbT3ZoryQbOiyc"
             }
           ],
           "external_urls": {
@@ -12940,13 +12940,13 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3qfRuoQ6A1uFzEdXfJsUTG"
+              "spotify": "https://open.spotify.com/artist/1MPnkkIDlbT3ZoryQbOiyc"
             },
-            "href": "https://api.spotify.com/v1/artists/3qfRuoQ6A1uFzEdXfJsUTG",
-            "id": "3qfRuoQ6A1uFzEdXfJsUTG",
+            "href": "https://api.spotify.com/v1/artists/1MPnkkIDlbT3ZoryQbOiyc",
+            "id": "1MPnkkIDlbT3ZoryQbOiyc",
             "name": "Antonio Roberto",
             "type": "artist",
-            "uri": "spotify:artist:3qfRuoQ6A1uFzEdXfJsUTG"
+            "uri": "spotify:artist:1MPnkkIDlbT3ZoryQbOiyc"
           }
         ],
         "disc_number": 1,
@@ -12959,7 +12959,7 @@
         "href": "https://api.spotify.com/v1/tracks/7IQiA0AS6H75uULh09EoHp",
         "id": "7IQiA0AS6H75uULh09EoHp",
         "name": "Entropy",
-        "popularity": 0,
+        "popularity": 31,
         "uri": "spotify:track:7IQiA0AS6H75uULh09EoHp",
         "is_local": false
       },
@@ -13883,7 +13883,7 @@
         "href": "https://api.spotify.com/v1/tracks/7Anprc8qpsTpgGBFCCUkaj",
         "id": "7Anprc8qpsTpgGBFCCUkaj",
         "name": "Inner Calm",
-        "popularity": 45,
+        "popularity": 46,
         "uri": "spotify:track:7Anprc8qpsTpgGBFCCUkaj",
         "is_local": false
       },
@@ -14807,7 +14807,7 @@
         "href": "https://api.spotify.com/v1/tracks/4wO3UB5XHF7UjpTcZIASwy",
         "id": "4wO3UB5XHF7UjpTcZIASwy",
         "name": "Another Paradise",
-        "popularity": 55,
+        "popularity": 54,
         "uri": "spotify:track:4wO3UB5XHF7UjpTcZIASwy",
         "is_local": false
       },
@@ -16655,7 +16655,7 @@
         "href": "https://api.spotify.com/v1/tracks/2zrJqwjnIsLHKTs9N9I8It",
         "id": "2zrJqwjnIsLHKTs9N9I8It",
         "name": "Earthly",
-        "popularity": 44,
+        "popularity": 45,
         "uri": "spotify:track:2zrJqwjnIsLHKTs9N9I8It",
         "is_local": false
       },
@@ -36983,7 +36983,7 @@
         "href": "https://api.spotify.com/v1/tracks/0U5OKIZb2n35xNBmsxuSiH",
         "id": "0U5OKIZb2n35xNBmsxuSiH",
         "name": "Origins",
-        "popularity": 51,
+        "popularity": 50,
         "uri": "spotify:track:0U5OKIZb2n35xNBmsxuSiH",
         "is_local": false
       },
@@ -37445,7 +37445,7 @@
         "href": "https://api.spotify.com/v1/tracks/7xOp8yDvjeIj1KIDQI9ScC",
         "id": "7xOp8yDvjeIj1KIDQI9ScC",
         "name": "Hidden Gems",
-        "popularity": 51,
+        "popularity": 50,
         "uri": "spotify:track:7xOp8yDvjeIj1KIDQI9ScC",
         "is_local": false
       },
@@ -42989,7 +42989,7 @@
         "href": "https://api.spotify.com/v1/tracks/0QfdX7wxKt21SRj1KjJmdy",
         "id": "0QfdX7wxKt21SRj1KjJmdy",
         "name": "Wild Blue",
-        "popularity": 51,
+        "popularity": 50,
         "uri": "spotify:track:0QfdX7wxKt21SRj1KjJmdy",
         "is_local": false
       },
@@ -43451,7 +43451,7 @@
         "href": "https://api.spotify.com/v1/tracks/50hHPg38rkdXLh62wvY9t3",
         "id": "50hHPg38rkdXLh62wvY9t3",
         "name": "Dreamer",
-        "popularity": 51,
+        "popularity": 50,
         "uri": "spotify:track:50hHPg38rkdXLh62wvY9t3",
         "is_local": false
       },
@@ -53153,7 +53153,7 @@
         "href": "https://api.spotify.com/v1/tracks/1NGGzXahph2f36gs474AWt",
         "id": "1NGGzXahph2f36gs474AWt",
         "name": "Breathe",
-        "popularity": 49,
+        "popularity": 48,
         "uri": "spotify:track:1NGGzXahph2f36gs474AWt",
         "is_local": false
       },
@@ -53615,7 +53615,7 @@
         "href": "https://api.spotify.com/v1/tracks/6KTvKuSutuH0eWRNaFSZG3",
         "id": "6KTvKuSutuH0eWRNaFSZG3",
         "name": "rest assured",
-        "popularity": 49,
+        "popularity": 48,
         "uri": "spotify:track:6KTvKuSutuH0eWRNaFSZG3",
         "is_local": false
       },
@@ -68861,7 +68861,7 @@
         "href": "https://api.spotify.com/v1/tracks/5iFHdi7BB0koNu8t2Ug82n",
         "id": "5iFHdi7BB0koNu8t2Ug82n",
         "name": "Sounds from Home",
-        "popularity": 48,
+        "popularity": 47,
         "uri": "spotify:track:5iFHdi7BB0koNu8t2Ug82n",
         "is_local": false
       },

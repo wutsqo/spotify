@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/59uBwUnSkH0RyGZWT1xUVz/clip_1845000_1902400.mp3",
+      "description": "Finding love is not easy. Especially when you’re competing aginst almost 3.9k other people for just one man. You really only have one shot, so how do you stand out? You could send pictures or even nudes!  Though on second thought…they’ll probably get flagged and he won’t even be able to read them. Maybe a love poem? “I know you’ve been hurt, but I’ll be with you. I see the pain in your eyes.” It’s kind of like the bachelor; everyone fighting for one man’s affections. Who’s going to come out on top?  Only, this man is not the bachelor. He’s a killer. He committed double homicide. He killed two people in cold blood.    He has gone viral on tiktok for being ‘hot’ and now thousands of people from all over the world are writing to him—believing they can change him. This is the case of Wade Wilson.   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4896894,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4lkdAPXJD1zLFTbZVxoHrR"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4lkdAPXJD1zLFTbZVxoHrR",
+      "html_description": "<p>Finding love is not easy. Especially when you’re competing aginst almost 3.9k other people for just one man. You really only have one shot, so how do you stand out? You could send pictures or even nudes! </p><br/><p>Though on second thought…they’ll probably get flagged and he won’t even be able to read them. Maybe a love poem? “I know you’ve been hurt, but I’ll be with you. I see the pain in your eyes.” It’s kind of like the bachelor; everyone fighting for one man’s affections. Who’s going to come out on top? </p><br/><p>Only, this man is not the bachelor. He’s a killer. He committed double homicide. He killed two people in cold blood. </p><br/><p> </p><br/><p>He has gone viral on tiktok for being ‘hot’ and now thousands of people from all over the world are writing to him—believing they can change him. This is the case of Wade Wilson. </p><br/><p><br /></p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "4lkdAPXJD1zLFTbZVxoHrR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "“Joker” Killer Ran Over Girl To \"Turn Her To Spaghetti\" And Still Has 4000 Fans Who Want To Date Him",
+      "release_date": "2024-08-04",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:4lkdAPXJD1zLFTbZVxoHrR"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/66b60fFGRs5lNx2T7CUYAt/clip_1940944_2014436.mp3",
       "description": "Earlier this month, an audio clip went viral on the internet. In the clip you can hear a man’s voice aggressively screaming -  “SHUT UP SHUT UP! You stupid b*tch, didn’t I tell you not to this??” You can hear a woman crying, begging for him to stop. Begging him to stop and spare her life.  That woman is TzuYang. She is the biggest YouTuber in South Korea with over 10 million subscribers.  And she had essentially been held hostage for the last 4 years of her life and forced to film eating (Mukbang) videos.   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 7681769,
@@ -5297,7 +5335,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
