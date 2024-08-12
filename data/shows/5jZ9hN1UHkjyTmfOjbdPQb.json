@@ -207,6 +207,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7FXkPY97IL9nnTtcRMVKjt/clip_2916102_2971952.mp3",
+      "description": "Dr. Nandi walks into the morgue… She’s a celebrity doctor – she provides Botox and chemical peels to some of the top celebrities in South Africa… She’s here to pick up her dead father’s body. But within a few weeks, she’s back at the morgue picking up another body. And then like clockwork, she’s back at the morgue, picking up another body. Why does she keep taking bodies from the morgue?  What the hell was she doing with them? But perhaps the most important – what does she have to do with a murderer who was found burned to death in his jail cell?   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4095998,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3pgXx7K8nqr00QPK2mFt3P"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3pgXx7K8nqr00QPK2mFt3P",
+      "html_description": "<p>Dr. Nandi walks into the morgue…</p><br/><p>She’s a celebrity doctor – she provides Botox and chemical peels to some of the top celebrities in South Africa…</p><br/><p>She’s here to pick up her dead father’s body.</p><br/><p>But within a few weeks, she’s back at the morgue picking up another body.</p><br/><p>And then like clockwork, she’s back at the morgue, picking up another body.</p><br/><p>Why does she keep taking bodies from the morgue? </p><br/><p>What the hell was she doing with them? <br />But perhaps the most important – what does she have to do with a murderer who was found burned to death in his jail cell?</p><br/><p> </p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "3pgXx7K8nqr00QPK2mFt3P",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Killer Was Burnt To Death In Prison, But Caught Shopping With Celebrity GF In Rich Neighborhood",
+      "release_date": "2024-08-11",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3pgXx7K8nqr00QPK2mFt3P"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/59uBwUnSkH0RyGZWT1xUVz/clip_1845000_1902400.mp3",
       "description": "Finding love is not easy. Especially when you’re competing aginst almost 3.9k other people for just one man. You really only have one shot, so how do you stand out? You could send pictures or even nudes!  Though on second thought…they’ll probably get flagged and he won’t even be able to read them. Maybe a love poem? “I know you’ve been hurt, but I’ll be with you. I see the pain in your eyes.” It’s kind of like the bachelor; everyone fighting for one man’s affections. Who’s going to come out on top?  Only, this man is not the bachelor. He’s a killer. He committed double homicide. He killed two people in cold blood.    He has gone viral on tiktok for being ‘hot’ and now thousands of people from all over the world are writing to him—believing they can change him. This is the case of Wade Wilson.   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4896894,
@@ -5336,7 +5374,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }
