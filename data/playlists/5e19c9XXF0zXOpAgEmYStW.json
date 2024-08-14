@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
   },
-  "followers": { "href": null, "total": 2038 },
+  "followers": { "href": null, "total": 2041 },
   "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW?locale=*",
   "id": "5e19c9XXF0zXOpAgEmYStW",
   "images": [
@@ -22627,7 +22627,7 @@
         "href": "https://api.spotify.com/v1/tracks/0BxE4FqsDD1Ot4YuBXwAPp",
         "id": "0BxE4FqsDD1Ot4YuBXwAPp",
         "name": "505",
-        "popularity": 84,
+        "popularity": 85,
         "uri": "spotify:track:0BxE4FqsDD1Ot4YuBXwAPp",
         "is_local": false
       },
@@ -25805,8 +25805,8 @@
             }
           ],
           "name": "Dizzy up the Girl",
-          "release_date": "1998-09-11",
-          "release_date_precision": "day",
+          "release_date": "1998",
+          "release_date_precision": "year",
           "uri": "spotify:album:4UMjBXcRqIgMZ1XumU2x5T",
           "artists": [
             {
@@ -46584,17 +46584,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e00a0b0e1c3ecb926603ec43",
+              "url": "https://i.scdn.co/image/ab67616d0000b273df51a3d66223e5b01813e0c4",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02e00a0b0e1c3ecb926603ec43",
+              "url": "https://i.scdn.co/image/ab67616d00001e02df51a3d66223e5b01813e0c4",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851e00a0b0e1c3ecb926603ec43",
+              "url": "https://i.scdn.co/image/ab67616d00004851df51a3d66223e5b01813e0c4",
               "width": 64
             }
           ],
@@ -48436,17 +48436,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e00a0b0e1c3ecb926603ec43",
+              "url": "https://i.scdn.co/image/ab67616d0000b273df51a3d66223e5b01813e0c4",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02e00a0b0e1c3ecb926603ec43",
+              "url": "https://i.scdn.co/image/ab67616d00001e02df51a3d66223e5b01813e0c4",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851e00a0b0e1c3ecb926603ec43",
+              "url": "https://i.scdn.co/image/ab67616d00004851df51a3d66223e5b01813e0c4",
               "width": 64
             }
           ],
@@ -48898,17 +48898,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e00a0b0e1c3ecb926603ec43",
+              "url": "https://i.scdn.co/image/ab67616d0000b273df51a3d66223e5b01813e0c4",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02e00a0b0e1c3ecb926603ec43",
+              "url": "https://i.scdn.co/image/ab67616d00001e02df51a3d66223e5b01813e0c4",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851e00a0b0e1c3ecb926603ec43",
+              "url": "https://i.scdn.co/image/ab67616d00004851df51a3d66223e5b01813e0c4",
               "width": 64
             }
           ],
@@ -49879,7 +49879,7 @@
         "href": "https://api.spotify.com/v1/tracks/4S1VYqwfkLit9mKVY3MXoo",
         "id": "4S1VYqwfkLit9mKVY3MXoo",
         "name": "Forever Young",
-        "popularity": 84,
+        "popularity": 85,
         "uri": "spotify:track:4S1VYqwfkLit9mKVY3MXoo",
         "is_local": false
       },
@@ -54375,7 +54375,7 @@
         "href": "https://api.spotify.com/v1/tracks/6otiaV2fagE3s8IvP6WkwG",
         "id": "6otiaV2fagE3s8IvP6WkwG",
         "name": "I'm Just a Kid",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:6otiaV2fagE3s8IvP6WkwG",
         "is_local": false
       },
@@ -56561,7 +56561,7 @@
         "href": "https://api.spotify.com/v1/tracks/1OBNzxKB8SAi2LpVjeAp8y",
         "id": "1OBNzxKB8SAi2LpVjeAp8y",
         "name": "Ever Enough",
-        "popularity": 49,
+        "popularity": 50,
         "uri": "spotify:track:1OBNzxKB8SAi2LpVjeAp8y",
         "is_local": false
       },
