@@ -222,6 +222,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4M09WSYRr6Q5Y4DK8Qq7as/clip_509794_554898.mp3",
+      "description": "Ophelia, an Italian mafia boss, had a thing for fingers. She likes the way they curve, the soft bend at the knuckles, the tender skin, just everything about hands. She loves.   She just hates that she only has one.  Her hand was cut off in a war with the enemy mafia over territory.   Ophelia is sitting at a bar when Kim walks in. Kim is part of the enemy mafia. Kim sits down and slides over a gift.   Ophelia peers inside and a small smile creeps onto her face…. This is perfect.  So beautiful.   She uses both of her hands to place the gift bag under the table. Yes, both of her hands.  Because Ophelia’s hands were never cut off.  She’s not a mafia boss.  In fact, her name is not even Ophelia.   She is a South Korean high schooler who joined a role playing game. But now the question is - who is Kim?  Because inside the gift bag are very very real human lungs and flesh.  Including a pretty little finger. Ophelia’s favorite.     Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 5766270,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/29sApoFlyHIMavyMjik3EG"
+      },
+      "href": "https://api.spotify.com/v1/episodes/29sApoFlyHIMavyMjik3EG",
+      "html_description": "<p>Ophelia, an Italian mafia boss, had a thing for fingers. She likes the way they curve, the soft bend at the knuckles, the tender skin, just everything about hands. She loves. </p><br/><p><br /></p><br/><p>She just hates that she only has one. </p><br/><p>Her hand was cut off in a war with the enemy mafia over territory. </p><br/><p><br /></p><br/><p>Ophelia is sitting at a bar when Kim walks in. Kim is part of the enemy mafia. Kim sits down and slides over a gift. </p><br/><p><br /></p><br/><p>Ophelia peers inside and a small smile creeps onto her face…. This is perfect. </p><br/><p>So beautiful. </p><br/><p><br /></p><br/><p>She uses both of her hands to place the gift bag under the table. Yes, both of her hands. </p><br/><p>Because Ophelia’s hands were never cut off. </p><br/><p>She’s not a mafia boss. </p><br/><p>In fact, her name is not even Ophelia. </p><br/><p><br /></p><br/><p>She is a South Korean high schooler who joined a role playing game. But now the question is - who is Kim?</p><br/><p><br /></p><br/><p>Because inside the gift bag are very very real human lungs and flesh. </p><br/><p>Including a pretty little finger. Ophelia’s favorite. </p><br/><p> </p><br/><p><br /></p><br/><p><br />Full Source Notes: rottenmangopodcast.com<br /></p>",
+      "id": "29sApoFlyHIMavyMjik3EG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Korean High Schooler Dismembers 8 Yr-Old Girl & GIFTS Body Parts To Lover For Role-Play Fantasy",
+      "release_date": "2024-08-14",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:29sApoFlyHIMavyMjik3EG"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7FXkPY97IL9nnTtcRMVKjt/clip_2916102_2971952.mp3",
       "description": "Dr. Nandi walks into the morgue… She’s a celebrity doctor – she provides Botox and chemical peels to some of the top celebrities in South Africa… She’s here to pick up her dead father’s body. But within a few weeks, she’s back at the morgue picking up another body. And then like clockwork, she’s back at the morgue, picking up another body. Why does she keep taking bodies from the morgue?  What the hell was she doing with them? But perhaps the most important – what does she have to do with a murderer who was found burned to death in his jail cell?   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4095998,
@@ -5388,7 +5426,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
