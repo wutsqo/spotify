@@ -188,12 +188,12 @@
   ],
   "copyrights": [],
   "description": "A Heartbreak story with many bits of wisdom on science, philosophy, religion, and art. Sebuah podcast yang tujuannya untuk menata kenangan supaya cepat move on. Intinya sih curcol. No script No edit. No meticulous plan. Pokoknya simpel, spontan, gapake uhuy.  Cover art photo provided by Pedro Gonzalez on Unsplash: https://unsplash.com/@pgonzalez_95",
+  "html_description": "A Heartbreak story with many bits of wisdom on science, philosophy, religion, and art. Sebuah podcast yang tujuannya untuk menata kenangan supaya cepat move on. Intinya sih curcol. No script No edit. No meticulous plan. Pokoknya simpel, spontan, gapake uhuy.<br/>Cover art photo provided by Pedro Gonzalez on Unsplash: https://unsplash.com/&#64;pgonzalez_95",
   "explicit": false,
   "external_urls": {
     "spotify": "https://open.spotify.com/show/4JBkzNwYw26iAajw97bOtK"
   },
-  "href": "https://api.spotify.com/v1/shows/4JBkzNwYw26iAajw97bOtK",
-  "html_description": "A Heartbreak story with many bits of wisdom on science, philosophy, religion, and art. Sebuah podcast yang tujuannya untuk menata kenangan supaya cepat move on. Intinya sih curcol. No script No edit. No meticulous plan. Pokoknya simpel, spontan, gapake uhuy.<br/>Cover art photo provided by Pedro Gonzalez on Unsplash: https://unsplash.com/&#64;pgonzalez_95",
+  "href": "https://api.spotify.com/v1/shows/4JBkzNwYw26iAajw97bOtK?locale=*",
   "id": "4JBkzNwYw26iAajw97bOtK",
   "images": [
     {
@@ -217,9 +217,9 @@
   "media_type": "audio",
   "name": "MOVE ON SPONTAN SIMPEL",
   "publisher": "Syarif Rousyan Fikri",
-  "total_episodes": 10,
   "type": "show",
   "uri": "spotify:show:4JBkzNwYw26iAajw97bOtK",
+  "total_episodes": 10,
   "episodes": [
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2bCHGIvkJcCMsiCW3LKvRm/clip_356764_416764.mp3",

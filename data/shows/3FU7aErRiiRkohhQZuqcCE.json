@@ -188,12 +188,12 @@
   ],
   "copyrights": [],
   "description": "ADHD Nerds is the podcast for Adults with ADHD to learn more about their unique brain through the stories of others. Learn tips and strategies for managing or hacking your ADHD brain and have some fun along the way.  ADHD Nerds is hosted by Jesse J. Anderson, an ADHD Creative with a passion for writing, teaching, and raising awareness about ADHD. In 2017, he was diagnosed with ADHD at the age of 36, and has made it his mission to help others better understand what ADHD really is.  This podcast is a great place to learn more about Adult ADHD, whether you're officially diagnosed, self-diagnosed, stuck on a waiting list, or just want to know more about how your loved one's brain works.",
+  "html_description": "ADHD Nerds is the podcast for Adults with ADHD to learn more about their unique brain through the stories of others. Learn tips and strategies for managing or hacking your ADHD brain and have some fun along the way.<br/>ADHD Nerds is hosted by Jesse J. Anderson, an ADHD Creative with a passion for writing, teaching, and raising awareness about ADHD. In 2017, he was diagnosed with ADHD at the age of 36, and has made it his mission to help others better understand what ADHD really is.<br/>This podcast is a great place to learn more about Adult ADHD, whether you&#39;re officially diagnosed, self-diagnosed, stuck on a waiting list, or just want to know more about how your loved one&#39;s brain works.",
   "explicit": false,
   "external_urls": {
     "spotify": "https://open.spotify.com/show/3FU7aErRiiRkohhQZuqcCE"
   },
-  "href": "https://api.spotify.com/v1/shows/3FU7aErRiiRkohhQZuqcCE",
-  "html_description": "ADHD Nerds is the podcast for Adults with ADHD to learn more about their unique brain through the stories of others. Learn tips and strategies for managing or hacking your ADHD brain and have some fun along the way.<br/>ADHD Nerds is hosted by Jesse J. Anderson, an ADHD Creative with a passion for writing, teaching, and raising awareness about ADHD. In 2017, he was diagnosed with ADHD at the age of 36, and has made it his mission to help others better understand what ADHD really is.<br/>This podcast is a great place to learn more about Adult ADHD, whether you&#39;re officially diagnosed, self-diagnosed, stuck on a waiting list, or just want to know more about how your loved one&#39;s brain works.",
+  "href": "https://api.spotify.com/v1/shows/3FU7aErRiiRkohhQZuqcCE?locale=*",
   "id": "3FU7aErRiiRkohhQZuqcCE",
   "images": [
     {
@@ -217,9 +217,9 @@
   "media_type": "audio",
   "name": "ADHD Nerds",
   "publisher": "Jesse J. Anderson",
-  "total_episodes": 20,
   "type": "show",
   "uri": "spotify:show:3FU7aErRiiRkohhQZuqcCE",
+  "total_episodes": 20,
   "episodes": [
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/54dTIO1JfKU5hLfhfAQ5BT/clip_103800_161100.mp3",
