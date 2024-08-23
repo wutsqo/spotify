@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/3c4vUnqSDlo3JS5H7KNs6l"
   },
-  "followers": { "href": null, "total": 1005 },
+  "followers": { "href": null, "total": 1004 },
   "href": "https://api.spotify.com/v1/playlists/3c4vUnqSDlo3JS5H7KNs6l?locale=*",
   "id": "3c4vUnqSDlo3JS5H7KNs6l",
   "images": [
@@ -4741,7 +4741,7 @@
         "href": "https://api.spotify.com/v1/tracks/3re91K41XNVsViNbCPumTw",
         "id": "3re91K41XNVsViNbCPumTw",
         "name": "Oral",
-        "popularity": 51,
+        "popularity": 52,
         "uri": "spotify:track:3re91K41XNVsViNbCPumTw",
         "is_local": false
       },
@@ -5751,7 +5751,7 @@
         "href": "https://api.spotify.com/v1/tracks/6gOxexvj0mjwnRRrLXT1cB",
         "id": "6gOxexvj0mjwnRRrLXT1cB",
         "name": "Name of God",
-        "popularity": 5,
+        "popularity": 4,
         "uri": "spotify:track:6gOxexvj0mjwnRRrLXT1cB",
         "is_local": false
       },

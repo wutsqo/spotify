@@ -7488,13 +7488,13 @@
       "primary_color": null,
       "track": {
         "preview_url": null,
-        "available_markets": ["IN"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["IN"],
+          "available_markets": [],
           "type": "album",
           "album_type": "single",
           "href": "https://api.spotify.com/v1/albums/0T69ytaTIL1yBdF76IWdFJ",
@@ -7559,7 +7559,7 @@
         "href": "https://api.spotify.com/v1/tracks/5B2dy8BZWqgR9WUq8ecCaN",
         "id": "5B2dy8BZWqgR9WUq8ecCaN",
         "name": "Ribuan Memori",
-        "popularity": 49,
+        "popularity": 48,
         "uri": "spotify:track:5B2dy8BZWqgR9WUq8ecCaN",
         "is_local": false
       },
