@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 4425 },
+  "followers": { "href": null, "total": 4431 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
@@ -1501,7 +1501,7 @@
         "href": "https://api.spotify.com/v1/tracks/1bSpwPhAxZwlR2enJJsv7U",
         "id": "1bSpwPhAxZwlR2enJJsv7U",
         "name": "No Surprises",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:1bSpwPhAxZwlR2enJJsv7U",
         "is_local": false
       },
@@ -43183,7 +43183,7 @@
         "href": "https://api.spotify.com/v1/tracks/7D0RhFcb3CrfPuTJ0obrod",
         "id": "7D0RhFcb3CrfPuTJ0obrod",
         "name": "Sparks",
-        "popularity": 85,
+        "popularity": 86,
         "uri": "spotify:track:7D0RhFcb3CrfPuTJ0obrod",
         "is_local": false
       },
@@ -44387,7 +44387,7 @@
         "href": "https://api.spotify.com/v1/tracks/0jA4h2SD50Oak4C3Vn905a",
         "id": "0jA4h2SD50Oak4C3Vn905a",
         "name": "Not Allowed",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:0jA4h2SD50Oak4C3Vn905a",
         "is_local": false
       },
@@ -79373,7 +79373,7 @@
         "href": "https://api.spotify.com/v1/tracks/4E5N0mYyYFf0QZs3XDeSIj",
         "id": "4E5N0mYyYFf0QZs3XDeSIj",
         "name": "Summer's Over",
-        "popularity": 66,
+        "popularity": 67,
         "uri": "spotify:track:4E5N0mYyYFf0QZs3XDeSIj",
         "is_local": false
       },
@@ -84945,7 +84945,7 @@
         "href": "https://api.spotify.com/v1/tracks/2Lumsra3kuU61wXkEKzKaK",
         "id": "2Lumsra3kuU61wXkEKzKaK",
         "name": "Disco",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:2Lumsra3kuU61wXkEKzKaK",
         "is_local": false
       },

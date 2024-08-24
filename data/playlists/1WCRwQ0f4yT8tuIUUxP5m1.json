@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 390929 },
+  "followers": { "href": null, "total": 391013 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
       "width": null
     }
   ],
@@ -487,7 +487,7 @@
         "href": "https://api.spotify.com/v1/tracks/0S7lkKStHgfgjgwSFOvRNA",
         "id": "0S7lkKStHgfgjgwSFOvRNA",
         "name": "The Craving - single version",
-        "popularity": 70,
+        "popularity": 69,
         "uri": "spotify:track:0S7lkKStHgfgjgwSFOvRNA",
         "is_local": false
       },
@@ -15019,7 +15019,7 @@
         "href": "https://api.spotify.com/v1/tracks/1OpJNP2QNZ78TnewxSVybt",
         "id": "1OpJNP2QNZ78TnewxSVybt",
         "name": "Level of Concern",
-        "popularity": 55,
+        "popularity": 54,
         "uri": "spotify:track:1OpJNP2QNZ78TnewxSVybt",
         "is_local": false
       },
