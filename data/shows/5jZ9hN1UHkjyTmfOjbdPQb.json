@@ -219,8 +219,46 @@
   "publisher": "Stephanie Soo",
   "type": "show",
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
-  "total_episodes": 137,
+  "total_episodes": 141,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5gpfKsWfn3wj9tuVRBwHNG/clip_266415_326415.mp3",
+      "description": "On June 1, 2024, A Korean YouTube channel uploaded a video titled - “Pack Ki Beom, did you think that I wouldn’t find you?”The video includes details about Pack’s personal life. Showing his comfortable luxurious lifestyle with his wife and young daughter. It would appear that overnight Korean netizens flock to Pack’s page leaving hate comments.“I hope your daughter gets taken away from you.”“I hope the same thing happens to your daughter - then what will you do?”It seemed overnight all of Korea would turn on a random civilian named Pack Ki Beom.20 years ago Pack was the ringleader of the Miryang 44 case. Where 44 high school students blackmailed, tortured, and SA’d a middle school girl for over a year straight.All 44 perpetrators were not punished. Without even a mark on their criminal records. They were free to live as anonymous free men in the world.Until June 1st.This would be the start of a string of vigilante justice YouTubers releasing the identities and doxxing the perpetrators involved. One by one.Leaving everyone in South Korea to wonder - do I know one?    Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 6007508,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7LgeeDRSJqeYm1eFufAwT8"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7LgeeDRSJqeYm1eFufAwT8",
+      "html_description": "<p>On June 1, 2024, A Korean YouTube channel uploaded a video titled - “Pack Ki Beom, did you think that I wouldn’t find you?”<br />The video includes details about Pack’s personal life. Showing his comfortable luxurious lifestyle with his wife and young daughter. It would appear that overnight Korean netizens flock to Pack’s page leaving hate comments.<br />“I hope your daughter gets taken away from you.”<br />“I hope the same thing happens to your daughter - then what will you do?”<br />It seemed overnight all of Korea would turn on a random civilian named Pack Ki Beom.<br />20 years ago Pack was the ringleader of the Miryang 44 case. Where 44 high school students blackmailed, tortured, and SA’d a middle school girl for over a year straight.<br />All 44 perpetrators were not punished. Without even a mark on their criminal records. They were free to live as anonymous free men in the world.<br />Until June 1st.<br />This would be the start of a string of vigilante justice YouTubers releasing the identities and doxxing the perpetrators involved. One by one.<br />Leaving everyone in South Korea to wonder - do I know one?</p><br/><p> </p><br/><p><br /></p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "7LgeeDRSJqeYm1eFufAwT8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "44 HS Boys FREED After Gang SA Of 14 Yr Old Girl - Now Korean YouTubers Are Doxxing Them ",
+      "release_date": "2024-08-28",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:7LgeeDRSJqeYm1eFufAwT8"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4M09WSYRr6Q5Y4DK8Qq7as/clip_509794_554898.mp3",
       "description": "Ophelia, an Italian mafia boss, had a thing for fingers. She likes the way they curve, the soft bend at the knuckles, the tender skin, just everything about hands. She loves.   She just hates that she only has one.  Her hand was cut off in a war with the enemy mafia over territory.   Ophelia is sitting at a bar when Kim walks in. Kim is part of the enemy mafia. Kim sits down and slides over a gift.   Ophelia peers inside and a small smile creeps onto her face…. This is perfect.  So beautiful.   She uses both of her hands to place the gift bag under the table. Yes, both of her hands.  Because Ophelia’s hands were never cut off.  She’s not a mafia boss.  In fact, her name is not even Ophelia.   She is a South Korean high schooler who joined a role playing game. But now the question is - who is Kim?  Because inside the gift bag are very very real human lungs and flesh.  Including a pretty little finger. Ophelia’s favorite.     Full Source Notes: rottenmangopodcast.com",
@@ -5426,6 +5464,9 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    }
+    },
+    null,
+    null,
+    null
   ]
 }
