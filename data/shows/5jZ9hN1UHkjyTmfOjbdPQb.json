@@ -222,6 +222,44 @@
   "total_episodes": 142,
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4dsu9ox1mP0dnD7Zo61hyf/clip_1120192_1167020.mp3",
+      "description": "There is a college student laying down on the hospital bed. She’s staring up at the ceiling in distress as someone records her silently from the corner of the room.  “I’m going to have such a long day tomorrow - I’m not going to answer anyone’s Snapchats!” The person recording does not respond.  “Well, you’re too quiet. I’m going to start singing since I hate the quiet.”  The girl gets up in the hospital bed to perform Justin Bieber’s “Intentions.” She’s whipping her head around like she’s giving a stage performance on tour. She just doesn’t understand why the man in the room with her is so stiff. Loosen up. Have some fun.  He snaps at her - “you want me to be honest with you? You’re going to jail. You don’t have bond. You killed two people tonight. That’s what’s going on. So no, you’re not going to school tomorrow.” This is the case of Stephanie Melgoza - the college student who killed two people and proceeded to complain the whole time about how she needed to go to class, told the officers about how excited she was for her Vegas trip, and sang songs at the crime scene.   ",
+      "duration_ms": 4131069,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7aFy2aPY316FnVxUZY1Wqr"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7aFy2aPY316FnVxUZY1Wqr",
+      "html_description": "<p>There is a college student laying down on the hospital bed. She’s staring up at the ceiling in distress as someone records her silently from the corner of the room. </p><br/><p>“I’m going to have such a long day tomorrow - I’m not going to answer anyone’s Snapchats!”</p><br/><p>The person recording does not respond. </p><br/><p>“Well, you’re too quiet. I’m going to start singing since I hate the quiet.” </p><br/><p>The girl gets up in the hospital bed to perform Justin Bieber’s “Intentions.” She’s whipping her head around like she’s giving a stage performance on tour. She just doesn’t understand why the man in the room with her is so stiff. Loosen up. Have some fun. </p><br/><p>He snaps at her - “you want me to be honest with you? You’re going to jail. You don’t have bond. You killed two people tonight. That’s what’s going on. So no, you’re not going to school tomorrow.”</p><br/><p>This is the case of Stephanie Melgoza - the college student who killed two people and proceeded to complain the whole time about how she needed to go to class, told the officers about how excited she was for her Vegas trip, and sang songs at the crime scene. </p><br/><p><br /></p><br/><p><br /></p>",
+      "id": "7aFy2aPY316FnVxUZY1Wqr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Drunk College Girl Kills 2 People Then Sings Justin Bieber Songs & Plays Dumb",
+      "release_date": "2024-08-30",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:7aFy2aPY316FnVxUZY1Wqr"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0fpgjx7krT1WpanLO75Y1t/clip_1247750_1310800.mp3",
       "description": "The entire courtroom is quiet as each person walks up to the front and points. They point at this tiny miniature model of a movie theater sitting on the table.   The tiny blue miniature model seats are positioned just like they were when it all happened.   3 years ago - the emergency exit door to theater 9 would open. A man with bright orange hair wearing tactical gear would walk into the theater - and open fire.   At the midnight premier of Batman The Dark Knight Rises.   He is now sitting in the courtroom charged with 24 counts of murder, 140 counts attempted murder, and 1 count for illegal explosives.   But there are still so many questions - he told his psychiatrist months prior that he wanted to kill people. Why wasn’t he put on a psychiatric hold? Why did he write a notebook filled with his plans to mail to her? Why did he, a neuroscience major, hate humanity so much to believe in something as vile as “human capital?” The idea that taking a life increases the value of your own.     Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 6275198,
@@ -5541,7 +5579,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }
