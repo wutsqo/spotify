@@ -222,6 +222,44 @@
   "total_episodes": 142,
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2R2OyI2TC0plQKre1l1pPY/clip_3291631_3366722.mp3",
+      "description": "Grandma C knew that something wasn’t right about what she was looking at. Her daughter is standing there holding her 2 month old baby. But everything is wrong.   Her daughter’s pants are soaked. In urine.  The way she’s talking sounds like someone clamped her tongue. And 2 month old baby Mirabelle is not moving.   In fact, Mirabelle’s little face is bright angry red and her body seems stiff.  Grandma C rushes to put her down and unzips baby Mirabelle’s onesie…  She’s peeling. The skin on her entire body is peeling.   Mirabelle’s mom starts to explain that she must have suffered a stroke while holding her baby and fell on top of her… onto the space heater. Squashing her baby into the space heater and burning her.   But when authorities arrive - they start to think differently.  Because Mirabelle’s injuries are not consistent with someone who has been burned by a space heater. Also, why was her little purple pacifier found in the microwave?  Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4908137,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5lAjouAc8oyF0mmzIotqBJ"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5lAjouAc8oyF0mmzIotqBJ",
+      "html_description": "<p>Grandma C knew that something wasn’t right about what she was looking at. Her daughter is standing there holding her 2 month old baby. But everything is wrong. </p><br/><p><br /></p><br/><p>Her daughter’s pants are soaked. In urine. </p><br/><p>The way she’s talking sounds like someone clamped her tongue. And 2 month old baby Mirabelle is not moving. </p><br/><p><br /></p><br/><p>In fact, Mirabelle’s little face is bright angry red and her body seems stiff. </p><br/><p>Grandma C rushes to put her down and unzips baby Mirabelle’s onesie… </p><br/><p>She’s peeling. The skin on her entire body is peeling. </p><br/><p><br /></p><br/><p>Mirabelle’s mom starts to explain that she must have suffered a stroke while holding her baby and fell on top of her… onto the space heater. Squashing her baby into the space heater and burning her. </p><br/><p><br /></p><br/><p>But when authorities arrive - they start to think differently. </p><br/><p>Because Mirabelle’s injuries are not consistent with someone who has been burned by a space heater. Also, why was her little purple pacifier found in the microwave?</p><br/><p><br /></p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "5lAjouAc8oyF0mmzIotqBJ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Mom Microwaved 2-Month-Old Baby For 5 Minutes While Having A Seizure",
+      "release_date": "2024-09-01",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5lAjouAc8oyF0mmzIotqBJ"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4dsu9ox1mP0dnD7Zo61hyf/clip_1120192_1167020.mp3",
       "description": "There is a college student laying down on the hospital bed. She’s staring up at the ceiling in distress as someone records her silently from the corner of the room.  “I’m going to have such a long day tomorrow - I’m not going to answer anyone’s Snapchats!” The person recording does not respond.  “Well, you’re too quiet. I’m going to start singing since I hate the quiet.”  The girl gets up in the hospital bed to perform Justin Bieber’s “Intentions.” She’s whipping her head around like she’s giving a stage performance on tour. She just doesn’t understand why the man in the room with her is so stiff. Loosen up. Have some fun.  He snaps at her - “you want me to be honest with you? You’re going to jail. You don’t have bond. You killed two people tonight. That’s what’s going on. So no, you’re not going to school tomorrow.” This is the case of Stephanie Melgoza - the college student who killed two people and proceeded to complain the whole time about how she needed to go to class, told the officers about how excited she was for her Vegas trip, and sang songs at the crime scene.   ",
       "duration_ms": 4131069,
@@ -5578,7 +5616,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
