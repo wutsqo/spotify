@@ -1,5 +1,5 @@
 {
-  "total": 45,
+  "total": 46,
   "playlists": [
     {
       "collaborative": false,
@@ -48,7 +48,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ce14b62d79fbec5eaa0eda5c",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ce14b62d79fbec5eaa0eda5c",
           "width": null
         }
       ],
@@ -336,7 +336,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434bf38a510ae676cd24f9f5e",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434bf38a510ae676cd24f9f5e",
           "width": null
         }
       ],
@@ -372,7 +372,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8494a4220f439f526003610bc4",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8494a4220f439f526003610bc4",
           "width": null
         }
       ],
@@ -503,10 +503,10 @@
       },
       "primary_color": "#ffffff",
       "public": true,
-      "snapshot_id": "ZsSE7wAAAAB9Ww79vJ83Kr4AmYdusAlx",
+      "snapshot_id": "ZtVu3wAAAAApq+/S08G7Y10K6U/jEX4m",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DWZeKCadgRdKQ/tracks",
-        "total": 169
+        "total": 159
       },
       "type": "playlist",
       "uri": "spotify:playlist:37i9dQZF1DWZeKCadgRdKQ"
@@ -547,7 +547,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYYFDoKytKLg>Queen</a>, <a href=spotify:playlist:37i9dQZF1EIVLRVklebOIE>Twenty One Pilots</a>, <a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIVnZm6WUNyv3>Cafuné</a>, <a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a>, <a href=spotify:playlist:37i9dQZF1EIZdW2qKBCK2T>Sal Priadi</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -556,7 +556,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/1dfeR4HaWDbWqFHLkxsg1d/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/581C5Qwl87TskfBEzuoisu/en/default",
           "width": null
         }
       ],
@@ -571,7 +571,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAAAAAADxkORdOPrN72rIzUW8upZY",
+      "snapshot_id": "AAAAAAAAAAAPjrdtoQxDrRVjgI9VzjeL",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -844,6 +844,52 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:2Kbn5hzIPHSPvWyX2LrIlG"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6FxOxL54SXPjPy3ZE9ZoNU"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6FxOxL54SXPjPy3ZE9ZoNU",
+      "id": "6FxOxL54SXPjPy3ZE9ZoNU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e02615da669de17a4432e5a4824ab67616d00001e028bb1230d0450aa5e271637baab67616d00001e028fe1c4818c6f397ed3056739ab67616d00001e02ba93cb5d7f8450ac548e04b6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e02615da669de17a4432e5a4824ab67616d00001e028bb1230d0450aa5e271637baab67616d00001e028fe1c4818c6f397ed3056739ab67616d00001e02ba93cb5d7f8450ac548e04b6",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e02615da669de17a4432e5a4824ab67616d00001e028bb1230d0450aa5e271637baab67616d00001e028fe1c4818c6f397ed3056739ab67616d00001e02ba93cb5d7f8450ac548e04b6",
+          "width": 60
+        }
+      ],
+      "name": "60s jukebox morning (2)",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAAAhMl11HlVMYxbpDq9Bq0Xz+qM+AE",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6FxOxL54SXPjPy3ZE9ZoNU/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6FxOxL54SXPjPy3ZE9ZoNU"
     },
     {
       "collaborative": false,
