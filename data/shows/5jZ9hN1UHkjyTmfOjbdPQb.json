@@ -219,8 +219,46 @@
   "publisher": "Stephanie Soo",
   "type": "show",
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
-  "total_episodes": 142,
+  "total_episodes": 144,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6EyTt02RaLozLZXEnXCuAH/clip_1450500_1494850.mp3",
+      "description": "South Korea is going through an erase all faces panic. Every single selfie is being wiped from the internet just in case. As a response - a male college student wrote on a forum -   “Put a finger down and ask yourself     Have I ever been asked out or confessed to? (Joke confessions do not count)    Do a lot of men try to talk to me even though I don’t talk to them first?    Have I ever looked into the mirror and resented my parents?    Can other people recognize me without makeup?    Do I weigh more than 145 pounds?    Do I frequent feminist online forums?    When I walk on the street, do children avoid me?    If you answered yes to more than 3 of these questions - don’t worry. Your rate of being a victim of sexual deep fakes is very low. Men have standards too. We don’t just deepfake any woman.”  This is the case of the “new Nth Rooms” where over 400 schools have been found to be operating illegal chatrooms where students are getting deepfaked into sexually explicit photos and videos.   A whole network of deep fake trading and creating has been found.  Most victims and perpetrators? Teenagers.   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4653225,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3wuLYbOdilT7ZNnXmBv119"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3wuLYbOdilT7ZNnXmBv119",
+      "html_description": "<p>South Korea is going through an erase all faces panic. Every single selfie is being wiped from the internet just in case. As a response - a male college student wrote on a forum - </p><br/><p><br /></p><br/><p>“Put a finger down and ask yourself </p><br/><p><br /></p><br/><ol><li><p>Have I ever been asked out or confessed to? (Joke confessions do not count) </p><br/></li><li><p>Do a lot of men try to talk to me even though I don’t talk to them first?</p><br/></li><li><p>Have I ever looked into the mirror and resented my parents?</p><br/></li><li><p>Can other people recognize me without makeup?</p><br/></li><li><p>Do I weigh more than 145 pounds?</p><br/></li><li><p>Do I frequent feminist online forums?</p><br/></li><li><p>When I walk on the street, do children avoid me?</p><br/></li></ol><br/><p><br /></p><br/><p>If you answered yes to more than 3 of these questions - don’t worry. Your rate of being a victim of sexual deep fakes is very low. Men have standards too. We don’t just deepfake any woman.”</p><br/><p><br /></p><br/><p>This is the case of the “new Nth Rooms” where over 400 schools have been found to be operating illegal chatrooms where students are getting deepfaked into sexually explicit photos and videos. </p><br/><p><br /></p><br/><p>A whole network of deep fake trading and creating has been found. </p><br/><p>Most victims and perpetrators? Teenagers. </p><br/><p><br /></p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "3wuLYbOdilT7ZNnXmBv119",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "New Nth Room: Middle Schoolers Deepfake Videos Of Mom, Sister, Classmates In \"Humiliation Room\"",
+      "release_date": "2024-09-04",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3wuLYbOdilT7ZNnXmBv119"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2R2OyI2TC0plQKre1l1pPY/clip_3291631_3366722.mp3",
       "description": "Grandma C knew that something wasn’t right about what she was looking at. Her daughter is standing there holding her 2 month old baby. But everything is wrong.   Her daughter’s pants are soaked. In urine.  The way she’s talking sounds like someone clamped her tongue. And 2 month old baby Mirabelle is not moving.   In fact, Mirabelle’s little face is bright angry red and her body seems stiff.  Grandma C rushes to put her down and unzips baby Mirabelle’s onesie…  She’s peeling. The skin on her entire body is peeling.   Mirabelle’s mom starts to explain that she must have suffered a stroke while holding her baby and fell on top of her… onto the space heater. Squashing her baby into the space heater and burning her.   But when authorities arrive - they start to think differently.  Because Mirabelle’s injuries are not consistent with someone who has been burned by a space heater. Also, why was her little purple pacifier found in the microwave?  Full Source Notes: rottenmangopodcast.com",
@@ -5616,6 +5654,7 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    }
+    },
+    null
   ]
 }

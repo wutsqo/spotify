@@ -1,5 +1,5 @@
 {
-  "total": 46,
+  "total": 47,
   "playlists": [
     {
       "collaborative": false,
@@ -65,10 +65,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAB2D5IPG/z1kYFNAgMZ6uBAvytjNTJ",
+      "snapshot_id": "AAAB2ezc3A+zlH4uqFpYHqh0axqw/J6l",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/1PJYA9axGNVNWqLa0f5p49/tracks",
-        "total": 630
+        "total": 631
       },
       "type": "playlist",
       "uri": "spotify:playlist:1PJYA9axGNVNWqLa0f5p49"
@@ -245,10 +245,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAALTBNuEOYaUCmWd8adTFHiFFsmza/F",
+      "snapshot_id": "AAALU7HkHLS596KjicWIUK5YL7rKN043",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 846
+        "total": 853
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -547,7 +547,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIXM4KPkLZg29>One Direction</a>, <a href=spotify:playlist:37i9dQZF1EIYIe6aZAczQL>Harry Styles</a>, <a href=spotify:playlist:37i9dQZF1EIVnZm6WUNyv3>Cafuné</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIVnZm6WUNyv3>Cafuné</a>, <a href=spotify:playlist:37i9dQZF1EIVLRVklebOIE>Twenty One Pilots</a>, <a href=spotify:playlist:37i9dQZF1EIVW0Ng2A146s>Rex Orange County</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -556,7 +556,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/4AK6F7OLvEQ5QYCBNiQWHq/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/581C5Qwl87TskfBEzuoisu/en/default",
           "width": null
         }
       ],
@@ -571,7 +571,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAAAAAABu5MO9gDtZjhO6RYXbTmgR",
+      "snapshot_id": "AAAAAAAAAADgD+wL4QWLkEEfiX8eIK7u",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -870,7 +870,7 @@
           "width": 60
         }
       ],
-      "name": "60s jukebox morning (2)",
+      "name": "60s jukebox morning",
       "owner": {
         "display_name": "wutsqo",
         "external_urls": {
@@ -883,7 +883,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAhMl11HlVMYxbpDq9Bq0Xz+qM+AE",
+      "snapshot_id": "AAAAA3aAIpzbyqiCXXkwlnOZeYQXcpmL",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/6FxOxL54SXPjPy3ZE9ZoNU/tracks",
         "total": 50
@@ -1208,6 +1208,52 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:7ehMo6TIbL2LK5q1VAlI0j"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0ffwNg7aGosZDS6vRo4Xcn"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0ffwNg7aGosZDS6vRo4Xcn",
+      "id": "0ffwNg7aGosZDS6vRo4Xcn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0257df7ce0eac715cf70e519a7ab67616d00001e026a7ffb7ecffe490b3abd82afab67616d00001e028bd8adbdc4727d9080240905ab67616d00001e02fb9dac3244b8486758058a81",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0257df7ce0eac715cf70e519a7ab67616d00001e026a7ffb7ecffe490b3abd82afab67616d00001e028bd8adbdc4727d9080240905ab67616d00001e02fb9dac3244b8486758058a81",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0257df7ce0eac715cf70e519a7ab67616d00001e026a7ffb7ecffe490b3abd82afab67616d00001e028bd8adbdc4727d9080240905ab67616d00001e02fb9dac3244b8486758058a81",
+          "width": 60
+        }
+      ],
+      "name": "laurel canyon 70s rock morning (2)",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAAAlh/UMK21oYbuc9Ony+3Hbs9A/Qs",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0ffwNg7aGosZDS6vRo4Xcn/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0ffwNg7aGosZDS6vRo4Xcn"
     },
     {
       "collaborative": false,
