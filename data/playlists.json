@@ -1,5 +1,5 @@
 {
-  "total": 47,
+  "total": 48,
   "playlists": [
     {
       "collaborative": false,
@@ -245,10 +245,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAALU7HkHLS596KjicWIUK5YL7rKN043",
+      "snapshot_id": "AAALVmuLWn02YfTLsHQYJwLnclsFPPuo",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 853
+        "total": 856
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -454,7 +454,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers-mix/en/late-night_default.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers-mix/en/night_default.jpg",
           "width": null
         }
       ],
@@ -469,7 +469,7 @@
       },
       "primary_color": "#ffffff",
       "public": true,
-      "snapshot_id": "AAAAAAAAAACA/7Gb2MhqWcOgr9oD/tQm",
+      "snapshot_id": "AAAAAAAAAACUP5tFTA4guOALT4WOSmgf",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -547,7 +547,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIVnZm6WUNyv3>Cafuné</a>, <a href=spotify:playlist:37i9dQZF1EIVLRVklebOIE>Twenty One Pilots</a>, <a href=spotify:playlist:37i9dQZF1EIVW0Ng2A146s>Rex Orange County</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIZdW2qKBCK2T>Sal Priadi</a>, <a href=spotify:playlist:37i9dQZF1EIYYFDoKytKLg>Queen</a>, <a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -556,7 +556,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/581C5Qwl87TskfBEzuoisu/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/1NjxFrpEGZTV2Ny0OJxeWu/en/default",
           "width": null
         }
       ],
@@ -571,7 +571,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAAAAAADgD+wL4QWLkEEfiX8eIK7u",
+      "snapshot_id": "AAAAAAAAAACx0RKJgveUqWxThGOL5EMQ",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -605,7 +605,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "ZtSTlAAAAABpzScRJXu/HEgpYEkZBpfd",
+      "snapshot_id": "ZtoZ6gAAAADMYdxZEGEUt7rTdsisJxk7",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EpAdQ0k33KxPq/tracks",
         "total": 30
@@ -1213,52 +1213,6 @@
       "collaborative": false,
       "description": "",
       "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/0ffwNg7aGosZDS6vRo4Xcn"
-      },
-      "href": "https://api.spotify.com/v1/playlists/0ffwNg7aGosZDS6vRo4Xcn",
-      "id": "0ffwNg7aGosZDS6vRo4Xcn",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://mosaic.scdn.co/640/ab67616d00001e0257df7ce0eac715cf70e519a7ab67616d00001e026a7ffb7ecffe490b3abd82afab67616d00001e028bd8adbdc4727d9080240905ab67616d00001e02fb9dac3244b8486758058a81",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://mosaic.scdn.co/300/ab67616d00001e0257df7ce0eac715cf70e519a7ab67616d00001e026a7ffb7ecffe490b3abd82afab67616d00001e028bd8adbdc4727d9080240905ab67616d00001e02fb9dac3244b8486758058a81",
-          "width": 300
-        },
-        {
-          "height": 60,
-          "url": "https://mosaic.scdn.co/60/ab67616d00001e0257df7ce0eac715cf70e519a7ab67616d00001e026a7ffb7ecffe490b3abd82afab67616d00001e028bd8adbdc4727d9080240905ab67616d00001e02fb9dac3244b8486758058a81",
-          "width": 60
-        }
-      ],
-      "name": "laurel canyon 70s rock morning (2)",
-      "owner": {
-        "display_name": "wutsqo",
-        "external_urls": {
-          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
-        },
-        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
-        "id": "urwatilwutsqo",
-        "type": "user",
-        "uri": "spotify:user:urwatilwutsqo"
-      },
-      "primary_color": null,
-      "public": true,
-      "snapshot_id": "AAAAAlh/UMK21oYbuc9Ony+3Hbs9A/Qs",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/0ffwNg7aGosZDS6vRo4Xcn/tracks",
-        "total": 50
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:0ffwNg7aGosZDS6vRo4Xcn"
-    },
-    {
-      "collaborative": false,
-      "description": "",
-      "external_urls": {
         "spotify": "https://open.spotify.com/playlist/5TdgOffe2sDXXNhwX3bBuR"
       },
       "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR",
@@ -1365,6 +1319,52 @@
     },
     {
       "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0ffwNg7aGosZDS6vRo4Xcn"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0ffwNg7aGosZDS6vRo4Xcn",
+      "id": "0ffwNg7aGosZDS6vRo4Xcn",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0257df7ce0eac715cf70e519a7ab67616d00001e026a7ffb7ecffe490b3abd82afab67616d00001e028bd8adbdc4727d9080240905ab67616d00001e02fb9dac3244b8486758058a81",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0257df7ce0eac715cf70e519a7ab67616d00001e026a7ffb7ecffe490b3abd82afab67616d00001e028bd8adbdc4727d9080240905ab67616d00001e02fb9dac3244b8486758058a81",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0257df7ce0eac715cf70e519a7ab67616d00001e026a7ffb7ecffe490b3abd82afab67616d00001e028bd8adbdc4727d9080240905ab67616d00001e02fb9dac3244b8486758058a81",
+          "width": 60
+        }
+      ],
+      "name": "morning rock",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAAAwylS0PWjOvMOVoCqNwwl/nTd6Eg",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0ffwNg7aGosZDS6vRo4Xcn/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0ffwNg7aGosZDS6vRo4Xcn"
+    },
+    {
+      "collaborative": false,
       "description": "A musical time capsule from the past has been unsealed…!",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/3EUxEf3VHvCkO5CPVYHFNn"
@@ -1398,6 +1398,52 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:3EUxEf3VHvCkO5CPVYHFNn"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3ozr7w59ZYStDS9qPY2rnU"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3ozr7w59ZYStDS9qPY2rnU",
+      "id": "3ozr7w59ZYStDS9qPY2rnU",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e020ab3c2a306c614fae36ff1d6ab67616d00001e02707d13d3f87652e737e94d45ab67616d00001e029c72b249fcaa04d074c1dfcdab67616d00001e02a388a3f20d1bf2123249cc79",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e020ab3c2a306c614fae36ff1d6ab67616d00001e02707d13d3f87652e737e94d45ab67616d00001e029c72b249fcaa04d074c1dfcdab67616d00001e02a388a3f20d1bf2123249cc79",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e020ab3c2a306c614fae36ff1d6ab67616d00001e02707d13d3f87652e737e94d45ab67616d00001e029c72b249fcaa04d074c1dfcdab67616d00001e02a388a3f20d1bf2123249cc79",
+          "width": 60
+        }
+      ],
+      "name": "My playlist #28",
+      "owner": {
+        "display_name": "wutsqo",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/urwatilwutsqo"
+        },
+        "href": "https://api.spotify.com/v1/users/urwatilwutsqo",
+        "id": "urwatilwutsqo",
+        "type": "user",
+        "uri": "spotify:user:urwatilwutsqo"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAAAliOp64O8UDa5Eo7rzAtebckAf4P",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3ozr7w59ZYStDS9qPY2rnU/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3ozr7w59ZYStDS9qPY2rnU"
     },
     {
       "collaborative": false,

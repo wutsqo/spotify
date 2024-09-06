@@ -1,6 +1,25 @@
 {
-  "total": 11,
+  "total": 12,
   "albums": [
+    {
+      "id": "5HSZsS7TGsyMvur547zjVe",
+      "name": "The Alexander Technique",
+      "added_at": "2024-09-05T17:00:00Z",
+      "type": "album",
+      "total_tracks": 16,
+      "url": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b2737b6bee78d012bc2c4eb694c0",
+      "release_date": "2024-09-06",
+      "artists": [
+        {
+          "id": "7pbDxGE6nQSZVfiFdq9lOL",
+          "name": "Rex Orange County",
+          "url": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        }
+      ],
+      "genres": [],
+      "popularity": 0
+    },
     {
       "id": "5uAcLj2EJLtQtKMyDYCI0Q",
       "name": "MARKERS AND SUCH PENS FLASHDISKS",
