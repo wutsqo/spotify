@@ -222,6 +222,44 @@
   "total_episodes": 145,
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1Dn85v4DK5bJGR2Gf8A2pq/clip_2074684_2150199.mp3",
+      "description": "It’s said the parents of Nova (Northern Virginia) have their little groups that they stick to during school drop offs and pick ups. It’s an upscale neighborhood - with many residents working in government as politicians or even federal agents. It’s only a 30 minute drive to DC.   But there is one woman that most moms likely avoid at the school bus stop.   The new live in lover of the federal agent that lives down the street.  The whole thing is just eerie.  She moved into that house just months after the federal agent’s wife was brutally murdered.  And now she’s dropping off the murdered woman’s child as if… as if she’s trying to take her place? It’s just strange.   It makes people question - did she have something to do with the murder? And who was the other man that was found dead in their house? Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4190291,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/01zUmEGu3Uh6dGawBEnHYf"
+      },
+      "href": "https://api.spotify.com/v1/episodes/01zUmEGu3Uh6dGawBEnHYf",
+      "html_description": "<p>It’s said the parents of Nova (Northern Virginia) have their little groups that they stick to during school drop offs and pick ups. It’s an upscale neighborhood - with many residents working in government as politicians or even federal agents. It’s only a 30 minute drive to DC. </p><br/><p><br /></p><br/><p>But there is one woman that most moms likely avoid at the school bus stop. </p><br/><p><br /></p><br/><p>The new live in lover of the federal agent that lives down the street. </p><br/><p>The whole thing is just eerie. </p><br/><p>She moved into that house just months after the federal agent’s wife was brutally murdered. </p><br/><p>And now she’s dropping off the murdered woman’s child as if… as if she’s trying to take her place? It’s just strange. </p><br/><p><br /></p><br/><p>It makes people question - did she have something to do with the murder?</p><br/><p>And who was the other man that was found dead in their house?<br /></p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "01zUmEGu3Uh6dGawBEnHYf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Brazilian Nanny Moves Into Owner’s Bedroom After His Wife Is Mysteriously Murdered",
+      "release_date": "2024-09-08",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:01zUmEGu3Uh6dGawBEnHYf"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6EyTt02RaLozLZXEnXCuAH/clip_1450500_1494850.mp3",
       "description": "South Korea is going through an erase all faces panic. Every single selfie is being wiped from the internet just in case. As a response - a male college student wrote on a forum -   “Put a finger down and ask yourself     Have I ever been asked out or confessed to? (Joke confessions do not count)    Do a lot of men try to talk to me even though I don’t talk to them first?    Have I ever looked into the mirror and resented my parents?    Can other people recognize me without makeup?    Do I weigh more than 145 pounds?    Do I frequent feminist online forums?    When I walk on the street, do children avoid me?    If you answered yes to more than 3 of these questions - don’t worry. Your rate of being a victim of sexual deep fakes is very low. Men have standards too. We don’t just deepfake any woman.”  This is the case of the “new Nth Rooms” where over 400 schools have been found to be operating illegal chatrooms where students are getting deepfaked into sexually explicit photos and videos.   A whole network of deep fake trading and creating has been found.  Most victims and perpetrators? Teenagers.   Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4653225,
@@ -5655,7 +5693,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }
