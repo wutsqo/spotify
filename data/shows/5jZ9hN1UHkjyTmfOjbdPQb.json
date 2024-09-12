@@ -222,6 +222,44 @@
   "total_episodes": 146,
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3a6ZwPbEzK47WgIi8sq5Yy/clip_536280_608600.mp3",
+      "description": "7-year-old Heaven was brought into the Budha House to be healed. The neighbors who brought her in tried to explain - she had been playing and hanging onto a bar when she fell and hit her head. She is now unconscious.   But the healers could just take one look at Heaven and know - the little girl is dead.   When Heaven’s mom finally sees Heaven’s little body - she finds something even more puzzling. Her mouth is filled with cement. Her autopsy shows she was assaulted “front and back” and had these weird little cuts all over her body.   On her neck, you could almost make out the 5 fingers that were wrapped around her. Suffocating her.   It feels like all the neighbors are in on some big conspiracy. Why do they keep insisting that she fell when it’s so clear she did not. What are they hiding? Heaven’s mom is going to figure out what the hell happened to her daughter.   https://www.change.org/p/justice-for-heaven-and-her-mother Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 3096702,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3ip2YnP3HSp4ruOLfgFMPu"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3ip2YnP3HSp4ruOLfgFMPu",
+      "html_description": "<p>7-year-old Heaven was brought into the Budha House to be healed. The neighbors who brought her in tried to explain - she had been playing and hanging onto a bar when she fell and hit her head. She is now unconscious. </p><br/><p><br /></p><br/><p>But the healers could just take one look at Heaven and know - the little girl is dead. </p><br/><p><br /></p><br/><p>When Heaven’s mom finally sees Heaven’s little body - she finds something even more puzzling. Her mouth is filled with cement. Her autopsy shows she was assaulted “front and back” and had these weird little cuts all over her body. </p><br/><p><br /></p><br/><p>On her neck, you could almost make out the 5 fingers that were wrapped around her. Suffocating her. </p><br/><p><br /></p><br/><p>It feels like all the neighbors are in on some big conspiracy. Why do they keep insisting that she fell when it’s so clear she did not. What are they hiding?</p><br/><p>Heaven’s mom is going to figure out what the hell happened to her daughter. <br /></p><br/><p><br /></p><br/><p><br />https://www.change.org/p/justice-for-heaven-and-her-mother</p><br/><p><br />Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "3ip2YnP3HSp4ruOLfgFMPu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "7-yr-old Found SAed Till Spinal Cord Is Visible, Then Tossed In Front Of Home W/ Cement In Mouth",
+      "release_date": "2024-09-11",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3ip2YnP3HSp4ruOLfgFMPu"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1Dn85v4DK5bJGR2Gf8A2pq/clip_2074684_2150199.mp3",
       "description": "It’s said the parents of Nova (Northern Virginia) have their little groups that they stick to during school drop offs and pick ups. It’s an upscale neighborhood - with many residents working in government as politicians or even federal agents. It’s only a 30 minute drive to DC.   But there is one woman that most moms likely avoid at the school bus stop.   The new live in lover of the federal agent that lives down the street.  The whole thing is just eerie.  She moved into that house just months after the federal agent’s wife was brutally murdered.  And now she’s dropping off the murdered woman’s child as if… as if she’s trying to take her place? It’s just strange.   It makes people question - did she have something to do with the murder? And who was the other man that was found dead in their house? Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4190291,
@@ -5693,7 +5731,6 @@
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
     },
-    null,
     null
   ]
 }

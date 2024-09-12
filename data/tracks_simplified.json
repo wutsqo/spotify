@@ -1,6 +1,54 @@
 {
-  "total": 141,
+  "total": 143,
   "tracks": [
+    {
+      "id": "0gEyKnHvgkrkBM6fbeHdwK",
+      "name": "Linger",
+      "added_at": "2024-09-11T14:05:19Z",
+      "popularity": 84,
+      "duration_ms": 274706,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/0gEyKnHvgkrkBM6fbeHdwK",
+      "preview_url": "https://p.scdn.co/mp3-preview/7b68bf72ebc1138e44a5e285d5698a715ea1d46e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "0AP5O47kJWlaKVnnybKvQI",
+        "name": "Everybody Else Is Doing It, So Why Can't We?",
+        "release_date": "1993-03-01",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273f6325f361d7803ad0d908451",
+        "url": "https://open.spotify.com/album/0AP5O47kJWlaKVnnybKvQI"
+      },
+      "artists": [
+        {
+          "id": "7t0rwkOPGlDPEhaOcVtOt9",
+          "name": "The Cranberries",
+          "url": "https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9"
+        }
+      ]
+    },
+    {
+      "id": "1n7xFAY4xoPeqRvrkzAtsw",
+      "name": "Good Old-Fashioned Lover Boy - Remastered 2011",
+      "added_at": "2024-09-11T13:49:34Z",
+      "popularity": 69,
+      "duration_ms": 173173,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/1n7xFAY4xoPeqRvrkzAtsw",
+      "preview_url": "https://p.scdn.co/mp3-preview/ff28e24f9f19641dd81f1b64a4677e3da8242d72?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "4KZGe18wZJbXL6JLW4KyLc",
+        "name": "A Day At The Races (Deluxe Edition 2011 Remaster)",
+        "release_date": "1976-12-10",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27367bc29c251c777361b17a190",
+        "url": "https://open.spotify.com/album/4KZGe18wZJbXL6JLW4KyLc"
+      },
+      "artists": [
+        {
+          "id": "1dfeR4HaWDbWqFHLkxsg1d",
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ]
+    },
     {
       "id": "6me7F0aaZjwDo6RJ5MrfBD",
       "name": "Evergreen",
@@ -1033,7 +1081,7 @@
       "id": "0WQiDwKJclirSYG9v5tayI",
       "name": "There Is a Light That Never Goes Out - 2011 Remaster",
       "added_at": "2023-12-17T09:36:23Z",
-      "popularity": 81,
+      "popularity": 82,
       "duration_ms": 244586,
       "explicit": false,
       "url": "https://open.spotify.com/track/0WQiDwKJclirSYG9v5tayI",
@@ -1081,7 +1129,7 @@
       "id": "52Bg6oaos7twR7IUtEpqcE",
       "name": "Between The Bars",
       "added_at": "2023-12-17T09:33:34Z",
-      "popularity": 63,
+      "popularity": 64,
       "duration_ms": 141280,
       "explicit": false,
       "url": "https://open.spotify.com/track/52Bg6oaos7twR7IUtEpqcE",
@@ -1230,7 +1278,7 @@
       "id": "5TxRUOsGeWeRl3xOML59Ai",
       "name": "ARE WE STILL FRIENDS?",
       "added_at": "2023-12-17T09:13:20Z",
-      "popularity": 79,
+      "popularity": 80,
       "duration_ms": 265480,
       "explicit": true,
       "url": "https://open.spotify.com/track/5TxRUOsGeWeRl3xOML59Ai",
@@ -3037,7 +3085,7 @@
       "id": "5Htq8DDDN0Xce9MwqzAzui",
       "name": "La La Lost You",
       "added_at": "2021-10-30T17:26:45Z",
-      "popularity": 5,
+      "popularity": 4,
       "duration_ms": 200000,
       "explicit": true,
       "url": "https://open.spotify.com/track/5Htq8DDDN0Xce9MwqzAzui",
