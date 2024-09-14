@@ -1877,7 +1877,7 @@
         "href": "https://api.spotify.com/v1/tracks/39fD0qvjgk8RarJnoBiDTx",
         "id": "39fD0qvjgk8RarJnoBiDTx",
         "name": "Lovesick",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:39fD0qvjgk8RarJnoBiDTx",
         "is_local": false
       },
@@ -9511,7 +9511,7 @@
         "href": "https://api.spotify.com/v1/tracks/05FVS9qqWq2A82fYCtblkt",
         "id": "05FVS9qqWq2A82fYCtblkt",
         "name": "Who The Fuck Are Arctic Monkeys?",
-        "popularity": 51,
+        "popularity": 52,
         "uri": "spotify:track:05FVS9qqWq2A82fYCtblkt",
         "is_local": false
       },
@@ -11929,7 +11929,7 @@
         "href": "https://api.spotify.com/v1/tracks/37mbA1RwYja7WFaIOzSczX",
         "id": "37mbA1RwYja7WFaIOzSczX",
         "name": "You'll Be In My Heart - Spotify Singles",
-        "popularity": 48,
+        "popularity": 49,
         "uri": "spotify:track:37mbA1RwYja7WFaIOzSczX",
         "is_local": false
       },
@@ -13329,7 +13329,7 @@
         "href": "https://api.spotify.com/v1/tracks/3spdoTYpuCpmq19tuD0bOe",
         "id": "3spdoTYpuCpmq19tuD0bOe",
         "name": "My Way",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:3spdoTYpuCpmq19tuD0bOe",
         "is_local": false
       },
@@ -18033,7 +18033,7 @@
         "href": "https://api.spotify.com/v1/tracks/1SKPmfSYaPsETbRHaiA18G",
         "id": "1SKPmfSYaPsETbRHaiA18G",
         "name": "Somewhere Only We Know",
-        "popularity": 85,
+        "popularity": 84,
         "uri": "spotify:track:1SKPmfSYaPsETbRHaiA18G",
         "is_local": false
       },
@@ -27179,7 +27179,7 @@
         "href": "https://api.spotify.com/v1/tracks/1wkaoS4jTVXYMUWHKVFZTk",
         "id": "1wkaoS4jTVXYMUWHKVFZTk",
         "name": "Friends, Lovers or Nothing",
-        "popularity": 44,
+        "popularity": 45,
         "uri": "spotify:track:1wkaoS4jTVXYMUWHKVFZTk",
         "is_local": false
       },
@@ -37753,7 +37753,7 @@
         "href": "https://api.spotify.com/v1/tracks/05FVS9qqWq2A82fYCtblkt",
         "id": "05FVS9qqWq2A82fYCtblkt",
         "name": "Who The Fuck Are Arctic Monkeys?",
-        "popularity": 51,
+        "popularity": 52,
         "uri": "spotify:track:05FVS9qqWq2A82fYCtblkt",
         "is_local": false
       },
@@ -40171,7 +40171,7 @@
         "href": "https://api.spotify.com/v1/tracks/37mbA1RwYja7WFaIOzSczX",
         "id": "37mbA1RwYja7WFaIOzSczX",
         "name": "You'll Be In My Heart - Spotify Singles",
-        "popularity": 48,
+        "popularity": 49,
         "uri": "spotify:track:37mbA1RwYja7WFaIOzSczX",
         "is_local": false
       },
@@ -41571,7 +41571,7 @@
         "href": "https://api.spotify.com/v1/tracks/3spdoTYpuCpmq19tuD0bOe",
         "id": "3spdoTYpuCpmq19tuD0bOe",
         "name": "My Way",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:3spdoTYpuCpmq19tuD0bOe",
         "is_local": false
       },
@@ -51426,7 +51426,7 @@
               "width": 64
             }
           ],
-          "name": "MM...FOOD",
+          "name": "MM..FOOD",
           "release_date": "2004-11-16",
           "release_date_precision": "day",
           "uri": "spotify:album:1UcS2nqUhxrZjrBZ3tHk2N",
@@ -51457,6 +51457,16 @@
             "name": "MF DOOM",
             "type": "artist",
             "uri": "spotify:artist:2pAWfrd7WFF3XhVt9GooDL"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7hpzx6fecRavN1B1YMxpOb"
+            },
+            "href": "https://api.spotify.com/v1/artists/7hpzx6fecRavN1B1YMxpOb",
+            "id": "7hpzx6fecRavN1B1YMxpOb",
+            "name": "Mr. Fantastik",
+            "type": "artist",
+            "uri": "spotify:artist:7hpzx6fecRavN1B1YMxpOb"
           }
         ],
         "disc_number": 1,
@@ -51468,7 +51478,7 @@
         },
         "href": "https://api.spotify.com/v1/tracks/5KUNwkaNf8l5A9sXZhiCgI",
         "id": "5KUNwkaNf8l5A9sXZhiCgI",
-        "name": "Rapp Snitch Knishes feat. Mr. Fantastik",
+        "name": "Rapp Snitch Knishes",
         "popularity": 76,
         "uri": "spotify:track:5KUNwkaNf8l5A9sXZhiCgI",
         "is_local": false
@@ -57763,7 +57773,7 @@
         "href": "https://api.spotify.com/v1/tracks/5pq5ZnXNQxMppqB4c8TA4z",
         "id": "5pq5ZnXNQxMppqB4c8TA4z",
         "name": "Dapur Keluarga",
-        "popularity": 53,
+        "popularity": 54,
         "uri": "spotify:track:5pq5ZnXNQxMppqB4c8TA4z",
         "is_local": false
       },
@@ -66935,7 +66945,7 @@
         "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
         "id": "0j3mqDTK4Z6lvrLzFCUUz6",
         "name": "Good Looking",
-        "popularity": 82,
+        "popularity": 83,
         "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
         "is_local": false
       },
@@ -67830,7 +67840,7 @@
         "href": "https://api.spotify.com/v1/tracks/5LpMlrvoSZkVrEVridNgfE",
         "id": "5LpMlrvoSZkVrEVridNgfE",
         "name": "Stronger Than the Night",
-        "popularity": 39,
+        "popularity": 38,
         "uri": "spotify:track:5LpMlrvoSZkVrEVridNgfE",
         "is_local": false
       },
@@ -68292,7 +68302,7 @@
         "href": "https://api.spotify.com/v1/tracks/4QhWbupniDd44EDtnh2bFJ",
         "id": "4QhWbupniDd44EDtnh2bFJ",
         "name": "Pyramids",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:4QhWbupniDd44EDtnh2bFJ",
         "is_local": false
       },
@@ -69218,7 +69228,7 @@
         "href": "https://api.spotify.com/v1/tracks/0gEyKnHvgkrkBM6fbeHdwK",
         "id": "0gEyKnHvgkrkBM6fbeHdwK",
         "name": "Linger",
-        "popularity": 84,
+        "popularity": 85,
         "uri": "spotify:track:0gEyKnHvgkrkBM6fbeHdwK",
         "is_local": false
       },
