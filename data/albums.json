@@ -5,18 +5,7 @@
       "added_at": "2024-09-05T17:00:00Z",
       "album": {
         "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-            },
-            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-            "id": "7pbDxGE6nQSZVfiFdq9lOL",
-            "name": "Rex Orange County",
-            "type": "artist",
-            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
-          }
-        ],
+        "total_tracks": 16,
         "available_markets": [
           "AR",
           "AU",
@@ -204,44 +193,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          {
-            "text": "(P) 2024 Sony Music Entertainment, under exclusive license from Rex Orange County",
-            "type": "P"
-          }
-        ],
-        "external_ids": { "upc": "196872177114" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/5HSZsS7TGsyMvur547zjVe"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/5HSZsS7TGsyMvur547zjVe",
+        "href": "https://api.spotify.com/v1/albums/5HSZsS7TGsyMvur547zjVe?locale=*",
         "id": "5HSZsS7TGsyMvur547zjVe",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b2737b6bee78d012bc2c4eb694c0",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e027b6bee78d012bc2c4eb694c0",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d000048517b6bee78d012bc2c4eb694c0",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "Rex Orange County",
         "name": "The Alexander Technique",
-        "popularity": 71,
         "release_date": "2024-09-06",
         "release_date_precision": "day",
-        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5HSZsS7TGsyMvur547zjVe",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+            "id": "7pbDxGE6nQSZVfiFdq9lOL",
+            "name": "Rex Orange County",
+            "type": "artist",
+            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/5HSZsS7TGsyMvur547zjVe/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 16,
           "items": [
             {
               "artists": [
@@ -451,12 +448,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3zlt0KJ7XvbtiNuBbFCife",
               "id": "3zlt0KJ7XvbtiNuBbFCife",
-              "is_local": false,
               "name": "Alexander",
               "preview_url": "https://p.scdn.co/mp3-preview/2aaca46d8e19727a8a34f3e1ecf149800a51a045?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:3zlt0KJ7XvbtiNuBbFCife"
+              "uri": "spotify:track:3zlt0KJ7XvbtiNuBbFCife",
+              "is_local": false
             },
             {
               "artists": [
@@ -666,12 +663,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7LacIDU4wp5RdBVO6DmwHT",
               "id": "7LacIDU4wp5RdBVO6DmwHT",
-              "is_local": false,
               "name": "Guitar Song",
               "preview_url": "https://p.scdn.co/mp3-preview/9005780b534f32ac362061c47ee848d30c1ebb0c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:7LacIDU4wp5RdBVO6DmwHT"
+              "uri": "spotify:track:7LacIDU4wp5RdBVO6DmwHT",
+              "is_local": false
             },
             {
               "artists": [
@@ -881,12 +878,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5S2fYAHI2zwSIc2RWcFL7V",
               "id": "5S2fYAHI2zwSIc2RWcFL7V",
-              "is_local": false,
               "name": "2008",
               "preview_url": "https://p.scdn.co/mp3-preview/08a10bcb4afe970b64543c762caf7d8dafe79b27?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:5S2fYAHI2zwSIc2RWcFL7V"
+              "uri": "spotify:track:5S2fYAHI2zwSIc2RWcFL7V",
+              "is_local": false
             },
             {
               "artists": [
@@ -1096,12 +1093,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/75FQnbNzIeX9QAl21BEnKI",
               "id": "75FQnbNzIeX9QAl21BEnKI",
-              "is_local": false,
               "name": "Therapy",
               "preview_url": "https://p.scdn.co/mp3-preview/33d82dc3ee528918dc9865c78b3aca33a1cb83dc?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:75FQnbNzIeX9QAl21BEnKI"
+              "uri": "spotify:track:75FQnbNzIeX9QAl21BEnKI",
+              "is_local": false
             },
             {
               "artists": [
@@ -1311,12 +1308,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4YSYzelIzckY5oTIXGU3lc",
               "id": "4YSYzelIzckY5oTIXGU3lc",
-              "is_local": false,
               "name": "4 In The Morning",
               "preview_url": "https://p.scdn.co/mp3-preview/9312ee022b0bc39d0b91e6b1c3ee561401ba992c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:4YSYzelIzckY5oTIXGU3lc"
+              "uri": "spotify:track:4YSYzelIzckY5oTIXGU3lc",
+              "is_local": false
             },
             {
               "artists": [
@@ -1526,12 +1523,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5JKnHK8cU8k4w7mB44DWL4",
               "id": "5JKnHK8cU8k4w7mB44DWL4",
-              "is_local": false,
               "name": "Jealousy",
               "preview_url": "https://p.scdn.co/mp3-preview/ca77e7a75afb02702635ff87803a7263d01c9a7f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:5JKnHK8cU8k4w7mB44DWL4"
+              "uri": "spotify:track:5JKnHK8cU8k4w7mB44DWL4",
+              "is_local": false
             },
             {
               "artists": [
@@ -1741,12 +1738,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5o3kn5HJIYAQ14GYmR6IAg",
               "id": "5o3kn5HJIYAQ14GYmR6IAg",
-              "is_local": false,
               "name": "The Table",
               "preview_url": "https://p.scdn.co/mp3-preview/1ef24669207bf37db7b3d0bbb6b8b9d565d8c772?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:5o3kn5HJIYAQ14GYmR6IAg"
+              "uri": "spotify:track:5o3kn5HJIYAQ14GYmR6IAg",
+              "is_local": false
             },
             {
               "artists": [
@@ -1956,12 +1953,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1vtFlSfBhHcrj3TSYjpK8J",
               "id": "1vtFlSfBhHcrj3TSYjpK8J",
-              "is_local": false,
               "name": "Pure",
               "preview_url": "https://p.scdn.co/mp3-preview/c8f631e9908c7b9a623edb4d9217fb302dafdbb9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:1vtFlSfBhHcrj3TSYjpK8J"
+              "uri": "spotify:track:1vtFlSfBhHcrj3TSYjpK8J",
+              "is_local": false
             },
             {
               "artists": [
@@ -2171,12 +2168,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7FL9hBxZMMjyMg7ezluCTB",
               "id": "7FL9hBxZMMjyMg7ezluCTB",
-              "is_local": false,
               "name": "One Of These Days",
               "preview_url": "https://p.scdn.co/mp3-preview/b98ece7e42945d04c5199cedb35f37d336546c73?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:7FL9hBxZMMjyMg7ezluCTB"
+              "uri": "spotify:track:7FL9hBxZMMjyMg7ezluCTB",
+              "is_local": false
             },
             {
               "artists": [
@@ -2386,12 +2383,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6hejXDjMHr0dt1Y5Rj7p93",
               "id": "6hejXDjMHr0dt1Y5Rj7p93",
-              "is_local": false,
               "name": "Carrera",
               "preview_url": "https://p.scdn.co/mp3-preview/e410a51f9df1a843df34635b5a6aabfd5d8d1436?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:6hejXDjMHr0dt1Y5Rj7p93"
+              "uri": "spotify:track:6hejXDjMHr0dt1Y5Rj7p93",
+              "is_local": false
             },
             {
               "artists": [
@@ -2601,12 +2598,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7ItACWwnj2dfcI8JgzIlCC",
               "id": "7ItACWwnj2dfcI8JgzIlCC",
-              "is_local": false,
               "name": "Much Too Much",
               "preview_url": "https://p.scdn.co/mp3-preview/c1905e70de78ef932dadb03c54bc0a9dc61bbd31?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 11,
               "type": "track",
-              "uri": "spotify:track:7ItACWwnj2dfcI8JgzIlCC"
+              "uri": "spotify:track:7ItACWwnj2dfcI8JgzIlCC",
+              "is_local": false
             },
             {
               "artists": [
@@ -2816,12 +2813,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4s0wkyeXeMTUERLQ9UX8kZ",
               "id": "4s0wkyeXeMTUERLQ9UX8kZ",
-              "is_local": false,
               "name": "Sliding Doors",
               "preview_url": "https://p.scdn.co/mp3-preview/13cb054f535bcc08587435749bd3690a1f7052df?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 12,
               "type": "track",
-              "uri": "spotify:track:4s0wkyeXeMTUERLQ9UX8kZ"
+              "uri": "spotify:track:4s0wkyeXeMTUERLQ9UX8kZ",
+              "is_local": false
             },
             {
               "artists": [
@@ -3031,12 +3028,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1bAjrBfU21dxXiwxCXNF5C",
               "id": "1bAjrBfU21dxXiwxCXNF5C",
-              "is_local": false,
               "name": "Lost For Words",
               "preview_url": "https://p.scdn.co/mp3-preview/339d2fc6bdaa7f92d5561dac5ef2f273d222645b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 13,
               "type": "track",
-              "uri": "spotify:track:1bAjrBfU21dxXiwxCXNF5C"
+              "uri": "spotify:track:1bAjrBfU21dxXiwxCXNF5C",
+              "is_local": false
             },
             {
               "artists": [
@@ -3256,12 +3253,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4K6QZO2D3FNhLr7jKpPoQm",
               "id": "4K6QZO2D3FNhLr7jKpPoQm",
-              "is_local": false,
               "name": "Look Me In The Eyes (feat. James Blake)",
               "preview_url": "https://p.scdn.co/mp3-preview/7384d3eb72cd47ae237e7ad3ab608e10c30246a2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 14,
               "type": "track",
-              "uri": "spotify:track:4K6QZO2D3FNhLr7jKpPoQm"
+              "uri": "spotify:track:4K6QZO2D3FNhLr7jKpPoQm",
+              "is_local": false
             },
             {
               "artists": [
@@ -3471,12 +3468,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2wXOmg1tD7cJuU9HhffYXG",
               "id": "2wXOmg1tD7cJuU9HhffYXG",
-              "is_local": false,
               "name": "New Years",
               "preview_url": "https://p.scdn.co/mp3-preview/4f2c33df43a8c9f25bb3664962237a2b576bb244?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 15,
               "type": "track",
-              "uri": "spotify:track:2wXOmg1tD7cJuU9HhffYXG"
+              "uri": "spotify:track:2wXOmg1tD7cJuU9HhffYXG",
+              "is_local": false
             },
             {
               "artists": [
@@ -3686,40 +3683,32 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5wV1jwBjTkxxAa2gpfyQYR",
               "id": "5wV1jwBjTkxxAa2gpfyQYR",
-              "is_local": false,
               "name": "Finally",
               "preview_url": "https://p.scdn.co/mp3-preview/28906547f0028c6b7ab96cef96c8025679560068?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 16,
               "type": "track",
-              "uri": "spotify:track:5wV1jwBjTkxxAa2gpfyQYR"
+              "uri": "spotify:track:5wV1jwBjTkxxAa2gpfyQYR",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 16
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:5HSZsS7TGsyMvur547zjVe"
+        "copyrights": [
+          {
+            "text": "(P) 2024 Sony Music Entertainment, under exclusive license from Rex Orange County",
+            "type": "P"
+          }
+        ],
+        "external_ids": { "upc": "196872177114" },
+        "genres": [],
+        "label": "Rex Orange County",
+        "popularity": 71
       }
     },
     {
       "added_at": "2024-04-29T17:00:00Z",
       "album": {
         "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-            },
-            "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
-            "id": "1NjxFrpEGZTV2Ny0OJxeWu",
-            "name": "Sal Priadi",
-            "type": "artist",
-            "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
-          }
-        ],
+        "total_tracks": 15,
         "available_markets": [
           "AR",
           "AU",
@@ -3907,42 +3896,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          { "text": "2024 Orang Pertunjukan", "type": "C" },
-          { "text": "2024 Orang Pertunjukan", "type": "P" }
-        ],
-        "external_ids": { "upc": "3617385897681" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/5uAcLj2EJLtQtKMyDYCI0Q",
+        "href": "https://api.spotify.com/v1/albums/5uAcLj2EJLtQtKMyDYCI0Q?locale=*",
         "id": "5uAcLj2EJLtQtKMyDYCI0Q",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b273686acaaa87bfc6ebb42b3bd2",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e02686acaaa87bfc6ebb42b3bd2",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d00004851686acaaa87bfc6ebb42b3bd2",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "Orang Pertunjukan",
         "name": "MARKERS AND SUCH PENS FLASHDISKS",
-        "popularity": 79,
         "release_date": "2024-04-30",
         "release_date_precision": "day",
-        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:5uAcLj2EJLtQtKMyDYCI0Q",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+            },
+            "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+            "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+            "name": "Sal Priadi",
+            "type": "artist",
+            "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/5uAcLj2EJLtQtKMyDYCI0Q/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 15,
           "items": [
             {
               "artists": [
@@ -4152,12 +4151,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5Egm9N7FnzsThl1CFXB2mm",
               "id": "5Egm9N7FnzsThl1CFXB2mm",
-              "is_local": false,
               "name": "Kita usahakan rumah itu",
               "preview_url": "https://p.scdn.co/mp3-preview/47c8373a318204100fc1c9583898c12f6649c5a5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:5Egm9N7FnzsThl1CFXB2mm"
+              "uri": "spotify:track:5Egm9N7FnzsThl1CFXB2mm",
+              "is_local": false
             },
             {
               "artists": [
@@ -4367,12 +4366,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1NzyVlr2fOWOfigbwDabme",
               "id": "1NzyVlr2fOWOfigbwDabme",
-              "is_local": false,
               "name": "Mesra-mesraannya kecil-kecilan dulu",
               "preview_url": "https://p.scdn.co/mp3-preview/ff8b5f7aa1b05789ceb776d888a223917fd60765?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:1NzyVlr2fOWOfigbwDabme"
+              "uri": "spotify:track:1NzyVlr2fOWOfigbwDabme",
+              "is_local": false
             },
             {
               "artists": [
@@ -4582,12 +4581,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5ny9oRP16qNgiOBxga2Dfv",
               "id": "5ny9oRP16qNgiOBxga2Dfv",
-              "is_local": false,
               "name": "Lewat sudah pukul dua, makin banyak bicara kita",
               "preview_url": "https://p.scdn.co/mp3-preview/7facd1da2580088e32fd69ceb4cdf7efefbcf807?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:5ny9oRP16qNgiOBxga2Dfv"
+              "uri": "spotify:track:5ny9oRP16qNgiOBxga2Dfv",
+              "is_local": false
             },
             {
               "artists": [
@@ -4797,12 +4796,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/71ZLnmvl1AUO0gqWvhPBw2",
               "id": "71ZLnmvl1AUO0gqWvhPBw2",
-              "is_local": false,
               "name": "Dari planet lain",
               "preview_url": "https://p.scdn.co/mp3-preview/66fbd4f4290435c8247e8b343e98f1271f7a5874?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:71ZLnmvl1AUO0gqWvhPBw2"
+              "uri": "spotify:track:71ZLnmvl1AUO0gqWvhPBw2",
+              "is_local": false
             },
             {
               "artists": [
@@ -5012,12 +5011,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3qhj6auEMIDhJv6oCHI9fJ",
               "id": "3qhj6auEMIDhJv6oCHI9fJ",
-              "is_local": false,
               "name": "Yasudah",
               "preview_url": "https://p.scdn.co/mp3-preview/2a4a4f036d90b4b23e5952885087ebfa4e5e5dcc?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:3qhj6auEMIDhJv6oCHI9fJ"
+              "uri": "spotify:track:3qhj6auEMIDhJv6oCHI9fJ",
+              "is_local": false
             },
             {
               "artists": [
@@ -5227,12 +5226,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2a6wNAPFnEHT1sHDZh5p3B",
               "id": "2a6wNAPFnEHT1sHDZh5p3B",
-              "is_local": false,
               "name": "Episode",
               "preview_url": "https://p.scdn.co/mp3-preview/a40763106806ea88ee84985d70cdf3921a86bf6d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:2a6wNAPFnEHT1sHDZh5p3B"
+              "uri": "spotify:track:2a6wNAPFnEHT1sHDZh5p3B",
+              "is_local": false
             },
             {
               "artists": [
@@ -5442,12 +5441,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5POrnkQAprvkordH0kB25O",
               "id": "5POrnkQAprvkordH0kB25O",
-              "is_local": false,
               "name": "Foto kita blur",
               "preview_url": "https://p.scdn.co/mp3-preview/8357efb9f922a66145d59bd03fd274660dc83be6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:5POrnkQAprvkordH0kB25O"
+              "uri": "spotify:track:5POrnkQAprvkordH0kB25O",
+              "is_local": false
             },
             {
               "artists": [
@@ -5657,12 +5656,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4s8W4gutSQnFIDNThqUPSI",
               "id": "4s8W4gutSQnFIDNThqUPSI",
-              "is_local": false,
               "name": "Semua lagu cinta",
               "preview_url": "https://p.scdn.co/mp3-preview/b6a0fdbf489e8a43e66769b255401792a182f5fe?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:4s8W4gutSQnFIDNThqUPSI"
+              "uri": "spotify:track:4s8W4gutSQnFIDNThqUPSI",
+              "is_local": false
             },
             {
               "artists": [
@@ -5872,12 +5871,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0ttFueUDx5ZcxlV0jHiDxB",
               "id": "0ttFueUDx5ZcxlV0jHiDxB",
-              "is_local": false,
               "name": "Di mana alamatmu sekarang",
               "preview_url": "https://p.scdn.co/mp3-preview/01b5a25287bad661869d18f78cac2c994bc95973?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:0ttFueUDx5ZcxlV0jHiDxB"
+              "uri": "spotify:track:0ttFueUDx5ZcxlV0jHiDxB",
+              "is_local": false
             },
             {
               "artists": [
@@ -6087,12 +6086,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1E7zLPDdqo0OvzVmGj5aoV",
               "id": "1E7zLPDdqo0OvzVmGj5aoV",
-              "is_local": false,
               "name": "Ada titik-titik di ujung doa",
               "preview_url": "https://p.scdn.co/mp3-preview/15ce12fe0e8fe5f1dd15b39ed8f0f37ae1ff1c87?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:1E7zLPDdqo0OvzVmGj5aoV"
+              "uri": "spotify:track:1E7zLPDdqo0OvzVmGj5aoV",
+              "is_local": false
             },
             {
               "artists": [
@@ -6302,12 +6301,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3f3jS09mFLkbtLc1rWPZqL",
               "id": "3f3jS09mFLkbtLc1rWPZqL",
-              "is_local": false,
               "name": "Biar jadi urusanku",
               "preview_url": "https://p.scdn.co/mp3-preview/d3caa232b83c049e8ab288defe310a6f0c2da0b7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 11,
               "type": "track",
-              "uri": "spotify:track:3f3jS09mFLkbtLc1rWPZqL"
+              "uri": "spotify:track:3f3jS09mFLkbtLc1rWPZqL",
+              "is_local": false
             },
             {
               "artists": [
@@ -6517,12 +6516,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3KUks16xYXUuhpp0rhEsSl",
               "id": "3KUks16xYXUuhpp0rhEsSl",
-              "is_local": false,
               "name": "Zuzuzaza",
               "preview_url": "https://p.scdn.co/mp3-preview/b4bb7333206ed24919cfd60ef1abd6a0a85824b4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 12,
               "type": "track",
-              "uri": "spotify:track:3KUks16xYXUuhpp0rhEsSl"
+              "uri": "spotify:track:3KUks16xYXUuhpp0rhEsSl",
+              "is_local": false
             },
             {
               "artists": [
@@ -6732,12 +6731,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5WrVgPYXJlIHSf177rDpNL",
               "id": "5WrVgPYXJlIHSf177rDpNL",
-              "is_local": false,
               "name": "Hi, selamat pagiii",
               "preview_url": "https://p.scdn.co/mp3-preview/2310e025abe6effce00708bb7167f237b587b208?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 13,
               "type": "track",
-              "uri": "spotify:track:5WrVgPYXJlIHSf177rDpNL"
+              "uri": "spotify:track:5WrVgPYXJlIHSf177rDpNL",
+              "is_local": false
             },
             {
               "artists": [
@@ -6947,12 +6946,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5eBk8ZXcd0pb0AO4a5PpOg",
               "id": "5eBk8ZXcd0pb0AO4a5PpOg",
-              "is_local": false,
               "name": "Gala bunga matahari",
               "preview_url": "https://p.scdn.co/mp3-preview/8c1d18387b62cbb034503a5d353402cfe0da3074?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 14,
               "type": "track",
-              "uri": "spotify:track:5eBk8ZXcd0pb0AO4a5PpOg"
+              "uri": "spotify:track:5eBk8ZXcd0pb0AO4a5PpOg",
+              "is_local": false
             },
             {
               "artists": [
@@ -7162,40 +7161,30 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0Y7dCFSIdB9vJ8nnVIAfuv",
               "id": "0Y7dCFSIdB9vJ8nnVIAfuv",
-              "is_local": false,
               "name": "I'd like to watch you sleeping",
               "preview_url": "https://p.scdn.co/mp3-preview/d47f4360d2b9310274146c52c59699a3dfe95abe?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 15,
               "type": "track",
-              "uri": "spotify:track:0Y7dCFSIdB9vJ8nnVIAfuv"
+              "uri": "spotify:track:0Y7dCFSIdB9vJ8nnVIAfuv",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 15
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:5uAcLj2EJLtQtKMyDYCI0Q"
+        "copyrights": [
+          { "text": "2024 Orang Pertunjukan", "type": "C" },
+          { "text": "2024 Orang Pertunjukan", "type": "P" }
+        ],
+        "external_ids": { "upc": "3617385897681" },
+        "genres": [],
+        "label": "Orang Pertunjukan",
+        "popularity": 79
       }
     },
     {
       "added_at": "2023-12-25T15:45:36Z",
       "album": {
         "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
-            },
-            "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
-            "id": "3mIj9lX2MWuHmhNCA7LSCW",
-            "name": "The 1975",
-            "type": "artist",
-            "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
-          }
-        ],
+        "total_tracks": 25,
         "available_markets": [
           "AR",
           "AU",
@@ -7383,42 +7372,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          { "text": "© 2023 Dirty Hit", "type": "C" },
-          { "text": "℗ 2023 Dirty Hit", "type": "P" }
-        ],
-        "external_ids": { "upc": "196922670886" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/5j6YJDxFLm027k83JLRjno"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/5j6YJDxFLm027k83JLRjno",
+        "href": "https://api.spotify.com/v1/albums/5j6YJDxFLm027k83JLRjno?locale=*",
         "id": "5j6YJDxFLm027k83JLRjno",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b273707f997692c3367572737a44",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e02707f997692c3367572737a44",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d00004851707f997692c3367572737a44",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "Dirty Hit",
         "name": "At Their Very Best (Live from Madison Square Garden, New York, 07.11.22)",
-        "popularity": 55,
         "release_date": "2023-01-06",
         "release_date_precision": "day",
-        "total_tracks": 25,
+        "type": "album",
+        "uri": "spotify:album:5j6YJDxFLm027k83JLRjno",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+            },
+            "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+            "id": "3mIj9lX2MWuHmhNCA7LSCW",
+            "name": "The 1975",
+            "type": "artist",
+            "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/5j6YJDxFLm027k83JLRjno/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 25,
           "items": [
             {
               "artists": [
@@ -7628,12 +7627,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/15sdHeHuHAhi2l7Vvw6iet",
               "id": "15sdHeHuHAhi2l7Vvw6iet",
-              "is_local": false,
               "name": "The 1975 (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/8f7fa3306adb9460bedb3e3365d6f69fa628eaad?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:15sdHeHuHAhi2l7Vvw6iet"
+              "uri": "spotify:track:15sdHeHuHAhi2l7Vvw6iet",
+              "is_local": false
             },
             {
               "artists": [
@@ -7843,12 +7842,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3TiV4LWDBhtSUA3HpUDuwj",
               "id": "3TiV4LWDBhtSUA3HpUDuwj",
-              "is_local": false,
               "name": "Looking For Somebody (To Love) (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/4c099f59e879b0e2b20042b587fd3b0209552337?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:3TiV4LWDBhtSUA3HpUDuwj"
+              "uri": "spotify:track:3TiV4LWDBhtSUA3HpUDuwj",
+              "is_local": false
             },
             {
               "artists": [
@@ -8058,12 +8057,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/414oOu6LIArOjeshrY81do",
               "id": "414oOu6LIArOjeshrY81do",
-              "is_local": false,
               "name": "Happiness (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/40e29017e7d55ab9cce7a208eeeb15be36faa3e0?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:414oOu6LIArOjeshrY81do"
+              "uri": "spotify:track:414oOu6LIArOjeshrY81do",
+              "is_local": false
             },
             {
               "artists": [
@@ -8273,12 +8272,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0loZId2cqaysH7kH69sFlI",
               "id": "0loZId2cqaysH7kH69sFlI",
-              "is_local": false,
               "name": "Part of the Band (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/82245d184045f1b26913abe44930ccba9ec37526?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:0loZId2cqaysH7kH69sFlI"
+              "uri": "spotify:track:0loZId2cqaysH7kH69sFlI",
+              "is_local": false
             },
             {
               "artists": [
@@ -8488,12 +8487,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1wVggscsTgigLMEtEzRDV2",
               "id": "1wVggscsTgigLMEtEzRDV2",
-              "is_local": false,
               "name": "Oh Caroline (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/799cc85bcaa7057d01efa0cf249d56ad10b36d40?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:1wVggscsTgigLMEtEzRDV2"
+              "uri": "spotify:track:1wVggscsTgigLMEtEzRDV2",
+              "is_local": false
             },
             {
               "artists": [
@@ -8703,12 +8702,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4jDKYgjYYWJWtMNlpgtFqS",
               "id": "4jDKYgjYYWJWtMNlpgtFqS",
-              "is_local": false,
               "name": "I’m In Love With You (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/3870394bcb41d1cbb9485e6e61c2e88eb78774a9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:4jDKYgjYYWJWtMNlpgtFqS"
+              "uri": "spotify:track:4jDKYgjYYWJWtMNlpgtFqS",
+              "is_local": false
             },
             {
               "artists": [
@@ -8918,12 +8917,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3vGZWsmbEIIheudVkM7WG0",
               "id": "3vGZWsmbEIIheudVkM7WG0",
-              "is_local": false,
               "name": "All I Need To Hear (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/e3d9b95b69d25cda710e15805fb0fcad077be9a7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:3vGZWsmbEIIheudVkM7WG0"
+              "uri": "spotify:track:3vGZWsmbEIIheudVkM7WG0",
+              "is_local": false
             },
             {
               "artists": [
@@ -9133,12 +9132,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/37y9Q17mwwZ5PJegbkMbLR",
               "id": "37y9Q17mwwZ5PJegbkMbLR",
-              "is_local": false,
               "name": "Roadkill (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/1d70a7782d661469f6a73a2d6df654477a828cf2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:37y9Q17mwwZ5PJegbkMbLR"
+              "uri": "spotify:track:37y9Q17mwwZ5PJegbkMbLR",
+              "is_local": false
             },
             {
               "artists": [
@@ -9348,12 +9347,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6DzqQkutBsyPNEYYHrBQgd",
               "id": "6DzqQkutBsyPNEYYHrBQgd",
-              "is_local": false,
               "name": "fallingforyou (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/c16a751a0fa5704a4574f291bf7d2e9fc61d4cde?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:6DzqQkutBsyPNEYYHrBQgd"
+              "uri": "spotify:track:6DzqQkutBsyPNEYYHrBQgd",
+              "is_local": false
             },
             {
               "artists": [
@@ -9563,12 +9562,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1wNB5NEz3f5lVZMYSH16Ot",
               "id": "1wNB5NEz3f5lVZMYSH16Ot",
-              "is_local": false,
               "name": "I Like America & America Likes Me (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/5e1a84068dbdeee24280fe0dadbd4c8846ff0e73?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:1wNB5NEz3f5lVZMYSH16Ot"
+              "uri": "spotify:track:1wNB5NEz3f5lVZMYSH16Ot",
+              "is_local": false
             },
             {
               "artists": [
@@ -9778,12 +9777,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5oEBb8plpj6Ya0LS7Dwv7s",
               "id": "5oEBb8plpj6Ya0LS7Dwv7s",
-              "is_local": false,
               "name": "About You (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/9823cac8e23656c8d56fdbf9b9439f958c6c3ec3?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 11,
               "type": "track",
-              "uri": "spotify:track:5oEBb8plpj6Ya0LS7Dwv7s"
+              "uri": "spotify:track:5oEBb8plpj6Ya0LS7Dwv7s",
+              "is_local": false
             },
             {
               "artists": [
@@ -9993,12 +9992,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3Vy5o3HyApcsEwkD4sw9j6",
               "id": "3Vy5o3HyApcsEwkD4sw9j6",
-              "is_local": false,
               "name": "When We Are Together (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/441cf724970bf9e5c10c76a1311f0ab68d518848?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 12,
               "type": "track",
-              "uri": "spotify:track:3Vy5o3HyApcsEwkD4sw9j6"
+              "uri": "spotify:track:3Vy5o3HyApcsEwkD4sw9j6",
+              "is_local": false
             },
             {
               "artists": [
@@ -10208,12 +10207,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4uEPKMHVMbU485JReMbTJv",
               "id": "4uEPKMHVMbU485JReMbTJv",
-              "is_local": false,
               "name": "Consumption (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/3fb0de089dd859eee23adea0a0185a393244aec9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 13,
               "type": "track",
-              "uri": "spotify:track:4uEPKMHVMbU485JReMbTJv"
+              "uri": "spotify:track:4uEPKMHVMbU485JReMbTJv",
+              "is_local": false
             },
             {
               "artists": [
@@ -10423,12 +10422,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2TzQp5liJtWbv9c0Lko15F",
               "id": "2TzQp5liJtWbv9c0Lko15F",
-              "is_local": false,
               "name": "If You're Too Shy (Let Me Know) (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/fb0830167fea3e6f5ca7425d302ce74397ef9be7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 14,
               "type": "track",
-              "uri": "spotify:track:2TzQp5liJtWbv9c0Lko15F"
+              "uri": "spotify:track:2TzQp5liJtWbv9c0Lko15F",
+              "is_local": false
             },
             {
               "artists": [
@@ -10638,12 +10637,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4peDRbbyASyJy8mDDSFzyG",
               "id": "4peDRbbyASyJy8mDDSFzyG",
-              "is_local": false,
               "name": "TOOTIMETOOTIMETOOTIME (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/aa8a4ed6037590b6e81998a431ae8e1f619144a8?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 15,
               "type": "track",
-              "uri": "spotify:track:4peDRbbyASyJy8mDDSFzyG"
+              "uri": "spotify:track:4peDRbbyASyJy8mDDSFzyG",
+              "is_local": false
             },
             {
               "artists": [
@@ -10853,12 +10852,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4SRkUA8APyZhN1FvnlbkDB",
               "id": "4SRkUA8APyZhN1FvnlbkDB",
-              "is_local": false,
               "name": "Me & You Together Song (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/2c7ac01563b2fe9e83594e17757aa5e4e5e9fbab?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 16,
               "type": "track",
-              "uri": "spotify:track:4SRkUA8APyZhN1FvnlbkDB"
+              "uri": "spotify:track:4SRkUA8APyZhN1FvnlbkDB",
+              "is_local": false
             },
             {
               "artists": [
@@ -11068,12 +11067,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2QXMMFdEPSNu4DLRJv2Ncn",
               "id": "2QXMMFdEPSNu4DLRJv2Ncn",
-              "is_local": false,
               "name": "It's Not Living (If It's Not With You) (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/0bae87d90b41cb8fe7ac1605af5f8ff812cbf246?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 17,
               "type": "track",
-              "uri": "spotify:track:2QXMMFdEPSNu4DLRJv2Ncn"
+              "uri": "spotify:track:2QXMMFdEPSNu4DLRJv2Ncn",
+              "is_local": false
             },
             {
               "artists": [
@@ -11283,12 +11282,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5r3q6crbHz8LbQ2XKqLqJz",
               "id": "5r3q6crbHz8LbQ2XKqLqJz",
-              "is_local": false,
               "name": "Paris (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/9228fff3b24f6ace068a323688091a5857c60ece?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 18,
               "type": "track",
-              "uri": "spotify:track:5r3q6crbHz8LbQ2XKqLqJz"
+              "uri": "spotify:track:5r3q6crbHz8LbQ2XKqLqJz",
+              "is_local": false
             },
             {
               "artists": [
@@ -11498,12 +11497,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1rqtdgkXwPf8hexcl9D6Ar",
               "id": "1rqtdgkXwPf8hexcl9D6Ar",
-              "is_local": false,
               "name": "Robbers (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/94348d2641807dc5887499def66e17ae42888625?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 19,
               "type": "track",
-              "uri": "spotify:track:1rqtdgkXwPf8hexcl9D6Ar"
+              "uri": "spotify:track:1rqtdgkXwPf8hexcl9D6Ar",
+              "is_local": false
             },
             {
               "artists": [
@@ -11713,12 +11712,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3jT3rJkGLAFSq4d8zidz25",
               "id": "3jT3rJkGLAFSq4d8zidz25",
-              "is_local": false,
               "name": "Somebody Else (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/52a01aa264eaad7c3c98527bfd3c0013cb4385e4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 20,
               "type": "track",
-              "uri": "spotify:track:3jT3rJkGLAFSq4d8zidz25"
+              "uri": "spotify:track:3jT3rJkGLAFSq4d8zidz25",
+              "is_local": false
             },
             {
               "artists": [
@@ -11928,12 +11927,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5JGgqOLuHpVmdJHJdnufCv",
               "id": "5JGgqOLuHpVmdJHJdnufCv",
-              "is_local": false,
               "name": "I Always Wanna Die (Sometimes) (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/9f26e0ef7c0cf1f74a097baf25e5d529dbe7be10?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 21,
               "type": "track",
-              "uri": "spotify:track:5JGgqOLuHpVmdJHJdnufCv"
+              "uri": "spotify:track:5JGgqOLuHpVmdJHJdnufCv",
+              "is_local": false
             },
             {
               "artists": [
@@ -12143,12 +12142,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/36AvhOlf9OqDAzlL0X3BKk",
               "id": "36AvhOlf9OqDAzlL0X3BKk",
-              "is_local": false,
               "name": "Love It If We Made It (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/489915bee8c660ecc0669298d6d23e462cf75c28?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 22,
               "type": "track",
-              "uri": "spotify:track:36AvhOlf9OqDAzlL0X3BKk"
+              "uri": "spotify:track:36AvhOlf9OqDAzlL0X3BKk",
+              "is_local": false
             },
             {
               "artists": [
@@ -12358,12 +12357,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6pvO4V4DCrfKoMQvNxHK6h",
               "id": "6pvO4V4DCrfKoMQvNxHK6h",
-              "is_local": false,
               "name": "The Sound (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/e7a4ea318867d89692fa7206533ac31fc7459286?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 23,
               "type": "track",
-              "uri": "spotify:track:6pvO4V4DCrfKoMQvNxHK6h"
+              "uri": "spotify:track:6pvO4V4DCrfKoMQvNxHK6h",
+              "is_local": false
             },
             {
               "artists": [
@@ -12573,12 +12572,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2qMV0Ln0uLivFIKdJ2Q602",
               "id": "2qMV0Ln0uLivFIKdJ2Q602",
-              "is_local": false,
               "name": "Sex (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/45e219e2207ebc7aafbc7cf824c5d2f343507be6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 24,
               "type": "track",
-              "uri": "spotify:track:2qMV0Ln0uLivFIKdJ2Q602"
+              "uri": "spotify:track:2qMV0Ln0uLivFIKdJ2Q602",
+              "is_local": false
             },
             {
               "artists": [
@@ -12788,40 +12787,30 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2E5AAS39Fgy9Jc7t2NX0un",
               "id": "2E5AAS39Fgy9Jc7t2NX0un",
-              "is_local": false,
               "name": "Give Yourself a Try (Live from Madison Square Garden, New York, 07.11.22)",
               "preview_url": "https://p.scdn.co/mp3-preview/4c48878f858c619e155901f93687a8ed079fbb97?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 25,
               "type": "track",
-              "uri": "spotify:track:2E5AAS39Fgy9Jc7t2NX0un"
+              "uri": "spotify:track:2E5AAS39Fgy9Jc7t2NX0un",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 25
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:5j6YJDxFLm027k83JLRjno"
+        "copyrights": [
+          { "text": "© 2023 Dirty Hit", "type": "C" },
+          { "text": "℗ 2023 Dirty Hit", "type": "P" }
+        ],
+        "external_ids": { "upc": "196922670886" },
+        "genres": [],
+        "label": "Dirty Hit",
+        "popularity": 55
       }
     },
     {
       "added_at": "2023-12-20T13:50:24Z",
       "album": {
         "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
-            },
-            "href": "https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d",
-            "id": "1lYT0A0LV5DUfxr6doRP3d",
-            "name": "The Stone Roses",
-            "type": "artist",
-            "uri": "spotify:artist:1lYT0A0LV5DUfxr6doRP3d"
-          }
-        ],
+        "total_tracks": 12,
         "available_markets": [
           "AR",
           "AU",
@@ -13009,41 +12998,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          { "text": "(P) 2009 Silvertone Records Limited", "type": "P" }
-        ],
-        "external_ids": { "upc": "888880916815" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/0um9FI6BLBldL5POP4D4Cw",
+        "href": "https://api.spotify.com/v1/albums/0um9FI6BLBldL5POP4D4Cw?locale=*",
         "id": "0um9FI6BLBldL5POP4D4Cw",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b273cf1f6466a493eb73d6d9d280",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e02cf1f6466a493eb73d6d9d280",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d00004851cf1f6466a493eb73d6d9d280",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "Sony Music UK",
         "name": "The Stone Roses",
-        "popularity": 69,
         "release_date": "1989-05-02",
         "release_date_precision": "day",
-        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:0um9FI6BLBldL5POP4D4Cw",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d"
+            },
+            "href": "https://api.spotify.com/v1/artists/1lYT0A0LV5DUfxr6doRP3d",
+            "id": "1lYT0A0LV5DUfxr6doRP3d",
+            "name": "The Stone Roses",
+            "type": "artist",
+            "uri": "spotify:artist:1lYT0A0LV5DUfxr6doRP3d"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/0um9FI6BLBldL5POP4D4Cw/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 12,
           "items": [
             {
               "artists": [
@@ -13253,12 +13253,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/758wEKVqfYopJIHYWdLVd4",
               "id": "758wEKVqfYopJIHYWdLVd4",
-              "is_local": false,
               "name": "I Wanna Be Adored - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/64b634d8fa849d4f839eb86b28f29ed76d042bad?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:758wEKVqfYopJIHYWdLVd4"
+              "uri": "spotify:track:758wEKVqfYopJIHYWdLVd4",
+              "is_local": false
             },
             {
               "artists": [
@@ -13468,12 +13468,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3clIHVzJ9J2rvvrFUKLICo",
               "id": "3clIHVzJ9J2rvvrFUKLICo",
-              "is_local": false,
               "name": "She Bangs the Drums - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/0ab78033b2d6dbbb3a275d2e95d357d042cc589b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:3clIHVzJ9J2rvvrFUKLICo"
+              "uri": "spotify:track:3clIHVzJ9J2rvvrFUKLICo",
+              "is_local": false
             },
             {
               "artists": [
@@ -13683,12 +13683,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4CWgqHRJjDLd2PCedMz8eY",
               "id": "4CWgqHRJjDLd2PCedMz8eY",
-              "is_local": false,
               "name": "Waterfall - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/ef31c100e1a4721b0d6778686a0461afd1583535?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:4CWgqHRJjDLd2PCedMz8eY"
+              "uri": "spotify:track:4CWgqHRJjDLd2PCedMz8eY",
+              "is_local": false
             },
             {
               "artists": [
@@ -13898,12 +13898,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2Kwf8mUygPEriB7GVErizM",
               "id": "2Kwf8mUygPEriB7GVErizM",
-              "is_local": false,
               "name": "Don't Stop - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/b7bfc46d601e5a21e20a6a4dcf7eda93f8647f1f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:2Kwf8mUygPEriB7GVErizM"
+              "uri": "spotify:track:2Kwf8mUygPEriB7GVErizM",
+              "is_local": false
             },
             {
               "artists": [
@@ -14113,12 +14113,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2r0Cx2vW1wn2K3PogcdcPX",
               "id": "2r0Cx2vW1wn2K3PogcdcPX",
-              "is_local": false,
               "name": "Bye Bye Bad Man - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/3ce44022b241854313af7319cc18b812640a078d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:2r0Cx2vW1wn2K3PogcdcPX"
+              "uri": "spotify:track:2r0Cx2vW1wn2K3PogcdcPX",
+              "is_local": false
             },
             {
               "artists": [
@@ -14328,12 +14328,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/395XURgt6hWMx9XNOfIxia",
               "id": "395XURgt6hWMx9XNOfIxia",
-              "is_local": false,
               "name": "Elizabeth My Dear - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/e0efe014779aac7f66f81de7306fc6dac386cbe0?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:395XURgt6hWMx9XNOfIxia"
+              "uri": "spotify:track:395XURgt6hWMx9XNOfIxia",
+              "is_local": false
             },
             {
               "artists": [
@@ -14543,12 +14543,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3WEDBjYdFN9anBLB87w9b8",
               "id": "3WEDBjYdFN9anBLB87w9b8",
-              "is_local": false,
               "name": "(Song for My) Sugar Spun Sister - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/d4cbf0054ab5a136343c8fde5af2e16aa86adfd5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:3WEDBjYdFN9anBLB87w9b8"
+              "uri": "spotify:track:3WEDBjYdFN9anBLB87w9b8",
+              "is_local": false
             },
             {
               "artists": [
@@ -14758,12 +14758,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0bZelokqNQicLQfLU1Ayw8",
               "id": "0bZelokqNQicLQfLU1Ayw8",
-              "is_local": false,
               "name": "Made of Stone - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/20099d785f987c83cd05b78116b0a6b3d344f4ba?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:0bZelokqNQicLQfLU1Ayw8"
+              "uri": "spotify:track:0bZelokqNQicLQfLU1Ayw8",
+              "is_local": false
             },
             {
               "artists": [
@@ -14973,12 +14973,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2erQ477GekpdP5l3xp5adl",
               "id": "2erQ477GekpdP5l3xp5adl",
-              "is_local": false,
               "name": "Shoot You Down - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/71cee7be6e492e4e75f8c1a861f62fe1896d5501?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:2erQ477GekpdP5l3xp5adl"
+              "uri": "spotify:track:2erQ477GekpdP5l3xp5adl",
+              "is_local": false
             },
             {
               "artists": [
@@ -15188,12 +15188,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/433EQGQOsQjWvD5eImXkHf",
               "id": "433EQGQOsQjWvD5eImXkHf",
-              "is_local": false,
               "name": "This Is the One - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/e0cc330892bb4737ea2da113c8a38e7ae2ed2e26?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:433EQGQOsQjWvD5eImXkHf"
+              "uri": "spotify:track:433EQGQOsQjWvD5eImXkHf",
+              "is_local": false
             },
             {
               "artists": [
@@ -15403,12 +15403,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5ikdUUm6JbnEVnp35c7dvy",
               "id": "5ikdUUm6JbnEVnp35c7dvy",
-              "is_local": false,
               "name": "I Am the Resurrection - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/8282f9aea89a0254f6bd18fd76fc64e2ac79d758?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 11,
               "type": "track",
-              "uri": "spotify:track:5ikdUUm6JbnEVnp35c7dvy"
+              "uri": "spotify:track:5ikdUUm6JbnEVnp35c7dvy",
+              "is_local": false
             },
             {
               "artists": [
@@ -15618,40 +15618,29 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2mv6GY70UsHiTCGQZ4JfgC",
               "id": "2mv6GY70UsHiTCGQZ4JfgC",
-              "is_local": false,
               "name": "Fools Gold - Remastered 2009",
               "preview_url": "https://p.scdn.co/mp3-preview/71b71b47d8a64c05bef4b4c69426df3732d54223?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 12,
               "type": "track",
-              "uri": "spotify:track:2mv6GY70UsHiTCGQZ4JfgC"
+              "uri": "spotify:track:2mv6GY70UsHiTCGQZ4JfgC",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 12
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:0um9FI6BLBldL5POP4D4Cw"
+        "copyrights": [
+          { "text": "(P) 2009 Silvertone Records Limited", "type": "P" }
+        ],
+        "external_ids": { "upc": "888880916815" },
+        "genres": [],
+        "label": "Sony Music UK",
+        "popularity": 69
       }
     },
     {
       "added_at": "2023-11-23T06:19:43Z",
       "album": {
         "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
-            },
-            "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
-            "id": "0epOFNiUfyON9EYx7Tpr6V",
-            "name": "The Strokes",
-            "type": "artist",
-            "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
-          }
-        ],
+        "total_tracks": 9,
         "available_markets": [
           "AR",
           "AU",
@@ -15839,44 +15828,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          {
-            "text": "(P) 2020 RCA Records, a division of Sony Music Entertainment. Cover Painting: \"Bird On Money\", 1981. Artwork by Jean-Michel Basquiat (C) Estate of Jean-Michel Basquiat. Licensed by Artestar, New York. Used by permission.",
-            "type": "P"
-          }
-        ],
-        "external_ids": { "upc": "886448119647" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/2xkZV2Hl1Omi8rk2D7t5lN"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/2xkZV2Hl1Omi8rk2D7t5lN",
+        "href": "https://api.spotify.com/v1/albums/2xkZV2Hl1Omi8rk2D7t5lN?locale=*",
         "id": "2xkZV2Hl1Omi8rk2D7t5lN",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e02bfa99afb5ef0d26d5064b23b",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d00004851bfa99afb5ef0d26d5064b23b",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "Cult Records/RCA Records",
         "name": "The New Abnormal",
-        "popularity": 77,
         "release_date": "2020-04-10",
         "release_date_precision": "day",
-        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:2xkZV2Hl1Omi8rk2D7t5lN",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
+            },
+            "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
+            "id": "0epOFNiUfyON9EYx7Tpr6V",
+            "name": "The Strokes",
+            "type": "artist",
+            "uri": "spotify:artist:0epOFNiUfyON9EYx7Tpr6V"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/2xkZV2Hl1Omi8rk2D7t5lN/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 9,
           "items": [
             {
               "artists": [
@@ -16086,12 +16083,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5ruzrDWcT0vuJIOMW7gMnW",
               "id": "5ruzrDWcT0vuJIOMW7gMnW",
-              "is_local": false,
               "name": "The Adults Are Talking",
               "preview_url": "https://p.scdn.co/mp3-preview/213afafcea2fa6b5c7e5fd71c1fd8f4adc3ffba0?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW"
+              "uri": "spotify:track:5ruzrDWcT0vuJIOMW7gMnW",
+              "is_local": false
             },
             {
               "artists": [
@@ -16301,12 +16298,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2t0wwvR15fc3K1ey8OiOaN",
               "id": "2t0wwvR15fc3K1ey8OiOaN",
-              "is_local": false,
               "name": "Selfless",
               "preview_url": "https://p.scdn.co/mp3-preview/2d74e6d6368043c0ad8c601f94ea64743bb86e7c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:2t0wwvR15fc3K1ey8OiOaN"
+              "uri": "spotify:track:2t0wwvR15fc3K1ey8OiOaN",
+              "is_local": false
             },
             {
               "artists": [
@@ -16516,12 +16513,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2mDYYGaGd9uXKkK2YhDA3i",
               "id": "2mDYYGaGd9uXKkK2YhDA3i",
-              "is_local": false,
               "name": "Brooklyn Bridge To Chorus",
               "preview_url": "https://p.scdn.co/mp3-preview/fc60e8fce6d385376e73e393168c8c9fe60a5c4c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:2mDYYGaGd9uXKkK2YhDA3i"
+              "uri": "spotify:track:2mDYYGaGd9uXKkK2YhDA3i",
+              "is_local": false
             },
             {
               "artists": [
@@ -16731,12 +16728,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/55N8cxpE1QDoeaaNqUnoZ2",
               "id": "55N8cxpE1QDoeaaNqUnoZ2",
-              "is_local": false,
               "name": "Bad Decisions",
               "preview_url": "https://p.scdn.co/mp3-preview/b020bdc9f82e8277c9b441172b6d1fecabda7347?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:55N8cxpE1QDoeaaNqUnoZ2"
+              "uri": "spotify:track:55N8cxpE1QDoeaaNqUnoZ2",
+              "is_local": false
             },
             {
               "artists": [
@@ -16946,12 +16943,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6IRzBP4gVoV4D2zHmocoWy",
               "id": "6IRzBP4gVoV4D2zHmocoWy",
-              "is_local": false,
               "name": "Eternal Summer",
               "preview_url": "https://p.scdn.co/mp3-preview/7a625ba24a7595514d78beafc9a615739980c1a9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:6IRzBP4gVoV4D2zHmocoWy"
+              "uri": "spotify:track:6IRzBP4gVoV4D2zHmocoWy",
+              "is_local": false
             },
             {
               "artists": [
@@ -17161,12 +17158,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7lu6YLrlB1MU7HW8DJSuPa",
               "id": "7lu6YLrlB1MU7HW8DJSuPa",
-              "is_local": false,
               "name": "At The Door",
               "preview_url": "https://p.scdn.co/mp3-preview/43e879a43811bf2d86306e2982929d0eff2af03b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:7lu6YLrlB1MU7HW8DJSuPa"
+              "uri": "spotify:track:7lu6YLrlB1MU7HW8DJSuPa",
+              "is_local": false
             },
             {
               "artists": [
@@ -17376,12 +17373,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1aOxOpH4AkGAd8OMrKjyNY",
               "id": "1aOxOpH4AkGAd8OMrKjyNY",
-              "is_local": false,
               "name": "Why Are Sundays So Depressing",
               "preview_url": "https://p.scdn.co/mp3-preview/455acaee128458b8ff84add5136c250d26f7a8b3?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:1aOxOpH4AkGAd8OMrKjyNY"
+              "uri": "spotify:track:1aOxOpH4AkGAd8OMrKjyNY",
+              "is_local": false
             },
             {
               "artists": [
@@ -17591,12 +17588,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5ncofiedz9Ej6YkvvXMKVn",
               "id": "5ncofiedz9Ej6YkvvXMKVn",
-              "is_local": false,
               "name": "Not The Same Anymore",
               "preview_url": "https://p.scdn.co/mp3-preview/7682ea8139ccc9c68c0af5ef6c63926f15190ea1?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:5ncofiedz9Ej6YkvvXMKVn"
+              "uri": "spotify:track:5ncofiedz9Ej6YkvvXMKVn",
+              "is_local": false
             },
             {
               "artists": [
@@ -17806,40 +17803,32 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1BLOVHYYlH4JUHQGcpt75R",
               "id": "1BLOVHYYlH4JUHQGcpt75R",
-              "is_local": false,
               "name": "Ode To The Mets",
               "preview_url": "https://p.scdn.co/mp3-preview/f5b6d13e2e4f3828dd3d70c2110ae9522c8e8732?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:1BLOVHYYlH4JUHQGcpt75R"
+              "uri": "spotify:track:1BLOVHYYlH4JUHQGcpt75R",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 9
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:2xkZV2Hl1Omi8rk2D7t5lN"
+        "copyrights": [
+          {
+            "text": "(P) 2020 RCA Records, a division of Sony Music Entertainment. Cover Painting: \"Bird On Money\", 1981. Artwork by Jean-Michel Basquiat (C) Estate of Jean-Michel Basquiat. Licensed by Artestar, New York. Used by permission.",
+            "type": "P"
+          }
+        ],
+        "external_ids": { "upc": "886448119647" },
+        "genres": [],
+        "label": "Cult Records/RCA Records",
+        "popularity": 77
       }
     },
     {
       "added_at": "2023-11-21T13:37:10Z",
       "album": {
         "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-            },
-            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-            "id": "7pbDxGE6nQSZVfiFdq9lOL",
-            "name": "Rex Orange County",
-            "type": "artist",
-            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
-          }
-        ],
+        "total_tracks": 9,
         "available_markets": [
           "AR",
           "AU",
@@ -18027,44 +18016,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          {
-            "text": "(P) 2020 Rex Orange County, under exclusive license to Sony Music Entertainment",
-            "type": "P"
-          }
-        ],
-        "external_ids": { "upc": "886448774730" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/1Dtg3Qo9eMhrbT2Yr9EUOz"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/1Dtg3Qo9eMhrbT2Yr9EUOz",
+        "href": "https://api.spotify.com/v1/albums/1Dtg3Qo9eMhrbT2Yr9EUOz?locale=*",
         "id": "1Dtg3Qo9eMhrbT2Yr9EUOz",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b273d970cd18ef2f579691cf56bc",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e02d970cd18ef2f579691cf56bc",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d00004851d970cd18ef2f579691cf56bc",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "Rex Orange County",
         "name": "Live at Radio City Music Hall",
-        "popularity": 44,
         "release_date": "2020-09-30",
         "release_date_precision": "day",
-        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:1Dtg3Qo9eMhrbT2Yr9EUOz",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+            "id": "7pbDxGE6nQSZVfiFdq9lOL",
+            "name": "Rex Orange County",
+            "type": "artist",
+            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/1Dtg3Qo9eMhrbT2Yr9EUOz/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 9,
           "items": [
             {
               "artists": [
@@ -18274,12 +18271,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/53aVX8gHGLDJagIQQNGGnl",
               "id": "53aVX8gHGLDJagIQQNGGnl",
-              "is_local": false,
               "name": "10/10 - Live at Radio City Music Hall",
               "preview_url": "https://p.scdn.co/mp3-preview/a7829197e94d042b43932045a87dc1d70dd999f4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:53aVX8gHGLDJagIQQNGGnl"
+              "uri": "spotify:track:53aVX8gHGLDJagIQQNGGnl",
+              "is_local": false
             },
             {
               "artists": [
@@ -18489,12 +18486,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6vYtv4ndKb1MWLfoa09xXO",
               "id": "6vYtv4ndKb1MWLfoa09xXO",
-              "is_local": false,
               "name": "Never Enough - Live at Radio City Music Hall",
               "preview_url": "https://p.scdn.co/mp3-preview/2e69d41d1e268a1258da70f2dbf21f0beadd0540?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:6vYtv4ndKb1MWLfoa09xXO"
+              "uri": "spotify:track:6vYtv4ndKb1MWLfoa09xXO",
+              "is_local": false
             },
             {
               "artists": [
@@ -18704,12 +18701,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2NadwPQAKe3w2SnRfZqv24",
               "id": "2NadwPQAKe3w2SnRfZqv24",
-              "is_local": false,
               "name": "Pluto Projector - Live at Radio City Music Hall",
               "preview_url": "https://p.scdn.co/mp3-preview/993306d4e4db4042e1a98532808b83f9590b2065?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:2NadwPQAKe3w2SnRfZqv24"
+              "uri": "spotify:track:2NadwPQAKe3w2SnRfZqv24",
+              "is_local": false
             },
             {
               "artists": [
@@ -18919,12 +18916,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7EJOS8lV0OBg6NQ8erUGn6",
               "id": "7EJOS8lV0OBg6NQ8erUGn6",
-              "is_local": false,
               "name": "Untitled - Live at Radio City Music Hall",
               "preview_url": "https://p.scdn.co/mp3-preview/ae08e2a1fffe6df3fbdebd1da0a3cde494583c64?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:7EJOS8lV0OBg6NQ8erUGn6"
+              "uri": "spotify:track:7EJOS8lV0OBg6NQ8erUGn6",
+              "is_local": false
             },
             {
               "artists": [
@@ -19134,12 +19131,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/568D7SvOegMcWCea0pBmoM",
               "id": "568D7SvOegMcWCea0pBmoM",
-              "is_local": false,
               "name": "New York State Of Mind - Live at Radio City Music Hall",
               "preview_url": "https://p.scdn.co/mp3-preview/2bd033f676eb85820c4646be9da33732617f7cee?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:568D7SvOegMcWCea0pBmoM"
+              "uri": "spotify:track:568D7SvOegMcWCea0pBmoM",
+              "is_local": false
             },
             {
               "artists": [
@@ -19349,12 +19346,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3yxoSSfXXGsyZZoJA6piuw",
               "id": "3yxoSSfXXGsyZZoJA6piuw",
-              "is_local": false,
               "name": "Corduroy Dreams - Live at Radio City Music Hall",
               "preview_url": "https://p.scdn.co/mp3-preview/c7b91f4f3374c7ccdd5c99ead5512e596e9a2cbf?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:3yxoSSfXXGsyZZoJA6piuw"
+              "uri": "spotify:track:3yxoSSfXXGsyZZoJA6piuw",
+              "is_local": false
             },
             {
               "artists": [
@@ -19564,12 +19561,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3xz5n1xyi3DOMIb8vodsZm",
               "id": "3xz5n1xyi3DOMIb8vodsZm",
-              "is_local": false,
               "name": "Sunflower - Live at Radio City Music Hall",
               "preview_url": "https://p.scdn.co/mp3-preview/c7c493557604f62951825ff03cd51e47e506ef80?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:3xz5n1xyi3DOMIb8vodsZm"
+              "uri": "spotify:track:3xz5n1xyi3DOMIb8vodsZm",
+              "is_local": false
             },
             {
               "artists": [
@@ -19779,12 +19776,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6ReFkWoYUn18BIbpCb3H0R",
               "id": "6ReFkWoYUn18BIbpCb3H0R",
-              "is_local": false,
               "name": "Best Friend - Live at Radio City Music Hall",
               "preview_url": "https://p.scdn.co/mp3-preview/60d5d83605251d3ec823e9ce472eb52cc280bb87?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:6ReFkWoYUn18BIbpCb3H0R"
+              "uri": "spotify:track:6ReFkWoYUn18BIbpCb3H0R",
+              "is_local": false
             },
             {
               "artists": [
@@ -19994,40 +19991,32 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4nxUX2j2GaUK71nJ3zSn89",
               "id": "4nxUX2j2GaUK71nJ3zSn89",
-              "is_local": false,
               "name": "Always - Live at Radio City Music Hall",
               "preview_url": "https://p.scdn.co/mp3-preview/8e44a5c2265352749172f11af6add104570867b2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:4nxUX2j2GaUK71nJ3zSn89"
+              "uri": "spotify:track:4nxUX2j2GaUK71nJ3zSn89",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 9
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:1Dtg3Qo9eMhrbT2Yr9EUOz"
+        "copyrights": [
+          {
+            "text": "(P) 2020 Rex Orange County, under exclusive license to Sony Music Entertainment",
+            "type": "P"
+          }
+        ],
+        "external_ids": { "upc": "886448774730" },
+        "genres": [],
+        "label": "Rex Orange County",
+        "popularity": 44
       }
     },
     {
       "added_at": "2023-11-15T15:38:39Z",
       "album": {
         "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-            },
-            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-            "id": "7pbDxGE6nQSZVfiFdq9lOL",
-            "name": "Rex Orange County",
-            "type": "artist",
-            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
-          }
-        ],
+        "total_tracks": 10,
         "available_markets": [
           "AR",
           "AU",
@@ -20215,42 +20204,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          { "text": "(C) 2017 Rex Orange County", "type": "C" },
-          { "text": "(P) 2017 Rex Orange County", "type": "P" }
-        ],
-        "external_ids": { "upc": "5060450063043" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/4DxNdQzm6cBYuSn4dCimmT"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/4DxNdQzm6cBYuSn4dCimmT",
+        "href": "https://api.spotify.com/v1/albums/4DxNdQzm6cBYuSn4dCimmT?locale=*",
         "id": "4DxNdQzm6cBYuSn4dCimmT",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b2731bd6d088d3d81972af4cb81d",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e021bd6d088d3d81972af4cb81d",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d000048511bd6d088d3d81972af4cb81d",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "Rex Orange County",
         "name": "Apricot Princess",
-        "popularity": 72,
         "release_date": "2017-04-26",
         "release_date_precision": "day",
-        "total_tracks": 10,
+        "type": "album",
+        "uri": "spotify:album:4DxNdQzm6cBYuSn4dCimmT",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+            },
+            "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+            "id": "7pbDxGE6nQSZVfiFdq9lOL",
+            "name": "Rex Orange County",
+            "type": "artist",
+            "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/4DxNdQzm6cBYuSn4dCimmT/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 10,
           "items": [
             {
               "artists": [
@@ -20460,12 +20459,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6SK6sdcklU02bEuhjvs5bK",
               "id": "6SK6sdcklU02bEuhjvs5bK",
-              "is_local": false,
               "name": "Apricot Princess",
               "preview_url": "https://p.scdn.co/mp3-preview/c7158e4bdcf7a83931ce110e9fa91cfab61cc77f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:6SK6sdcklU02bEuhjvs5bK"
+              "uri": "spotify:track:6SK6sdcklU02bEuhjvs5bK",
+              "is_local": false
             },
             {
               "artists": [
@@ -20675,12 +20674,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/27rZYxE4l21wTaovX4WTnI",
               "id": "27rZYxE4l21wTaovX4WTnI",
-              "is_local": false,
               "name": "Television / So Far So Good",
               "preview_url": "https://p.scdn.co/mp3-preview/166f1dfa87d9d0ebe3c530b2f625e2cf046f7777?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:27rZYxE4l21wTaovX4WTnI"
+              "uri": "spotify:track:27rZYxE4l21wTaovX4WTnI",
+              "is_local": false
             },
             {
               "artists": [
@@ -20900,12 +20899,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5J27KD5G7Ub3hubaRnGoVB",
               "id": "5J27KD5G7Ub3hubaRnGoVB",
-              "is_local": false,
               "name": "Nothing",
               "preview_url": "https://p.scdn.co/mp3-preview/9fc6731e76898d138a97bfa4601ab197160a242a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:5J27KD5G7Ub3hubaRnGoVB"
+              "uri": "spotify:track:5J27KD5G7Ub3hubaRnGoVB",
+              "is_local": false
             },
             {
               "artists": [
@@ -21115,12 +21114,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7lUX7bNyCJZeSn0ZCvL0GW",
               "id": "7lUX7bNyCJZeSn0ZCvL0GW",
-              "is_local": false,
               "name": "Sycamore Girl",
               "preview_url": "https://p.scdn.co/mp3-preview/05e719721e9a68aad145b8979e406bf8c7df5c47?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:7lUX7bNyCJZeSn0ZCvL0GW"
+              "uri": "spotify:track:7lUX7bNyCJZeSn0ZCvL0GW",
+              "is_local": false
             },
             {
               "artists": [
@@ -21330,12 +21329,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/40GRJBeHKroMtWwGX9EFyQ",
               "id": "40GRJBeHKroMtWwGX9EFyQ",
-              "is_local": false,
               "name": "Untitled",
               "preview_url": "https://p.scdn.co/mp3-preview/d7a8ad637048f87974bea21858900eba05b3b5f0?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:40GRJBeHKroMtWwGX9EFyQ"
+              "uri": "spotify:track:40GRJBeHKroMtWwGX9EFyQ",
+              "is_local": false
             },
             {
               "artists": [
@@ -21545,12 +21544,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4fg2EzaeNhR2PWNGXbX18n",
               "id": "4fg2EzaeNhR2PWNGXbX18n",
-              "is_local": false,
               "name": "4 Seasons",
               "preview_url": "https://p.scdn.co/mp3-preview/10d8aeb9f581b4c4fa8c2096219741d6cb27f3da?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:4fg2EzaeNhR2PWNGXbX18n"
+              "uri": "spotify:track:4fg2EzaeNhR2PWNGXbX18n",
+              "is_local": false
             },
             {
               "artists": [
@@ -21760,12 +21759,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1B04mWViAk7jcLEifYbvdi",
               "id": "1B04mWViAk7jcLEifYbvdi",
-              "is_local": false,
               "name": "Waiting Room",
               "preview_url": "https://p.scdn.co/mp3-preview/2f0e55578410c50ff7b4362d1a473b3dbb19af26?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:1B04mWViAk7jcLEifYbvdi"
+              "uri": "spotify:track:1B04mWViAk7jcLEifYbvdi",
+              "is_local": false
             },
             {
               "artists": [
@@ -21975,12 +21974,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/12dtBMOafWqGvjJhKxAJ7q",
               "id": "12dtBMOafWqGvjJhKxAJ7q",
-              "is_local": false,
               "name": "Rain Man",
               "preview_url": "https://p.scdn.co/mp3-preview/486da2290015f50d528a273073ccf44376a5ccd8?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:12dtBMOafWqGvjJhKxAJ7q"
+              "uri": "spotify:track:12dtBMOafWqGvjJhKxAJ7q",
+              "is_local": false
             },
             {
               "artists": [
@@ -22190,12 +22189,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2UO6VQNKdwygetKaVCe39h",
               "id": "2UO6VQNKdwygetKaVCe39h",
-              "is_local": false,
               "name": "Never Enough",
               "preview_url": "https://p.scdn.co/mp3-preview/3f3ea3695c918d04245f0783ddaba89b70b133b0?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:2UO6VQNKdwygetKaVCe39h"
+              "uri": "spotify:track:2UO6VQNKdwygetKaVCe39h",
+              "is_local": false
             },
             {
               "artists": [
@@ -22405,40 +22404,30 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7aSyG7cskkG3zhfO2JLxq3",
               "id": "7aSyG7cskkG3zhfO2JLxq3",
-              "is_local": false,
               "name": "Happiness",
               "preview_url": "https://p.scdn.co/mp3-preview/87fed18c8e401b07bb45366b548396274d98e170?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:7aSyG7cskkG3zhfO2JLxq3"
+              "uri": "spotify:track:7aSyG7cskkG3zhfO2JLxq3",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 10
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:4DxNdQzm6cBYuSn4dCimmT"
+        "copyrights": [
+          { "text": "(C) 2017 Rex Orange County", "type": "C" },
+          { "text": "(P) 2017 Rex Orange County", "type": "P" }
+        ],
+        "external_ids": { "upc": "5060450063043" },
+        "genres": [],
+        "label": "Rex Orange County",
+        "popularity": 72
       }
     },
     {
       "added_at": "2023-11-14T20:15:59Z",
       "album": {
         "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-            },
-            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
-            "id": "2kxP07DLgs4xlWz8YHlvfh",
-            "name": "NIKI",
-            "type": "artist",
-            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
-          }
-        ],
+        "total_tracks": 12,
         "available_markets": [
           "AR",
           "AU",
@@ -22625,42 +22614,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          { "text": "© 2022 88rising Records", "type": "C" },
-          { "text": "℗ 2022 88rising Records", "type": "P" }
-        ],
-        "external_ids": { "upc": "190296084300" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/5WR7ksPLp3kqFbDLTYpGfx",
+        "href": "https://api.spotify.com/v1/albums/5WR7ksPLp3kqFbDLTYpGfx?locale=*",
         "id": "5WR7ksPLp3kqFbDLTYpGfx",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b273770eeb0ee1c91983b1ba4a10",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e02770eeb0ee1c91983b1ba4a10",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d00004851770eeb0ee1c91983b1ba4a10",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "88rising Music",
         "name": "Nicole",
-        "popularity": 75,
         "release_date": "2022-08-12",
         "release_date_precision": "day",
-        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:5WR7ksPLp3kqFbDLTYpGfx",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+            "id": "2kxP07DLgs4xlWz8YHlvfh",
+            "name": "NIKI",
+            "type": "artist",
+            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/5WR7ksPLp3kqFbDLTYpGfx/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 12,
           "items": [
             {
               "artists": [
@@ -22869,12 +22868,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2JcLhDcdmV8ZZ7aTvyIp6s",
               "id": "2JcLhDcdmV8ZZ7aTvyIp6s",
-              "is_local": false,
               "name": "Before",
               "preview_url": "https://p.scdn.co/mp3-preview/c82afb97a697984539b2f50907f518e2d610aa38?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:2JcLhDcdmV8ZZ7aTvyIp6s"
+              "uri": "spotify:track:2JcLhDcdmV8ZZ7aTvyIp6s",
+              "is_local": false
             },
             {
               "artists": [
@@ -23083,12 +23082,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1zxfRSZcaonV1VXcY0PgY5",
               "id": "1zxfRSZcaonV1VXcY0PgY5",
-              "is_local": false,
               "name": "High School in Jakarta",
               "preview_url": "https://p.scdn.co/mp3-preview/c1758005d326bfba791ad69499511fc7e21df06f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:1zxfRSZcaonV1VXcY0PgY5"
+              "uri": "spotify:track:1zxfRSZcaonV1VXcY0PgY5",
+              "is_local": false
             },
             {
               "artists": [
@@ -23297,12 +23296,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4kkWvBCT6wq5NHoJjYRaPU",
               "id": "4kkWvBCT6wq5NHoJjYRaPU",
-              "is_local": false,
               "name": "Backburner",
               "preview_url": "https://p.scdn.co/mp3-preview/47f7f1f6183eee7c50df249c41b86d1ac3bf0b95?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:4kkWvBCT6wq5NHoJjYRaPU"
+              "uri": "spotify:track:4kkWvBCT6wq5NHoJjYRaPU",
+              "is_local": false
             },
             {
               "artists": [
@@ -23511,12 +23510,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2zz4plJxtgMIsQg5SMl2Bg",
               "id": "2zz4plJxtgMIsQg5SMl2Bg",
-              "is_local": false,
               "name": "Keeping Tabs",
               "preview_url": "https://p.scdn.co/mp3-preview/44151e22bd54133ff433f9efcae46485ddcad54b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:2zz4plJxtgMIsQg5SMl2Bg"
+              "uri": "spotify:track:2zz4plJxtgMIsQg5SMl2Bg",
+              "is_local": false
             },
             {
               "artists": [
@@ -23725,12 +23724,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7uvtPp6So6MtrGSC3LpKfs",
               "id": "7uvtPp6So6MtrGSC3LpKfs",
-              "is_local": false,
               "name": "The Apartment We Won't Share",
               "preview_url": "https://p.scdn.co/mp3-preview/2e2c088cce2930eeec3e9f986c573f92ff2384d7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:7uvtPp6So6MtrGSC3LpKfs"
+              "uri": "spotify:track:7uvtPp6So6MtrGSC3LpKfs",
+              "is_local": false
             },
             {
               "artists": [
@@ -23939,12 +23938,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1p8EY7SLeooBRzI0gdTAZT",
               "id": "1p8EY7SLeooBRzI0gdTAZT",
-              "is_local": false,
               "name": "Facebook Friends",
               "preview_url": "https://p.scdn.co/mp3-preview/e9f4cf1b66b240038b4bea3a4d8d1af189f63a96?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:1p8EY7SLeooBRzI0gdTAZT"
+              "uri": "spotify:track:1p8EY7SLeooBRzI0gdTAZT",
+              "is_local": false
             },
             {
               "artists": [
@@ -24153,12 +24152,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4OKjD1bhRWP5oxNovZcV05",
               "id": "4OKjD1bhRWP5oxNovZcV05",
-              "is_local": false,
               "name": "Anaheim",
               "preview_url": "https://p.scdn.co/mp3-preview/36b96441a32ac013b1a64fffc29d8539768beed9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:4OKjD1bhRWP5oxNovZcV05"
+              "uri": "spotify:track:4OKjD1bhRWP5oxNovZcV05",
+              "is_local": false
             },
             {
               "artists": [
@@ -24367,12 +24366,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1MA3rhkKAhBrXnE4tJtB1V",
               "id": "1MA3rhkKAhBrXnE4tJtB1V",
-              "is_local": false,
               "name": "Milk Teeth",
               "preview_url": "https://p.scdn.co/mp3-preview/b4431cbc131792032c427c6bee63d77036b8cf62?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:1MA3rhkKAhBrXnE4tJtB1V"
+              "uri": "spotify:track:1MA3rhkKAhBrXnE4tJtB1V",
+              "is_local": false
             },
             {
               "artists": [
@@ -24581,12 +24580,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7tKK8AGJ6Nfefm829JwLgr",
               "id": "7tKK8AGJ6Nfefm829JwLgr",
-              "is_local": false,
               "name": "Autumn",
               "preview_url": "https://p.scdn.co/mp3-preview/25b744ee714eb02c2e6466e00a2437585553e9f6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:7tKK8AGJ6Nfefm829JwLgr"
+              "uri": "spotify:track:7tKK8AGJ6Nfefm829JwLgr",
+              "is_local": false
             },
             {
               "artists": [
@@ -24795,12 +24794,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/42TdMRJSRaxgEz1O3ouvDT",
               "id": "42TdMRJSRaxgEz1O3ouvDT",
-              "is_local": false,
               "name": "Oceans & Engines",
               "preview_url": "https://p.scdn.co/mp3-preview/59d8451ea630c5c3313928746c02ab5ce3fc78f6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:42TdMRJSRaxgEz1O3ouvDT"
+              "uri": "spotify:track:42TdMRJSRaxgEz1O3ouvDT",
+              "is_local": false
             },
             {
               "artists": [
@@ -25009,12 +25008,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3jq9KI5MPahXVOTxd5Pmkg",
               "id": "3jq9KI5MPahXVOTxd5Pmkg",
-              "is_local": false,
               "name": "On The Drive Home",
               "preview_url": "https://p.scdn.co/mp3-preview/0f4cf912e682a3f774b692428d0c1cbfe87d0a87?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 11,
               "type": "track",
-              "uri": "spotify:track:3jq9KI5MPahXVOTxd5Pmkg"
+              "uri": "spotify:track:3jq9KI5MPahXVOTxd5Pmkg",
+              "is_local": false
             },
             {
               "artists": [
@@ -25223,40 +25222,30 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5kxOQDA9AcuNQXHvg5NpX4",
               "id": "5kxOQDA9AcuNQXHvg5NpX4",
-              "is_local": false,
               "name": "Take A Chance With Me",
               "preview_url": "https://p.scdn.co/mp3-preview/0790b787606ff57b34b2f99a10e996f859396d1f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 12,
               "type": "track",
-              "uri": "spotify:track:5kxOQDA9AcuNQXHvg5NpX4"
+              "uri": "spotify:track:5kxOQDA9AcuNQXHvg5NpX4",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 12
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:5WR7ksPLp3kqFbDLTYpGfx"
+        "copyrights": [
+          { "text": "© 2022 88rising Records", "type": "C" },
+          { "text": "℗ 2022 88rising Records", "type": "P" }
+        ],
+        "external_ids": { "upc": "190296084300" },
+        "genres": [],
+        "label": "88rising Music",
+        "popularity": 75
       }
     },
     {
       "added_at": "2023-08-29T04:34:04Z",
       "album": {
         "album_type": "compilation",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
-            },
-            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
-            "id": "0LyfQWJT6nXafLPZqxe9Of",
-            "name": "Various Artists",
-            "type": "artist",
-            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
-          }
-        ],
+        "total_tracks": 20,
         "available_markets": [
           "AR",
           "AU",
@@ -25444,42 +25433,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          { "text": "2011 Now-Again Records", "type": "C" },
-          { "text": "2011 Africa Kurian", "type": "P" }
-        ],
-        "external_ids": { "upc": "659457506520" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/3mVPLw5tUXwH54msEN8vUs"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/3mVPLw5tUXwH54msEN8vUs",
+        "href": "https://api.spotify.com/v1/albums/3mVPLw5tUXwH54msEN8vUs?locale=*",
         "id": "3mVPLw5tUXwH54msEN8vUs",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b273544f41c6052de617dfcd77a2",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e02544f41c6052de617dfcd77a2",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d00004851544f41c6052de617dfcd77a2",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "Now Again Records",
         "name": "Those Shocking Shaking Days: Indonesian Hard, Psychedelic, Progressive Rock and Funk 1970-1978",
-        "popularity": 29,
         "release_date": "2011-03-08",
         "release_date_precision": "day",
-        "total_tracks": 20,
+        "type": "album",
+        "uri": "spotify:album:3mVPLw5tUXwH54msEN8vUs",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/3mVPLw5tUXwH54msEN8vUs/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 20,
           "items": [
             {
               "artists": [
@@ -25689,12 +25688,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1Wk6e75sZB5IfUS3qqHwOD",
               "id": "1Wk6e75sZB5IfUS3qqHwOD",
-              "is_local": false,
               "name": "Haai",
               "preview_url": "https://p.scdn.co/mp3-preview/36a9424d5be869cfd94a8a48f3b5bfac62ccabde?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:1Wk6e75sZB5IfUS3qqHwOD"
+              "uri": "spotify:track:1Wk6e75sZB5IfUS3qqHwOD",
+              "is_local": false
             },
             {
               "artists": [
@@ -25904,12 +25903,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2QqHUcl4IIQmcbPOBF7eeo",
               "id": "2QqHUcl4IIQmcbPOBF7eeo",
-              "is_local": false,
               "name": "Anti GanDJa",
               "preview_url": "https://p.scdn.co/mp3-preview/487e8826bdc2f682d1408794a48b0d9453f09847?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:2QqHUcl4IIQmcbPOBF7eeo"
+              "uri": "spotify:track:2QqHUcl4IIQmcbPOBF7eeo",
+              "is_local": false
             },
             {
               "artists": [
@@ -26119,12 +26118,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3fQHFcCGm0uSxxBwNLq8Dp",
               "id": "3fQHFcCGm0uSxxBwNLq8Dp",
-              "is_local": false,
               "name": "Bad News",
               "preview_url": "https://p.scdn.co/mp3-preview/114279fb6787e50f71457ca1c9e45686953f2dfe?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:3fQHFcCGm0uSxxBwNLq8Dp"
+              "uri": "spotify:track:3fQHFcCGm0uSxxBwNLq8Dp",
+              "is_local": false
             },
             {
               "artists": [
@@ -26334,12 +26333,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5c2hYHuTgC4McWiUpv7N66",
               "id": "5c2hYHuTgC4McWiUpv7N66",
-              "is_local": false,
               "name": "Evil War",
               "preview_url": "https://p.scdn.co/mp3-preview/1494348bc8c7b2c10f35af91cbd86cc609a1e9cb?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:5c2hYHuTgC4McWiUpv7N66"
+              "uri": "spotify:track:5c2hYHuTgC4McWiUpv7N66",
+              "is_local": false
             },
             {
               "artists": [
@@ -26549,12 +26548,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/16JxXeYDnvVn9HkPGune8l",
               "id": "16JxXeYDnvVn9HkPGune8l",
-              "is_local": false,
               "name": "Give Me",
               "preview_url": "https://p.scdn.co/mp3-preview/66635743ddb3bd0dceacd82399427692093ea2bd?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:16JxXeYDnvVn9HkPGune8l"
+              "uri": "spotify:track:16JxXeYDnvVn9HkPGune8l",
+              "is_local": false
             },
             {
               "artists": [
@@ -26764,12 +26763,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0vG0JOujwBK2YC5nI0OmMc",
               "id": "0vG0JOujwBK2YC5nI0OmMc",
-              "is_local": false,
               "name": "Do What You Like",
               "preview_url": "https://p.scdn.co/mp3-preview/f050b2c321d9bd3725703a82eb8c5f9293138a44?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:0vG0JOujwBK2YC5nI0OmMc"
+              "uri": "spotify:track:0vG0JOujwBK2YC5nI0OmMc",
+              "is_local": false
             },
             {
               "artists": [
@@ -26979,12 +26978,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/050s0M3tFOt8RUsCFTwnd8",
               "id": "050s0M3tFOt8RUsCFTwnd8",
-              "is_local": false,
               "name": "That Shocking Shaking Day",
               "preview_url": "https://p.scdn.co/mp3-preview/f46d9b03243f78c7fc273c6ff0c01ec19eae17c2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:050s0M3tFOt8RUsCFTwnd8"
+              "uri": "spotify:track:050s0M3tFOt8RUsCFTwnd8",
+              "is_local": false
             },
             {
               "artists": [
@@ -27194,12 +27193,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/702aKcbVXWt1adRNKZMExz",
               "id": "702aKcbVXWt1adRNKZMExz",
-              "is_local": false,
               "name": "Didunia Yang Lain",
               "preview_url": "https://p.scdn.co/mp3-preview/cde3716a660ed5eaf0d1527d6aafa9213759897f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:702aKcbVXWt1adRNKZMExz"
+              "uri": "spotify:track:702aKcbVXWt1adRNKZMExz",
+              "is_local": false
             },
             {
               "artists": [
@@ -27409,12 +27408,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1RhriaUhmCxS0QFG60nTOj",
               "id": "1RhriaUhmCxS0QFG60nTOj",
-              "is_local": false,
               "name": "Jeritan Cinta",
               "preview_url": "https://p.scdn.co/mp3-preview/df3e3e4b19ae6e1d5aea2b3ef2ff93254c986e9c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:1RhriaUhmCxS0QFG60nTOj"
+              "uri": "spotify:track:1RhriaUhmCxS0QFG60nTOj",
+              "is_local": false
             },
             {
               "artists": [
@@ -27634,12 +27633,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2W65iMKceK0W9qsn1qWJU9",
               "id": "2W65iMKceK0W9qsn1qWJU9",
-              "is_local": false,
               "name": "Candle Light",
               "preview_url": "https://p.scdn.co/mp3-preview/1f4ad52c918aedda95e75a3b46314baad8d56ec1?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:2W65iMKceK0W9qsn1qWJU9"
+              "uri": "spotify:track:2W65iMKceK0W9qsn1qWJU9",
+              "is_local": false
             },
             {
               "artists": [
@@ -27849,12 +27848,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0jWwPmY0pMafBpTq5DbOfO",
               "id": "0jWwPmY0pMafBpTq5DbOfO",
-              "is_local": false,
               "name": "People",
               "preview_url": "https://p.scdn.co/mp3-preview/1f4a795b3dd4e189bab333b8a134295fbbc5bcab?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 11,
               "type": "track",
-              "uri": "spotify:track:0jWwPmY0pMafBpTq5DbOfO"
+              "uri": "spotify:track:0jWwPmY0pMafBpTq5DbOfO",
+              "is_local": false
             },
             {
               "artists": [
@@ -28064,12 +28063,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4zLnWJGQHaOngavOb1goC5",
               "id": "4zLnWJGQHaOngavOb1goC5",
-              "is_local": false,
               "name": "Mobil Tua",
               "preview_url": "https://p.scdn.co/mp3-preview/4dab0b5cf20c66ef2c5ac979eec4d2b8fa885184?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 12,
               "type": "track",
-              "uri": "spotify:track:4zLnWJGQHaOngavOb1goC5"
+              "uri": "spotify:track:4zLnWJGQHaOngavOb1goC5",
+              "is_local": false
             },
             {
               "artists": [
@@ -28279,12 +28278,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3fayGme2IVm5psSyGgZjx2",
               "id": "3fayGme2IVm5psSyGgZjx2",
-              "is_local": false,
               "name": "Don't Talk About Freedom",
               "preview_url": "https://p.scdn.co/mp3-preview/89ede7c964ac4f5483f17d4778aac7b7c9fee860?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 13,
               "type": "track",
-              "uri": "spotify:track:3fayGme2IVm5psSyGgZjx2"
+              "uri": "spotify:track:3fayGme2IVm5psSyGgZjx2",
+              "is_local": false
             },
             {
               "artists": [
@@ -28494,12 +28493,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5b5AGYvoznaNnbyIqs2DcH",
               "id": "5b5AGYvoznaNnbyIqs2DcH",
-              "is_local": false,
               "name": "Saman Doye",
               "preview_url": "https://p.scdn.co/mp3-preview/2534c1ebf841f121098aec0dae41317aec93473b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 14,
               "type": "track",
-              "uri": "spotify:track:5b5AGYvoznaNnbyIqs2DcH"
+              "uri": "spotify:track:5b5AGYvoznaNnbyIqs2DcH",
+              "is_local": false
             },
             {
               "artists": [
@@ -28709,12 +28708,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2ZHGcpoNiyILWHt3nZpNKQ",
               "id": "2ZHGcpoNiyILWHt3nZpNKQ",
-              "is_local": false,
               "name": "Shake Me",
               "preview_url": "https://p.scdn.co/mp3-preview/bfba28440d09e014521ed4016445b5b2dead92b2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 15,
               "type": "track",
-              "uri": "spotify:track:2ZHGcpoNiyILWHt3nZpNKQ"
+              "uri": "spotify:track:2ZHGcpoNiyILWHt3nZpNKQ",
+              "is_local": false
             },
             {
               "artists": [
@@ -28924,12 +28923,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4TyQjnZbEfrCTfMfLbTFWN",
               "id": "4TyQjnZbEfrCTfMfLbTFWN",
-              "is_local": false,
               "name": "Pemain Bola",
               "preview_url": "https://p.scdn.co/mp3-preview/970c2a631a406eb27bf657ec73377f53f2c710ac?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 16,
               "type": "track",
-              "uri": "spotify:track:4TyQjnZbEfrCTfMfLbTFWN"
+              "uri": "spotify:track:4TyQjnZbEfrCTfMfLbTFWN",
+              "is_local": false
             },
             {
               "artists": [
@@ -29139,12 +29138,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3hrginizESQrHIgynlNBCS",
               "id": "3hrginizESQrHIgynlNBCS",
-              "is_local": false,
               "name": "Freedom",
               "preview_url": "https://p.scdn.co/mp3-preview/77a0af40c61432851c0915623f9d822887653c71?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 17,
               "type": "track",
-              "uri": "spotify:track:3hrginizESQrHIgynlNBCS"
+              "uri": "spotify:track:3hrginizESQrHIgynlNBCS",
+              "is_local": false
             },
             {
               "artists": [
@@ -29354,12 +29353,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6UIrUiUwa4B0GxCabc6hBT",
               "id": "6UIrUiUwa4B0GxCabc6hBT",
-              "is_local": false,
               "name": "The Promise",
               "preview_url": "https://p.scdn.co/mp3-preview/22d64ed050c64b581672fb69bf413979b0ddeb56?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 18,
               "type": "track",
-              "uri": "spotify:track:6UIrUiUwa4B0GxCabc6hBT"
+              "uri": "spotify:track:6UIrUiUwa4B0GxCabc6hBT",
+              "is_local": false
             },
             {
               "artists": [
@@ -29569,12 +29568,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/50LV604AxUj0O45Jk4AsUB",
               "id": "50LV604AxUj0O45Jk4AsUB",
-              "is_local": false,
               "name": "Uang",
               "preview_url": "https://p.scdn.co/mp3-preview/a349a219cb22625d97d5734fd0ca0afec28b400a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 19,
               "type": "track",
-              "uri": "spotify:track:50LV604AxUj0O45Jk4AsUB"
+              "uri": "spotify:track:50LV604AxUj0O45Jk4AsUB",
+              "is_local": false
             },
             {
               "artists": [
@@ -29784,40 +29783,30 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1ZYRcaqN05NPfFzX63o9wy",
               "id": "1ZYRcaqN05NPfFzX63o9wy",
-              "is_local": false,
               "name": "Pantum Lama",
               "preview_url": "https://p.scdn.co/mp3-preview/57f18ea9ad6cf4bc6e3e3f02136527e3d672c215?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 20,
               "type": "track",
-              "uri": "spotify:track:1ZYRcaqN05NPfFzX63o9wy"
+              "uri": "spotify:track:1ZYRcaqN05NPfFzX63o9wy",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 20
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:3mVPLw5tUXwH54msEN8vUs"
+        "copyrights": [
+          { "text": "2011 Now-Again Records", "type": "C" },
+          { "text": "2011 Africa Kurian", "type": "P" }
+        ],
+        "external_ids": { "upc": "659457506520" },
+        "genres": [],
+        "label": "Now Again Records",
+        "popularity": 29
       }
     },
     {
       "added_at": "2023-07-21T14:47:49Z",
       "album": {
         "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-            },
-            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
-            "id": "51kyrUsAVqUBcoDEMFkX12",
-            "name": "Hindia",
-            "type": "artist",
-            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
-          }
-        ],
+        "total_tracks": 28,
         "available_markets": [
           "AR",
           "AU",
@@ -30005,42 +29994,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          { "text": "2023 Sun Eater", "type": "C" },
-          { "text": "2023 Sun Eater", "type": "P" }
-        ],
-        "external_ids": { "upc": "3617223828143" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/0DMdiWcqnutCi81EqBXkF8"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/0DMdiWcqnutCi81EqBXkF8",
+        "href": "https://api.spotify.com/v1/albums/0DMdiWcqnutCi81EqBXkF8?locale=*",
         "id": "0DMdiWcqnutCi81EqBXkF8",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b27349bdf0e981cbba25d48b44e0",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e0249bdf0e981cbba25d48b44e0",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d0000485149bdf0e981cbba25d48b44e0",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "Sun Eater",
         "name": "Lagipula Hidup Akan Berakhir",
-        "popularity": 74,
         "release_date": "2023-07-21",
         "release_date_precision": "day",
-        "total_tracks": 28,
+        "type": "album",
+        "uri": "spotify:album:0DMdiWcqnutCi81EqBXkF8",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/0DMdiWcqnutCi81EqBXkF8/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 28,
           "items": [
             {
               "artists": [
@@ -30250,12 +30249,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6ccuuWVjSdvF1XdxS2ocqp",
               "id": "6ccuuWVjSdvF1XdxS2ocqp",
-              "is_local": false,
               "name": "Malaikat Berputar di Atas Pencakar Langit",
               "preview_url": "https://p.scdn.co/mp3-preview/53aa554c174041dbec01f3d987c2b7c9ddfc9dc4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:6ccuuWVjSdvF1XdxS2ocqp"
+              "uri": "spotify:track:6ccuuWVjSdvF1XdxS2ocqp",
+              "is_local": false
             },
             {
               "artists": [
@@ -30465,12 +30464,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5xUntBMiOnYOZYuOrfLjS9",
               "id": "5xUntBMiOnYOZYuOrfLjS9",
-              "is_local": false,
               "name": "Janji Palsu",
               "preview_url": "https://p.scdn.co/mp3-preview/c53967d5f5acecc12b625cf423c8e2c0cd6b9564?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:5xUntBMiOnYOZYuOrfLjS9"
+              "uri": "spotify:track:5xUntBMiOnYOZYuOrfLjS9",
+              "is_local": false
             },
             {
               "artists": [
@@ -30680,12 +30679,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0vPisMufQ5Ht1M5LaUlohP",
               "id": "0vPisMufQ5Ht1M5LaUlohP",
-              "is_local": false,
               "name": "Matahari Tenggelam",
               "preview_url": "https://p.scdn.co/mp3-preview/7a150bc112ff47bf452ea4a17c53c950ce6ae87c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:0vPisMufQ5Ht1M5LaUlohP"
+              "uri": "spotify:track:0vPisMufQ5Ht1M5LaUlohP",
+              "is_local": false
             },
             {
               "artists": [
@@ -30895,12 +30894,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2jkyK7a9ZzE85Poi6slMIT",
               "id": "2jkyK7a9ZzE85Poi6slMIT",
-              "is_local": false,
               "name": "Satu Hari Lagi",
               "preview_url": "https://p.scdn.co/mp3-preview/ac286bf323d3cf5dbd9995828065bb3ea2b6d460?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:2jkyK7a9ZzE85Poi6slMIT"
+              "uri": "spotify:track:2jkyK7a9ZzE85Poi6slMIT",
+              "is_local": false
             },
             {
               "artists": [
@@ -31110,12 +31109,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5FFPUPtM6auGxVMfAQvHGh",
               "id": "5FFPUPtM6auGxVMfAQvHGh",
-              "is_local": false,
               "name": "WAWANCARA LIAR, PT. I",
               "preview_url": "https://p.scdn.co/mp3-preview/e78e1d4f2458d9525be6b3206d39082d308ec8c5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:5FFPUPtM6auGxVMfAQvHGh"
+              "uri": "spotify:track:5FFPUPtM6auGxVMfAQvHGh",
+              "is_local": false
             },
             {
               "artists": [
@@ -31325,12 +31324,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0VNRlpRCVoCDwCB4GTDN1T",
               "id": "0VNRlpRCVoCDwCB4GTDN1T",
-              "is_local": false,
               "name": "Ibel",
               "preview_url": "https://p.scdn.co/mp3-preview/ddd1ca3b4c25bee3650248ff9548edf936fe0701?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:0VNRlpRCVoCDwCB4GTDN1T"
+              "uri": "spotify:track:0VNRlpRCVoCDwCB4GTDN1T",
+              "is_local": false
             },
             {
               "artists": [
@@ -31540,12 +31539,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5JOWN54F81XwKkOoNcT9PY",
               "id": "5JOWN54F81XwKkOoNcT9PY",
-              "is_local": false,
               "name": "Siapa yang akan Datang ke Pemakamanmu Nanti?",
               "preview_url": "https://p.scdn.co/mp3-preview/bc74ac41dd726ecbd7fde8fe18ec1f125c31b465?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:5JOWN54F81XwKkOoNcT9PY"
+              "uri": "spotify:track:5JOWN54F81XwKkOoNcT9PY",
+              "is_local": false
             },
             {
               "artists": [
@@ -31775,12 +31774,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/384ZUzbxAqOgn5RTmmvSGW",
               "id": "384ZUzbxAqOgn5RTmmvSGW",
-              "is_local": false,
               "name": "Selebrisik",
               "preview_url": "https://p.scdn.co/mp3-preview/96b9ee6e2e180dadc3c10bb13612e943b6f8faa8?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:384ZUzbxAqOgn5RTmmvSGW"
+              "uri": "spotify:track:384ZUzbxAqOgn5RTmmvSGW",
+              "is_local": false
             },
             {
               "artists": [
@@ -31990,12 +31989,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2i1zxyPja42WP8yx2yRJ2r",
               "id": "2i1zxyPja42WP8yx2yRJ2r",
-              "is_local": false,
               "name": "Cincin",
               "preview_url": "https://p.scdn.co/mp3-preview/3be9c68f555ddd759550796c9bc61db14f84e711?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:2i1zxyPja42WP8yx2yRJ2r"
+              "uri": "spotify:track:2i1zxyPja42WP8yx2yRJ2r",
+              "is_local": false
             },
             {
               "artists": [
@@ -32215,12 +32214,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0yetqPxEjJFVDJ74QjwkDD",
               "id": "0yetqPxEjJFVDJ74QjwkDD",
-              "is_local": false,
               "name": "WAWANCARA LIAR PT. 2",
               "preview_url": "https://p.scdn.co/mp3-preview/65a9f5341a636a3348cf6a8aa710b154a0b668fc?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:0yetqPxEjJFVDJ74QjwkDD"
+              "uri": "spotify:track:0yetqPxEjJFVDJ74QjwkDD",
+              "is_local": false
             },
             {
               "artists": [
@@ -32430,12 +32429,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3pak3skTwt9qmj0NPin9Xq",
               "id": "3pak3skTwt9qmj0NPin9Xq",
-              "is_local": false,
               "name": "Kami Khawatir, Kawan",
               "preview_url": "https://p.scdn.co/mp3-preview/7e923af4d4f02342ee8f349292a8267516eaa7c9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 11,
               "type": "track",
-              "uri": "spotify:track:3pak3skTwt9qmj0NPin9Xq"
+              "uri": "spotify:track:3pak3skTwt9qmj0NPin9Xq",
+              "is_local": false
             },
             {
               "artists": [
@@ -32645,12 +32644,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7Kwe64RXJJrk20iz2stsrA",
               "id": "7Kwe64RXJJrk20iz2stsrA",
-              "is_local": false,
               "name": "Apa Kabar, Ayah?",
               "preview_url": "https://p.scdn.co/mp3-preview/2baa9dc878a1fc427b6c34c9546c5da8dcbd0d2d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 12,
               "type": "track",
-              "uri": "spotify:track:7Kwe64RXJJrk20iz2stsrA"
+              "uri": "spotify:track:7Kwe64RXJJrk20iz2stsrA",
+              "is_local": false
             },
             {
               "artists": [
@@ -32860,12 +32859,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6GYspAZoeReXh4XhjrQtM8",
               "id": "6GYspAZoeReXh4XhjrQtM8",
-              "is_local": false,
               "name": "Iya... Sebentar",
               "preview_url": "https://p.scdn.co/mp3-preview/71cb2e75efc22534b4ffedfeab717e9d2f76b55a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 13,
               "type": "track",
-              "uri": "spotify:track:6GYspAZoeReXh4XhjrQtM8"
+              "uri": "spotify:track:6GYspAZoeReXh4XhjrQtM8",
+              "is_local": false
             },
             {
               "artists": [
@@ -33075,12 +33074,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0GPiHdKVDWsilSc5sHOCi2",
               "id": "0GPiHdKVDWsilSc5sHOCi2",
-              "is_local": false,
               "name": "Bunuh Idolamu",
               "preview_url": "https://p.scdn.co/mp3-preview/0541164333034805051f2d46beb699e772853974?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 14,
               "type": "track",
-              "uri": "spotify:track:0GPiHdKVDWsilSc5sHOCi2"
+              "uri": "spotify:track:0GPiHdKVDWsilSc5sHOCi2",
+              "is_local": false
             },
             {
               "artists": [
@@ -33290,12 +33289,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2zWUvxjeHoMAnz03yMPKVm",
               "id": "2zWUvxjeHoMAnz03yMPKVm",
-              "is_local": false,
               "name": "I'm Not A Robot / CAPTCHA",
               "preview_url": "https://p.scdn.co/mp3-preview/6eb8597f12318f9f48e659cb7c28063f75fc97ba?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:2zWUvxjeHoMAnz03yMPKVm"
+              "uri": "spotify:track:2zWUvxjeHoMAnz03yMPKVm",
+              "is_local": false
             },
             {
               "artists": [
@@ -33515,12 +33514,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1XabvPK1VQEH4YqzDovs46",
               "id": "1XabvPK1VQEH4YqzDovs46",
-              "is_local": false,
               "name": "Forgot Password",
               "preview_url": "https://p.scdn.co/mp3-preview/38cabf4b9bf3e8bb486845bbab5ddbad57db74a4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:1XabvPK1VQEH4YqzDovs46"
+              "uri": "spotify:track:1XabvPK1VQEH4YqzDovs46",
+              "is_local": false
             },
             {
               "artists": [
@@ -33730,12 +33729,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6KtsVZOUoXevMCB9vTUJH5",
               "id": "6KtsVZOUoXevMCB9vTUJH5",
-              "is_local": false,
               "name": "Perkara Tubuh",
               "preview_url": "https://p.scdn.co/mp3-preview/42f7ce48b1f363f46e4545e7b506e4cc80a1d33e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:6KtsVZOUoXevMCB9vTUJH5"
+              "uri": "spotify:track:6KtsVZOUoXevMCB9vTUJH5",
+              "is_local": false
             },
             {
               "artists": [
@@ -33945,12 +33944,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1F9rAmMuNKOBCGfqzH15Zc",
               "id": "1F9rAmMuNKOBCGfqzH15Zc",
-              "is_local": false,
               "name": "Pesisir",
               "preview_url": "https://p.scdn.co/mp3-preview/47a8068198ca4fee107a17bc642501a70890d61a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:1F9rAmMuNKOBCGfqzH15Zc"
+              "uri": "spotify:track:1F9rAmMuNKOBCGfqzH15Zc",
+              "is_local": false
             },
             {
               "artists": [
@@ -34160,12 +34159,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3TeAgZvMFj36mdJgA0QwUy",
               "id": "3TeAgZvMFj36mdJgA0QwUy",
-              "is_local": false,
               "name": "WAWANCARA LIAR, PT. 3",
               "preview_url": "https://p.scdn.co/mp3-preview/e741c820c3c3cfd2a630dd048a6c4d914917cf54?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:3TeAgZvMFj36mdJgA0QwUy"
+              "uri": "spotify:track:3TeAgZvMFj36mdJgA0QwUy",
+              "is_local": false
             },
             {
               "artists": [
@@ -34375,12 +34374,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5GMJVKfh0TbV1TjqBUa2et",
               "id": "5GMJVKfh0TbV1TjqBUa2et",
-              "is_local": false,
               "name": "Masalah Masa Depan",
               "preview_url": "https://p.scdn.co/mp3-preview/bf6f9342bcd8cb81d501f058c958d51cf791275d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:5GMJVKfh0TbV1TjqBUa2et"
+              "uri": "spotify:track:5GMJVKfh0TbV1TjqBUa2et",
+              "is_local": false
             },
             {
               "artists": [
@@ -34590,12 +34589,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1A0SVbPYh76qzwtnlAkgH5",
               "id": "1A0SVbPYh76qzwtnlAkgH5",
-              "is_local": false,
               "name": "Alexandra",
               "preview_url": "https://p.scdn.co/mp3-preview/c47d7412d3ed4c16896b303d51346518d4309a74?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:1A0SVbPYh76qzwtnlAkgH5"
+              "uri": "spotify:track:1A0SVbPYh76qzwtnlAkgH5",
+              "is_local": false
             },
             {
               "artists": [
@@ -34815,12 +34814,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4g4HBD31vBczahDYgnW2HL",
               "id": "4g4HBD31vBczahDYgnW2HL",
-              "is_local": false,
               "name": "Jangan Jadi Pahlawan",
               "preview_url": "https://p.scdn.co/mp3-preview/8b75baa7422408b1f5c236e0d3b87ed3d1ce03f6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:4g4HBD31vBczahDYgnW2HL"
+              "uri": "spotify:track:4g4HBD31vBczahDYgnW2HL",
+              "is_local": false
             },
             {
               "artists": [
@@ -35030,12 +35029,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6UcGPv3SOPpq9zt7A6ENJC",
               "id": "6UcGPv3SOPpq9zt7A6ENJC",
-              "is_local": false,
               "name": "Bayangkan",
               "preview_url": "https://p.scdn.co/mp3-preview/a75000c89dd01e88fcb3ca269f6a904b878c60eb?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:6UcGPv3SOPpq9zt7A6ENJC"
+              "uri": "spotify:track:6UcGPv3SOPpq9zt7A6ENJC",
+              "is_local": false
             },
             {
               "artists": [
@@ -35245,12 +35244,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3QZgiXw3VyeSfFnhY7zpj1",
               "id": "3QZgiXw3VyeSfFnhY7zpj1",
-              "is_local": false,
               "name": "Bayangkan Jika Kita Tidak Menyerah",
               "preview_url": "https://p.scdn.co/mp3-preview/67b0b386ab840aa87390175462a802d61e245524?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:3QZgiXw3VyeSfFnhY7zpj1"
+              "uri": "spotify:track:3QZgiXw3VyeSfFnhY7zpj1",
+              "is_local": false
             },
             {
               "artists": [
@@ -35460,12 +35459,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5DqSZFvWvSWg5eyCDi0CuW",
               "id": "5DqSZFvWvSWg5eyCDi0CuW",
-              "is_local": false,
               "name": "Kita Ke Sana",
               "preview_url": "https://p.scdn.co/mp3-preview/a9b9b10156edad7d6f72c467fb941a940e7a3478?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 11,
               "type": "track",
-              "uri": "spotify:track:5DqSZFvWvSWg5eyCDi0CuW"
+              "uri": "spotify:track:5DqSZFvWvSWg5eyCDi0CuW",
+              "is_local": false
             },
             {
               "artists": [
@@ -35675,12 +35674,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2SmKwCCSiUTjtR8I8rv6MS",
               "id": "2SmKwCCSiUTjtR8I8rv6MS",
-              "is_local": false,
               "name": "Berdansalah, Karir Ini Tak Ada Artinya",
               "preview_url": "https://p.scdn.co/mp3-preview/2c5be564b7c168f4172793903aa6be76a214ffa9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 12,
               "type": "track",
-              "uri": "spotify:track:2SmKwCCSiUTjtR8I8rv6MS"
+              "uri": "spotify:track:2SmKwCCSiUTjtR8I8rv6MS",
+              "is_local": false
             },
             {
               "artists": [
@@ -35890,12 +35889,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0JkJLhizW12li6KJNFDryx",
               "id": "0JkJLhizW12li6KJNFDryx",
-              "is_local": false,
               "name": "Nabi Palsu",
               "preview_url": "https://p.scdn.co/mp3-preview/583da097738756345c4fea262aec7d83a65373f6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 13,
               "type": "track",
-              "uri": "spotify:track:0JkJLhizW12li6KJNFDryx"
+              "uri": "spotify:track:0JkJLhizW12li6KJNFDryx",
+              "is_local": false
             },
             {
               "artists": [
@@ -36105,40 +36104,30 @@
               },
               "href": "https://api.spotify.com/v1/tracks/7CACiu6VwY8Gsb4wkc7ZUD",
               "id": "7CACiu6VwY8Gsb4wkc7ZUD",
-              "is_local": false,
               "name": "WAWANCARA LIAR, PT. 4",
               "preview_url": "https://p.scdn.co/mp3-preview/98d780d520ebfbe50a8fe24b7d3a2c66b53e983f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 14,
               "type": "track",
-              "uri": "spotify:track:7CACiu6VwY8Gsb4wkc7ZUD"
+              "uri": "spotify:track:7CACiu6VwY8Gsb4wkc7ZUD",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 28
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:0DMdiWcqnutCi81EqBXkF8"
+        "copyrights": [
+          { "text": "2023 Sun Eater", "type": "C" },
+          { "text": "2023 Sun Eater", "type": "P" }
+        ],
+        "external_ids": { "upc": "3617223828143" },
+        "genres": [],
+        "label": "Sun Eater",
+        "popularity": 74
       }
     },
     {
       "added_at": "2022-05-18T17:45:56Z",
       "album": {
         "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-            },
-            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
-            "id": "51kyrUsAVqUBcoDEMFkX12",
-            "name": "Hindia",
-            "type": "artist",
-            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
-          }
-        ],
+        "total_tracks": 15,
         "available_markets": [
           "AR",
           "AU",
@@ -36326,42 +36315,52 @@
           "ET",
           "XK"
         ],
-        "copyrights": [
-          { "text": "2019 Sun Eater", "type": "C" },
-          { "text": "2019 Sun Eater", "type": "P" }
-        ],
-        "external_ids": { "upc": "3616401399956" },
         "external_urls": {
           "spotify": "https://open.spotify.com/album/1DAuVHMlBvIjzWZALSUXbn"
         },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/1DAuVHMlBvIjzWZALSUXbn",
+        "href": "https://api.spotify.com/v1/albums/1DAuVHMlBvIjzWZALSUXbn?locale=*",
         "id": "1DAuVHMlBvIjzWZALSUXbn",
         "images": [
           {
-            "height": 640,
             "url": "https://i.scdn.co/image/ab67616d0000b273d623688488865906052ef96b",
+            "height": 640,
             "width": 640
           },
           {
-            "height": 300,
             "url": "https://i.scdn.co/image/ab67616d00001e02d623688488865906052ef96b",
+            "height": 300,
             "width": 300
           },
           {
-            "height": 64,
             "url": "https://i.scdn.co/image/ab67616d00004851d623688488865906052ef96b",
+            "height": 64,
             "width": 64
           }
         ],
-        "label": "Sun Eater",
         "name": "Menari Dengan Bayangan",
-        "popularity": 81,
         "release_date": "2019-11-29",
         "release_date_precision": "day",
-        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:1DAuVHMlBvIjzWZALSUXbn",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+            },
+            "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+            "id": "51kyrUsAVqUBcoDEMFkX12",
+            "name": "Hindia",
+            "type": "artist",
+            "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
+          }
+        ],
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/1DAuVHMlBvIjzWZALSUXbn/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 15,
           "items": [
             {
               "artists": [
@@ -36571,12 +36570,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/1bcIiU5FWRa2IYBqx0bk67",
               "id": "1bcIiU5FWRa2IYBqx0bk67",
-              "is_local": false,
               "name": "Evakuasi",
               "preview_url": "https://p.scdn.co/mp3-preview/947b2ec15ab78e694d7ae2550d1a8808c016f13c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:1bcIiU5FWRa2IYBqx0bk67"
+              "uri": "spotify:track:1bcIiU5FWRa2IYBqx0bk67",
+              "is_local": false
             },
             {
               "artists": [
@@ -36786,12 +36785,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2Ao8XIYegiChCOII2kk7CS",
               "id": "2Ao8XIYegiChCOII2kk7CS",
-              "is_local": false,
               "name": "Wejangan Mama",
               "preview_url": "https://p.scdn.co/mp3-preview/ec2f23420cdbc388b7e389771c4191ba539c61cb?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:2Ao8XIYegiChCOII2kk7CS"
+              "uri": "spotify:track:2Ao8XIYegiChCOII2kk7CS",
+              "is_local": false
             },
             {
               "artists": [
@@ -37001,12 +37000,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/08OPqLv99g8avzmxQepmiw",
               "id": "08OPqLv99g8avzmxQepmiw",
-              "is_local": false,
               "name": "Besok Mungkin Kita Sampai",
               "preview_url": "https://p.scdn.co/mp3-preview/c83b51049a5a6129d1d608cdc2f6a32561b2f454?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:08OPqLv99g8avzmxQepmiw"
+              "uri": "spotify:track:08OPqLv99g8avzmxQepmiw",
+              "is_local": false
             },
             {
               "artists": [
@@ -37226,12 +37225,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3TRWJr4S3evnXhXtJ304MC",
               "id": "3TRWJr4S3evnXhXtJ304MC",
-              "is_local": false,
               "name": "Jam Makan Siang",
               "preview_url": "https://p.scdn.co/mp3-preview/a63d96f895ac56f809fe292022005646eebfdbe3?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:3TRWJr4S3evnXhXtJ304MC"
+              "uri": "spotify:track:3TRWJr4S3evnXhXtJ304MC",
+              "is_local": false
             },
             {
               "artists": [
@@ -37451,12 +37450,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4qOpQXiEDEvt8MhYCGcwB6",
               "id": "4qOpQXiEDEvt8MhYCGcwB6",
-              "is_local": false,
               "name": "Dehidrasi",
               "preview_url": "https://p.scdn.co/mp3-preview/9e0672c2c7c4f4a0031dd6a3c1992f60e4f9e98b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:4qOpQXiEDEvt8MhYCGcwB6"
+              "uri": "spotify:track:4qOpQXiEDEvt8MhYCGcwB6",
+              "is_local": false
             },
             {
               "artists": [
@@ -37666,12 +37665,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2LQZ32XuFlkcoEUDSG6BMT",
               "id": "2LQZ32XuFlkcoEUDSG6BMT",
-              "is_local": false,
               "name": "Untuk Apa / Untuk Apa?",
               "preview_url": "https://p.scdn.co/mp3-preview/8db6e6b0447af0b653c890a9197cf61eac838a12?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:2LQZ32XuFlkcoEUDSG6BMT"
+              "uri": "spotify:track:2LQZ32XuFlkcoEUDSG6BMT",
+              "is_local": false
             },
             {
               "artists": [
@@ -37881,12 +37880,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/49fAstHTYCiXuPR8mN7wFT",
               "id": "49fAstHTYCiXuPR8mN7wFT",
-              "is_local": false,
               "name": "Voice Note Anggra",
               "preview_url": "https://p.scdn.co/mp3-preview/e5dd029d8247c726ea74d7ede8425a7bf5ffeca5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:49fAstHTYCiXuPR8mN7wFT"
+              "uri": "spotify:track:49fAstHTYCiXuPR8mN7wFT",
+              "is_local": false
             },
             {
               "artists": [
@@ -38096,12 +38095,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/5drW6PGRxkE6MxttzVLNk5",
               "id": "5drW6PGRxkE6MxttzVLNk5",
-              "is_local": false,
               "name": "Secukupnya",
               "preview_url": "https://p.scdn.co/mp3-preview/9c1edd6180cb3ce764c19b1a5bf62ef2319a0457?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:5drW6PGRxkE6MxttzVLNk5"
+              "uri": "spotify:track:5drW6PGRxkE6MxttzVLNk5",
+              "is_local": false
             },
             {
               "artists": [
@@ -38321,12 +38320,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/0ufk0A6oErK7oAgeMZWJFg",
               "id": "0ufk0A6oErK7oAgeMZWJFg",
-              "is_local": false,
               "name": "Belum Tidur",
               "preview_url": "https://p.scdn.co/mp3-preview/f9071b927623c412e5ce9fd52e500b5678b2fde7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:0ufk0A6oErK7oAgeMZWJFg"
+              "uri": "spotify:track:0ufk0A6oErK7oAgeMZWJFg",
+              "is_local": false
             },
             {
               "artists": [
@@ -38536,12 +38535,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/4YSOlJJoFu4vfZYJUiewl9",
               "id": "4YSOlJJoFu4vfZYJUiewl9",
-              "is_local": false,
               "name": "Apapun Yang Terjadi",
               "preview_url": "https://p.scdn.co/mp3-preview/913c8e2ec52acc309c7fa6f4df6e1f6f4fea8e30?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:4YSOlJJoFu4vfZYJUiewl9"
+              "uri": "spotify:track:4YSOlJJoFu4vfZYJUiewl9",
+              "is_local": false
             },
             {
               "artists": [
@@ -38761,12 +38760,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3CBxVM0zGj41BQtE6m7gwb",
               "id": "3CBxVM0zGj41BQtE6m7gwb",
-              "is_local": false,
               "name": "Membasuh",
               "preview_url": "https://p.scdn.co/mp3-preview/8bca35905ce5442526090a185c5cf5798514da0d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 11,
               "type": "track",
-              "uri": "spotify:track:3CBxVM0zGj41BQtE6m7gwb"
+              "uri": "spotify:track:3CBxVM0zGj41BQtE6m7gwb",
+              "is_local": false
             },
             {
               "artists": [
@@ -38976,12 +38975,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2wAiFWjRupWmnDkQcu91MF",
               "id": "2wAiFWjRupWmnDkQcu91MF",
-              "is_local": false,
               "name": "Rumah Ke Rumah",
               "preview_url": "https://p.scdn.co/mp3-preview/baef6477e099a73d9af72397c82bb089e18d4c05?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 12,
               "type": "track",
-              "uri": "spotify:track:2wAiFWjRupWmnDkQcu91MF"
+              "uri": "spotify:track:2wAiFWjRupWmnDkQcu91MF",
+              "is_local": false
             },
             {
               "artists": [
@@ -39211,12 +39210,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/3kj14iUwv0rvTweOr9P2ut",
               "id": "3kj14iUwv0rvTweOr9P2ut",
-              "is_local": false,
               "name": "Mata Air",
               "preview_url": "https://p.scdn.co/mp3-preview/85e778c679b1038ee6697319b2223eb451fcde60?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 13,
               "type": "track",
-              "uri": "spotify:track:3kj14iUwv0rvTweOr9P2ut"
+              "uri": "spotify:track:3kj14iUwv0rvTweOr9P2ut",
+              "is_local": false
             },
             {
               "artists": [
@@ -39426,12 +39425,12 @@
               },
               "href": "https://api.spotify.com/v1/tracks/6tBOuzucH3PGwEA3yWzwRG",
               "id": "6tBOuzucH3PGwEA3yWzwRG",
-              "is_local": false,
               "name": "Wejangan Caca",
               "preview_url": "https://p.scdn.co/mp3-preview/df45b17af33299baf382855b7ecbe6d087a5fac5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 14,
               "type": "track",
-              "uri": "spotify:track:6tBOuzucH3PGwEA3yWzwRG"
+              "uri": "spotify:track:6tBOuzucH3PGwEA3yWzwRG",
+              "is_local": false
             },
             {
               "artists": [
@@ -39641,28 +39640,58 @@
               },
               "href": "https://api.spotify.com/v1/tracks/2dIBMHByUGcNPzmYBJ6OAj",
               "id": "2dIBMHByUGcNPzmYBJ6OAj",
-              "is_local": false,
               "name": "Evaluasi",
               "preview_url": "https://p.scdn.co/mp3-preview/ae921ba93282d3a864fc60e69cd8f2d5ffab2af1?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 15,
               "type": "track",
-              "uri": "spotify:track:2dIBMHByUGcNPzmYBJ6OAj"
+              "uri": "spotify:track:2dIBMHByUGcNPzmYBJ6OAj",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 15
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:1DAuVHMlBvIjzWZALSUXbn"
+        "copyrights": [
+          { "text": "2019 Sun Eater", "type": "C" },
+          { "text": "2019 Sun Eater", "type": "P" }
+        ],
+        "external_ids": { "upc": "3616401399956" },
+        "genres": [],
+        "label": "Sun Eater",
+        "popularity": 81
       }
     },
     {
       "added_at": "2019-07-25T16:39:15Z",
       "album": {
         "album_type": "album",
+        "total_tracks": 12,
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d"
+        },
+        "href": "https://api.spotify.com/v1/albums/2ZGkTvwtwDoembcBr8SS0d?locale=*",
+        "id": "2ZGkTvwtwDoembcBr8SS0d",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739f49ffe7fe94bdd0f2f98af2",
+            "height": 640,
+            "width": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029f49ffe7fe94bdd0f2f98af2",
+            "height": 300,
+            "width": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519f49ffe7fe94bdd0f2f98af2",
+            "height": 64,
+            "width": 64
+          }
+        ],
+        "name": "The Sailor",
+        "release_date": "2019-07-26",
+        "release_date_precision": "day",
+        "type": "album",
+        "uri": "spotify:album:2ZGkTvwtwDoembcBr8SS0d",
         "artists": [
           {
             "external_urls": {
@@ -39675,46 +39704,13 @@
             "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
           }
         ],
-        "available_markets": [],
-        "copyrights": [
-          {
-            "text": "© 2019 88rising Records/Warner Records Inc.",
-            "type": "C"
-          },
-          { "text": "℗ 2019 88rising Records/Warner Records Inc.", "type": "P" }
-        ],
-        "external_ids": { "upc": "190296889554" },
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/2ZGkTvwtwDoembcBr8SS0d"
-        },
-        "genres": [],
-        "href": "https://api.spotify.com/v1/albums/2ZGkTvwtwDoembcBr8SS0d",
-        "id": "2ZGkTvwtwDoembcBr8SS0d",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2739f49ffe7fe94bdd0f2f98af2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e029f49ffe7fe94bdd0f2f98af2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048519f49ffe7fe94bdd0f2f98af2",
-            "width": 64
-          }
-        ],
-        "label": "88rising Music/Warner Records",
-        "name": "The Sailor",
-        "popularity": 8,
-        "release_date": "2019-07-26",
-        "release_date_precision": "day",
-        "total_tracks": 12,
         "tracks": {
           "href": "https://api.spotify.com/v1/albums/2ZGkTvwtwDoembcBr8SS0d/tracks?offset=0&limit=50&locale=*",
+          "limit": 50,
+          "next": null,
+          "offset": 0,
+          "previous": null,
+          "total": 12,
           "items": [
             {
               "artists": [
@@ -39736,14 +39732,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/4dV4G96hqT5qCU9v7JBCk2"
               },
-              "href": "https://api.spotify.com/v1/tracks/4dV4G96hqT5qCU9v7JBCk2",
-              "id": "4dV4G96hqT5qCU9v7JBCk2",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/1uWmHVzaSPeDNf9AYwrd2g",
+              "id": "1uWmHVzaSPeDNf9AYwrd2g",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/4dV4G96hqT5qCU9v7JBCk2"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4dV4G96hqT5qCU9v7JBCk2",
+                "id": "4dV4G96hqT5qCU9v7JBCk2",
+                "type": "track",
+                "uri": "spotify:track:4dV4G96hqT5qCU9v7JBCk2"
+              },
               "name": "The Sailor",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/425e9c0c81e2a25d2df35311adc7bdb77ef2b5b1?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 1,
               "type": "track",
-              "uri": "spotify:track:4dV4G96hqT5qCU9v7JBCk2"
+              "uri": "spotify:track:1uWmHVzaSPeDNf9AYwrd2g",
+              "is_local": false
             },
             {
               "artists": [
@@ -39775,14 +39780,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/7sPoDigIbCWDS6AZmOhSRR"
               },
-              "href": "https://api.spotify.com/v1/tracks/7sPoDigIbCWDS6AZmOhSRR",
-              "id": "7sPoDigIbCWDS6AZmOhSRR",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/3BBVGDcC2hWy8H74oSs1eo",
+              "id": "3BBVGDcC2hWy8H74oSs1eo",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/7sPoDigIbCWDS6AZmOhSRR"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7sPoDigIbCWDS6AZmOhSRR",
+                "id": "7sPoDigIbCWDS6AZmOhSRR",
+                "type": "track",
+                "uri": "spotify:track:7sPoDigIbCWDS6AZmOhSRR"
+              },
               "name": "Rapapapa (feat. RZA)",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/72b1f5dcdccb50ef3c6cefe303eee7b5efb6d4b5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 2,
               "type": "track",
-              "uri": "spotify:track:7sPoDigIbCWDS6AZmOhSRR"
+              "uri": "spotify:track:3BBVGDcC2hWy8H74oSs1eo",
+              "is_local": false
             },
             {
               "artists": [
@@ -39814,14 +39828,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/3PPAFAhNAvJYs74JnujgGq"
               },
-              "href": "https://api.spotify.com/v1/tracks/3PPAFAhNAvJYs74JnujgGq",
-              "id": "3PPAFAhNAvJYs74JnujgGq",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/3mPif8Y8v5n7D9NqT7PWMi",
+              "id": "3mPif8Y8v5n7D9NqT7PWMi",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/3PPAFAhNAvJYs74JnujgGq"
+                },
+                "href": "https://api.spotify.com/v1/tracks/3PPAFAhNAvJYs74JnujgGq",
+                "id": "3PPAFAhNAvJYs74JnujgGq",
+                "type": "track",
+                "uri": "spotify:track:3PPAFAhNAvJYs74JnujgGq"
+              },
               "name": "Yellow (feat. Bekon)",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/73391a062d852e2d735f052539614e4c2153ad69?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 3,
               "type": "track",
-              "uri": "spotify:track:3PPAFAhNAvJYs74JnujgGq"
+              "uri": "spotify:track:3mPif8Y8v5n7D9NqT7PWMi",
+              "is_local": false
             },
             {
               "artists": [
@@ -39843,14 +39866,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/5zXK1z8U96zU3tZlFFXYdH"
               },
-              "href": "https://api.spotify.com/v1/tracks/5zXK1z8U96zU3tZlFFXYdH",
-              "id": "5zXK1z8U96zU3tZlFFXYdH",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/0iUxQW0LRXKHcnur6CGu2c",
+              "id": "0iUxQW0LRXKHcnur6CGu2c",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/5zXK1z8U96zU3tZlFFXYdH"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5zXK1z8U96zU3tZlFFXYdH",
+                "id": "5zXK1z8U96zU3tZlFFXYdH",
+                "type": "track",
+                "uri": "spotify:track:5zXK1z8U96zU3tZlFFXYdH"
+              },
               "name": "Kids",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/3df8b1a9c94dc217930c92b344682609facc3cba?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 4,
               "type": "track",
-              "uri": "spotify:track:5zXK1z8U96zU3tZlFFXYdH"
+              "uri": "spotify:track:0iUxQW0LRXKHcnur6CGu2c",
+              "is_local": false
             },
             {
               "artists": [
@@ -39872,14 +39904,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/6eDfe957aV4sqGnDhlSikJ"
               },
-              "href": "https://api.spotify.com/v1/tracks/6eDfe957aV4sqGnDhlSikJ",
-              "id": "6eDfe957aV4sqGnDhlSikJ",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/6R7r9D8PQTijGlKbWgXhH7",
+              "id": "6R7r9D8PQTijGlKbWgXhH7",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/6eDfe957aV4sqGnDhlSikJ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/6eDfe957aV4sqGnDhlSikJ",
+                "id": "6eDfe957aV4sqGnDhlSikJ",
+                "type": "track",
+                "uri": "spotify:track:6eDfe957aV4sqGnDhlSikJ"
+              },
               "name": "Drive Safe",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/e6dd50d022c9ce79491d21c3e40c6077e9bff27f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 5,
               "type": "track",
-              "uri": "spotify:track:6eDfe957aV4sqGnDhlSikJ"
+              "uri": "spotify:track:6R7r9D8PQTijGlKbWgXhH7",
+              "is_local": false
             },
             {
               "artists": [
@@ -39901,14 +39942,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/2Wpf66d6S1qZO4Mt39PvEz"
               },
-              "href": "https://api.spotify.com/v1/tracks/2Wpf66d6S1qZO4Mt39PvEz",
-              "id": "2Wpf66d6S1qZO4Mt39PvEz",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/6kDKp7Fq92UyqMf4oZ1NCv",
+              "id": "6kDKp7Fq92UyqMf4oZ1NCv",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/2Wpf66d6S1qZO4Mt39PvEz"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2Wpf66d6S1qZO4Mt39PvEz",
+                "id": "2Wpf66d6S1qZO4Mt39PvEz",
+                "type": "track",
+                "uri": "spotify:track:2Wpf66d6S1qZO4Mt39PvEz"
+              },
               "name": "Confetti",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/896a0019e2eaecfac1d5dd144d6eb09609c1677a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 6,
               "type": "track",
-              "uri": "spotify:track:2Wpf66d6S1qZO4Mt39PvEz"
+              "uri": "spotify:track:6kDKp7Fq92UyqMf4oZ1NCv",
+              "is_local": false
             },
             {
               "artists": [
@@ -39930,14 +39980,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/1M86gMpkoaXg83hOdGGhCw"
               },
-              "href": "https://api.spotify.com/v1/tracks/1M86gMpkoaXg83hOdGGhCw",
-              "id": "1M86gMpkoaXg83hOdGGhCw",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/7GKDGICZgGlfclWQWj9sZu",
+              "id": "7GKDGICZgGlfclWQWj9sZu",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/1M86gMpkoaXg83hOdGGhCw"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1M86gMpkoaXg83hOdGGhCw",
+                "id": "1M86gMpkoaXg83hOdGGhCw",
+                "type": "track",
+                "uri": "spotify:track:1M86gMpkoaXg83hOdGGhCw"
+              },
               "name": "Vacant",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/7f6a28f83e193076300a824cf9c4fb5c60cd1c7d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 7,
               "type": "track",
-              "uri": "spotify:track:1M86gMpkoaXg83hOdGGhCw"
+              "uri": "spotify:track:7GKDGICZgGlfclWQWj9sZu",
+              "is_local": false
             },
             {
               "artists": [
@@ -39959,14 +40018,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/5ygNO0E9Nido0T6oJ8WqDU"
               },
-              "href": "https://api.spotify.com/v1/tracks/5ygNO0E9Nido0T6oJ8WqDU",
-              "id": "5ygNO0E9Nido0T6oJ8WqDU",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/4Pso4Rmds0YmTL7p8MjoY1",
+              "id": "4Pso4Rmds0YmTL7p8MjoY1",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/5ygNO0E9Nido0T6oJ8WqDU"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5ygNO0E9Nido0T6oJ8WqDU",
+                "id": "5ygNO0E9Nido0T6oJ8WqDU",
+                "type": "track",
+                "uri": "spotify:track:5ygNO0E9Nido0T6oJ8WqDU"
+              },
               "name": "No Worries",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/9c0d97eb49685eb03fd9387715458f68f9a7a9ee?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 8,
               "type": "track",
-              "uri": "spotify:track:5ygNO0E9Nido0T6oJ8WqDU"
+              "uri": "spotify:track:4Pso4Rmds0YmTL7p8MjoY1",
+              "is_local": false
             },
             {
               "artists": [
@@ -39988,14 +40056,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/2ZDpSQfBdgkooeXw6oj3Uz"
               },
-              "href": "https://api.spotify.com/v1/tracks/2ZDpSQfBdgkooeXw6oj3Uz",
-              "id": "2ZDpSQfBdgkooeXw6oj3Uz",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/4Pw5CxFc8imEP5Qn81HKzi",
+              "id": "4Pw5CxFc8imEP5Qn81HKzi",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/2ZDpSQfBdgkooeXw6oj3Uz"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2ZDpSQfBdgkooeXw6oj3Uz",
+                "id": "2ZDpSQfBdgkooeXw6oj3Uz",
+                "type": "track",
+                "uri": "spotify:track:2ZDpSQfBdgkooeXw6oj3Uz"
+              },
               "name": "100 Degrees",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/58d216be7e457b7201f86d74f0f5ba036035d4bb?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 9,
               "type": "track",
-              "uri": "spotify:track:2ZDpSQfBdgkooeXw6oj3Uz"
+              "uri": "spotify:track:4Pw5CxFc8imEP5Qn81HKzi",
+              "is_local": false
             },
             {
               "artists": [
@@ -40017,14 +40094,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/5cdmj1cvGZovYsd8nSjtsF"
               },
-              "href": "https://api.spotify.com/v1/tracks/5cdmj1cvGZovYsd8nSjtsF",
-              "id": "5cdmj1cvGZovYsd8nSjtsF",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/7Dwv2SxX5cIqF5aA5tjtO8",
+              "id": "7Dwv2SxX5cIqF5aA5tjtO8",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/5cdmj1cvGZovYsd8nSjtsF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5cdmj1cvGZovYsd8nSjtsF",
+                "id": "5cdmj1cvGZovYsd8nSjtsF",
+                "type": "track",
+                "uri": "spotify:track:5cdmj1cvGZovYsd8nSjtsF"
+              },
               "name": "Slow Down Turbo",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/bfc8144b84874f5cc7ff9eb541207c3441cbf1ed?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 10,
               "type": "track",
-              "uri": "spotify:track:5cdmj1cvGZovYsd8nSjtsF"
+              "uri": "spotify:track:7Dwv2SxX5cIqF5aA5tjtO8",
+              "is_local": false
             },
             {
               "artists": [
@@ -40046,14 +40132,23 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/1nbS9XTgYPM9dONkXtDECB"
               },
-              "href": "https://api.spotify.com/v1/tracks/1nbS9XTgYPM9dONkXtDECB",
-              "id": "1nbS9XTgYPM9dONkXtDECB",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/4080S3LE4XhyOzQX0zOyha",
+              "id": "4080S3LE4XhyOzQX0zOyha",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/1nbS9XTgYPM9dONkXtDECB"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1nbS9XTgYPM9dONkXtDECB",
+                "id": "1nbS9XTgYPM9dONkXtDECB",
+                "type": "track",
+                "uri": "spotify:track:1nbS9XTgYPM9dONkXtDECB"
+              },
               "name": "Curious",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/1b4a3ee42dad6d9b94485d942cc7ed772c296cbf?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 11,
               "type": "track",
-              "uri": "spotify:track:1nbS9XTgYPM9dONkXtDECB"
+              "uri": "spotify:track:4080S3LE4XhyOzQX0zOyha",
+              "is_local": false
             },
             {
               "artists": [
@@ -40085,24 +40180,37 @@
               "external_urls": {
                 "spotify": "https://open.spotify.com/track/0D7EgPJwNzBTSej80OveHZ"
               },
-              "href": "https://api.spotify.com/v1/tracks/0D7EgPJwNzBTSej80OveHZ",
-              "id": "0D7EgPJwNzBTSej80OveHZ",
-              "is_local": false,
+              "href": "https://api.spotify.com/v1/tracks/1qqX71wVSuxqoVDqjP9LxU",
+              "id": "1qqX71wVSuxqoVDqjP9LxU",
+              "linked_from": {
+                "external_urls": {
+                  "spotify": "https://open.spotify.com/track/0D7EgPJwNzBTSej80OveHZ"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0D7EgPJwNzBTSej80OveHZ",
+                "id": "0D7EgPJwNzBTSej80OveHZ",
+                "type": "track",
+                "uri": "spotify:track:0D7EgPJwNzBTSej80OveHZ"
+              },
               "name": "Where Does The Time Go (feat. Joji)",
-              "preview_url": null,
+              "preview_url": "https://p.scdn.co/mp3-preview/e29a768ba16b2d8d25d16b91cefeeec35335c8b4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
               "track_number": 12,
               "type": "track",
-              "uri": "spotify:track:0D7EgPJwNzBTSej80OveHZ"
+              "uri": "spotify:track:1qqX71wVSuxqoVDqjP9LxU",
+              "is_local": false
             }
-          ],
-          "limit": 50,
-          "next": null,
-          "offset": 0,
-          "previous": null,
-          "total": 12
+          ]
         },
-        "type": "album",
-        "uri": "spotify:album:2ZGkTvwtwDoembcBr8SS0d"
+        "copyrights": [
+          {
+            "text": "© 2019 88rising Records/Warner Records Inc.",
+            "type": "C"
+          },
+          { "text": "℗ 2019 88rising Records/Warner Records Inc.", "type": "P" }
+        ],
+        "external_ids": { "upc": "190296889554" },
+        "genres": [],
+        "label": "88rising Music/Warner Records",
+        "popularity": 8
       }
     }
   ]
