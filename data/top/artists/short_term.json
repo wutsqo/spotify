@@ -1,11 +1,11 @@
 {
-  "total": 11,
+  "total": 12,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 6173468 },
+      "followers": { "href": null, "total": 6174993 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
       },
-      "followers": { "href": null, "total": 51198928 },
+      "followers": { "href": null, "total": 51209492 },
       "genres": ["classic rock", "glam rock", "rock"],
       "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
       "id": "1dfeR4HaWDbWqFHLkxsg1d",
@@ -70,7 +70,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
-      "followers": { "href": null, "total": 8113402 },
+      "followers": { "href": null, "total": 8116431 },
       "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
       "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
       "id": "5INjqkS1o8h1imAzPqGZBb",
@@ -100,7 +100,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
       },
-      "followers": { "href": null, "total": 4274082 },
+      "followers": { "href": null, "total": 4275151 },
       "genres": [
         "gauze pop",
         "indietronica",
@@ -136,7 +136,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
-      "followers": { "href": null, "total": 15347685 },
+      "followers": { "href": null, "total": 15361892 },
       "genres": ["lgbtq+ hip hop", "neo soul"],
       "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
       "id": "2h93pZq0e7k5yf4dywlkpM",
@@ -166,7 +166,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
       },
-      "followers": { "href": null, "total": 5678694 },
+      "followers": { "href": null, "total": 5681407 },
       "genres": ["new wave", "permanent wave", "rock", "uk post-punk"],
       "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
       "id": "7bu3H8JO7d0UbMoVzbo70s",
@@ -196,7 +196,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
       },
-      "followers": { "href": null, "total": 6596156 },
+      "followers": { "href": null, "total": 6604640 },
       "genres": ["canadian contemporary r&b"],
       "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
       "id": "20wkVLutqVOYrc0kxFs7rA",
@@ -226,7 +226,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
       },
-      "followers": { "href": null, "total": 99389127 },
+      "followers": { "href": null, "total": 99430059 },
       "genres": ["art pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
       "id": "6qqNVTkY8uBg9cP3Jd7DAH",
@@ -254,9 +254,50 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+      },
+      "followers": { "href": null, "total": 450421 },
+      "genres": [
+        "adult standards",
+        "brill building pop",
+        "easy listening",
+        "rock-and-roll",
+        "rockabilly"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3EY5DxGdy7x4GelivOjS2Q",
+      "id": "3EY5DxGdy7x4GelivOjS2Q",
+      "images": [
+        {
+          "height": 1196,
+          "url": "https://i.scdn.co/image/8bdcb1cc65a0ca1d54018e308bd2471e9c4820ce",
+          "width": 1000
+        },
+        {
+          "height": 765,
+          "url": "https://i.scdn.co/image/f21c10c96a065f438d1511fb493847c301f8ae9c",
+          "width": 640
+        },
+        {
+          "height": 239,
+          "url": "https://i.scdn.co/image/4a241bc89998f11920f10bd354374c4e8f3b90d3",
+          "width": 200
+        },
+        {
+          "height": 77,
+          "url": "https://i.scdn.co/image/bf2ff77d590d81b37682813dd8f7e3ac3928922f",
+          "width": 64
+        }
+      ],
+      "name": "Connie Francis",
+      "popularity": 55,
+      "type": "artist",
+      "uri": "spotify:artist:3EY5DxGdy7x4GelivOjS2Q"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
       },
-      "followers": { "href": null, "total": 9835074 },
+      "followers": { "href": null, "total": 9837863 },
       "genres": ["rock-and-roll", "rockabilly"],
       "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
       "id": "43ZHCT0cAZBISjO8DG9PnE",
@@ -286,7 +327,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
       },
-      "followers": { "href": null, "total": 6246214 },
+      "followers": { "href": null, "total": 6248547 },
       "genres": [
         "album rock",
         "classic rock",
@@ -324,7 +365,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
       },
-      "followers": { "href": null, "total": 12402382 },
+      "followers": { "href": null, "total": 12440500 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
       "id": "74KM79TiuVKeVCqs8QtB0B",
