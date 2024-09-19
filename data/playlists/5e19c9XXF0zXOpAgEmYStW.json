@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
   },
-  "followers": { "href": null, "total": 2052 },
+  "followers": { "href": null, "total": 2054 },
   "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW?locale=*",
   "id": "5e19c9XXF0zXOpAgEmYStW",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
       "width": null
     }
   ],
@@ -3201,7 +3201,7 @@
         "href": "https://api.spotify.com/v1/tracks/1BLfQ6dPXmuDrFmbdfW7Jl",
         "id": "1BLfQ6dPXmuDrFmbdfW7Jl",
         "name": "A Little Piece of Heaven",
-        "popularity": 74,
+        "popularity": 75,
         "uri": "spotify:track:1BLfQ6dPXmuDrFmbdfW7Jl",
         "is_local": false
       },
@@ -30344,7 +30344,7 @@
         "href": "https://api.spotify.com/v1/tracks/2HZLXBOnaSRhXStMLrq9fD",
         "id": "2HZLXBOnaSRhXStMLrq9fD",
         "name": "Mary On A Cross",
-        "popularity": 76,
+        "popularity": 77,
         "uri": "spotify:track:2HZLXBOnaSRhXStMLrq9fD",
         "is_local": false
       },
