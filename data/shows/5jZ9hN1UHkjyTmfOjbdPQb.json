@@ -219,7 +219,7 @@
   "publisher": "Stephanie Soo",
   "type": "show",
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
-  "total_episodes": 147,
+  "total_episodes": 148,
   "episodes": [
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7KjbWlbCxN15xS1yr4mQzd/clip_2767300_2819650.mp3",
@@ -5806,6 +5806,7 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    }
+    },
+    null
   ]
 }
