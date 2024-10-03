@@ -1,11 +1,11 @@
 {
-  "total": 13,
+  "total": 15,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 6195678 },
+      "followers": { "href": null, "total": 6197007 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
       },
-      "followers": { "href": null, "total": 51377331 },
+      "followers": { "href": null, "total": 51388156 },
       "genres": ["classic rock", "glam rock", "rock"],
       "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
       "id": "1dfeR4HaWDbWqFHLkxsg1d",
@@ -70,7 +70,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
-      "followers": { "href": null, "total": 8167445 },
+      "followers": { "href": null, "total": 8171205 },
       "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
       "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
       "id": "5INjqkS1o8h1imAzPqGZBb",
@@ -100,7 +100,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
       },
-      "followers": { "href": null, "total": 4290114 },
+      "followers": { "href": null, "total": 4291016 },
       "genres": [
         "gauze pop",
         "indietronica",
@@ -136,7 +136,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
-      "followers": { "href": null, "total": 15559121 },
+      "followers": { "href": null, "total": 15572742 },
       "genres": ["lgbtq+ hip hop", "neo soul"],
       "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
       "id": "2h93pZq0e7k5yf4dywlkpM",
@@ -164,9 +164,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "followers": { "href": null, "total": 6738584 },
+      "genres": ["canadian contemporary r&b"],
+      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
+          "width": 160
+        }
+      ],
+      "name": "Daniel Caesar",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
       },
-      "followers": { "href": null, "total": 59572008 },
+      "followers": { "href": null, "total": 59609243 },
       "genres": ["dance pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
       "id": "0du5cEVh5yTK9QJze8zA0C",
@@ -196,7 +226,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
       },
-      "followers": { "href": null, "total": 5738000 },
+      "followers": { "href": null, "total": 5741503 },
       "genres": ["new wave", "permanent wave", "rock", "uk post-punk"],
       "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
       "id": "7bu3H8JO7d0UbMoVzbo70s",
@@ -224,80 +254,122 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
       },
-      "followers": { "href": null, "total": 6730302 },
-      "genres": ["canadian contemporary r&b"],
-      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
-      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "followers": { "href": null, "total": 28439432 },
+      "genres": [
+        "british invasion",
+        "classic rock",
+        "merseybeat",
+        "psychedelic rock",
+        "rock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
+      "id": "3WrFJ7ztbogyGnTHbHJFl2",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
+          "url": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
+          "url": "https://i.scdn.co/image/ab6761610000f178e9348cc01ff5d55971b22433",
           "width": 160
         }
       ],
-      "name": "Daniel Caesar",
-      "popularity": 83,
+      "name": "The Beatles",
+      "popularity": 86,
       "type": "artist",
-      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3EY5DxGdy7x4GelivOjS2Q"
+        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
       },
-      "followers": { "href": null, "total": 451764 },
+      "followers": { "href": null, "total": 10759642 },
       "genres": [
-        "adult standards",
-        "brill building pop",
-        "easy listening",
-        "rock-and-roll",
-        "rockabilly"
+        "art rock",
+        "classic rock",
+        "glam rock",
+        "permanent wave",
+        "rock"
       ],
-      "href": "https://api.spotify.com/v1/artists/3EY5DxGdy7x4GelivOjS2Q",
-      "id": "3EY5DxGdy7x4GelivOjS2Q",
+      "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+      "id": "0oSGxfWSnnOXhD2fKuz2Gy",
       "images": [
         {
-          "height": 1196,
-          "url": "https://i.scdn.co/image/8bdcb1cc65a0ca1d54018e308bd2471e9c4820ce",
-          "width": 1000
-        },
-        {
-          "height": 765,
-          "url": "https://i.scdn.co/image/f21c10c96a065f438d1511fb493847c301f8ae9c",
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
           "width": 640
         },
         {
-          "height": 239,
-          "url": "https://i.scdn.co/image/4a241bc89998f11920f10bd354374c4e8f3b90d3",
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b78f77c5583ae99472dd4a49",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b78f77c5583ae99472dd4a49",
+          "width": 160
+        }
+      ],
+      "name": "David Bowie",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+      },
+      "followers": { "href": null, "total": 6356636 },
+      "genres": [
+        "madchester",
+        "new wave",
+        "permanent wave",
+        "rock",
+        "uk post-punk"
+      ],
+      "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+      "id": "3yY2gUcIsjMr8hjo51PoJ8",
+      "images": [
+        {
+          "height": 1516,
+          "url": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
+          "width": 1000
+        },
+        {
+          "height": 970,
+          "url": "https://i.scdn.co/image/4bf08a9e6eea088b20d4092d1322bbd3f39ff9af",
+          "width": 640
+        },
+        {
+          "height": 303,
+          "url": "https://i.scdn.co/image/bd4c7f5ff2c5c4385604e60c71eac1dd498ddbd9",
           "width": 200
         },
         {
-          "height": 77,
-          "url": "https://i.scdn.co/image/bf2ff77d590d81b37682813dd8f7e3ac3928922f",
+          "height": 97,
+          "url": "https://i.scdn.co/image/d3a2542f2811b5b01ee3483ec7c193f72a882ea1",
           "width": 64
         }
       ],
-      "name": "Connie Francis",
-      "popularity": 55,
+      "name": "The Smiths",
+      "popularity": 80,
       "type": "artist",
-      "uri": "spotify:artist:3EY5DxGdy7x4GelivOjS2Q"
+      "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
       },
-      "followers": { "href": null, "total": 9881404 },
+      "followers": { "href": null, "total": 9884253 },
       "genres": ["rock-and-roll", "rockabilly"],
       "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
       "id": "43ZHCT0cAZBISjO8DG9PnE",
@@ -327,7 +399,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
       },
-      "followers": { "href": null, "total": 100024882 },
+      "followers": { "href": null, "total": 100069588 },
       "genres": ["art pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
       "id": "6qqNVTkY8uBg9cP3Jd7DAH",
@@ -357,7 +429,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
       },
-      "followers": { "href": null, "total": 6284058 },
+      "followers": { "href": null, "total": 6286960 },
       "genres": [
         "album rock",
         "classic rock",
@@ -395,7 +467,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
       },
-      "followers": { "href": null, "total": 13000878 },
+      "followers": { "href": null, "total": 13036220 },
       "genres": ["pop"],
       "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
       "id": "74KM79TiuVKeVCqs8QtB0B",
