@@ -46,13 +46,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/23886217d907d7040aa19fde6549e1ff427c3d45?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-        "available_markets": ["KR"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["KR"],
+          "available_markets": [],
           "type": "album",
           "album_type": "single",
           "href": "https://api.spotify.com/v1/albums/5F6IRzJZGzLGb8R0GDMKSz",
@@ -1003,7 +1003,7 @@
         "href": "https://api.spotify.com/v1/tracks/1byIZa6CFerX5WXShwqAvf",
         "id": "1byIZa6CFerX5WXShwqAvf",
         "name": "Miracles",
-        "popularity": 54,
+        "popularity": 53,
         "uri": "spotify:track:1byIZa6CFerX5WXShwqAvf",
         "is_local": false
       },
@@ -12647,7 +12647,7 @@
         "href": "https://api.spotify.com/v1/tracks/0vB4Vd6PtkJSEnWsmqATnZ",
         "id": "0vB4Vd6PtkJSEnWsmqATnZ",
         "name": "Nothing's Gonna Change My Love for You",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:0vB4Vd6PtkJSEnWsmqATnZ",
         "is_local": false
       },
@@ -13575,7 +13575,7 @@
         "href": "https://api.spotify.com/v1/tracks/1x9jnpPOAMSrr7DuIG5jMl",
         "id": "1x9jnpPOAMSrr7DuIG5jMl",
         "name": "Kita usahakan rumah itu",
-        "popularity": 57,
+        "popularity": 56,
         "uri": "spotify:track:1x9jnpPOAMSrr7DuIG5jMl",
         "is_local": false
       },

@@ -11488,13 +11488,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/23886217d907d7040aa19fde6549e1ff427c3d45?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-        "available_markets": ["KR"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["KR"],
+          "available_markets": [],
           "type": "album",
           "album_type": "single",
           "href": "https://api.spotify.com/v1/albums/5F6IRzJZGzLGb8R0GDMKSz",
@@ -18568,13 +18568,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/f8b339f9c2b7036c9d14df4c7cb13acaa8344f39?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-        "available_markets": ["KR"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["KR"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/5WR7ksPLp3kqFbDLTYpGfx",
@@ -35646,13 +35646,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/e2951d57d3478413d858458b4256618c20c13cca?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-        "available_markets": ["KR"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["KR"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/5WR7ksPLp3kqFbDLTYpGfx",
@@ -38620,13 +38620,13 @@
       "primary_color": null,
       "track": {
         "preview_url": "https://p.scdn.co/mp3-preview/23886217d907d7040aa19fde6549e1ff427c3d45?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
-        "available_markets": ["KR"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["KR"],
+          "available_markets": [],
           "type": "album",
           "album_type": "single",
           "href": "https://api.spotify.com/v1/albums/5F6IRzJZGzLGb8R0GDMKSz",
@@ -60469,7 +60469,7 @@
         "href": "https://api.spotify.com/v1/tracks/0rzaRSujxA0bKyjJl6vHYq",
         "id": "0rzaRSujxA0bKyjJl6vHYq",
         "name": "Satellite",
-        "popularity": 73,
+        "popularity": 72,
         "uri": "spotify:track:0rzaRSujxA0bKyjJl6vHYq",
         "is_local": false
       },
@@ -67748,7 +67748,7 @@
         "href": "https://api.spotify.com/v1/tracks/0gEyKnHvgkrkBM6fbeHdwK",
         "id": "0gEyKnHvgkrkBM6fbeHdwK",
         "name": "Linger",
-        "popularity": 85,
+        "popularity": 84,
         "uri": "spotify:track:0gEyKnHvgkrkBM6fbeHdwK",
         "is_local": false
       },
@@ -68656,7 +68656,7 @@
         "href": "https://api.spotify.com/v1/tracks/4cIPLtg1avt2Jm3ne9S1zy",
         "id": "4cIPLtg1avt2Jm3ne9S1zy",
         "name": "Killer Queen - Remastered 2011",
-        "popularity": 75,
+        "popularity": 74,
         "uri": "spotify:track:4cIPLtg1avt2Jm3ne9S1zy",
         "is_local": false
       },
