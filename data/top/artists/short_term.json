@@ -1,11 +1,11 @@
 {
-  "total": 15,
+  "total": 12,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 6199420 },
+      "followers": { "href": null, "total": 6200645 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
       },
-      "followers": { "href": null, "total": 51410059 },
+      "followers": { "href": null, "total": 51421612 },
       "genres": ["classic rock", "glam rock", "rock"],
       "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
       "id": "1dfeR4HaWDbWqFHLkxsg1d",
@@ -68,39 +68,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-      },
-      "followers": { "href": null, "total": 8178397 },
-      "genres": ["australian psych", "modern rock", "neo-psychedelic", "rock"],
-      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
-      "id": "5INjqkS1o8h1imAzPqGZBb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
-          "width": 160
-        }
-      ],
-      "name": "Tame Impala",
-      "popularity": 81,
-      "type": "artist",
-      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq"
       },
-      "followers": { "href": null, "total": 4292788 },
+      "followers": { "href": null, "total": 4293692 },
       "genres": [
         "gauze pop",
         "indietronica",
@@ -134,69 +104,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-      },
-      "followers": { "href": null, "total": 15600000 },
-      "genres": ["lgbtq+ hip hop", "neo soul"],
-      "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
-      "id": "2h93pZq0e7k5yf4dywlkpM",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ee3123e593174208f9754fab",
-          "width": 160
-        }
-      ],
-      "name": "Frank Ocean",
-      "popularity": 88,
-      "type": "artist",
-      "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
-      },
-      "followers": { "href": null, "total": 6754478 },
-      "genres": ["canadian contemporary r&b"],
-      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
-      "id": "20wkVLutqVOYrc0kxFs7rA",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
-          "width": 160
-        }
-      ],
-      "name": "Daniel Caesar",
-      "popularity": 83,
-      "type": "artist",
-      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
       },
-      "followers": { "href": null, "total": 59688408 },
+      "followers": { "href": null, "total": 59734038 },
       "genres": ["dance pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
       "id": "0du5cEVh5yTK9QJze8zA0C",
@@ -224,39 +134,69 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+        "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
       },
-      "followers": { "href": null, "total": 5748006 },
-      "genres": ["new wave", "permanent wave", "rock", "uk post-punk"],
-      "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
-      "id": "7bu3H8JO7d0UbMoVzbo70s",
+      "followers": { "href": null, "total": 9893826 },
+      "genres": ["rock-and-roll", "rockabilly"],
+      "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
+      "id": "43ZHCT0cAZBISjO8DG9PnE",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdd427c765c409ec02dc3a868",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174dd427c765c409ec02dc3a868",
+          "url": "https://i.scdn.co/image/ab676161000051749a93e273380982dff84c0d7c",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178dd427c765c409ec02dc3a868",
+          "url": "https://i.scdn.co/image/ab6761610000f1789a93e273380982dff84c0d7c",
           "width": 160
         }
       ],
-      "name": "The Cure",
-      "popularity": 77,
+      "name": "Elvis Presley",
+      "popularity": 80,
       "type": "artist",
-      "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
+      "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+      },
+      "followers": { "href": null, "total": 15614104 },
+      "genres": ["lgbtq+ hip hop", "neo soul"],
+      "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+      "id": "2h93pZq0e7k5yf4dywlkpM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee3123e593174208f9754fab",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ee3123e593174208f9754fab",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ee3123e593174208f9754fab",
+          "width": 160
+        }
+      ],
+      "name": "Frank Ocean",
+      "popularity": 88,
+      "type": "artist",
+      "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
       },
-      "followers": { "href": null, "total": 28453023 },
+      "followers": { "href": null, "total": 28460334 },
       "genres": [
         "british invasion",
         "classic rock",
@@ -292,7 +232,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
       },
-      "followers": { "href": null, "total": 10765075 },
+      "followers": { "href": null, "total": 10767837 },
       "genres": [
         "art rock",
         "classic rock",
@@ -326,9 +266,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "followers": { "href": null, "total": 6762925 },
+      "genres": ["canadian contemporary r&b"],
+      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe5bc630548fb3517cf90edb8",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e5bc630548fb3517cf90edb8",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e5bc630548fb3517cf90edb8",
+          "width": 160
+        }
+      ],
+      "name": "Daniel Caesar",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
       },
-      "followers": { "href": null, "total": 6366027 },
+      "followers": { "href": null, "total": 6370847 },
       "genres": [
         "madchester",
         "new wave",
@@ -367,39 +337,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
-      },
-      "followers": { "href": null, "total": 9890361 },
-      "genres": ["rock-and-roll", "rockabilly"],
-      "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
-      "id": "43ZHCT0cAZBISjO8DG9PnE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9a93e273380982dff84c0d7c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749a93e273380982dff84c0d7c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789a93e273380982dff84c0d7c",
-          "width": 160
-        }
-      ],
-      "name": "Elvis Presley",
-      "popularity": 80,
-      "type": "artist",
-      "uri": "spotify:artist:43ZHCT0cAZBISjO8DG9PnE"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
       },
-      "followers": { "href": null, "total": 100161608 },
+      "followers": { "href": null, "total": 100208733 },
       "genres": ["art pop", "pop"],
       "href": "https://api.spotify.com/v1/artists/6qqNVTkY8uBg9cP3Jd7DAH",
       "id": "6qqNVTkY8uBg9cP3Jd7DAH",
@@ -421,77 +361,39 @@
         }
       ],
       "name": "Billie Eilish",
-      "popularity": 95,
+      "popularity": 96,
       "type": "artist",
       "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e"
+        "spotify": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
       },
-      "followers": { "href": null, "total": 6292477 },
-      "genres": [
-        "album rock",
-        "classic rock",
-        "mellow gold",
-        "piano rock",
-        "rock",
-        "singer-songwriter",
-        "soft rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6zFYqv1mOsgBRQbae3JJ9e",
-      "id": "6zFYqv1mOsgBRQbae3JJ9e",
+      "followers": { "href": null, "total": 5751207 },
+      "genres": ["new wave", "permanent wave", "rock", "uk post-punk"],
+      "href": "https://api.spotify.com/v1/artists/7bu3H8JO7d0UbMoVzbo70s",
+      "id": "7bu3H8JO7d0UbMoVzbo70s",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb34057d59275011032ef8bc8",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdd427c765c409ec02dc3a868",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b34057d59275011032ef8bc8",
+          "url": "https://i.scdn.co/image/ab67616100005174dd427c765c409ec02dc3a868",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b34057d59275011032ef8bc8",
+          "url": "https://i.scdn.co/image/ab6761610000f178dd427c765c409ec02dc3a868",
           "width": 160
         }
       ],
-      "name": "Billy Joel",
-      "popularity": 78,
+      "name": "The Cure",
+      "popularity": 77,
       "type": "artist",
-      "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-      },
-      "followers": { "href": null, "total": 13114471 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
-      "id": "74KM79TiuVKeVCqs8QtB0B",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe053b8338322b9c8609ee7ae",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e053b8338322b9c8609ee7ae",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e053b8338322b9c8609ee7ae",
-          "width": 160
-        }
-      ],
-      "name": "Sabrina Carpenter",
-      "popularity": 95,
-      "type": "artist",
-      "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
+      "uri": "spotify:artist:7bu3H8JO7d0UbMoVzbo70s"
     }
   ]
 }
