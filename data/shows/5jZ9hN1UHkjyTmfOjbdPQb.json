@@ -222,6 +222,44 @@
   "total_episodes": 151,
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0JntTljIfuTqi987aNGMdj/clip_2359550_2417250.mp3",
+      "description": "Lucy Li is sitting in a small room with a blanket draping over her shoulders.  A man sits in front of her and asks about how her flight was. “It’s not the best flight experience, I’m not used to sitting in tight spaces… And I feel really bad for the officers that had to come and get me because they had to make stopovers…” She puts her hand to her heart, “Me and mom was really concerned about that. And we offered Interpol to tell them we would fly them private.” Lucy has just gotten off an international flight from Eastern Europe after a murder (double murder attempt), fleeing to multiple countries, and being wanted by Interpol for months.  She’s just a little unhappy that she wasn’t able to fly private to come home.    Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 4757353,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7Dt4qcIleacW6K9D2PcCpH"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7Dt4qcIleacW6K9D2PcCpH",
+      "html_description": "<p>Lucy Li is sitting in a small room with a blanket draping over her shoulders. </p><br/><p>A man sits in front of her and asks about how her flight was.</p><br/><p>“It’s not the best flight experience, I’m not used to sitting in tight spaces… And I feel really bad for the officers that had to come and get me because they had to make stopovers…”</p><br/><p>She puts her hand to her heart, “Me and mom was really concerned about that. And we offered Interpol to tell them we would fly them private.”</p><br/><p>Lucy has just gotten off an international flight from Eastern Europe after a murder (double murder attempt), fleeing to multiple countries, and being wanted by Interpol for months. </p><br/><p>She’s just a little unhappy that she wasn’t able to fly private to come home.</p><br/><p><br /></p><br/><p><br /></p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "7Dt4qcIleacW6K9D2PcCpH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "“Asian Kardashian” Flees Country After Murder, Then Offers Interpol A Private Jet To Arrest Her",
+      "release_date": "2024-10-06",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:7Dt4qcIleacW6K9D2PcCpH"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4kTpJ7qzNklEFpBKniJm5J/clip_2630450_2685150.mp3",
       "description": "March 19, 2024, Carly texts all her friends in an emergency“I fucked up, I need help, I NEED HELP!” One friend immediately hops on his bike and starts making his way over. Another friend gets dropped off by her dad at Carly’s house. When she gets to the front door – Carly is standing there. She doesn’t appear to be in the middle of an emergency. She seems calm, “You’re not squeamish, right? Have you ever seen a dead body?”   Carly brings her into her bedroom, where she looks down – and lying on the ground is a dead body…. “I put three in my mom, and I got three more waiting for my stepdad when he gets home.”    Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 3661886,
@@ -5920,7 +5958,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
