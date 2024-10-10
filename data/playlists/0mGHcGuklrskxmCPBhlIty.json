@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0mGHcGuklrskxmCPBhlIty"
   },
-  "followers": { "href": null, "total": 238 },
+  "followers": { "href": null, "total": 239 },
   "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty?locale=*",
   "id": "0mGHcGuklrskxmCPBhlIty",
   "images": [
@@ -1589,7 +1589,7 @@
         "href": "https://api.spotify.com/v1/tracks/7lL2lMWNtzOcf5HnEudNgn",
         "id": "7lL2lMWNtzOcf5HnEudNgn",
         "name": "Everyday People",
-        "popularity": 51,
+        "popularity": 50,
         "uri": "spotify:track:7lL2lMWNtzOcf5HnEudNgn",
         "is_local": false
       },
