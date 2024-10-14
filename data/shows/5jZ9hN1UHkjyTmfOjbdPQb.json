@@ -222,6 +222,44 @@
   "total_episodes": 152,
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4YuesNkkEXBXmlFcE4ptQ9/clip_1685985_1737737.mp3",
+      "description": "Ronan’s 6 year old daughter has finally come back home but something is not right. Ever since the little girl got home strange things have been happening…   A cockroach breaking through the window. The child suddenly growing double the teeth in her mouth. Somehow she’s able to shut doors that are on the other side of the room. She’s talking to people who aren’t there…   Ronan knows why. Her little daughter is possessed and it’s up to her to find out how to break the curse.   That sounds like the plot of a movie - doesn’t it? It is - the horror film “Incantation.” It is arguably one of the scariest horror films to be released recently.  Yet.  It’s all based on a true story of a family of 6 in Taiwan. A family where they all became possessed until finally 1 of them dies.     Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 3787518,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2yXslPZhVtvz4vp5kEStlj"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2yXslPZhVtvz4vp5kEStlj",
+      "html_description": "<p>Ronan’s 6 year old daughter has finally come back home but something is not right. Ever since the little girl got home strange things have been happening… </p><br/><p><br /></p><br/><p>A cockroach breaking through the window. The child suddenly growing double the teeth in her mouth. Somehow she’s able to shut doors that are on the other side of the room. She’s talking to people who aren’t there… </p><br/><p><br /></p><br/><p>Ronan knows why. Her little daughter is possessed and it’s up to her to find out how to break the curse. </p><br/><p><br /></p><br/><p>That sounds like the plot of a movie - doesn’t it?</p><br/><p>It is - the horror film “Incantation.” It is arguably one of the scariest horror films to be released recently.</p><br/><p><br /></p><br/><p>Yet. </p><br/><p>It’s all based on a true story of a family of 6 in Taiwan.</p><br/><p>A family where they all became possessed until finally 1 of them dies. <br /></p><br/><p><br /></p><br/><p><br /></p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "2yXslPZhVtvz4vp5kEStlj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "True Case Behind “Incantation” Horror Movie - Family Of 6 Possessed By Demons Till 1 Is Dead",
+      "release_date": "2024-10-13",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2yXslPZhVtvz4vp5kEStlj"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0JntTljIfuTqi987aNGMdj/clip_2359550_2417250.mp3",
       "description": "Lucy Li is sitting in a small room with a blanket draping over her shoulders.  A man sits in front of her and asks about how her flight was. “It’s not the best flight experience, I’m not used to sitting in tight spaces… And I feel really bad for the officers that had to come and get me because they had to make stopovers…” She puts her hand to her heart, “Me and mom was really concerned about that. And we offered Interpol to tell them we would fly them private.” Lucy has just gotten off an international flight from Eastern Europe after a murder (double murder attempt), fleeing to multiple countries, and being wanted by Interpol for months.  She’s just a little unhappy that she wasn’t able to fly private to come home.    Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 4757353,
@@ -5958,7 +5996,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
