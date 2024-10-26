@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 397609 },
+  "followers": { "href": null, "total": 397687 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
       "width": null
     }
   ],
@@ -1409,7 +1409,7 @@
         "href": "https://api.spotify.com/v1/tracks/1LAlLBTGBUO0MDA8IbSysd",
         "id": "1LAlLBTGBUO0MDA8IbSysd",
         "name": "Overcompensate",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:1LAlLBTGBUO0MDA8IbSysd",
         "is_local": false
       },
@@ -2333,7 +2333,7 @@
         "href": "https://api.spotify.com/v1/tracks/6fNaHkjAxP6rI2sZhT7QJn",
         "id": "6fNaHkjAxP6rI2sZhT7QJn",
         "name": "Backslide",
-        "popularity": 70,
+        "popularity": 69,
         "uri": "spotify:track:6fNaHkjAxP6rI2sZhT7QJn",
         "is_local": false
       },
@@ -30181,7 +30181,7 @@
         "href": "https://api.spotify.com/v1/tracks/0S7lkKStHgfgjgwSFOvRNA",
         "id": "0S7lkKStHgfgjgwSFOvRNA",
         "name": "The Craving - single version",
-        "popularity": 64,
+        "popularity": 63,
         "uri": "spotify:track:0S7lkKStHgfgjgwSFOvRNA",
         "is_local": false
       },
