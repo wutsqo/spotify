@@ -222,6 +222,44 @@
   "total_episodes": 156,
   "episodes": [
     {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4P6fHywFhtBd5peXdfp9Rf/clip_2091300_2140350.mp3",
+      "description": "In September 2024, Eminem released a new song - the lyrics read: “I’m like a R-A-P-E-R  Got so many SAs  Wait  He didn’t just spell the word rapper and leave out a P-Didhe? RIP, rest in peace Biggie and Pac  Both of y’all should be living  Cause he might put a hit on me like - Keefe D get em” Notorious BIG & Tupac were two of the most influential musicians in the world. They were both murdered within 6 months of each other, and Diddy has always been connected to their deaths.  One of them - he saw as his competition  Another he saw as his money-making machine.  Which means - did Eminem just ask the question - Did Diddy kill them?   Full Source Notes: rottenmangopodcast.com",
+      "duration_ms": 7914750,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5DCNY7lhWWXpSCjCP6BOPs"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5DCNY7lhWWXpSCjCP6BOPs",
+      "html_description": "<p>In September 2024, Eminem released a new song - the lyrics read:</p><br/><p>“I’m like a R-A-P-E-R </p><br/><p>Got so many SAs </p><br/><p>Wait </p><br/><p>He didn’t just spell the word rapper and leave out a P-Didhe?</p><br/><p>RIP, rest in peace Biggie and Pac </p><br/><p>Both of y’all should be living </p><br/><p>Cause he might put a hit on me like - Keefe D get em”</p><br/><p>Notorious BIG &amp; Tupac were two of the most influential musicians in the world. They were both murdered within 6 months of each other, and Diddy has always been connected to their deaths. </p><br/><p>One of them - he saw as his competition </p><br/><p>Another he saw as his money-making machine. </p><br/><p>Which means - did Eminem just ask the question - Did Diddy kill them?</p><br/><p><br /></p><br/><p><br /></p><br/><p>Full Source Notes: rottenmangopodcast.com</p>",
+      "id": "5DCNY7lhWWXpSCjCP6BOPs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "13 Deaths Around Diddy: 9 Victims of City College Incident, Tupac & Biggie, Kim Porter, and more",
+      "release_date": "2024-10-30",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5DCNY7lhWWXpSCjCP6BOPs"
+    },
+    {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0ERQmGKFRtg3bkSEeA5Zt4/clip_1934850_1991400.mp3",
       "description": "A mysterious new book starts making its way to the top of the Best Sellers category on Amazon books. It just doesn’t make sense though. The book isn’t authored by a well known author… on top of that, it’s quite a pricey book.  59 pages.  $22.Reviewers say it’s riddled with typos and factual inaccuracies. Why is it suddenly on the best sellers list? The title is: “Kim’s Lost Words: A Journey For Justice From The Other Side” It claims to be a memoir written by Kim Porter, Diddy’s ex gf, and the mother of his 4 children.  Part of the introduction reads: “He was so charming - a wolf in sheep’s clothing. A devil and I fell for it. This story must be told despite the fact that it will hurt my children. I cannot hide it any longer. Sean Combs must be stopped....” But there’s no way Kim Porter published it herself - because she passed away in 2018.  So who wrote it? The author claims he received a flash drive from close sources. But is he trustworthy? But more importantly - why are netizens calling for Kim Porter’s death to be re-investigated? Full Source Notes: rottenmangopodcast.com",
       "duration_ms": 7747433,
@@ -6110,7 +6148,6 @@
       "release_date_precision": "day",
       "type": "episode",
       "uri": "spotify:episode:1WKepkhAiG1ArtuWQNRXl7"
-    },
-    null
+    }
   ]
 }
