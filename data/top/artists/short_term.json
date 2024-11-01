@@ -1,11 +1,11 @@
 {
-  "total": 10,
+  "total": 8,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
-      "followers": { "href": null, "total": 17207556 },
+      "followers": { "href": null, "total": 17261006 },
       "genres": ["hip hop", "rap"],
       "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
       "id": "4V8LLVI7PbaPR0K2TGSxFF",
@@ -27,7 +27,7 @@
         }
       ],
       "name": "Tyler, The Creator",
-      "popularity": 91,
+      "popularity": 92,
       "type": "artist",
       "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
     },
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
       },
-      "followers": { "href": null, "total": 51703037 },
+      "followers": { "href": null, "total": 51713430 },
       "genres": ["classic rock", "glam rock", "rock"],
       "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
       "id": "1dfeR4HaWDbWqFHLkxsg1d",
@@ -70,7 +70,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0e86yPdC41PGRkLp2Q1Bph"
       },
-      "followers": { "href": null, "total": 4208936 },
+      "followers": { "href": null, "total": 4209893 },
       "genres": ["canadian indie rock", "pov: indie", "vancouver indie"],
       "href": "https://api.spotify.com/v1/artists/0e86yPdC41PGRkLp2Q1Bph",
       "id": "0e86yPdC41PGRkLp2Q1Bph",
@@ -100,7 +100,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
       },
-      "followers": { "href": null, "total": 27087299 },
+      "followers": { "href": null, "total": 27101512 },
       "genres": [
         "garage rock",
         "modern rock",
@@ -136,7 +136,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
       },
-      "followers": { "href": null, "total": 7003807 },
+      "followers": { "href": null, "total": 7016569 },
       "genres": ["canadian contemporary r&b"],
       "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
       "id": "20wkVLutqVOYrc0kxFs7rA",
@@ -158,7 +158,7 @@
         }
       ],
       "name": "Daniel Caesar",
-      "popularity": 84,
+      "popularity": 85,
       "type": "artist",
       "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
     },
@@ -166,7 +166,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
-      "followers": { "href": null, "total": 16011651 },
+      "followers": { "href": null, "total": 16028683 },
       "genres": ["lgbtq+ hip hop", "neo soul"],
       "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
       "id": "2h93pZq0e7k5yf4dywlkpM",
@@ -194,81 +194,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-      },
-      "followers": { "href": null, "total": 28643959 },
-      "genres": [
-        "british invasion",
-        "classic rock",
-        "merseybeat",
-        "psychedelic rock",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
-      "id": "3WrFJ7ztbogyGnTHbHJFl2",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe9348cc01ff5d55971b22433",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e9348cc01ff5d55971b22433",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e9348cc01ff5d55971b22433",
-          "width": 160
-        }
-      ],
-      "name": "The Beatles",
-      "popularity": 86,
-      "type": "artist",
-      "uri": "spotify:artist:3WrFJ7ztbogyGnTHbHJFl2"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
-      },
-      "followers": { "href": null, "total": 10838562 },
-      "genres": [
-        "art rock",
-        "classic rock",
-        "glam rock",
-        "permanent wave",
-        "rock"
-      ],
-      "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
-      "id": "0oSGxfWSnnOXhD2fKuz2Gy",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b78f77c5583ae99472dd4a49",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b78f77c5583ae99472dd4a49",
-          "width": 160
-        }
-      ],
-      "name": "David Bowie",
-      "popularity": 78,
-      "type": "artist",
-      "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE"
       },
-      "followers": { "href": null, "total": 9973524 },
+      "followers": { "href": null, "total": 9976485 },
       "genres": ["rock-and-roll", "rockabilly"],
       "href": "https://api.spotify.com/v1/artists/43ZHCT0cAZBISjO8DG9PnE",
       "id": "43ZHCT0cAZBISjO8DG9PnE",
@@ -298,7 +226,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
       },
-      "followers": { "href": null, "total": 6481843 },
+      "followers": { "href": null, "total": 6486295 },
       "genres": [
         "madchester",
         "new wave",
