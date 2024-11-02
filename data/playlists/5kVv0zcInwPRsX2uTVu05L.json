@@ -581,7 +581,7 @@
         "href": "https://api.spotify.com/v1/tracks/64lsIF5pw0sJY0gV5kz0RN",
         "id": "64lsIF5pw0sJY0gV5kz0RN",
         "name": "Can I Call You Tonight?",
-        "popularity": 16,
+        "popularity": 15,
         "uri": "spotify:track:64lsIF5pw0sJY0gV5kz0RN",
         "is_local": false
       },
@@ -13567,6 +13567,7 @@
           "LY",
           "TJ",
           "VE",
+          "ET",
           "XK"
         ],
         "explicit": true,
@@ -13757,6 +13758,7 @@
             "LY",
             "TJ",
             "VE",
+            "ET",
             "XK"
           ],
           "type": "album",
@@ -22941,6 +22943,7 @@
           "LY",
           "TJ",
           "VE",
+          "ET",
           "XK"
         ],
         "explicit": false,
@@ -23131,6 +23134,7 @@
             "LY",
             "TJ",
             "VE",
+            "ET",
             "XK"
           ],
           "type": "album",
@@ -28581,7 +28585,7 @@
         "href": "https://api.spotify.com/v1/tracks/4PCVZGch6Q57RVAcai9L8u",
         "id": "4PCVZGch6Q57RVAcai9L8u",
         "name": "Don't Stop",
-        "popularity": 53,
+        "popularity": 54,
         "uri": "spotify:track:4PCVZGch6Q57RVAcai9L8u",
         "is_local": false
       },
@@ -28601,7 +28605,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/247fb006ccc087601e9e00447c3d2c222bbc4c7c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": "https://p.scdn.co/mp3-preview/ecdf5dd0d62773be1f24a296b3712665b504aba2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
         "available_markets": [],
         "explicit": false,
         "type": "track",
