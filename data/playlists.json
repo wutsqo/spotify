@@ -1,5 +1,5 @@
 {
-  "total": 48,
+  "total": 47,
   "playlists": [
     {
       "collaborative": false,
@@ -120,7 +120,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842bf977fd6e7a0225e48bc67a",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842bf977fd6e7a0225e48bc67a",
           "width": null
         }
       ],
@@ -192,7 +192,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
           "width": null
         }
       ],
@@ -547,7 +547,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIYYFDoKytKLg>Queen</a>, <a href=spotify:playlist:37i9dQZF1EIZdW2qKBCK2T>Sal Priadi</a>, <a href=spotify:playlist:37i9dQZF1EIZ1r57NVQAAG>The Cure</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIViYkelREWYq>Surf Curse</a>, <a href=spotify:playlist:37i9dQZF1EIUZhCNFk75rt>Dexys Midnight Runners</a>, <a href=spotify:playlist:37i9dQZF1EIZdW2qKBCK2T>Sal Priadi</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -556,7 +556,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/1dfeR4HaWDbWqFHLkxsg1d/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/1gl0S9pS0Zw0qfa14rDD3D/en/default",
           "width": null
         }
       ],
@@ -571,7 +571,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAAAAAAAhx6Z37K+BRiJlZqId/2Th",
+      "snapshot_id": "AAAAAAAAAABdst2yaa2FIjIkhTkVbvRa",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -646,40 +646,6 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:37i9dQZF1EJysIVWRVlG0O"
-    },
-    {
-      "collaborative": false,
-      "description": "Spotify Wrapped presents the songs you loved this year.",
-      "external_urls": {
-        "spotify": "https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU"
-      },
-      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU",
-      "id": "37i9dQZF1Fa1IIVtEpGUcU",
-      "images": [
-        {
-          "height": null,
-          "url": "https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg",
-          "width": null
-        }
-      ],
-      "name": "Your Top Songs 2023",
-      "owner": {
-        "display_name": "Spotify",
-        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
-        "href": "https://api.spotify.com/v1/users/spotify",
-        "id": "spotify",
-        "type": "user",
-        "uri": "spotify:user:spotify"
-      },
-      "primary_color": null,
-      "public": true,
-      "snapshot_id": "ZVPI2AAAAAD0+Af8jvnvW5Rlb9UA+FT5",
-      "tracks": {
-        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU/tracks",
-        "total": 100
-      },
-      "type": "playlist",
-      "uri": "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU"
     },
     {
       "collaborative": false,
@@ -1220,7 +1186,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846f7c63514f3fbb7dc1f365f2",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846f7c63514f3fbb7dc1f365f2",
           "width": null
         }
       ],
@@ -1374,7 +1340,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da849be75f0b15e315de658a9e56",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849be75f0b15e315de658a9e56",
           "width": null
         }
       ],
@@ -1574,7 +1540,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8415270bf50d5ee17436d7f4bb",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8415270bf50d5ee17436d7f4bb",
           "width": null
         }
       ],
