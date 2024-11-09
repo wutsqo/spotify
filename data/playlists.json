@@ -1,5 +1,5 @@
 {
-  "total": 47,
+  "total": 48,
   "playlists": [
     {
       "collaborative": false,
@@ -192,7 +192,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
           "width": null
         }
       ],
@@ -228,7 +228,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f7851a6d18af96141bc1d481",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f7851a6d18af96141bc1d481",
           "width": null
         }
       ],
@@ -245,10 +245,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAL7/NNicwVC8JXb95gobYtkI7vQJTg",
+      "snapshot_id": "AAAL9HL0rKvHxbFHzcq5dW73dh4Sgap4",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 1009
+        "total": 1014
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -454,7 +454,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://daylist.spotifycdn.com/playlist-covers-mix/en/night_default.jpg",
+          "url": "https://daylist.spotifycdn.com/playlist-covers-mix/en/evening_default.jpg",
           "width": null
         }
       ],
@@ -469,7 +469,7 @@
       },
       "primary_color": "#ffffff",
       "public": true,
-      "snapshot_id": "AAAAAAAAAACUP5tFTA4guOALT4WOSmgf",
+      "snapshot_id": "AAAAAAAAAADGmFDIQrqKD19svZ4c50j0",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EP6YuccBxUcC1/tracks",
         "total": 50
@@ -547,7 +547,7 @@
     },
     {
       "collaborative": false,
-      "description": "<a href=spotify:playlist:37i9dQZF1EIViYkelREWYq>Surf Curse</a>, <a href=spotify:playlist:37i9dQZF1EIUZhCNFk75rt>Dexys Midnight Runners</a>, <a href=spotify:playlist:37i9dQZF1EIZdW2qKBCK2T>Sal Priadi</a> and more",
+      "description": "<a href=spotify:playlist:37i9dQZF1EIWLweJjJEGMk>Earth, Wind & Fire</a>, <a href=spotify:playlist:37i9dQZF1EIUZhCNFk75rt>Dexys Midnight Runners</a>, <a href=spotify:playlist:37i9dQZF1EIZ1r57NVQAAG>The Cure</a> and more",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/37i9dQZF1EVJSvZp5AOML2"
       },
@@ -556,7 +556,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/1gl0S9pS0Zw0qfa14rDD3D/en/default",
+          "url": "https://seed-mix-image.spotifycdn.com/v6/img/happy/4QQgXkCYTt3BlENzhyNETg/en/default",
           "width": null
         }
       ],
@@ -571,7 +571,7 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAAAAAAABdst2yaa2FIjIkhTkVbvRa",
+      "snapshot_id": "AAAAAAAAAADg55C+NSZ9CW4E9K2h10ao",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EVJSvZp5AOML2/tracks",
         "total": 50
@@ -646,6 +646,40 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:37i9dQZF1EJysIVWRVlG0O"
+    },
+    {
+      "collaborative": false,
+      "description": "Spotify Wrapped presents the songs you loved this year.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1Fa1IIVtEpGUcU"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU",
+      "id": "37i9dQZF1Fa1IIVtEpGUcU",
+      "images": [
+        {
+          "height": null,
+          "url": "https://wrapped-images.spotifycdn.com/image/yts-2023/default/your-top-songs-2023_DEFAULT_en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Your Top Songs 2023",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": { "spotify": "https://open.spotify.com/user/spotify" },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "ZVPI2AAAAAD0+Af8jvnvW5Rlb9UA+FT5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1Fa1IIVtEpGUcU/tracks",
+        "total": 100
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1Fa1IIVtEpGUcU"
     },
     {
       "collaborative": false,
@@ -1150,7 +1184,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84eb4e010ca3a2f54a738cd4fe",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84eb4e010ca3a2f54a738cd4fe",
           "width": null
         }
       ],
