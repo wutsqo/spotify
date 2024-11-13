@@ -4,23 +4,23 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/3c4vUnqSDlo3JS5H7KNs6l"
   },
-  "followers": { "href": null, "total": 984 },
+  "followers": { "href": null, "total": 982 },
   "href": "https://api.spotify.com/v1/playlists/3c4vUnqSDlo3JS5H7KNs6l?locale=*",
   "id": "3c4vUnqSDlo3JS5H7KNs6l",
   "images": [
     {
       "height": 640,
-      "url": "https://mosaic.scdn.co/640/ab67616d00001e0217696caf00b6e0ac16cbbba4ab67616d00001e029567e1aa41657425d046733bab67616d00001e02c4441140f4483bb1c18fe7aeab67616d00001e02dc252547af66fa6a5e3ed781",
+      "url": "https://mosaic.scdn.co/640/ab67616d00001e02810789d9556c3043d20c2bcdab67616d00001e029567e1aa41657425d046733bab67616d00001e02c4441140f4483bb1c18fe7aeab67616d00001e02dc252547af66fa6a5e3ed781",
       "width": 640
     },
     {
       "height": 300,
-      "url": "https://mosaic.scdn.co/300/ab67616d00001e0217696caf00b6e0ac16cbbba4ab67616d00001e029567e1aa41657425d046733bab67616d00001e02c4441140f4483bb1c18fe7aeab67616d00001e02dc252547af66fa6a5e3ed781",
+      "url": "https://mosaic.scdn.co/300/ab67616d00001e02810789d9556c3043d20c2bcdab67616d00001e029567e1aa41657425d046733bab67616d00001e02c4441140f4483bb1c18fe7aeab67616d00001e02dc252547af66fa6a5e3ed781",
       "width": 300
     },
     {
       "height": 60,
-      "url": "https://mosaic.scdn.co/60/ab67616d00001e0217696caf00b6e0ac16cbbba4ab67616d00001e029567e1aa41657425d046733bab67616d00001e02c4441140f4483bb1c18fe7aeab67616d00001e02dc252547af66fa6a5e3ed781",
+      "url": "https://mosaic.scdn.co/60/ab67616d00001e02810789d9556c3043d20c2bcdab67616d00001e029567e1aa41657425d046733bab67616d00001e02c4441140f4483bb1c18fe7aeab67616d00001e02dc252547af66fa6a5e3ed781",
       "width": 60
     }
   ],
@@ -147,7 +147,7 @@
         "href": "https://api.spotify.com/v1/tracks/45uwA5e851qa3xWqKGYxGC",
         "id": "45uwA5e851qa3xWqKGYxGC",
         "name": "WHITE CROCS (with Ryan Trey)",
-        "popularity": 11,
+        "popularity": 10,
         "uri": "spotify:track:45uwA5e851qa3xWqKGYxGC",
         "is_local": false
       },
@@ -5295,7 +5295,7 @@
         "href": "https://api.spotify.com/v1/tracks/3kBWttZ4s6uSErpI0x3qLZ",
         "id": "3kBWttZ4s6uSErpI0x3qLZ",
         "name": "coogie",
-        "popularity": 44,
+        "popularity": 45,
         "uri": "spotify:track:3kBWttZ4s6uSErpI0x3qLZ",
         "is_local": false
       },
@@ -5861,7 +5861,7 @@
         "href": "https://api.spotify.com/v1/tracks/5zL6U9C5mmeaJSks7H4Xmw",
         "id": "5zL6U9C5mmeaJSks7H4Xmw",
         "name": "How many miles",
-        "popularity": 37,
+        "popularity": 38,
         "uri": "spotify:track:5zL6U9C5mmeaJSks7H4Xmw",
         "is_local": false
       },
