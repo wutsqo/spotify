@@ -1,6 +1,54 @@
 {
-  "total": 146,
+  "total": 148,
   "tracks": [
+    {
+      "id": "5Z0UnEtpLDQyYlWwgi8m9C",
+      "name": "Too Sweet",
+      "added_at": "2024-11-14T11:05:15Z",
+      "popularity": 67,
+      "duration_ms": 251424,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/5Z0UnEtpLDQyYlWwgi8m9C",
+      "preview_url": "https://p.scdn.co/mp3-preview/0a03f7850e2bddecc227d7c08c8db8bf1e5f0f2f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "3P4SQqMMgjqfqVxgLwtYRk",
+        "name": "Unreal Unearth: Unheard",
+        "release_date": "2024-03-22",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2733e1b212546dac35443735241",
+        "url": "https://open.spotify.com/album/3P4SQqMMgjqfqVxgLwtYRk"
+      },
+      "artists": [
+        {
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ]
+    },
+    {
+      "id": "2G2YzndIA6jeWFPBXhUjh5",
+      "name": "Be My Baby",
+      "added_at": "2024-11-14T10:57:15Z",
+      "popularity": 69,
+      "duration_ms": 160906,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/2G2YzndIA6jeWFPBXhUjh5",
+      "preview_url": "https://p.scdn.co/mp3-preview/1afcbd164ede375be899615268a947d6f96edaaa?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+      "album": {
+        "id": "3vLFWR3fLqfY82WGvaLuyV",
+        "name": "Be My Baby: The Very Best of The Ronettes",
+        "release_date": "2011-02-22",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734694c5b97d3a88efb5fc71b5",
+        "url": "https://open.spotify.com/album/3vLFWR3fLqfY82WGvaLuyV"
+      },
+      "artists": [
+        {
+          "id": "7CyeXFnOrfC1N6z4naIpgo",
+          "name": "The Ronettes",
+          "url": "https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo"
+        }
+      ]
+    },
     {
       "id": "4IA6pgGRmqfxWGAfyZ8cgR",
       "name": "Verbatim",
@@ -197,7 +245,7 @@
       "id": "5LpMlrvoSZkVrEVridNgfE",
       "name": "Stronger Than the Night",
       "added_at": "2024-04-12T18:46:48Z",
-      "popularity": 35,
+      "popularity": 36,
       "duration_ms": 262733,
       "explicit": false,
       "url": "https://open.spotify.com/track/5LpMlrvoSZkVrEVridNgfE",
@@ -769,7 +817,7 @@
       "id": "2fywBLXK9GQi8YR8C8d3c4",
       "name": "Fall for You",
       "added_at": "2024-01-28T11:21:31Z",
-      "popularity": 55,
+      "popularity": 54,
       "duration_ms": 183600,
       "explicit": false,
       "url": "https://open.spotify.com/track/2fywBLXK9GQi8YR8C8d3c4",
@@ -2052,7 +2100,7 @@
       "id": "4Tp4gRuDo1sIMP6gH9LwuH",
       "name": "Wiped Out!",
       "added_at": "2023-05-24T15:05:58Z",
-      "popularity": 54,
+      "popularity": 55,
       "duration_ms": 373373,
       "explicit": false,
       "url": "https://open.spotify.com/track/4Tp4gRuDo1sIMP6gH9LwuH",
@@ -2153,7 +2201,7 @@
       "id": "37mbA1RwYja7WFaIOzSczX",
       "name": "You'll Be In My Heart - Spotify Singles",
       "added_at": "2023-04-08T22:27:26Z",
-      "popularity": 33,
+      "popularity": 32,
       "duration_ms": 241776,
       "explicit": false,
       "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX",
@@ -2733,7 +2781,7 @@
       "id": "5omYVLodGmaxnhua99xIE8",
       "name": "A.M.",
       "added_at": "2022-03-24T18:32:31Z",
-      "popularity": 68,
+      "popularity": 67,
       "duration_ms": 209040,
       "explicit": false,
       "url": "https://open.spotify.com/track/5omYVLodGmaxnhua99xIE8",
@@ -2858,7 +2906,7 @@
       "id": "2iUXsYOEPhVqEBwsqP70rE",
       "name": "Youngblood",
       "added_at": "2022-01-13T12:26:33Z",
-      "popularity": 78,
+      "popularity": 79,
       "duration_ms": 203417,
       "explicit": false,
       "url": "https://open.spotify.com/track/2iUXsYOEPhVqEBwsqP70rE",
