@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
   },
-  "followers": { "href": null, "total": 2067 },
+  "followers": { "href": null, "total": 2069 },
   "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW?locale=*",
   "id": "5e19c9XXF0zXOpAgEmYStW",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72c1f9519a3f5da1c73775b6c79",
       "width": null
     }
   ],
@@ -3663,7 +3663,7 @@
         "href": "https://api.spotify.com/v1/tracks/4j3X4KX8rURekAVIFUhI23",
         "id": "4j3X4KX8rURekAVIFUhI23",
         "name": "Perfect",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:4j3X4KX8rURekAVIFUhI23",
         "is_local": false
       },
@@ -38090,7 +38090,7 @@
         "href": "https://api.spotify.com/v1/tracks/0COqiPhxzoWICwFCS4eZcp",
         "id": "0COqiPhxzoWICwFCS4eZcp",
         "name": "Bring Me To Life",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:0COqiPhxzoWICwFCS4eZcp",
         "is_local": false
       },
@@ -56806,7 +56806,7 @@
         "href": "https://api.spotify.com/v1/tracks/0dIOvducp7ujHTqj66cQ3X",
         "id": "0dIOvducp7ujHTqj66cQ3X",
         "name": "Amnesia",
-        "popularity": 61,
+        "popularity": 62,
         "uri": "spotify:track:0dIOvducp7ujHTqj66cQ3X",
         "is_local": false
       },
