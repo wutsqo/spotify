@@ -1,6 +1,46 @@
 {
-  "total": 4,
+  "total": 6,
   "episodes": [
+    {
+      "added_at": "2022-12-03T21:09:57Z",
+      "episode": {
+        "audio_preview_url": null,
+        "description": null,
+        "duration_ms": null,
+        "explicit": false,
+        "external_urls": { "spotify": "https://open.spotify.com/episode/null" },
+        "href": "https://api.spotify.com/v1/episodes/null",
+        "html_description": null,
+        "id": null,
+        "images": [],
+        "is_externally_hosted": null,
+        "language": null,
+        "languages": [null],
+        "name": null,
+        "release_date": "0000",
+        "release_date_precision": "year",
+        "show": {
+          "copyrights": null,
+          "description": null,
+          "explicit": false,
+          "external_urls": { "spotify": "https://open.spotify.com/show/null" },
+          "href": "https://api.spotify.com/v1/shows/null",
+          "html_description": null,
+          "id": null,
+          "images": [],
+          "is_externally_hosted": null,
+          "languages": [null],
+          "media_type": null,
+          "name": null,
+          "publisher": null,
+          "total_episodes": null,
+          "type": "show",
+          "uri": null
+        },
+        "type": "episode",
+        "uri": null
+      }
+    },
     {
       "added_at": "2022-02-28T16:41:22Z",
       "episode": {
@@ -257,12 +297,52 @@
           "media_type": "mixed",
           "name": "CNN Indonesia",
           "publisher": "CNN Indonesia",
-          "total_episodes": 6207,
+          "total_episodes": 6268,
           "type": "show",
           "uri": "spotify:show:3OQC2vxWJwhTmHMfbezF37"
         },
         "type": "episode",
         "uri": "spotify:episode:4slesJ9tSa5GNX1BKYnICz"
+      }
+    },
+    {
+      "added_at": "2022-01-05T17:49:19Z",
+      "episode": {
+        "audio_preview_url": null,
+        "description": null,
+        "duration_ms": null,
+        "explicit": false,
+        "external_urls": { "spotify": "https://open.spotify.com/episode/null" },
+        "href": "https://api.spotify.com/v1/episodes/null",
+        "html_description": null,
+        "id": null,
+        "images": [],
+        "is_externally_hosted": null,
+        "language": null,
+        "languages": [null],
+        "name": null,
+        "release_date": "0000",
+        "release_date_precision": "year",
+        "show": {
+          "copyrights": null,
+          "description": null,
+          "explicit": false,
+          "external_urls": { "spotify": "https://open.spotify.com/show/null" },
+          "href": "https://api.spotify.com/v1/shows/null",
+          "html_description": null,
+          "id": null,
+          "images": [],
+          "is_externally_hosted": null,
+          "languages": [null],
+          "media_type": null,
+          "name": null,
+          "publisher": null,
+          "total_episodes": null,
+          "type": "show",
+          "uri": null
+        },
+        "type": "episode",
+        "uri": null
       }
     },
     {

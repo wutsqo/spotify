@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5G5Unv4duumybzGQzpaJAE"
   },
-  "followers": { "href": null, "total": 22 },
+  "followers": { "href": null, "total": 23 },
   "href": "https://api.spotify.com/v1/playlists/5G5Unv4duumybzGQzpaJAE?locale=*",
   "id": "5G5Unv4duumybzGQzpaJAE",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842bf977fd6e7a0225e48bc67a",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842bf977fd6e7a0225e48bc67a",
       "width": null
     }
   ],
@@ -45,7 +45,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/a6a051390b4ea47a1344980235b19e947e4da7ab?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -489,7 +489,7 @@
         "href": "https://api.spotify.com/v1/tracks/12bKyDwj1CDiZxl6h6NepF",
         "id": "12bKyDwj1CDiZxl6h6NepF",
         "name": "Christmas in Monterey",
-        "popularity": 21,
+        "popularity": 32,
         "uri": "spotify:track:12bKyDwj1CDiZxl6h6NepF",
         "is_local": false
       },
@@ -509,7 +509,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/955175612a2dd6e71cb699296919952d39cde9b7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -973,7 +973,7 @@
         "href": "https://api.spotify.com/v1/tracks/3C4An0JSPWrhdMO2IozwWC",
         "id": "3C4An0JSPWrhdMO2IozwWC",
         "name": "Avalanche",
-        "popularity": 3,
+        "popularity": 2,
         "uri": "spotify:track:3C4An0JSPWrhdMO2IozwWC",
         "is_local": false
       },
@@ -993,7 +993,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/98908dd106ed898c9e6c9f7ef3cff79da128ec22?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -1435,7 +1435,7 @@
         "href": "https://api.spotify.com/v1/tracks/4qCyQSrfF0xLKa5DvtthSI",
         "id": "4qCyQSrfF0xLKa5DvtthSI",
         "name": "Closer",
-        "popularity": 7,
+        "popularity": 8,
         "uri": "spotify:track:4qCyQSrfF0xLKa5DvtthSI",
         "is_local": false
       },
@@ -1455,7 +1455,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2a4e0e83636f0c19236536d808f16555c9a10abd?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -1899,7 +1899,7 @@
         "href": "https://api.spotify.com/v1/tracks/6wh8pmktQsRVAhsxStCPkr",
         "id": "6wh8pmktQsRVAhsxStCPkr",
         "name": "Heart Stopping Kinda Show",
-        "popularity": 11,
+        "popularity": 10,
         "uri": "spotify:track:6wh8pmktQsRVAhsxStCPkr",
         "is_local": false
       },
@@ -1919,7 +1919,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/704efca9b14d8367369c3977258b0d4c52558680?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AU",
           "AT",
@@ -2293,7 +2293,7 @@
         "href": "https://api.spotify.com/v1/tracks/3GebExSpMCOSqEV1in3s2G",
         "id": "3GebExSpMCOSqEV1in3s2G",
         "name": "Kısasa Kısas",
-        "popularity": 29,
+        "popularity": 28,
         "uri": "spotify:track:3GebExSpMCOSqEV1in3s2G",
         "is_local": false
       },
@@ -2313,7 +2313,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/30e8fdb155e25778c096719e6e8a8fa4523e9491?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -2755,7 +2755,7 @@
         "href": "https://api.spotify.com/v1/tracks/1Z8CL5e2oSfX4BcEFaYhka",
         "id": "1Z8CL5e2oSfX4BcEFaYhka",
         "name": "Something Like This",
-        "popularity": 10,
+        "popularity": 9,
         "uri": "spotify:track:1Z8CL5e2oSfX4BcEFaYhka",
         "is_local": false
       },
@@ -2775,7 +2775,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c958c276cd1e542edf8298cd54ad086ae6a2bf2c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -3239,7 +3239,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/0b58cd3cc8fd964a3aa320d88bd0557619f7ab9e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -3713,7 +3713,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d225726ae98c26687a9a89c75b2c4e83157ea132?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -4177,7 +4177,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ec669cbec045c266dafba27ab896e73e1b979d63?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [],
         "explicit": false,
         "type": "track",
@@ -4269,7 +4269,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/520035b69c0825d6b3bab3c65bca0d652068d51e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -4751,7 +4751,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/969525e805eee24f00541e41063fb92ff3bf9cce?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -5215,7 +5215,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ebc47f96d8b9e7e44ae2f45ce94d57b54af17236?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -5679,7 +5679,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b9668da68be2fba08554d52a38b85996ddcad901?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -6143,7 +6143,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2d61c2bd3ee171d3a2ab9174aef421b04a28d53d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -6607,7 +6607,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/bf157898273ebc158a63a2d049a78ea8fc6e3e87?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [],
         "explicit": false,
         "type": "track",
@@ -6699,7 +6699,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ba77c733430f59cb0461d90c4f24af226e2e59b3?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -7163,7 +7163,7 @@
         "href": "https://api.spotify.com/v1/tracks/3KCD6bEZUt1rWsyTtCFXh3",
         "id": "3KCD6bEZUt1rWsyTtCFXh3",
         "name": "HOP!",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:3KCD6bEZUt1rWsyTtCFXh3",
         "is_local": false
       },
@@ -7183,7 +7183,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/14d3b536bb1f8cce0d4cb3b5bc36c81704512b68?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -7707,7 +7707,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/7dd2cab1923aa864025b688442ba9976c3340aec?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -8171,7 +8171,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/6dbfc33e4073543c7175c2f64dd11f439778b708?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -8665,7 +8665,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/890a5a7c8851fab4bced747646ae7324ba0d3388?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -9129,7 +9129,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/1ae39e72e0f8458d0da4cafd9e88c6f74b01fc57?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",

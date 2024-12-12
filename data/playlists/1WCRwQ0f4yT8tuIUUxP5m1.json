@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 400400 },
+  "followers": { "href": null, "total": 402250 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
@@ -27,7 +27,7 @@
   },
   "primary_color": null,
   "public": true,
-  "snapshot_id": "AAACJOlFlCfmX8uXHQVm43H3P9ovLU0j",
+  "snapshot_id": "AAACJjxaQhhWYrRALsDpMldPAUqVTQck",
   "type": "playlist",
   "uri": "spotify:playlist:1WCRwQ0f4yT8tuIUUxP5m1",
   "tracks": [
@@ -45,7 +45,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/58e104f0eada57e37b787ed2cbcc0b79bd93707b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -523,8 +523,472 @@
         "href": "https://api.spotify.com/v1/tracks/3qrTll9OQ9wcejTxPFY0qg",
         "id": "3qrTll9OQ9wcejTxPFY0qg",
         "name": "The Line (from the series Arcane League of Legends)",
-        "popularity": 67,
+        "popularity": 78,
         "uri": "spotify:track:3qrTll9OQ9wcejTxPFY0qg",
+        "is_local": false
+      },
+      "video_thumbnail": { "url": null }
+    },
+    {
+      "added_at": "2024-12-09T21:50:00Z",
+      "added_by": {
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/twentyonepilots"
+        },
+        "href": "https://api.spotify.com/v1/users/twentyonepilots",
+        "id": "twentyonepilots",
+        "type": "user",
+        "uri": "spotify:user:twentyonepilots"
+      },
+      "is_local": false,
+      "primary_color": null,
+      "track": {
+        "preview_url": null,
+        "available_markets": [
+          "AR",
+          "AU",
+          "AT",
+          "BE",
+          "BO",
+          "BR",
+          "BG",
+          "CA",
+          "CL",
+          "CO",
+          "CR",
+          "CY",
+          "CZ",
+          "DK",
+          "DO",
+          "DE",
+          "EC",
+          "EE",
+          "SV",
+          "FI",
+          "FR",
+          "GR",
+          "GT",
+          "HN",
+          "HK",
+          "HU",
+          "IS",
+          "IE",
+          "IT",
+          "LV",
+          "LT",
+          "LU",
+          "MY",
+          "MT",
+          "MX",
+          "NL",
+          "NZ",
+          "NI",
+          "NO",
+          "PA",
+          "PY",
+          "PE",
+          "PH",
+          "PL",
+          "PT",
+          "SG",
+          "SK",
+          "ES",
+          "SE",
+          "CH",
+          "TW",
+          "TR",
+          "UY",
+          "US",
+          "GB",
+          "AD",
+          "LI",
+          "MC",
+          "ID",
+          "JP",
+          "TH",
+          "VN",
+          "RO",
+          "IL",
+          "ZA",
+          "SA",
+          "AE",
+          "BH",
+          "QA",
+          "OM",
+          "KW",
+          "EG",
+          "MA",
+          "DZ",
+          "TN",
+          "LB",
+          "JO",
+          "PS",
+          "IN",
+          "BY",
+          "KZ",
+          "MD",
+          "UA",
+          "AL",
+          "BA",
+          "HR",
+          "ME",
+          "MK",
+          "RS",
+          "SI",
+          "KR",
+          "BD",
+          "PK",
+          "LK",
+          "GH",
+          "KE",
+          "NG",
+          "TZ",
+          "UG",
+          "AG",
+          "AM",
+          "BS",
+          "BB",
+          "BZ",
+          "BT",
+          "BW",
+          "BF",
+          "CV",
+          "CW",
+          "DM",
+          "FJ",
+          "GM",
+          "GE",
+          "GD",
+          "GW",
+          "GY",
+          "HT",
+          "JM",
+          "KI",
+          "LS",
+          "LR",
+          "MW",
+          "MV",
+          "ML",
+          "MH",
+          "FM",
+          "NA",
+          "NR",
+          "NE",
+          "PW",
+          "PG",
+          "PR",
+          "WS",
+          "SM",
+          "ST",
+          "SN",
+          "SC",
+          "SL",
+          "SB",
+          "KN",
+          "LC",
+          "VC",
+          "SR",
+          "TL",
+          "TO",
+          "TT",
+          "TV",
+          "VU",
+          "AZ",
+          "BN",
+          "BI",
+          "KH",
+          "CM",
+          "TD",
+          "KM",
+          "GQ",
+          "SZ",
+          "GA",
+          "GN",
+          "KG",
+          "LA",
+          "MO",
+          "MR",
+          "MN",
+          "NP",
+          "RW",
+          "TG",
+          "UZ",
+          "ZW",
+          "BJ",
+          "MG",
+          "MU",
+          "MZ",
+          "AO",
+          "CI",
+          "DJ",
+          "ZM",
+          "CD",
+          "CG",
+          "IQ",
+          "LY",
+          "TJ",
+          "VE",
+          "ET",
+          "XK"
+        ],
+        "explicit": false,
+        "type": "track",
+        "episode": false,
+        "track": true,
+        "album": {
+          "available_markets": [
+            "AR",
+            "AU",
+            "AT",
+            "BE",
+            "BO",
+            "BR",
+            "BG",
+            "CA",
+            "CL",
+            "CO",
+            "CR",
+            "CY",
+            "CZ",
+            "DK",
+            "DO",
+            "DE",
+            "EC",
+            "EE",
+            "SV",
+            "FI",
+            "FR",
+            "GR",
+            "GT",
+            "HN",
+            "HK",
+            "HU",
+            "IS",
+            "IE",
+            "IT",
+            "LV",
+            "LT",
+            "LU",
+            "MY",
+            "MT",
+            "MX",
+            "NL",
+            "NZ",
+            "NI",
+            "NO",
+            "PA",
+            "PY",
+            "PE",
+            "PH",
+            "PL",
+            "PT",
+            "SG",
+            "SK",
+            "ES",
+            "SE",
+            "CH",
+            "TW",
+            "TR",
+            "UY",
+            "US",
+            "GB",
+            "AD",
+            "LI",
+            "MC",
+            "ID",
+            "JP",
+            "TH",
+            "VN",
+            "RO",
+            "IL",
+            "ZA",
+            "SA",
+            "AE",
+            "BH",
+            "QA",
+            "OM",
+            "KW",
+            "EG",
+            "MA",
+            "DZ",
+            "TN",
+            "LB",
+            "JO",
+            "PS",
+            "IN",
+            "BY",
+            "KZ",
+            "MD",
+            "UA",
+            "AL",
+            "BA",
+            "HR",
+            "ME",
+            "MK",
+            "RS",
+            "SI",
+            "KR",
+            "BD",
+            "PK",
+            "LK",
+            "GH",
+            "KE",
+            "NG",
+            "TZ",
+            "UG",
+            "AG",
+            "AM",
+            "BS",
+            "BB",
+            "BZ",
+            "BT",
+            "BW",
+            "BF",
+            "CV",
+            "CW",
+            "DM",
+            "FJ",
+            "GM",
+            "GE",
+            "GD",
+            "GW",
+            "GY",
+            "HT",
+            "JM",
+            "KI",
+            "LS",
+            "LR",
+            "MW",
+            "MV",
+            "ML",
+            "MH",
+            "FM",
+            "NA",
+            "NR",
+            "NE",
+            "PW",
+            "PG",
+            "PR",
+            "WS",
+            "SM",
+            "ST",
+            "SN",
+            "SC",
+            "SL",
+            "SB",
+            "KN",
+            "LC",
+            "VC",
+            "SR",
+            "TL",
+            "TO",
+            "TT",
+            "TV",
+            "VU",
+            "AZ",
+            "BN",
+            "BI",
+            "KH",
+            "CM",
+            "TD",
+            "KM",
+            "GQ",
+            "SZ",
+            "GA",
+            "GN",
+            "KG",
+            "LA",
+            "MO",
+            "MR",
+            "MN",
+            "NP",
+            "RW",
+            "TG",
+            "UZ",
+            "ZW",
+            "BJ",
+            "MG",
+            "MU",
+            "MZ",
+            "AO",
+            "CI",
+            "DJ",
+            "ZM",
+            "CD",
+            "CG",
+            "IQ",
+            "LY",
+            "TJ",
+            "VE",
+            "ET",
+            "XK"
+          ],
+          "type": "album",
+          "album_type": "single",
+          "href": "https://api.spotify.com/v1/albums/5bh5kgZddiyd5ObXOP9Exu",
+          "id": "5bh5kgZddiyd5ObXOP9Exu",
+          "images": [
+            {
+              "height": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273fdd772158c3af54caf44879b",
+              "width": 640
+            },
+            {
+              "height": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02fdd772158c3af54caf44879b",
+              "width": 300
+            },
+            {
+              "height": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851fdd772158c3af54caf44879b",
+              "width": 64
+            }
+          ],
+          "name": "Christmas Saves The Year",
+          "release_date": "2020-12-08",
+          "release_date_precision": "day",
+          "uri": "spotify:album:5bh5kgZddiyd5ObXOP9Exu",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+              },
+              "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+              "id": "3YQKmKGau1PzlVlkL1iodx",
+              "name": "Twenty One Pilots",
+              "type": "artist",
+              "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+            }
+          ],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/5bh5kgZddiyd5ObXOP9Exu"
+          },
+          "total_tracks": 1
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+            },
+            "href": "https://api.spotify.com/v1/artists/3YQKmKGau1PzlVlkL1iodx",
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "type": "artist",
+            "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "disc_number": 1,
+        "track_number": 1,
+        "duration_ms": 212405,
+        "external_ids": { "isrc": "USAT22007735" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/6ZTFZm4IEFnMSDfO6mVgMY"
+        },
+        "href": "https://api.spotify.com/v1/tracks/6ZTFZm4IEFnMSDfO6mVgMY",
+        "id": "6ZTFZm4IEFnMSDfO6mVgMY",
+        "name": "Christmas Saves The Year",
+        "popularity": 55,
+        "uri": "spotify:track:6ZTFZm4IEFnMSDfO6mVgMY",
         "is_local": false
       },
       "video_thumbnail": { "url": null }
@@ -543,7 +1007,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/77944bcb4b644b1518baa54906a5b5099ea3e7e5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -985,7 +1449,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bDIAWaOBGAAk95nyXI6zJ",
         "id": "4bDIAWaOBGAAk95nyXI6zJ",
         "name": "Routines In The Night",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:4bDIAWaOBGAAk95nyXI6zJ",
         "is_local": false
       },
@@ -1005,7 +1469,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/bbf4e823362f969955259cfa70f79ef0442ee116?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -1467,7 +1931,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/10bb2d65a9a9549e304b9ee2105855389c9bacac?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -1929,7 +2393,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/5ebfd92afd22e5131431ea27c595c51420b9dae6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -2391,7 +2855,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/59e4f8cae713bc892a0e8e0818bb6908750588f7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -2853,7 +3317,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/77944bcb4b644b1518baa54906a5b5099ea3e7e5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -3295,7 +3759,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bDIAWaOBGAAk95nyXI6zJ",
         "id": "4bDIAWaOBGAAk95nyXI6zJ",
         "name": "Routines In The Night",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:4bDIAWaOBGAAk95nyXI6zJ",
         "is_local": false
       },
@@ -3315,7 +3779,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f4e248852393a6205f0ea11489ab84a6cc245ffd?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -3777,7 +4241,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/a06819dafd8385783f61bc500d5591bdd2932565?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -4219,7 +4683,7 @@
         "href": "https://api.spotify.com/v1/tracks/4hfqe20vqkuRv1RDsA1LbQ",
         "id": "4hfqe20vqkuRv1RDsA1LbQ",
         "name": "The Craving (Jenna's version)",
-        "popularity": 62,
+        "popularity": 61,
         "uri": "spotify:track:4hfqe20vqkuRv1RDsA1LbQ",
         "is_local": false
       },
@@ -4239,7 +4703,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/2140eb0bd34e2e531973283794300eb47f4b6ae6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -4681,7 +5145,7 @@
         "href": "https://api.spotify.com/v1/tracks/49oxuPnuWOL793zpF6zgLQ",
         "id": "49oxuPnuWOL793zpF6zgLQ",
         "name": "Lavish",
-        "popularity": 64,
+        "popularity": 63,
         "uri": "spotify:track:49oxuPnuWOL793zpF6zgLQ",
         "is_local": false
       },
@@ -4701,7 +5165,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4a41de4b4ba37ecf992d0c412058304bbc127fd7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -5163,7 +5627,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e584e76a1f5eb4e504dcb8bae7b0ac43ffc1969b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -5625,7 +6089,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/0a0705774b9c9f77408b9414a2effb82f927788e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -6087,7 +6551,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/6adf0cdb47b210302c9eb87509ebfd1629aaf141?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -6549,7 +7013,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/83623f02fbbe0db2b990430e6024db6e6431b59e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -7011,7 +7475,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/1450b6e8ea0a5d0af01e132a7ab70d9016f6ae4d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -7447,7 +7911,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/31b8d72a9480d06d28846b843539b8b5e58696db?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -7887,7 +8351,7 @@
         "href": "https://api.spotify.com/v1/tracks/6i0V12jOa3mr6uu4WYhUBr",
         "id": "6i0V12jOa3mr6uu4WYhUBr",
         "name": "Heathens",
-        "popularity": 82,
+        "popularity": 80,
         "uri": "spotify:track:6i0V12jOa3mr6uu4WYhUBr",
         "is_local": false
       },
@@ -7907,7 +8371,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c8d121d39409151df43660ce5c6d4ef1aaaef160?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -8349,7 +8813,7 @@
         "href": "https://api.spotify.com/v1/tracks/1E1uGhNdBe6Dddbgs2KqtZ",
         "id": "1E1uGhNdBe6Dddbgs2KqtZ",
         "name": "Jumpsuit",
-        "popularity": 65,
+        "popularity": 64,
         "uri": "spotify:track:1E1uGhNdBe6Dddbgs2KqtZ",
         "is_local": false
       },
@@ -8369,7 +8833,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/fae9f776701b35ec46c2e614427e66480e41dcdd?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -8811,7 +9275,7 @@
         "href": "https://api.spotify.com/v1/tracks/5SehvGGC53A7SZKCLXQcyt",
         "id": "5SehvGGC53A7SZKCLXQcyt",
         "name": "Nico and the Niners",
-        "popularity": 63,
+        "popularity": 64,
         "uri": "spotify:track:5SehvGGC53A7SZKCLXQcyt",
         "is_local": false
       },
@@ -8831,7 +9295,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/8c3c869e8b06d4db65def6d73653a45b44a151ae?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -9293,7 +9757,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b19c3bd22f30cf19dd2571c58fa41c0fe0a6a18e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -9757,7 +10221,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/9a89650ebc00a2deb7ea60d770fec64ffe4a7307?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -10201,7 +10665,7 @@
         "href": "https://api.spotify.com/v1/tracks/60dwJ8dnqZ4WrIdiu7LkNR",
         "id": "60dwJ8dnqZ4WrIdiu7LkNR",
         "name": "Saturday",
-        "popularity": 60,
+        "popularity": 59,
         "uri": "spotify:track:60dwJ8dnqZ4WrIdiu7LkNR",
         "is_local": false
       },
@@ -10221,7 +10685,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d32fa96953be4425aeddccb6825f07391665cc89?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -10685,7 +11149,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d01bb6b4b9952d95d2609632474cda8e632e044d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -11101,7 +11565,7 @@
         "href": "https://api.spotify.com/v1/tracks/3CRDbSIZ4r5MsZ0YwxuEkn",
         "id": "3CRDbSIZ4r5MsZ0YwxuEkn",
         "name": "Stressed Out",
-        "popularity": 83,
+        "popularity": 82,
         "uri": "spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn",
         "is_local": false
       },
@@ -11121,7 +11585,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b571ceecaadc03941bdf4e683ea26e4e6d3f7c17?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -11557,7 +12021,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d1e5b1b4627177c6e426911e6611a71ad18ffc31?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -11993,7 +12457,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/08d5802772357860f04dfafedda7035bcc374bfa?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -12455,7 +12919,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f4cce0162bdce19a5c79d6e15d6d23f0d51cc29d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -12879,7 +13343,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/be9161008a0fb117c3b7f07f76ac1fa84ec680de?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -13283,7 +13747,7 @@
         "href": "https://api.spotify.com/v1/tracks/36tghkPg1AO4HsAzo6YpPp",
         "id": "36tghkPg1AO4HsAzo6YpPp",
         "name": "House of Gold",
-        "popularity": 68,
+        "popularity": 67,
         "uri": "spotify:track:36tghkPg1AO4HsAzo6YpPp",
         "is_local": false
       },
@@ -13303,7 +13767,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/9fcd17a2ea10dc2cf69c4232fae5afdc1df95d4c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -13739,7 +14203,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/fc1ed9e7cb0ee74a3e6e61f694d73d4efb0b4b64?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -14175,7 +14639,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/597780deb0adcecc51ba3227e38b5071c452d13c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -14637,7 +15101,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/72406a0bdb0dfa74609472196a41215f5c4f789e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -15073,7 +15537,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/97cda44f4f9c62da25557aa2699fc3299c192968?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -15517,7 +15981,7 @@
         "href": "https://api.spotify.com/v1/tracks/1OpJNP2QNZ78TnewxSVybt",
         "id": "1OpJNP2QNZ78TnewxSVybt",
         "name": "Level of Concern",
-        "popularity": 53,
+        "popularity": 52,
         "uri": "spotify:track:1OpJNP2QNZ78TnewxSVybt",
         "is_local": false
       },
@@ -15537,7 +16001,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c9d942ec3acb52d61896b48d8a43830993e78545?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -15941,7 +16405,7 @@
         "href": "https://api.spotify.com/v1/tracks/4rfaoyaZvNa60cj3OKSQV9",
         "id": "4rfaoyaZvNa60cj3OKSQV9",
         "name": "Migraine",
-        "popularity": 65,
+        "popularity": 64,
         "uri": "spotify:track:4rfaoyaZvNa60cj3OKSQV9",
         "is_local": false
       },
@@ -15961,7 +16425,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/b21bf639f0abb100207eaa0d46faa39f85151bb1?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -16385,7 +16849,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/90397864c3406ef174ed81f0c252f7bfb48c421f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -16821,7 +17285,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/a0b860bf78c32decc10716194af8c29eb8bac971?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -17257,7 +17721,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d7acf3225e35b55be6522bd289c51e8ad30cf9e6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -17673,7 +18137,7 @@
         "href": "https://api.spotify.com/v1/tracks/22OqansuvEMQu9W0EfiGTI",
         "id": "22OqansuvEMQu9W0EfiGTI",
         "name": "We Don't Believe What's on TV",
-        "popularity": 61,
+        "popularity": 60,
         "uri": "spotify:track:22OqansuvEMQu9W0EfiGTI",
         "is_local": false
       },
@@ -17693,7 +18157,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4de02294adddfc13f74c181aad5e3fdf86990ed2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -18129,7 +18593,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ddb03539505a230a452e52eb80bdcf456a104ad5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -18573,7 +19037,7 @@
         "href": "https://api.spotify.com/v1/tracks/2nG54Y4a3sH9YpfxMolOyi",
         "id": "2nG54Y4a3sH9YpfxMolOyi",
         "name": "Shy Away",
-        "popularity": 65,
+        "popularity": 64,
         "uri": "spotify:track:2nG54Y4a3sH9YpfxMolOyi",
         "is_local": false
       },
@@ -18593,7 +19057,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/6c7751d48798a5bd2d21021c86090e157ed4019c?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -19029,7 +19493,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/40b7b972f1b9f1ffd2e5487e7d22a0560de69962?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -19433,7 +19897,7 @@
         "href": "https://api.spotify.com/v1/tracks/4RdRa3qq0GBSKjomxrkh5K",
         "id": "4RdRa3qq0GBSKjomxrkh5K",
         "name": "Guns for Hands",
-        "popularity": 63,
+        "popularity": 62,
         "uri": "spotify:track:4RdRa3qq0GBSKjomxrkh5K",
         "is_local": false
       },
@@ -19453,7 +19917,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d3331998614279ee6cd18d55de2714d4b5d44be4?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -19869,7 +20333,7 @@
         "href": "https://api.spotify.com/v1/tracks/5P3yUXUC9rZPJPNmYGKEAz",
         "id": "5P3yUXUC9rZPJPNmYGKEAz",
         "name": "Goner",
-        "popularity": 58,
+        "popularity": 57,
         "uri": "spotify:track:5P3yUXUC9rZPJPNmYGKEAz",
         "is_local": false
       },
@@ -19889,7 +20353,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/ea92f9fd0fe93489fdce9dc66dd79648f3064308?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -20351,7 +20815,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/68417ba8b60eca10914b5e91eb95775784c250ba?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -20775,7 +21239,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/cc4fe53eb7a16495cec086ad68826db57635c4e8?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -21199,7 +21663,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/66acd6d13c22a46a67f7d02f0407e076e177238b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -21615,7 +22079,7 @@
         "href": "https://api.spotify.com/v1/tracks/7qxjGHW485TL8ciwkHD5MK",
         "id": "7qxjGHW485TL8ciwkHD5MK",
         "name": "Not Today",
-        "popularity": 58,
+        "popularity": 57,
         "uri": "spotify:track:7qxjGHW485TL8ciwkHD5MK",
         "is_local": false
       },
@@ -21635,7 +22099,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/8d34398bf7e41c9cee34b329235d52fd476d5356?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -22097,7 +22561,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/bf71731fdaf80d5e25e30ed3f4402e504d4c9a13?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -22521,7 +22985,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/23d6eabe302f9a98770b15b1d455970c1efd6ba3?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -22963,7 +23427,7 @@
         "href": "https://api.spotify.com/v1/tracks/01vv2AjxgP4uUyb8waYO5Y",
         "id": "01vv2AjxgP4uUyb8waYO5Y",
         "name": "Morph",
-        "popularity": 62,
+        "popularity": 61,
         "uri": "spotify:track:01vv2AjxgP4uUyb8waYO5Y",
         "is_local": false
       },
@@ -22983,7 +23447,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/dff8d26a85903a6a58d4ed8efd056e41bb4b6beb?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -23447,7 +23911,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/5f3408faa5b7979b87755ad26d6dd3a5f7580f92?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -23871,7 +24335,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e4ff568cf1143ecb085faa07da54039cdd54a7e2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -24333,7 +24797,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/1db7da8b00b01eb2baf31cc0f8e2911724f86e06?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -24757,7 +25221,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/da5d1fd253e31e67957e4bd9dda1eccf7c02e8cd?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -25181,7 +25645,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c0bc64123e29016930e659ae291f4939a54ac09d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -25585,7 +26049,7 @@
         "href": "https://api.spotify.com/v1/tracks/70Cp0ukCMyWeJML77NGERU",
         "id": "70Cp0ukCMyWeJML77NGERU",
         "name": "Semi-Automatic",
-        "popularity": 58,
+        "popularity": 57,
         "uri": "spotify:track:70Cp0ukCMyWeJML77NGERU",
         "is_local": false
       },
@@ -25605,7 +26069,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/506a946f45800337f56bbef9fe96767df82f6441?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -26049,7 +26513,7 @@
         "href": "https://api.spotify.com/v1/tracks/19kX6hSlYH31js2SL4jgrj",
         "id": "19kX6hSlYH31js2SL4jgrj",
         "name": "Mulberry Street",
-        "popularity": 62,
+        "popularity": 61,
         "uri": "spotify:track:19kX6hSlYH31js2SL4jgrj",
         "is_local": false
       },
@@ -26069,7 +26533,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/1f376022f53ea5a8f278fb96854aee472227a4e7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -26531,7 +26995,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/41f4810188cf6777ac5d566daf8e6139897cb9c3?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -26995,7 +27459,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/68df65de0b20cf9b360982b1573c6a24881069b2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -27459,7 +27923,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/722a1ba0df49bc94839cd87b14e986dbebf61c60?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -27921,7 +28385,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/6dffa9ecaf5ef48dcd800b1ad5db33b2eb41fa3d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -28385,7 +28849,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d791810219f14e2bea71f7f4ce69bac843cd31f2?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -28847,7 +29311,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/4689e27bd6b48a0f441357dbbfc63be675ca2807?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -29309,7 +29773,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/14d459d262825062bb3c76f3fd56f2211a56a849?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -29773,7 +30237,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/e78dc32deb0330eac31c46af7474ef7cb1201a68?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -30237,7 +30701,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/dd7dee9f274dcfeb0d067962d2f08f71dfa53977?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -30679,7 +31143,7 @@
         "href": "https://api.spotify.com/v1/tracks/0S7lkKStHgfgjgwSFOvRNA",
         "id": "0S7lkKStHgfgjgwSFOvRNA",
         "name": "The Craving - single version",
-        "popularity": 62,
+        "popularity": 61,
         "uri": "spotify:track:0S7lkKStHgfgjgwSFOvRNA",
         "is_local": false
       },

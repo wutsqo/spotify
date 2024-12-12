@@ -10,7 +10,7 @@
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
       "width": null
     }
   ],
@@ -45,7 +45,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/392943fec90313dec65b40afa326c3c822984b1d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -489,7 +489,7 @@
         "href": "https://api.spotify.com/v1/tracks/6u0x5ad9ewHvs3z6u9Oe3c",
         "id": "6u0x5ad9ewHvs3z6u9Oe3c",
         "name": "Under Cover of Darkness",
-        "popularity": 64,
+        "popularity": 63,
         "uri": "spotify:track:6u0x5ad9ewHvs3z6u9Oe3c",
         "is_local": false
       },
@@ -509,7 +509,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/455acaee128458b8ff84add5136c250d26f7a8b3?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -973,7 +973,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/d5d94d4681580d3508cc5180e151375773997924?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -1435,7 +1435,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/057cec6add1baa6b27cdf62930e8c40341bbda55?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -1877,7 +1877,7 @@
         "href": "https://api.spotify.com/v1/tracks/1Ame8XTX6QHY0l0ahqUhgv",
         "id": "1Ame8XTX6QHY0l0ahqUhgv",
         "name": "THE LONELIEST",
-        "popularity": 68,
+        "popularity": 67,
         "uri": "spotify:track:1Ame8XTX6QHY0l0ahqUhgv",
         "is_local": false
       },

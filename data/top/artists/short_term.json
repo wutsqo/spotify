@@ -1,11 +1,11 @@
 {
-  "total": 2,
+  "total": 1,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
-      "followers": { "href": null, "total": 17897638 },
+      "followers": { "href": null, "total": 18331119 },
       "genres": ["hip hop", "rap"],
       "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
       "id": "4V8LLVI7PbaPR0K2TGSxFF",
@@ -27,39 +27,9 @@
         }
       ],
       "name": "Tyler, The Creator",
-      "popularity": 95,
+      "popularity": 94,
       "type": "artist",
       "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-      },
-      "followers": { "href": null, "total": 8083868 },
-      "genres": ["irish singer-songwriter", "modern rock", "pop", "pov: indie"],
-      "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
-      "id": "2FXC3k01G6Gw61bmprjgqS",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebad85a585103dfc2f3439119a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ad85a585103dfc2f3439119a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ad85a585103dfc2f3439119a",
-          "width": 160
-        }
-      ],
-      "name": "Hozier",
-      "popularity": 86,
-      "type": "artist",
-      "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
     }
   ]
 }

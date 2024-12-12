@@ -10,7 +10,7 @@
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84eeb4200b057be0480bab1b50",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84eeb4200b057be0480bab1b50",
       "width": null
     }
   ],
@@ -45,7 +45,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/fe8b490dfeeced7522c1250404e0fcf6e7fe22d8?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -489,7 +489,7 @@
         "href": "https://api.spotify.com/v1/tracks/2ynCjjrmED5CfiVn2ZLkUk",
         "id": "2ynCjjrmED5CfiVn2ZLkUk",
         "name": "Obstacles",
-        "popularity": 59,
+        "popularity": 58,
         "uri": "spotify:track:2ynCjjrmED5CfiVn2ZLkUk",
         "is_local": false
       },
@@ -509,7 +509,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/842fee4bf11dec72b484821b28121b6a3736c6b6?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -911,7 +911,7 @@
             }
           ],
           "name": "The Black Parade",
-          "release_date": "2006-10-23",
+          "release_date": "2006-10-20",
           "release_date_precision": "day",
           "uri": "spotify:album:0FZK97MXMm5mUQ8mtudjuK",
           "artists": [
@@ -973,7 +973,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/bbd1daab80884b415d75eba5f69fc239ecd93544?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -1417,7 +1417,7 @@
         "href": "https://api.spotify.com/v1/tracks/5v8aEcHcaJIGYpfVVPtJjI",
         "id": "5v8aEcHcaJIGYpfVVPtJjI",
         "name": "Wires",
-        "popularity": 61,
+        "popularity": 60,
         "uri": "spotify:track:5v8aEcHcaJIGYpfVVPtJjI",
         "is_local": false
       },
@@ -1437,7 +1437,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/298491212efc80b3f2e9c840c34820dee3d28b5f?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -1881,7 +1881,7 @@
         "href": "https://api.spotify.com/v1/tracks/1RgiH5ucgoEWDKmGyA5drQ",
         "id": "1RgiH5ucgoEWDKmGyA5drQ",
         "name": "Neptune",
-        "popularity": 49,
+        "popularity": 48,
         "uri": "spotify:track:1RgiH5ucgoEWDKmGyA5drQ",
         "is_local": false
       },
@@ -1901,7 +1901,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/81d6e4b6c32ab555c2f6b4bf25dd847165ad6d2b?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -2365,7 +2365,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/969161ef645e3e89a4ee8a0274013dae480a9e2d?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -2809,7 +2809,7 @@
         "href": "https://api.spotify.com/v1/tracks/10nyNJ6zNy2YVYLrcwLccB",
         "id": "10nyNJ6zNy2YVYLrcwLccB",
         "name": "No Surprises",
-        "popularity": 82,
+        "popularity": 81,
         "uri": "spotify:track:10nyNJ6zNy2YVYLrcwLccB",
         "is_local": false
       },
@@ -2829,7 +2829,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/dba0fa3277022e86425634bf66d6a89996943be9?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [],
         "explicit": false,
         "type": "track",
@@ -2901,7 +2901,7 @@
         "href": "https://api.spotify.com/v1/tracks/0I1eFRytp4XRhLCjT6tZm7",
         "id": "0I1eFRytp4XRhLCjT6tZm7",
         "name": "I Can't Handle Change",
-        "popularity": 18,
+        "popularity": 17,
         "uri": "spotify:track:0I1eFRytp4XRhLCjT6tZm7",
         "is_local": false
       },
@@ -2921,7 +2921,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/5501d8c33de66e4f9160d29237543bc02082fe6e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -3383,7 +3383,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/77807176cab7c02916d105d63954cc7b0c63458a?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -3825,7 +3825,7 @@
         "href": "https://api.spotify.com/v1/tracks/0xtIp0lgccN85GfGOekS5L",
         "id": "0xtIp0lgccN85GfGOekS5L",
         "name": "Yes I'm Changing",
-        "popularity": 67,
+        "popularity": 66,
         "uri": "spotify:track:0xtIp0lgccN85GfGOekS5L",
         "is_local": false
       },
@@ -3845,7 +3845,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/c996bfd388171f9a01c59f04b120551eb5fe76b5?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -4287,7 +4287,7 @@
         "href": "https://api.spotify.com/v1/tracks/605E2oDpy3uSIhbRFcrQyn",
         "id": "605E2oDpy3uSIhbRFcrQyn",
         "name": "Despair In The Departure Lounge",
-        "popularity": 52,
+        "popularity": 51,
         "uri": "spotify:track:605E2oDpy3uSIhbRFcrQyn",
         "is_local": false
       },
@@ -4307,7 +4307,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/f58e2c818f6e1635c0cc1d356bee14f8ca65ea52?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -4751,7 +4751,7 @@
         "href": "https://api.spotify.com/v1/tracks/17UFcCbyeKD64yaDMDr09I",
         "id": "17UFcCbyeKD64yaDMDr09I",
         "name": "Overpass Graffiti - Acoustic",
-        "popularity": 12,
+        "popularity": 13,
         "uri": "spotify:track:17UFcCbyeKD64yaDMDr09I",
         "is_local": false
       },
@@ -4771,7 +4771,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/8cae6a028eeb1f196c59746e1b67f2b3c0dc41ae?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -5229,7 +5229,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/5c6f77f32a2917a103d6deba176930f2c335abd7?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [],
         "explicit": true,
         "type": "track",
@@ -5321,7 +5321,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/057cec6add1baa6b27cdf62930e8c40341bbda55?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -5763,7 +5763,7 @@
         "href": "https://api.spotify.com/v1/tracks/1Ame8XTX6QHY0l0ahqUhgv",
         "id": "1Ame8XTX6QHY0l0ahqUhgv",
         "name": "THE LONELIEST",
-        "popularity": 68,
+        "popularity": 67,
         "uri": "spotify:track:1Ame8XTX6QHY0l0ahqUhgv",
         "is_local": false
       },
@@ -5783,7 +5783,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/3ee9bf807973f08aeb2e2b7578e0e4b8e58e513e?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -6247,7 +6247,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/af5d995076659adcbeb64997c5aa51611b833bfb?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [],
         "explicit": false,
         "type": "track",
@@ -6339,7 +6339,7 @@
       "is_local": false,
       "primary_color": null,
       "track": {
-        "preview_url": "https://p.scdn.co/mp3-preview/80f19ecfdcd1d3bbe1a41c0f11e7acccb36335eb?cid=1a2f7e0ab25046f9bc15e34bc6f6c396",
+        "preview_url": null,
         "available_markets": [
           "AR",
           "AU",
@@ -6783,7 +6783,7 @@
         "href": "https://api.spotify.com/v1/tracks/2u0CelO5c81XS7z3dGpHbS",
         "id": "2u0CelO5c81XS7z3dGpHbS",
         "name": "The Beach",
-        "popularity": 72,
+        "popularity": 71,
         "uri": "spotify:track:2u0CelO5c81XS7z3dGpHbS",
         "is_local": false
       },
