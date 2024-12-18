@@ -581,7 +581,7 @@
         "href": "https://api.spotify.com/v1/tracks/64lsIF5pw0sJY0gV5kz0RN",
         "id": "64lsIF5pw0sJY0gV5kz0RN",
         "name": "Can I Call You Tonight?",
-        "popularity": 8,
+        "popularity": 9,
         "uri": "spotify:track:64lsIF5pw0sJY0gV5kz0RN",
         "is_local": false
       },
@@ -2120,7 +2120,7 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
+        "explicit": true,
         "type": "track",
         "episode": false,
         "track": true,
@@ -2835,7 +2835,7 @@
         "href": "https://api.spotify.com/v1/tracks/37mfTcSlX60JtAvAETytGs",
         "id": "37mfTcSlX60JtAvAETytGs",
         "name": "Choke",
-        "popularity": 64,
+        "popularity": 65,
         "uri": "spotify:track:37mfTcSlX60JtAvAETytGs",
         "is_local": false
       },
@@ -4201,7 +4201,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Bge1Dsqjc14hhGguYML5w",
         "id": "5Bge1Dsqjc14hhGguYML5w",
         "name": "Why Do You Feel So Down",
-        "popularity": 56,
+        "popularity": 57,
         "uri": "spotify:track:5Bge1Dsqjc14hhGguYML5w",
         "is_local": false
       },
@@ -5543,7 +5543,7 @@
         "href": "https://api.spotify.com/v1/tracks/1C5utO1I8FoSIn6g1R5DAZ",
         "id": "1C5utO1I8FoSIn6g1R5DAZ",
         "name": "If You’re Too Shy (Let Me Know)",
-        "popularity": 59,
+        "popularity": 60,
         "uri": "spotify:track:1C5utO1I8FoSIn6g1R5DAZ",
         "is_local": false
       },
@@ -7889,7 +7889,7 @@
         "href": "https://api.spotify.com/v1/tracks/1OqbX2MZ6ZzWP7HjMHbdkp",
         "id": "1OqbX2MZ6ZzWP7HjMHbdkp",
         "name": "Pink Lemonade",
-        "popularity": 47,
+        "popularity": 48,
         "uri": "spotify:track:1OqbX2MZ6ZzWP7HjMHbdkp",
         "is_local": false
       },
@@ -9279,7 +9279,7 @@
         "href": "https://api.spotify.com/v1/tracks/2LQZ32XuFlkcoEUDSG6BMT",
         "id": "2LQZ32XuFlkcoEUDSG6BMT",
         "name": "Untuk Apa / Untuk Apa?",
-        "popularity": 61,
+        "popularity": 62,
         "uri": "spotify:track:2LQZ32XuFlkcoEUDSG6BMT",
         "is_local": false
       },
@@ -10641,7 +10641,7 @@
         "href": "https://api.spotify.com/v1/tracks/3mRWkQTwau3cl5u2WYE2pt",
         "id": "3mRWkQTwau3cl5u2WYE2pt",
         "name": "I Think There's Something You Should Know",
-        "popularity": 43,
+        "popularity": 44,
         "uri": "spotify:track:3mRWkQTwau3cl5u2WYE2pt",
         "is_local": false
       },
@@ -16681,7 +16681,7 @@
         "href": "https://api.spotify.com/v1/tracks/26Q4kMmxAFBB7DvFByL40t",
         "id": "26Q4kMmxAFBB7DvFByL40t",
         "name": "Gugatan Rakyat Semesta",
-        "popularity": 31,
+        "popularity": 32,
         "uri": "spotify:track:26Q4kMmxAFBB7DvFByL40t",
         "is_local": false
       },
@@ -18971,7 +18971,7 @@
         "href": "https://api.spotify.com/v1/tracks/2rgtCOVK2tpfao2VjURn84",
         "id": "2rgtCOVK2tpfao2VjURn84",
         "name": "Lovers on the Sun (feat. Sam Martin)",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:2rgtCOVK2tpfao2VjURn84",
         "is_local": false
       },
@@ -22739,7 +22739,7 @@
         "href": "https://api.spotify.com/v1/tracks/3APayTEWiUl9Ssep4BOXR2",
         "id": "3APayTEWiUl9Ssep4BOXR2",
         "name": "Torn",
-        "popularity": 61,
+        "popularity": 62,
         "uri": "spotify:track:3APayTEWiUl9Ssep4BOXR2",
         "is_local": false
       },
@@ -31003,7 +31003,7 @@
         "href": "https://api.spotify.com/v1/tracks/6qZoQsBTQW2tix6KViDC7F",
         "id": "6qZoQsBTQW2tix6KViDC7F",
         "name": "Don't Look Back in Anger",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:6qZoQsBTQW2tix6KViDC7F",
         "is_local": false
       },
@@ -32943,7 +32943,7 @@
         "href": "https://api.spotify.com/v1/tracks/1FreAz1lmnDi5aKLB6GdFM",
         "id": "1FreAz1lmnDi5aKLB6GdFM",
         "name": "Where Is The Love?",
-        "popularity": 13,
+        "popularity": 14,
         "uri": "spotify:track:1FreAz1lmnDi5aKLB6GdFM",
         "is_local": false
       },
