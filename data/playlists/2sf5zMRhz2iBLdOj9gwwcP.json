@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/2sf5zMRhz2iBLdOj9gwwcP"
   },
-  "followers": { "href": null, "total": 2575 },
+  "followers": { "href": null, "total": 2574 },
   "href": "https://api.spotify.com/v1/playlists/2sf5zMRhz2iBLdOj9gwwcP?locale=*",
   "id": "2sf5zMRhz2iBLdOj9gwwcP",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
       "width": null
     }
   ],
@@ -1039,7 +1039,7 @@
         "href": "https://api.spotify.com/v1/tracks/0S6CXA5LpRDX6b4akgrOot",
         "id": "0S6CXA5LpRDX6b4akgrOot",
         "name": "Love is a Laserquest",
-        "popularity": 58,
+        "popularity": 59,
         "uri": "spotify:track:0S6CXA5LpRDX6b4akgrOot",
         "is_local": false
       },
@@ -6657,7 +6657,7 @@
         "href": "https://api.spotify.com/v1/tracks/4wMR4fRKMTyUJG6VAsmccv",
         "id": "4wMR4fRKMTyUJG6VAsmccv",
         "name": "Riot Van",
-        "popularity": 57,
+        "popularity": 58,
         "uri": "spotify:track:4wMR4fRKMTyUJG6VAsmccv",
         "is_local": false
       },
