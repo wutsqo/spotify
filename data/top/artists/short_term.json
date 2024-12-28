@@ -5,7 +5,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
       },
-      "followers": { "href": null, "total": 9256553 },
+      "followers": { "href": null, "total": 9260514 },
       "genres": ["emo", "modern rock", "pop punk", "pov: indie", "rock"],
       "href": "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
       "id": "7FBcuc1gsnv6Y1nwFtNRCb",
@@ -33,44 +33,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-      },
-      "followers": { "href": null, "total": 52405330 },
-      "genres": ["classic rock", "glam rock", "rock"],
-      "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
-      "id": "1dfeR4HaWDbWqFHLkxsg1d",
-      "images": [
-        {
-          "height": 806,
-          "url": "https://i.scdn.co/image/b040846ceba13c3e9c125d68389491094e7f2982",
-          "width": 999
-        },
-        {
-          "height": 516,
-          "url": "https://i.scdn.co/image/af2b8e57f6d7b5d43a616bd1e27ba552cd8bfd42",
-          "width": 640
-        },
-        {
-          "height": 161,
-          "url": "https://i.scdn.co/image/c06971e9ff81696699b829484e3be165f4e64368",
-          "width": 200
-        },
-        {
-          "height": 52,
-          "url": "https://i.scdn.co/image/6dd0ffd270903d1884edf9058c49f58b03db893d",
-          "width": 64
-        }
-      ],
-      "name": "Queen",
-      "popularity": 87,
-      "type": "artist",
-      "uri": "spotify:artist:1dfeR4HaWDbWqFHLkxsg1d"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 6332681 },
+      "followers": { "href": null, "total": 6334077 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -95,6 +60,36 @@
       "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+      },
+      "followers": { "href": null, "total": 35680952 },
+      "genres": ["conscious hip hop", "hip hop", "rap", "west coast rap"],
+      "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
+      "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517439ba6dcd4355c03de0b50918",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17839ba6dcd4355c03de0b50918",
+          "width": 160
+        }
+      ],
+      "name": "Kendrick Lamar",
+      "popularity": 97,
+      "type": "artist",
+      "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     }
   ]
 }
