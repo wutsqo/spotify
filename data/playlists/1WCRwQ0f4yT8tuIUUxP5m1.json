@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 404546 },
+  "followers": { "href": null, "total": 404619 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
       "width": null
     }
   ],
@@ -8351,7 +8351,7 @@
         "href": "https://api.spotify.com/v1/tracks/6i0V12jOa3mr6uu4WYhUBr",
         "id": "6i0V12jOa3mr6uu4WYhUBr",
         "name": "Heathens",
-        "popularity": 80,
+        "popularity": 79,
         "uri": "spotify:track:6i0V12jOa3mr6uu4WYhUBr",
         "is_local": false
       },
@@ -27159,7 +27159,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FvV3j98xtcylQF1drDc9j",
         "id": "3FvV3j98xtcylQF1drDc9j",
         "name": "Oh Ms Believer",
-        "popularity": 54,
+        "popularity": 53,
         "uri": "spotify:track:3FvV3j98xtcylQF1drDc9j",
         "is_local": false
       },
@@ -29101,7 +29101,7 @@
         "href": "https://api.spotify.com/v1/tracks/2hUFjIbpKaRqs97OjUAmXb",
         "id": "2hUFjIbpKaRqs97OjUAmXb",
         "name": "Johnny Boy",
-        "popularity": 52,
+        "popularity": 51,
         "uri": "spotify:track:2hUFjIbpKaRqs97OjUAmXb",
         "is_local": false
       },
