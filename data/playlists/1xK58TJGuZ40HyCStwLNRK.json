@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 4786 },
+  "followers": { "href": null, "total": 4793 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -3077,7 +3077,7 @@
         "href": "https://api.spotify.com/v1/tracks/6EThJr4Dq1Y93JspecGU2F",
         "id": "6EThJr4Dq1Y93JspecGU2F",
         "name": "Cigarette Daydreams",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:6EThJr4Dq1Y93JspecGU2F",
         "is_local": false
       },
@@ -31557,7 +31557,7 @@
         "href": "https://api.spotify.com/v1/tracks/1BYZxKSf0aTxp8ZFoeyM3d",
         "id": "1BYZxKSf0aTxp8ZFoeyM3d",
         "name": "we fell in love in october",
-        "popularity": 4,
+        "popularity": 5,
         "uri": "spotify:track:1BYZxKSf0aTxp8ZFoeyM3d",
         "is_local": false
       },
@@ -36829,7 +36829,7 @@
         "href": "https://api.spotify.com/v1/tracks/6pxElwU80zhjbCC77Vn8EI",
         "id": "6pxElwU80zhjbCC77Vn8EI",
         "name": "Movie",
-        "popularity": 2,
+        "popularity": 1,
         "uri": "spotify:track:6pxElwU80zhjbCC77Vn8EI",
         "is_local": false
       },
@@ -50605,7 +50605,7 @@
         "href": "https://api.spotify.com/v1/tracks/6PypGyiu0Y2lCDBN1XZEnP",
         "id": "6PypGyiu0Y2lCDBN1XZEnP",
         "name": "Everybody Hurts",
-        "popularity": 73,
+        "popularity": 72,
         "uri": "spotify:track:6PypGyiu0Y2lCDBN1XZEnP",
         "is_local": false
       },
@@ -93397,7 +93397,7 @@
         "href": "https://api.spotify.com/v1/tracks/3siwsiaEoU4Kuuc9WKMUy5",
         "id": "3siwsiaEoU4Kuuc9WKMUy5",
         "name": "No One Noticed",
-        "popularity": 85,
+        "popularity": 86,
         "uri": "spotify:track:3siwsiaEoU4Kuuc9WKMUy5",
         "is_local": false
       },
