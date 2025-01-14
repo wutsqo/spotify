@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 406314 },
+  "followers": { "href": null, "total": 406450 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
       "width": null
     }
   ],
@@ -523,7 +523,7 @@
         "href": "https://api.spotify.com/v1/tracks/3qrTll9OQ9wcejTxPFY0qg",
         "id": "3qrTll9OQ9wcejTxPFY0qg",
         "name": "The Line (from the series Arcane League of Legends)",
-        "popularity": 78,
+        "popularity": 77,
         "uri": "spotify:track:3qrTll9OQ9wcejTxPFY0qg",
         "is_local": false
       },
@@ -13283,7 +13283,7 @@
         "href": "https://api.spotify.com/v1/tracks/36tghkPg1AO4HsAzo6YpPp",
         "id": "36tghkPg1AO4HsAzo6YpPp",
         "name": "House of Gold",
-        "popularity": 67,
+        "popularity": 66,
         "uri": "spotify:track:36tghkPg1AO4HsAzo6YpPp",
         "is_local": false
       },
@@ -27621,7 +27621,7 @@
         "href": "https://api.spotify.com/v1/tracks/2XPmTamsj7d9i3gzLCL4JI",
         "id": "2XPmTamsj7d9i3gzLCL4JI",
         "name": "Redecorate",
-        "popularity": 60,
+        "popularity": 59,
         "uri": "spotify:track:2XPmTamsj7d9i3gzLCL4JI",
         "is_local": false
       },
@@ -28729,7 +28729,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bk6v5SBxNoVsbOvdOvUAJ",
         "id": "4bk6v5SBxNoVsbOvdOvUAJ",
         "name": "Addict With A Pen",
-        "popularity": 48,
+        "popularity": 47,
         "uri": "spotify:track:4bk6v5SBxNoVsbOvdOvUAJ",
         "is_local": false
       },

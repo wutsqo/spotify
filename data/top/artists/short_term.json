@@ -5,8 +5,8 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
       },
-      "followers": { "href": null, "total": 9320406 },
-      "genres": ["emo", "modern rock", "pop punk", "pov: indie", "rock"],
+      "followers": { "href": null, "total": 9324197 },
+      "genres": ["emo", "pop punk"],
       "href": "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
       "id": "7FBcuc1gsnv6Y1nwFtNRCb",
       "images": [
@@ -27,7 +27,7 @@
         }
       ],
       "name": "My Chemical Romance",
-      "popularity": 81,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb"
     },
@@ -35,8 +35,8 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
-      "followers": { "href": null, "total": 17262084 },
-      "genres": ["lgbtq+ hip hop", "neo soul"],
+      "followers": { "href": null, "total": 17277500 },
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
       "id": "2h93pZq0e7k5yf4dywlkpM",
       "images": [
@@ -65,8 +65,8 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
-      "followers": { "href": null, "total": 36133251 },
-      "genres": ["conscious hip hop", "hip hop", "rap", "west coast rap"],
+      "followers": { "href": null, "total": 36160368 },
+      "genres": ["hip hop", "west coast hip hop"],
       "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
       "id": "2YZyLoL8N0Wb9xBt1NhZWg",
       "images": [
@@ -87,7 +87,7 @@
         }
       ],
       "name": "Kendrick Lamar",
-      "popularity": 97,
+      "popularity": 96,
       "type": "artist",
       "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     }
