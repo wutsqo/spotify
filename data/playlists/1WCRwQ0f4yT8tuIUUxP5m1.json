@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 406450 },
+  "followers": { "href": null, "total": 406589 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
       "width": null
     }
   ],
@@ -1447,7 +1447,7 @@
         "href": "https://api.spotify.com/v1/tracks/1LAlLBTGBUO0MDA8IbSysd",
         "id": "1LAlLBTGBUO0MDA8IbSysd",
         "name": "Overcompensate",
-        "popularity": 68,
+        "popularity": 67,
         "uri": "spotify:track:1LAlLBTGBUO0MDA8IbSysd",
         "is_local": false
       },
@@ -9273,7 +9273,7 @@
         "href": "https://api.spotify.com/v1/tracks/2uBhGx3m5iJrtsql8Qk00j",
         "id": "2uBhGx3m5iJrtsql8Qk00j",
         "name": "Levitate",
-        "popularity": 59,
+        "popularity": 58,
         "uri": "spotify:track:2uBhGx3m5iJrtsql8Qk00j",
         "is_local": false
       },
@@ -28637,7 +28637,7 @@
         "href": "https://api.spotify.com/v1/tracks/2hUFjIbpKaRqs97OjUAmXb",
         "id": "2hUFjIbpKaRqs97OjUAmXb",
         "name": "Johnny Boy",
-        "popularity": 46,
+        "popularity": 45,
         "uri": "spotify:track:2hUFjIbpKaRqs97OjUAmXb",
         "is_local": false
       },
