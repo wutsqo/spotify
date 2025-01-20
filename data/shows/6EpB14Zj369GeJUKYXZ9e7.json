@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 28,
+  "total_episodes": 29,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0A2bxIgBVfLWg1PgFGYitw/clip_124000_185920.mp3",
+      "description": "How does order spontaneously arise out of chaos?  ",
+      "duration_ms": 1181353,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/05pKvE2Qsz99lZaJRAPVMY"
+      },
+      "href": "https://api.spotify.com/v1/episodes/05pKvE2Qsz99lZaJRAPVMY",
+      "html_description": "<p>How does order spontaneously arise out of chaos?<br/></p>",
+      "id": "05pKvE2Qsz99lZaJRAPVMY",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Surprising Secret of Synchronization",
+      "release_date": "2025-01-19",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:05pKvE2Qsz99lZaJRAPVMY"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5M2NS9w7Pj3LPIZASfWFPJ/clip_385277_445277.mp3",
       "description": "Fritz Haber is the scientist who arguably most transformed the world.   ",
