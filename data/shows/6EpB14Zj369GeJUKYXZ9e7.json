@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 29,
+  "total_episodes": 30,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4g1OD1w0fjgGvv1ixieL6I/clip_96000_156560.mp3",
+      "description": "Democracy might be mathematically impossible – here’s why.  ",
+      "duration_ms": 1325461,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2VBSgQ1opiMuSy89C9V57J"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2VBSgQ1opiMuSy89C9V57J",
+      "html_description": "<p>Democracy might be mathematically impossible – here’s why.<br/></p>",
+      "id": "2VBSgQ1opiMuSy89C9V57J",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Why Democracy Is Mathematically Impossible",
+      "release_date": "2025-01-20",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2VBSgQ1opiMuSy89C9V57J"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0A2bxIgBVfLWg1PgFGYitw/clip_124000_185920.mp3",
       "description": "How does order spontaneously arise out of chaos?  ",
@@ -481,7 +519,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "We Might Find Alien Life In 2253 Days",
+      "name": "We Might Find Alien Life In 2250 Days",
       "release_date": "2025-01-03",
       "release_date_precision": "day",
       "type": "episode",
