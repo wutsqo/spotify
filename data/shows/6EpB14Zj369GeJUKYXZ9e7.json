@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 30,
+  "total_episodes": 31,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2UDaJSfUL2sJjtvs67TfCO/clip_48000_101000.mp3",
+      "description": "What happens when you shrink robots down to the size of insects? Let’s explore the mind-bending physics behind their superpowers!  ",
+      "duration_ms": 1165802,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2z1ZuaRfwDV4EU4E4c0bEP"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2z1ZuaRfwDV4EU4E4c0bEP",
+      "html_description": "<p>What happens when you shrink robots down to the size of insects? Let’s explore the mind-bending physics behind their superpowers!<br/></p>",
+      "id": "2z1ZuaRfwDV4EU4E4c0bEP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a2a0b79071f239cc9febd3cbe",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f2a0b79071f239cc9febd3cbe",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d2a0b79071f239cc9febd3cbe",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Why Are Scientists Making Robot Insects?",
+      "release_date": "2025-01-22",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2z1ZuaRfwDV4EU4E4c0bEP"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4g1OD1w0fjgGvv1ixieL6I/clip_96000_156560.mp3",
       "description": "Democracy might be mathematically impossible – here’s why.  ",
@@ -519,7 +557,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "We Might Find Alien Life In 2249 Days",
+      "name": "We Might Find Alien Life In 2248 Days",
       "release_date": "2025-01-03",
       "release_date_precision": "day",
       "type": "episode",

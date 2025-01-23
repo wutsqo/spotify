@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 4861 },
+  "followers": { "href": null, "total": 4865 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -10097,7 +10097,7 @@
         "href": "https://api.spotify.com/v1/tracks/5HKv1sFHbXgmXBih203HxT",
         "id": "5HKv1sFHbXgmXBih203HxT",
         "name": "I Don't Wanna Be Okay Without You",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:5HKv1sFHbXgmXBih203HxT",
         "is_local": false
       },
@@ -27035,7 +27035,7 @@
         "href": "https://api.spotify.com/v1/tracks/7MBSbBrx0TvBYyKEcpGcJb",
         "id": "7MBSbBrx0TvBYyKEcpGcJb",
         "name": "Sweet Marie",
-        "popularity": 29,
+        "popularity": 28,
         "uri": "spotify:track:7MBSbBrx0TvBYyKEcpGcJb",
         "is_local": false
       },
@@ -73291,7 +73291,7 @@
         "href": "https://api.spotify.com/v1/tracks/3qhlB30KknSejmIvZZLjOD",
         "id": "3qhlB30KknSejmIvZZLjOD",
         "name": "End of Beginning",
-        "popularity": 89,
+        "popularity": 88,
         "uri": "spotify:track:3qhlB30KknSejmIvZZLjOD",
         "is_local": false
       },
@@ -83693,7 +83693,7 @@
         "href": "https://api.spotify.com/v1/tracks/4fPBB44eDH71YohayI4eKV",
         "id": "4fPBB44eDH71YohayI4eKV",
         "name": "You Only Live Once",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:4fPBB44eDH71YohayI4eKV",
         "is_local": false
       },
