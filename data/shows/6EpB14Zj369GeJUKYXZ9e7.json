@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 31,
+  "total_episodes": 32,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4SCDzkAhWQDCnACXPQWAmE/clip_0_62120.mp3",
+      "description": "Not everything that is true can be proven. This discovery transformed infinity, changed the course of a world war and led to the modern computer.  ",
+      "duration_ms": 1978643,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7IwUX5VPBZQkG4mQnBnwbI"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7IwUX5VPBZQkG4mQnBnwbI",
+      "html_description": "<p>Not everything that is true can be proven. This discovery transformed infinity, changed the course of a world war and led to the modern computer.<br/></p>",
+      "id": "7IwUX5VPBZQkG4mQnBnwbI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Math's Fundamental Flaw",
+      "release_date": "2025-01-24",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:7IwUX5VPBZQkG4mQnBnwbI"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2UDaJSfUL2sJjtvs67TfCO/clip_48000_101000.mp3",
       "description": "What happens when you shrink robots down to the size of insects? Let’s explore the mind-bending physics behind their superpowers!  ",
@@ -557,7 +595,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "We Might Find Alien Life In 2247 Days",
+      "name": "We Might Find Alien Life In 2246 Days",
       "release_date": "2025-01-03",
       "release_date_precision": "day",
       "type": "episode",
