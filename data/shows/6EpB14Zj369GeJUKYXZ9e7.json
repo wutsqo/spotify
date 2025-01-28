@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 32,
+  "total_episodes": 33,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/41twzH16NpTNWxK7fp5k3V/clip_0_61360.mp3",
+      "description": "What would happen if you dropped a penny from a skyscraper? We tested it.  A massive thanks to Adam Savage and the whole Tested Crew – especially Kristen Lomasney, Ryan Kiser, and Joey Fameli.   ",
+      "duration_ms": 1299008,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/7b6IQVdSeSPwB8fwNYp1oD"
+      },
+      "href": "https://api.spotify.com/v1/episodes/7b6IQVdSeSPwB8fwNYp1oD",
+      "html_description": "<p>What would happen if you dropped a penny from a skyscraper? We tested it.</p><br/><p><br /></p><br/><p>A massive thanks to Adam Savage and the whole Tested Crew – especially Kristen Lomasney, Ryan Kiser, and Joey Fameli. <br/></p>",
+      "id": "7b6IQVdSeSPwB8fwNYp1oD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How Dangerous is a Penny Dropped From a Skyscraper?",
+      "release_date": "2025-01-27",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:7b6IQVdSeSPwB8fwNYp1oD"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4SCDzkAhWQDCnACXPQWAmE/clip_0_62120.mp3",
       "description": "Not everything that is true can be proven. This discovery transformed infinity, changed the course of a world war and led to the modern computer.  ",
@@ -595,7 +633,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "We Might Find Alien Life In 2246 Days",
+      "name": "We Might Find Alien Life In 2243 Days",
       "release_date": "2025-01-03",
       "release_date_precision": "day",
       "type": "episode",

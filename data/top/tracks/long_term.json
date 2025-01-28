@@ -2766,7 +2766,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Pretty Boy",
-      "popularity": 74,
+      "popularity": 73,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
@@ -3741,7 +3741,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Autumn",
-      "popularity": 22,
+      "popularity": 21,
       "preview_url": null,
       "track_number": 9,
       "type": "track",
@@ -5610,7 +5610,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Backburner",
-      "popularity": 32,
+      "popularity": 31,
       "preview_url": null,
       "track_number": 3,
       "type": "track",
@@ -7570,6 +7570,83 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+            },
+            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+            "id": "2kxP07DLgs4xlWz8YHlvfh",
+            "name": "NIKI",
+            "type": "artist",
+            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+          }
+        ],
+        "available_markets": [],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
+        },
+        "href": "https://api.spotify.com/v1/albums/5WR7ksPLp3kqFbDLTYpGfx",
+        "id": "5WR7ksPLp3kqFbDLTYpGfx",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273770eeb0ee1c91983b1ba4a10",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02770eeb0ee1c91983b1ba4a10",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851770eeb0ee1c91983b1ba4a10",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Nicole",
+        "release_date": "2022-08-12",
+        "release_date_precision": "day",
+        "total_tracks": 12,
+        "type": "album",
+        "uri": "spotify:album:5WR7ksPLp3kqFbDLTYpGfx"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          },
+          "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
+          "id": "2kxP07DLgs4xlWz8YHlvfh",
+          "name": "NIKI",
+          "type": "artist",
+          "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+        }
+      ],
+      "available_markets": [],
+      "disc_number": 1,
+      "duration_ms": 177720,
+      "explicit": true,
+      "external_ids": { "isrc": "ZZOPM2236005" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
+      },
+      "href": "https://api.spotify.com/v1/tracks/2zz4plJxtgMIsQg5SMl2Bg",
+      "id": "2zz4plJxtgMIsQg5SMl2Bg",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Keeping Tabs",
+      "popularity": 19,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:2zz4plJxtgMIsQg5SMl2Bg"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
             },
             "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
@@ -8012,83 +8089,6 @@
       "track_number": 10,
       "type": "track",
       "uri": "spotify:track:7vRia9rlEuTDQxkfXIKySi"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-            },
-            "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
-            "id": "2kxP07DLgs4xlWz8YHlvfh",
-            "name": "NIKI",
-            "type": "artist",
-            "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
-          }
-        ],
-        "available_markets": [],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5WR7ksPLp3kqFbDLTYpGfx"
-        },
-        "href": "https://api.spotify.com/v1/albums/5WR7ksPLp3kqFbDLTYpGfx",
-        "id": "5WR7ksPLp3kqFbDLTYpGfx",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b273770eeb0ee1c91983b1ba4a10",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e02770eeb0ee1c91983b1ba4a10",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d00004851770eeb0ee1c91983b1ba4a10",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Nicole",
-        "release_date": "2022-08-12",
-        "release_date_precision": "day",
-        "total_tracks": 12,
-        "type": "album",
-        "uri": "spotify:album:5WR7ksPLp3kqFbDLTYpGfx"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-          },
-          "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
-          "id": "2kxP07DLgs4xlWz8YHlvfh",
-          "name": "NIKI",
-          "type": "artist",
-          "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
-        }
-      ],
-      "available_markets": [],
-      "disc_number": 1,
-      "duration_ms": 177720,
-      "explicit": true,
-      "external_ids": { "isrc": "ZZOPM2236005" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/2zz4plJxtgMIsQg5SMl2Bg"
-      },
-      "href": "https://api.spotify.com/v1/tracks/2zz4plJxtgMIsQg5SMl2Bg",
-      "id": "2zz4plJxtgMIsQg5SMl2Bg",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Keeping Tabs",
-      "popularity": 19,
-      "preview_url": null,
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:2zz4plJxtgMIsQg5SMl2Bg"
     },
     {
       "album": {
@@ -12255,7 +12255,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "High School in Jakarta",
-      "popularity": 24,
+      "popularity": 23,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
@@ -19783,7 +19783,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Before",
-      "popularity": 16,
+      "popularity": 15,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -23011,7 +23011,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "vampire",
-      "popularity": 14,
+      "popularity": 15,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -34825,7 +34825,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Never Enough",
-      "popularity": 55,
+      "popularity": 54,
       "preview_url": null,
       "track_number": 9,
       "type": "track",
