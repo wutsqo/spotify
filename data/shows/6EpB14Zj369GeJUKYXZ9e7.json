@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 33,
+  "total_episodes": 34,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1gSWE3asioJElkluZs2zd0/clip_164000_226520.mp3",
+      "description": "The invention that's super sticky, a little picky, and easy to unstick only if you know the trick! 0:00 The Invention of Super Glue 2:43 How Does Super Glue Work? 5:38 How To Get Superglue Off Your Skin 8:33 Why Is Super Glue So Strong?  12:00 Why Doesn’t Super Glue Work on plastic? 13:45 Mixing Super Glue and Baking Soda 15:30 Using Super Glue Underwater 15:59 Super Glue On Wounds 19:47 A Solution To Microplastics?    ",
+      "duration_ms": 1499008,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3zpUehANJWifTp1LOBnixs"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3zpUehANJWifTp1LOBnixs",
+      "html_description": "<p>The invention that&#39;s super sticky, a little picky, and easy to unstick only if you know the trick!</p><br/><p>0:00 The Invention of Super Glue<br/>2:43 How Does Super Glue Work?<br/>5:38 How To Get Superglue Off Your Skin<br/>8:33 Why Is Super Glue So Strong? <br/>12:00 Why Doesn’t Super Glue Work on plastic?<br/>13:45 Mixing Super Glue and Baking Soda<br/>15:30 Using Super Glue Underwater<br/>15:59 Super Glue On Wounds<br/>19:47 A Solution To Microplastics?<br/></p>",
+      "id": "3zpUehANJWifTp1LOBnixs",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5eb3ec535a65fe91bcaf2b95",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5eb3ec535a65fe91bcaf2b95",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5eb3ec535a65fe91bcaf2b95",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Why Super Glue Is Perfect For Gluing Skin",
+      "release_date": "2025-01-28",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3zpUehANJWifTp1LOBnixs"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/41twzH16NpTNWxK7fp5k3V/clip_0_61360.mp3",
       "description": "What would happen if you dropped a penny from a skyscraper? We tested it.  A massive thanks to Adam Savage and the whole Tested Crew – especially Kristen Lomasney, Ryan Kiser, and Joey Fameli.   ",
@@ -633,7 +671,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "We Might Find Alien Life In 2243 Days",
+      "name": "We Might Find Alien Life In 2242 Days",
       "release_date": "2025-01-03",
       "release_date_precision": "day",
       "type": "episode",
