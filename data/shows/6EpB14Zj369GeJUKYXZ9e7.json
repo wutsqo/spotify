@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 34,
+  "total_episodes": 35,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1By37wrcCAFkH6N1xuajGN/clip_41000_103960.mp3",
+      "description": "Here’s what happens when you just keep zooming in.  ▀▀▀ You'll find our full back catalogue of hundreds of videos on ⁠YouTube⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠Patreon.  ▀▀▀ 0:00 Why is it hard to see atoms?  2:12 How does an electron microscope work? 4:09 Transmission Electron Microscope, TEM 5:11 Spherical Aberration 8:55 Field Ion Microscope  11:05 Scanning Transmission Electron Microscope, STEM 13:24 Probe microscopes 14:02 An unlikely solution 18:08 Seeing atoms",
+      "duration_ms": 1209514,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6nvFmscvsoV61zhDbUpdoM"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6nvFmscvsoV61zhDbUpdoM",
+      "html_description": "<p>Here’s what happens when you just keep zooming in.</p><br/><p><br /></p><br/><p>▀▀▀</p><br/><p>You&#39;ll find our full back catalogue of hundreds of videos on ⁠YouTube⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠Patreon.</p><br/><p><br /></p><br/><p>▀▀▀</p><br/><p>0:00 Why is it hard to see atoms? </p><br/><p>2:12 How does an electron microscope work?</p><br/><p>4:09 Transmission Electron Microscope, TEM</p><br/><p>5:11 Spherical Aberration</p><br/><p>8:55 Field Ion Microscope </p><br/><p>11:05 Scanning Transmission Electron Microscope, STEM</p><br/><p>13:24 Probe microscopes</p><br/><p>14:02 An unlikely solution</p><br/><p>18:08 Seeing atoms</p>",
+      "id": "6nvFmscvsoV61zhDbUpdoM",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a9047fbc32a8e86d91293df1d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f9047fbc32a8e86d91293df1d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d9047fbc32a8e86d91293df1d",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "What if you just keep zooming in?",
+      "release_date": "2025-02-06",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:6nvFmscvsoV61zhDbUpdoM"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1gSWE3asioJElkluZs2zd0/clip_164000_226520.mp3",
       "description": "The invention that's super sticky, a little picky, and easy to unstick only if you know the trick!  ▀▀▀ You'll find our full back catalogue of hundreds of videos on ⁠YouTube⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠Patreon.  ▀▀▀ 0:00 The Invention of Super Glue 2:43 How Does Super Glue Work? 5:38 How To Get Superglue Off Your Skin 8:33 Why Is Super Glue So Strong?  12:00 Why Doesn’t Super Glue Work on plastic? 13:45 Mixing Super Glue and Baking Soda 15:30 Using Super Glue Underwater 15:59 Super Glue On Wounds 19:47 A Solution To Microplastics?",
