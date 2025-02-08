@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
   },
-  "followers": { "href": null, "total": 2092 },
+  "followers": { "href": null, "total": 2093 },
   "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW?locale=*",
   "id": "5e19c9XXF0zXOpAgEmYStW",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
       "width": null
     }
   ],
@@ -14155,7 +14155,7 @@
         "href": "https://api.spotify.com/v1/tracks/1ibeKVCiXORhvUpMmtsQWq",
         "id": "1ibeKVCiXORhvUpMmtsQWq",
         "name": "Pieces",
-        "popularity": 66,
+        "popularity": 67,
         "uri": "spotify:track:1ibeKVCiXORhvUpMmtsQWq",
         "is_local": false
       },
@@ -18369,8 +18369,8 @@
             }
           ],
           "name": "Hybrid Theory (Bonus Edition)",
-          "release_date": "2000",
-          "release_date_precision": "year",
+          "release_date": "2000-10-24",
+          "release_date_precision": "day",
           "uri": "spotify:album:6hPkbAV3ZXpGZBGUvL6jVM",
           "artists": [
             {
@@ -18833,7 +18833,7 @@
             }
           ],
           "name": "Meteora",
-          "release_date": "2003-09-16",
+          "release_date": "2003-03-25",
           "release_date_precision": "day",
           "uri": "spotify:album:4Gfnly5CzMJQqkUFfoHaP3",
           "artists": [
@@ -24593,7 +24593,7 @@
         "href": "https://api.spotify.com/v1/tracks/6qZoQsBTQW2tix6KViDC7F",
         "id": "6qZoQsBTQW2tix6KViDC7F",
         "name": "Don't Look Back in Anger",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:6qZoQsBTQW2tix6KViDC7F",
         "is_local": false
       },
@@ -39648,7 +39648,7 @@
         "href": "https://api.spotify.com/v1/tracks/0lP4HYLmvowOKdsQ7CVkuq",
         "id": "0lP4HYLmvowOKdsQ7CVkuq",
         "name": "The Kill",
-        "popularity": 76,
+        "popularity": 77,
         "uri": "spotify:track:0lP4HYLmvowOKdsQ7CVkuq",
         "is_local": false
       },
@@ -56408,7 +56408,7 @@
         "href": "https://api.spotify.com/v1/tracks/0aZJGkkXR3DgaFqo5sB8ot",
         "id": "0aZJGkkXR3DgaFqo5sB8ot",
         "name": "Weightless",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:0aZJGkkXR3DgaFqo5sB8ot",
         "is_local": false
       },
@@ -57780,7 +57780,7 @@
         "href": "https://api.spotify.com/v1/tracks/3xXBsjrbG1xQIm1xv1cKOt",
         "id": "3xXBsjrbG1xQIm1xv1cKOt",
         "name": "One More Light",
-        "popularity": 71,
+        "popularity": 72,
         "uri": "spotify:track:3xXBsjrbG1xQIm1xv1cKOt",
         "is_local": false
       },
@@ -59128,7 +59128,7 @@
         "href": "https://api.spotify.com/v1/tracks/018zT8xThRbMH2QeUoMlKQ",
         "id": "018zT8xThRbMH2QeUoMlKQ",
         "name": "Warmness On The Soul",
-        "popularity": 55,
+        "popularity": 56,
         "uri": "spotify:track:018zT8xThRbMH2QeUoMlKQ",
         "is_local": false
       },
