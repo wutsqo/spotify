@@ -1,11 +1,11 @@
 {
-  "total": 15,
+  "total": 16,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 6115583 },
+      "followers": { "href": null, "total": 6117435 },
       "genres": ["garage rock", "indie rock", "alternative rock"],
       "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
       "id": "0epOFNiUfyON9EYx7Tpr6V",
@@ -33,9 +33,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+      },
+      "followers": { "href": null, "total": 6389115 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+      "id": "7pbDxGE6nQSZVfiFdq9lOL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee3852e6b5500f0af5315609",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ee3852e6b5500f0af5315609",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ee3852e6b5500f0af5315609",
+          "width": 160
+        }
+      ],
+      "name": "Rex Orange County",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
       },
-      "followers": { "href": null, "total": 5366122 },
+      "followers": { "href": null, "total": 5372761 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
       "id": "2kxP07DLgs4xlWz8YHlvfh",
@@ -65,7 +95,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6eouuqqGggqDlYRV63cgPo"
       },
-      "followers": { "href": null, "total": 997663 },
+      "followers": { "href": null, "total": 997816 },
       "genres": ["emo"],
       "href": "https://api.spotify.com/v1/artists/6eouuqqGggqDlYRV63cgPo",
       "id": "6eouuqqGggqDlYRV63cgPo",
@@ -95,7 +125,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
       },
-      "followers": { "href": null, "total": 11442419 },
+      "followers": { "href": null, "total": 11449024 },
       "genres": ["art rock", "alternative rock"],
       "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
       "id": "4Z8W4fKeB5YxbusRsdQVPb",
@@ -125,7 +155,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
       },
-      "followers": { "href": null, "total": 28808857 },
+      "followers": { "href": null, "total": 28825905 },
       "genres": ["indie", "garage rock"],
       "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
       "id": "7Ln80lUS6He07XvHI8qqHH",
@@ -155,7 +185,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
-      "followers": { "href": null, "total": 19920867 },
+      "followers": { "href": null, "total": 19950412 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
       "id": "4V8LLVI7PbaPR0K2TGSxFF",
@@ -185,7 +215,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
       },
-      "followers": { "href": null, "total": 9622299 },
+      "followers": { "href": null, "total": 9635054 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
       "id": "0Y6dVaC9DZtPNH4591M42W",
@@ -215,7 +245,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
       },
-      "followers": { "href": null, "total": 7061384 },
+      "followers": { "href": null, "total": 7065426 },
       "genres": ["indie"],
       "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
       "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
@@ -245,7 +275,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
       },
-      "followers": { "href": null, "total": 52902605 },
+      "followers": { "href": null, "total": 52914483 },
       "genres": ["classic rock", "rock", "glam rock"],
       "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
       "id": "1dfeR4HaWDbWqFHLkxsg1d",
@@ -280,7 +310,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
-      "followers": { "href": null, "total": 37025578 },
+      "followers": { "href": null, "total": 37097719 },
       "genres": ["hip hop", "west coast hip hop"],
       "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
       "id": "2YZyLoL8N0Wb9xBt1NhZWg",
@@ -302,7 +332,7 @@
         }
       ],
       "name": "Kendrick Lamar",
-      "popularity": 93,
+      "popularity": 94,
       "type": "artist",
       "uri": "spotify:artist:2YZyLoL8N0Wb9xBt1NhZWg"
     },
@@ -310,7 +340,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
       },
-      "followers": { "href": null, "total": 3439998 },
+      "followers": { "href": null, "total": 3440991 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/2feDdbD5araYcm6JhFHHw7",
       "id": "2feDdbD5araYcm6JhFHHw7",
@@ -340,7 +370,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
       },
-      "followers": { "href": null, "total": 1772674 },
+      "followers": { "href": null, "total": 1772870 },
       "genres": ["indie rock", "post-punk", "modern rock"],
       "href": "https://api.spotify.com/v1/artists/3WaJSfKnzc65VDgmj2zU8B",
       "id": "3WaJSfKnzc65VDgmj2zU8B",
@@ -370,7 +400,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
       },
-      "followers": { "href": null, "total": 29370841 },
+      "followers": { "href": null, "total": 29377216 },
       "genres": ["classic rock", "psychedelic rock"],
       "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
       "id": "3WrFJ7ztbogyGnTHbHJFl2",
@@ -400,7 +430,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
       },
-      "followers": { "href": null, "total": 6896249 },
+      "followers": { "href": null, "total": 6900092 },
       "genres": ["new wave", "madchester", "jangle pop"],
       "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
       "id": "3yY2gUcIsjMr8hjo51PoJ8",
@@ -433,33 +463,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+        "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
       },
-      "followers": { "href": null, "total": 6388052 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-      "id": "7pbDxGE6nQSZVfiFdq9lOL",
+      "followers": { "href": null, "total": 33443274 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id": "6KImCVD70vtIoJWnq6nGn3",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebee3852e6b5500f0af5315609",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebf7db7c8ede90a019c54590bb",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ee3852e6b5500f0af5315609",
+          "url": "https://i.scdn.co/image/ab67616100005174f7db7c8ede90a019c54590bb",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ee3852e6b5500f0af5315609",
+          "url": "https://i.scdn.co/image/ab6761610000f178f7db7c8ede90a019c54590bb",
           "width": 160
         }
       ],
-      "name": "Rex Orange County",
-      "popularity": 73,
+      "name": "Harry Styles",
+      "popularity": 82,
       "type": "artist",
-      "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
+      "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
     }
   ]
 }
