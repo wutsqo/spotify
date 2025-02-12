@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 4929 },
+  "followers": { "href": null, "total": 4924 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -487,7 +487,7 @@
         "href": "https://api.spotify.com/v1/tracks/3s5ogvexUgA6XjNj37zpnP",
         "id": "3s5ogvexUgA6XjNj37zpnP",
         "name": "Piledriver waltz",
-        "popularity": 58,
+        "popularity": 57,
         "uri": "spotify:track:3s5ogvexUgA6XjNj37zpnP",
         "is_local": false
       },
@@ -1413,7 +1413,7 @@
         "href": "https://api.spotify.com/v1/tracks/0xtIp0lgccN85GfGOekS5L",
         "id": "0xtIp0lgccN85GfGOekS5L",
         "name": "Yes I'm Changing",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:0xtIp0lgccN85GfGOekS5L",
         "is_local": false
       },
@@ -2985,7 +2985,7 @@
         "href": "https://api.spotify.com/v1/tracks/73CKjW3vsUXRpy3NnX4H7F",
         "id": "73CKjW3vsUXRpy3NnX4H7F",
         "name": "Fake Plastic Trees",
-        "popularity": 74,
+        "popularity": 73,
         "uri": "spotify:track:73CKjW3vsUXRpy3NnX4H7F",
         "is_local": false
       },
@@ -7787,7 +7787,7 @@
         "href": "https://api.spotify.com/v1/tracks/58ge6dfP91o9oXMzq3XkIS",
         "id": "58ge6dfP91o9oXMzq3XkIS",
         "name": "505",
-        "popularity": 80,
+        "popularity": 79,
         "uri": "spotify:track:58ge6dfP91o9oXMzq3XkIS",
         "is_local": false
       },
@@ -10645,7 +10645,7 @@
         "href": "https://api.spotify.com/v1/tracks/71ytDkCnYc11VRiRCrhDHX",
         "id": "71ytDkCnYc11VRiRCrhDHX",
         "name": "Only Ones Who Know",
-        "popularity": 63,
+        "popularity": 62,
         "uri": "spotify:track:71ytDkCnYc11VRiRCrhDHX",
         "is_local": false
       },
@@ -12497,7 +12497,7 @@
         "href": "https://api.spotify.com/v1/tracks/1t67WYNfUxfOiwaz7SJ66b",
         "id": "1t67WYNfUxfOiwaz7SJ66b",
         "name": "One Point Perspective",
-        "popularity": 56,
+        "popularity": 55,
         "uri": "spotify:track:1t67WYNfUxfOiwaz7SJ66b",
         "is_local": false
       },
@@ -26049,7 +26049,7 @@
         "href": "https://api.spotify.com/v1/tracks/0eDQj41kzBhMKQIkTt6OJR",
         "id": "0eDQj41kzBhMKQIkTt6OJR",
         "name": "A Certain Romance",
-        "popularity": 62,
+        "popularity": 61,
         "uri": "spotify:track:0eDQj41kzBhMKQIkTt6OJR",
         "is_local": false
       },
@@ -27035,7 +27035,7 @@
         "href": "https://api.spotify.com/v1/tracks/7MBSbBrx0TvBYyKEcpGcJb",
         "id": "7MBSbBrx0TvBYyKEcpGcJb",
         "name": "Sweet Marie",
-        "popularity": 22,
+        "popularity": 21,
         "uri": "spotify:track:7MBSbBrx0TvBYyKEcpGcJb",
         "is_local": false
       },
@@ -27127,7 +27127,7 @@
         "href": "https://api.spotify.com/v1/tracks/0kYUrLVQOfx21xuXu7OGrT",
         "id": "0kYUrLVQOfx21xuXu7OGrT",
         "name": "All These Things That I've Done",
-        "popularity": 2,
+        "popularity": 1,
         "uri": "spotify:track:0kYUrLVQOfx21xuXu7OGrT",
         "is_local": false
       },
@@ -33965,7 +33965,7 @@
         "href": "https://api.spotify.com/v1/tracks/6XdoudbyF67XLcwarEPy0L",
         "id": "6XdoudbyF67XLcwarEPy0L",
         "name": "Opera House",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:6XdoudbyF67XLcwarEPy0L",
         "is_local": false
       },
@@ -35809,7 +35809,7 @@
         "href": "https://api.spotify.com/v1/tracks/0SpkyS1Q4MD8GaVcP5YjT4",
         "id": "0SpkyS1Q4MD8GaVcP5YjT4",
         "name": "Sunsetz",
-        "popularity": 84,
+        "popularity": 83,
         "uri": "spotify:track:0SpkyS1Q4MD8GaVcP5YjT4",
         "is_local": false
       },
@@ -37291,7 +37291,7 @@
         "href": "https://api.spotify.com/v1/tracks/1jVjOcs7QeQZJXScbqvofI",
         "id": "1jVjOcs7QeQZJXScbqvofI",
         "name": "Time Machine",
-        "popularity": 61,
+        "popularity": 60,
         "uri": "spotify:track:1jVjOcs7QeQZJXScbqvofI",
         "is_local": false
       },
@@ -38657,7 +38657,7 @@
         "href": "https://api.spotify.com/v1/tracks/52ojopYMUzeNcudsoz7O9D",
         "id": "52ojopYMUzeNcudsoz7O9D",
         "name": "New Person, Same Old Mistakes",
-        "popularity": 77,
+        "popularity": 76,
         "uri": "spotify:track:52ojopYMUzeNcudsoz7O9D",
         "is_local": false
       },
@@ -40049,7 +40049,7 @@
         "href": "https://api.spotify.com/v1/tracks/0UV5zxRMz6AO4ZwUOZNIKI",
         "id": "0UV5zxRMz6AO4ZwUOZNIKI",
         "name": "Where'd All the Time Go?",
-        "popularity": 77,
+        "popularity": 76,
         "uri": "spotify:track:0UV5zxRMz6AO4ZwUOZNIKI",
         "is_local": false
       },
@@ -42053,7 +42053,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Yx9t9RgATAtYoHN8gbRM0",
         "id": "5Yx9t9RgATAtYoHN8gbRM0",
         "name": "Fool",
-        "popularity": 68,
+        "popularity": 67,
         "uri": "spotify:track:5Yx9t9RgATAtYoHN8gbRM0",
         "is_local": false
       },
@@ -50051,7 +50051,7 @@
         "href": "https://api.spotify.com/v1/tracks/77KnJc8o5G1eKVwX5ywMeZ",
         "id": "77KnJc8o5G1eKVwX5ywMeZ",
         "name": "Mind Over Matter (Reprise)",
-        "popularity": 74,
+        "popularity": 73,
         "uri": "spotify:track:77KnJc8o5G1eKVwX5ywMeZ",
         "is_local": false
       },
@@ -53407,7 +53407,7 @@
         "href": "https://api.spotify.com/v1/tracks/4jNQkWhuzqrbqQuqanFFJ6",
         "id": "4jNQkWhuzqrbqQuqanFFJ6",
         "name": "Where Is My Mind",
-        "popularity": 60,
+        "popularity": 59,
         "uri": "spotify:track:4jNQkWhuzqrbqQuqanFFJ6",
         "is_local": false
       },
@@ -53869,7 +53869,7 @@
         "href": "https://api.spotify.com/v1/tracks/6qZjm61s6u8Ead9sWxCDro",
         "id": "6qZjm61s6u8Ead9sWxCDro",
         "name": "Elephant",
-        "popularity": 70,
+        "popularity": 69,
         "uri": "spotify:track:6qZjm61s6u8Ead9sWxCDro",
         "is_local": false
       },
@@ -71911,7 +71911,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Az8KU81g2aLBbJN67F2CI",
         "id": "5Az8KU81g2aLBbJN67F2CI",
         "name": "Mind Over Matter",
-        "popularity": 70,
+        "popularity": 69,
         "uri": "spotify:track:5Az8KU81g2aLBbJN67F2CI",
         "is_local": false
       },
@@ -77539,7 +77539,7 @@
         "href": "https://api.spotify.com/v1/tracks/4NUhcsz9E1LrBe8nXLZqzp",
         "id": "4NUhcsz9E1LrBe8nXLZqzp",
         "name": "It Almost Worked",
-        "popularity": 76,
+        "popularity": 75,
         "uri": "spotify:track:4NUhcsz9E1LrBe8nXLZqzp",
         "is_local": false
       },
@@ -78093,7 +78093,7 @@
         "href": "https://api.spotify.com/v1/tracks/2V852FRIFO7mFgfiyDMum1",
         "id": "2V852FRIFO7mFgfiyDMum1",
         "name": "Symphonia IX",
-        "popularity": 42,
+        "popularity": 41,
         "uri": "spotify:track:2V852FRIFO7mFgfiyDMum1",
         "is_local": false
       },
@@ -79989,7 +79989,7 @@
         "href": "https://api.spotify.com/v1/tracks/37pKTyMwalomKCZjxTc2QZ",
         "id": "37pKTyMwalomKCZjxTc2QZ",
         "name": "Cherry-coloured Funk",
-        "popularity": 67,
+        "popularity": 66,
         "uri": "spotify:track:37pKTyMwalomKCZjxTc2QZ",
         "is_local": false
       },
@@ -82307,7 +82307,7 @@
         "href": "https://api.spotify.com/v1/tracks/0uhYgQQ6WX9rCONnum7Fmw",
         "id": "0uhYgQQ6WX9rCONnum7Fmw",
         "name": "I Know",
-        "popularity": 60,
+        "popularity": 59,
         "uri": "spotify:track:0uhYgQQ6WX9rCONnum7Fmw",
         "is_local": false
       },
@@ -82765,7 +82765,7 @@
         "href": "https://api.spotify.com/v1/tracks/2DrGEaqoruCSn0FffWCf5O",
         "id": "2DrGEaqoruCSn0FffWCf5O",
         "name": "A-Punk",
-        "popularity": 66,
+        "popularity": 65,
         "uri": "spotify:track:2DrGEaqoruCSn0FffWCf5O",
         "is_local": false
       },
@@ -84611,7 +84611,7 @@
         "href": "https://api.spotify.com/v1/tracks/6UFivO2zqqPFPoQYsEMuCc",
         "id": "6UFivO2zqqPFPoQYsEMuCc",
         "name": "Bags",
-        "popularity": 78,
+        "popularity": 77,
         "uri": "spotify:track:6UFivO2zqqPFPoQYsEMuCc",
         "is_local": false
       },
@@ -86545,7 +86545,7 @@
         "href": "https://api.spotify.com/v1/tracks/4HuiEuJ7ZW8jewUuZBg6sk",
         "id": "4HuiEuJ7ZW8jewUuZBg6sk",
         "name": "Sarah",
-        "popularity": 73,
+        "popularity": 72,
         "uri": "spotify:track:4HuiEuJ7ZW8jewUuZBg6sk",
         "is_local": false
       },
@@ -87473,7 +87473,7 @@
         "href": "https://api.spotify.com/v1/tracks/7ihVeKd4RjiZ3y12nDhPZO",
         "id": "7ihVeKd4RjiZ3y12nDhPZO",
         "name": "Sunshine Baby",
-        "popularity": 58,
+        "popularity": 57,
         "uri": "spotify:track:7ihVeKd4RjiZ3y12nDhPZO",
         "is_local": false
       },
@@ -89219,7 +89219,7 @@
         "href": "https://api.spotify.com/v1/tracks/3NCQO8ath5huTDMXXtibH6",
         "id": "3NCQO8ath5huTDMXXtibH6",
         "name": "Motion Picture Soundtrack",
-        "popularity": 65,
+        "popularity": 64,
         "uri": "spotify:track:3NCQO8ath5huTDMXXtibH6",
         "is_local": false
       },
@@ -91083,7 +91083,7 @@
         "href": "https://api.spotify.com/v1/tracks/1BViPjTT585XAhkUUrkts0",
         "id": "1BViPjTT585XAhkUUrkts0",
         "name": "Seigfried",
-        "popularity": 72,
+        "popularity": 71,
         "uri": "spotify:track:1BViPjTT585XAhkUUrkts0",
         "is_local": false
       },

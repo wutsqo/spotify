@@ -1,11 +1,11 @@
 {
-  "total": 16,
+  "total": 17,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 6117435 },
+      "followers": { "href": null, "total": 6119047 },
       "genres": ["garage rock", "indie rock", "alternative rock"],
       "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
       "id": "0epOFNiUfyON9EYx7Tpr6V",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 6389115 },
+      "followers": { "href": null, "total": 6389989 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
       },
-      "followers": { "href": null, "total": 5372761 },
+      "followers": { "href": null, "total": 5378001 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
       "id": "2kxP07DLgs4xlWz8YHlvfh",
@@ -93,69 +93,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eouuqqGggqDlYRV63cgPo"
-      },
-      "followers": { "href": null, "total": 997816 },
-      "genres": ["emo"],
-      "href": "https://api.spotify.com/v1/artists/6eouuqqGggqDlYRV63cgPo",
-      "id": "6eouuqqGggqDlYRV63cgPo",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6af2b0c6d451a9cf004398fd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746af2b0c6d451a9cf004398fd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786af2b0c6d451a9cf004398fd",
-          "width": 160
-        }
-      ],
-      "name": "Secondhand Serenade",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:6eouuqqGggqDlYRV63cgPo"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-      },
-      "followers": { "href": null, "total": 11449024 },
-      "genres": ["art rock", "alternative rock"],
-      "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
-      "id": "4Z8W4fKeB5YxbusRsdQVPb",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a03696716c9ee605006047fd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a03696716c9ee605006047fd",
-          "width": 160
-        }
-      ],
-      "name": "Radiohead",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
       },
-      "followers": { "href": null, "total": 28825905 },
+      "followers": { "href": null, "total": 28840136 },
       "genres": ["indie", "garage rock"],
       "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
       "id": "7Ln80lUS6He07XvHI8qqHH",
@@ -183,9 +123,69 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+      },
+      "followers": { "href": null, "total": 11455190 },
+      "genres": ["art rock", "alternative rock"],
+      "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+      "id": "4Z8W4fKeB5YxbusRsdQVPb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba03696716c9ee605006047fd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a03696716c9ee605006047fd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a03696716c9ee605006047fd",
+          "width": 160
+        }
+      ],
+      "name": "Radiohead",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eouuqqGggqDlYRV63cgPo"
+      },
+      "followers": { "href": null, "total": 997949 },
+      "genres": ["emo"],
+      "href": "https://api.spotify.com/v1/artists/6eouuqqGggqDlYRV63cgPo",
+      "id": "6eouuqqGggqDlYRV63cgPo",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6af2b0c6d451a9cf004398fd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746af2b0c6d451a9cf004398fd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786af2b0c6d451a9cf004398fd",
+          "width": 160
+        }
+      ],
+      "name": "Secondhand Serenade",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:6eouuqqGggqDlYRV63cgPo"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
-      "followers": { "href": null, "total": 19950412 },
+      "followers": { "href": null, "total": 19976528 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
       "id": "4V8LLVI7PbaPR0K2TGSxFF",
@@ -213,9 +213,44 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+      },
+      "followers": { "href": null, "total": 6903462 },
+      "genres": ["new wave", "madchester", "jangle pop"],
+      "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
+      "id": "3yY2gUcIsjMr8hjo51PoJ8",
+      "images": [
+        {
+          "height": 1516,
+          "url": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
+          "width": 1000
+        },
+        {
+          "height": 970,
+          "url": "https://i.scdn.co/image/4bf08a9e6eea088b20d4092d1322bbd3f39ff9af",
+          "width": 640
+        },
+        {
+          "height": 303,
+          "url": "https://i.scdn.co/image/bd4c7f5ff2c5c4385604e60c71eac1dd498ddbd9",
+          "width": 200
+        },
+        {
+          "height": 97,
+          "url": "https://i.scdn.co/image/d3a2542f2811b5b01ee3483ec7c193f72a882ea1",
+          "width": 64
+        }
+      ],
+      "name": "The Smiths",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
       },
-      "followers": { "href": null, "total": 9635054 },
+      "followers": { "href": null, "total": 9645465 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
       "id": "0Y6dVaC9DZtPNH4591M42W",
@@ -245,7 +280,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3Sz7ZnJQBIHsXLUSo0OQtM"
       },
-      "followers": { "href": null, "total": 7065426 },
+      "followers": { "href": null, "total": 7069050 },
       "genres": ["indie"],
       "href": "https://api.spotify.com/v1/artists/3Sz7ZnJQBIHsXLUSo0OQtM",
       "id": "3Sz7ZnJQBIHsXLUSo0OQtM",
@@ -273,9 +308,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+      },
+      "followers": { "href": null, "total": 8581069 },
+      "genres": ["indie", "psychedelic pop"],
+      "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
+      "id": "5INjqkS1o8h1imAzPqGZBb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb90357ef28b3a012a1d1b2fa2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517490357ef28b3a012a1d1b2fa2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17890357ef28b3a012a1d1b2fa2",
+          "width": 160
+        }
+      ],
+      "name": "Tame Impala",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:5INjqkS1o8h1imAzPqGZBb"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
       },
-      "followers": { "href": null, "total": 52914483 },
+      "followers": { "href": null, "total": 52922924 },
       "genres": ["classic rock", "rock", "glam rock"],
       "href": "https://api.spotify.com/v1/artists/1dfeR4HaWDbWqFHLkxsg1d",
       "id": "1dfeR4HaWDbWqFHLkxsg1d",
@@ -310,7 +375,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
-      "followers": { "href": null, "total": 37097719 },
+      "followers": { "href": null, "total": 37268452 },
       "genres": ["hip hop", "west coast hip hop"],
       "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
       "id": "2YZyLoL8N0Wb9xBt1NhZWg",
@@ -340,7 +405,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
       },
-      "followers": { "href": null, "total": 3440991 },
+      "followers": { "href": null, "total": 3441872 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/2feDdbD5araYcm6JhFHHw7",
       "id": "2feDdbD5araYcm6JhFHHw7",
@@ -370,7 +435,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
       },
-      "followers": { "href": null, "total": 1772870 },
+      "followers": { "href": null, "total": 1773085 },
       "genres": ["indie rock", "post-punk", "modern rock"],
       "href": "https://api.spotify.com/v1/artists/3WaJSfKnzc65VDgmj2zU8B",
       "id": "3WaJSfKnzc65VDgmj2zU8B",
@@ -400,7 +465,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
       },
-      "followers": { "href": null, "total": 29377216 },
+      "followers": { "href": null, "total": 29381977 },
       "genres": ["classic rock", "psychedelic rock"],
       "href": "https://api.spotify.com/v1/artists/3WrFJ7ztbogyGnTHbHJFl2",
       "id": "3WrFJ7ztbogyGnTHbHJFl2",
@@ -428,44 +493,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
-      },
-      "followers": { "href": null, "total": 6900092 },
-      "genres": ["new wave", "madchester", "jangle pop"],
-      "href": "https://api.spotify.com/v1/artists/3yY2gUcIsjMr8hjo51PoJ8",
-      "id": "3yY2gUcIsjMr8hjo51PoJ8",
-      "images": [
-        {
-          "height": 1516,
-          "url": "https://i.scdn.co/image/481b980af463122013e4578c08fb8c5cbfaed1e9",
-          "width": 1000
-        },
-        {
-          "height": 970,
-          "url": "https://i.scdn.co/image/4bf08a9e6eea088b20d4092d1322bbd3f39ff9af",
-          "width": 640
-        },
-        {
-          "height": 303,
-          "url": "https://i.scdn.co/image/bd4c7f5ff2c5c4385604e60c71eac1dd498ddbd9",
-          "width": 200
-        },
-        {
-          "height": 97,
-          "url": "https://i.scdn.co/image/d3a2542f2811b5b01ee3483ec7c193f72a882ea1",
-          "width": 64
-        }
-      ],
-      "name": "The Smiths",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
       },
-      "followers": { "href": null, "total": 33443274 },
+      "followers": { "href": null, "total": 33445756 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
       "id": "6KImCVD70vtIoJWnq6nGn3",
