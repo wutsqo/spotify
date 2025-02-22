@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5G5Unv4duumybzGQzpaJAE"
   },
-  "followers": { "href": null, "total": 24 },
+  "followers": { "href": null, "total": 25 },
   "href": "https://api.spotify.com/v1/playlists/5G5Unv4duumybzGQzpaJAE?locale=*",
   "id": "5G5Unv4duumybzGQzpaJAE",
   "images": [
@@ -489,7 +489,7 @@
         "href": "https://api.spotify.com/v1/tracks/12bKyDwj1CDiZxl6h6NepF",
         "id": "12bKyDwj1CDiZxl6h6NepF",
         "name": "Christmas in Monterey",
-        "popularity": 24,
+        "popularity": 23,
         "uri": "spotify:track:12bKyDwj1CDiZxl6h6NepF",
         "is_local": false
       },
@@ -4731,7 +4731,7 @@
         "href": "https://api.spotify.com/v1/tracks/66ZX9xQyCmwDnGUjwhYwNJ",
         "id": "66ZX9xQyCmwDnGUjwhYwNJ",
         "name": "Now That We’ve Found Love",
-        "popularity": 28,
+        "popularity": 27,
         "uri": "spotify:track:66ZX9xQyCmwDnGUjwhYwNJ",
         "is_local": false
       },
@@ -5195,7 +5195,7 @@
         "href": "https://api.spotify.com/v1/tracks/5LpNNr02dABUYZ6ofq0xkY",
         "id": "5LpNNr02dABUYZ6ofq0xkY",
         "name": "Seatbelts",
-        "popularity": 23,
+        "popularity": 22,
         "uri": "spotify:track:5LpNNr02dABUYZ6ofq0xkY",
         "is_local": false
       },
