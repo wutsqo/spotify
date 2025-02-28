@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 40,
+  "total_episodes": 41,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1IiTxa7BbfemFulJNzzkWN/clip_51000_113720.mp3",
+      "description": "Simple rules of geometry meant that 5-fold symmetry was impossible as were crystals without a periodic structure. ▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠Patreon.",
+      "duration_ms": 1201133,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3pGtDFzJmncRMeMp94grKm"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3pGtDFzJmncRMeMp94grKm",
+      "html_description": "<p>Simple rules of geometry meant that 5-fold symmetry was impossible as were crystals without a periodic structure. </p><p><br /></p><p>▀▀▀</p><p>You&#39;ll find our full back catalogue of hundreds of videos on <a href=\"https://www.youtube.com/&#64;veritasium\" rel=\"nofollow\">⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠</a> . For early access videos, bonus content, and to support the channel, join us on <a href=\"https://www.patreon.com/c/veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠Patreon.</a></p><p><br /></p>",
+      "id": "3pGtDFzJmncRMeMp94grKm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Infinite Pattern That Never Repeats",
+      "release_date": "2025-02-27",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3pGtDFzJmncRMeMp94grKm"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0WzF5uq91WqXwk7rryL6LX/clip_171000_238560.mp3",
       "description": "This video is about stuff: light bulbs, printers, phones and why they aren't better. ▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠YouTube⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠Patreon.",
