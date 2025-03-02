@@ -3140,11 +3140,98 @@
       "is_local": false,
       "is_playable": true,
       "name": "Good Luck, Babe!",
-      "popularity": 90,
+      "popularity": 89,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+            },
+            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+            "id": "4V8LLVI7PbaPR0K2TGSxFF",
+            "name": "Tyler, The Creator",
+            "type": "artist",
+            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+          }
+        ],
+        "available_markets": ["PR", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
+        },
+        "href": "https://api.spotify.com/v1/albums/5dbCm8qaCdWnNdVyi3urUO",
+        "id": "5dbCm8qaCdWnNdVyi3urUO",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27328ae9a159d24cb0ab2552712",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0228ae9a159d24cb0ab2552712",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485128ae9a159d24cb0ab2552712",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Goblin",
+        "release_date": "2011-05-09",
+        "release_date_precision": "day",
+        "total_tracks": 18,
+        "type": "album",
+        "uri": "spotify:album:5dbCm8qaCdWnNdVyi3urUO"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+          },
+          "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+          "id": "4V8LLVI7PbaPR0K2TGSxFF",
+          "name": "Tyler, The Creator",
+          "type": "artist",
+          "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
+          },
+          "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
+          "id": "2h93pZq0e7k5yf4dywlkpM",
+          "name": "Frank Ocean",
+          "type": "artist",
+          "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+        }
+      ],
+      "available_markets": ["PR", "US"],
+      "disc_number": 1,
+      "duration_ms": 253386,
+      "explicit": true,
+      "external_ids": { "isrc": "GBBKS1100033" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0SA0mMXWh23raZ6xzOCU2V",
+      "id": "0SA0mMXWh23raZ6xzOCU2V",
+      "is_local": false,
+      "is_playable": true,
+      "name": "She",
+      "popularity": 73,
+      "preview_url": null,
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:0SA0mMXWh23raZ6xzOCU2V"
     },
     {
       "album": {
@@ -4447,98 +4534,11 @@
       "is_local": false,
       "is_playable": true,
       "name": "4 Seasons",
-      "popularity": 50,
+      "popularity": 49,
       "preview_url": null,
       "track_number": 6,
       "type": "track",
       "uri": "spotify:track:4fg2EzaeNhR2PWNGXbX18n"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-            },
-            "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
-            "id": "4V8LLVI7PbaPR0K2TGSxFF",
-            "name": "Tyler, The Creator",
-            "type": "artist",
-            "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
-          }
-        ],
-        "available_markets": ["PR", "US"],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/5dbCm8qaCdWnNdVyi3urUO"
-        },
-        "href": "https://api.spotify.com/v1/albums/5dbCm8qaCdWnNdVyi3urUO",
-        "id": "5dbCm8qaCdWnNdVyi3urUO",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b27328ae9a159d24cb0ab2552712",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e0228ae9a159d24cb0ab2552712",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d0000485128ae9a159d24cb0ab2552712",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Goblin",
-        "release_date": "2011-05-09",
-        "release_date_precision": "day",
-        "total_tracks": 18,
-        "type": "album",
-        "uri": "spotify:album:5dbCm8qaCdWnNdVyi3urUO"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-          },
-          "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
-          "id": "4V8LLVI7PbaPR0K2TGSxFF",
-          "name": "Tyler, The Creator",
-          "type": "artist",
-          "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
-        },
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
-          },
-          "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
-          "id": "2h93pZq0e7k5yf4dywlkpM",
-          "name": "Frank Ocean",
-          "type": "artist",
-          "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
-        }
-      ],
-      "available_markets": ["PR", "US"],
-      "disc_number": 1,
-      "duration_ms": 253386,
-      "explicit": true,
-      "external_ids": { "isrc": "GBBKS1100033" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/0SA0mMXWh23raZ6xzOCU2V"
-      },
-      "href": "https://api.spotify.com/v1/tracks/0SA0mMXWh23raZ6xzOCU2V",
-      "id": "0SA0mMXWh23raZ6xzOCU2V",
-      "is_local": false,
-      "is_playable": true,
-      "name": "She",
-      "popularity": 73,
-      "preview_url": null,
-      "track_number": 4,
-      "type": "track",
-      "uri": "spotify:track:0SA0mMXWh23raZ6xzOCU2V"
     },
     {
       "album": {
@@ -17614,7 +17614,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Superpowers",
-      "popularity": 78,
+      "popularity": 77,
       "preview_url": null,
       "track_number": 14,
       "type": "track",
@@ -18504,7 +18504,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "EARFQUAKE",
-      "popularity": 79,
+      "popularity": 78,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
@@ -19851,7 +19851,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Sycamore Girl",
-      "popularity": 47,
+      "popularity": 46,
       "preview_url": null,
       "track_number": 4,
       "type": "track",
@@ -22108,7 +22108,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Reptilia",
-      "popularity": 72,
+      "popularity": 71,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
@@ -24337,7 +24337,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "You'll Be in My Heart - Spotify Singles",
-      "popularity": 54,
+      "popularity": 55,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
@@ -31646,7 +31646,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Bunga Maaf",
-      "popularity": 79,
+      "popularity": 78,
       "preview_url": null,
       "track_number": 1,
       "type": "track",
@@ -32993,7 +32993,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Hey Jane",
-      "popularity": 69,
+      "popularity": 68,
       "preview_url": null,
       "track_number": 5,
       "type": "track",
