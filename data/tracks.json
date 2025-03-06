@@ -1,6 +1,86 @@
 {
-  "total": 153,
+  "total": 154,
   "tracks": [
+    {
+      "added_at": "2025-03-06T02:04:35Z",
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+              },
+              "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+              "id": "2FXC3k01G6Gw61bmprjgqS",
+              "name": "Hozier",
+              "type": "artist",
+              "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+            }
+          ],
+          "available_markets": ["AU", "CA", "PR", "US"],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/4cm3cwzDQ9IjWTj2u8K2ef"
+          },
+          "href": "https://api.spotify.com/v1/albums/4cm3cwzDQ9IjWTj2u8K2ef",
+          "id": "4cm3cwzDQ9IjWTj2u8K2ef",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273628bd3f2e108009776294206"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02628bd3f2e108009776294206"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851628bd3f2e108009776294206"
+            }
+          ],
+          "is_playable": true,
+          "name": "Live in America",
+          "release_date": "2015-07-31",
+          "release_date_precision": "day",
+          "total_tracks": 6,
+          "type": "album",
+          "uri": "spotify:album:4cm3cwzDQ9IjWTj2u8K2ef"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+            },
+            "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+            "id": "2FXC3k01G6Gw61bmprjgqS",
+            "name": "Hozier",
+            "type": "artist",
+            "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+          }
+        ],
+        "available_markets": ["AU", "CA", "PR", "US"],
+        "disc_number": 1,
+        "duration_ms": 260440,
+        "explicit": false,
+        "external_ids": { "isrc": "USSM11505349" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2zIxoYbBZsAy14gJAMEDag"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2zIxoYbBZsAy14gJAMEDag",
+        "id": "2zIxoYbBZsAy14gJAMEDag",
+        "is_local": false,
+        "is_playable": true,
+        "name": "Someone New - Live in America - Spring/Summer 2015",
+        "popularity": 24,
+        "preview_url": null,
+        "track_number": 4,
+        "type": "track",
+        "uri": "spotify:track:2zIxoYbBZsAy14gJAMEDag"
+      }
+    },
     {
       "added_at": "2025-03-03T14:44:49Z",
       "track": {
@@ -1948,7 +2028,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Too Sweet",
-        "popularity": 30,
+        "popularity": 29,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
@@ -5088,7 +5168,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Evergreen",
-        "popularity": 79,
+        "popularity": 78,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
@@ -17537,7 +17617,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Teddy Picker",
-        "popularity": 64,
+        "popularity": 63,
         "preview_url": null,
         "track_number": 2,
         "type": "track",
@@ -21593,7 +21673,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Black and Yellow",
-        "popularity": 50,
+        "popularity": 49,
         "preview_url": null,
         "track_number": 3,
         "type": "track",
@@ -28009,7 +28089,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Sycamore Girl",
-        "popularity": 47,
+        "popularity": 46,
         "preview_url": null,
         "track_number": 4,
         "type": "track",
@@ -35345,7 +35425,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Sunflower",
-        "popularity": 68,
+        "popularity": 67,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
@@ -40571,7 +40651,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Godzilla",
-        "popularity": 35,
+        "popularity": 34,
         "preview_url": null,
         "track_number": 5,
         "type": "track",
@@ -42443,7 +42523,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "After Hours",
-        "popularity": 77,
+        "popularity": 76,
         "preview_url": null,
         "track_number": 13,
         "type": "track",
@@ -42901,7 +42981,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Lift Me Up - From Black Panther: Wakanda Forever - Music From and Inspired By",
-        "popularity": 58,
+        "popularity": 57,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
@@ -45553,7 +45633,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Thinking out Loud",
-        "popularity": 79,
+        "popularity": 78,
         "preview_url": null,
         "track_number": 11,
         "type": "track",
@@ -45633,7 +45713,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Take A Chance With Me",
-        "popularity": 14,
+        "popularity": 13,
         "preview_url": null,
         "track_number": 12,
         "type": "track",
@@ -47193,7 +47273,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Torn",
-        "popularity": 60,
+        "popularity": 59,
         "preview_url": null,
         "track_number": 3,
         "type": "track",
@@ -48985,7 +49065,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Untuk Apa / Untuk Apa?",
-        "popularity": 60,
+        "popularity": 59,
         "preview_url": null,
         "track_number": 6,
         "type": "track",
@@ -54599,7 +54679,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Walking in the Wind",
-        "popularity": 61,
+        "popularity": 60,
         "preview_url": null,
         "track_number": 15,
         "type": "track",
@@ -57883,7 +57963,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Another Sunny Day",
-        "popularity": 42,
+        "popularity": 41,
         "preview_url": null,
         "track_number": 2,
         "type": "track",
