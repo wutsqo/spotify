@@ -219,8 +219,9 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 42,
+  "total_episodes": 43,
   "episodes": [
+    null,
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7dqxEVKu6yJst4qTpGacMZ/clip_33000_93360.mp3",
       "description": "Concrete = cement + sand + gravel. Cement is the most important man-made material on Earth. ▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠Patreon. ⁠",
@@ -975,7 +976,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "We Might Find Alien Life In 2205 Days",
+      "name": "We Might Find Alien Life In 2201 Days",
       "release_date": "2025-01-03",
       "release_date_precision": "day",
       "type": "episode",
