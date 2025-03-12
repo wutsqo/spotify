@@ -219,8 +219,9 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 43,
+  "total_episodes": 44,
   "episodes": [
+    null,
     null,
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7dqxEVKu6yJst4qTpGacMZ/clip_33000_93360.mp3",
@@ -976,7 +977,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "We Might Find Alien Life In 2201 Days",
+      "name": "We Might Find Alien Life In 2200 Days",
       "release_date": "2025-01-03",
       "release_date_precision": "day",
       "type": "episode",

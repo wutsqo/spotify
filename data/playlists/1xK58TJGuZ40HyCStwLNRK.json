@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 4997 },
+  "followers": { "href": null, "total": 5004 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -3539,7 +3539,7 @@
         "href": "https://api.spotify.com/v1/tracks/6EThJr4Dq1Y93JspecGU2F",
         "id": "6EThJr4Dq1Y93JspecGU2F",
         "name": "Cigarette Daydreams",
-        "popularity": 9,
+        "popularity": 10,
         "uri": "spotify:track:6EThJr4Dq1Y93JspecGU2F",
         "is_local": false
       },
@@ -12961,7 +12961,7 @@
         "href": "https://api.spotify.com/v1/tracks/4LpUpiYoZ2M3Z1kmhn4EQo",
         "id": "4LpUpiYoZ2M3Z1kmhn4EQo",
         "name": "Still Beating",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:4LpUpiYoZ2M3Z1kmhn4EQo",
         "is_local": false
       },
@@ -20917,7 +20917,7 @@
         "href": "https://api.spotify.com/v1/tracks/2UKvxuMTM7JwprZrnpxgY1",
         "id": "2UKvxuMTM7JwprZrnpxgY1",
         "name": "Kiss It Off Me",
-        "popularity": 65,
+        "popularity": 64,
         "uri": "spotify:track:2UKvxuMTM7JwprZrnpxgY1",
         "is_local": false
       },
@@ -25305,7 +25305,7 @@
         "href": "https://api.spotify.com/v1/tracks/4WfV1CNg91SBp8oG0VY0VB",
         "id": "4WfV1CNg91SBp8oG0VY0VB",
         "name": "Crush",
-        "popularity": 63,
+        "popularity": 62,
         "uri": "spotify:track:4WfV1CNg91SBp8oG0VY0VB",
         "is_local": false
       },
@@ -27217,7 +27217,7 @@
         "href": "https://api.spotify.com/v1/tracks/7MBSbBrx0TvBYyKEcpGcJb",
         "id": "7MBSbBrx0TvBYyKEcpGcJb",
         "name": "Sweet Marie",
-        "popularity": 14,
+        "popularity": 13,
         "uri": "spotify:track:7MBSbBrx0TvBYyKEcpGcJb",
         "is_local": false
       },
@@ -31279,7 +31279,7 @@
         "href": "https://api.spotify.com/v1/tracks/2fhOljbX79loRcdl47SFye",
         "id": "2fhOljbX79loRcdl47SFye",
         "name": "Moonlight on the River",
-        "popularity": 76,
+        "popularity": 77,
         "uri": "spotify:track:2fhOljbX79loRcdl47SFye",
         "is_local": false
       },
@@ -38291,7 +38291,7 @@
         "href": "https://api.spotify.com/v1/tracks/4PDJDIdWxNN1AlnbrKkoPf",
         "id": "4PDJDIdWxNN1AlnbrKkoPf",
         "name": "Come Over (Again)",
-        "popularity": 56,
+        "popularity": 57,
         "uri": "spotify:track:4PDJDIdWxNN1AlnbrKkoPf",
         "is_local": false
       },
@@ -42521,7 +42521,7 @@
         "href": "https://api.spotify.com/v1/tracks/5WhtlIoxoZrMmuaWWEQhwV",
         "id": "5WhtlIoxoZrMmuaWWEQhwV",
         "name": "Undone - The Sweater Song",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:5WhtlIoxoZrMmuaWWEQhwV",
         "is_local": false
       },
@@ -42959,7 +42959,7 @@
         "href": "https://api.spotify.com/v1/tracks/3d9DChrdc6BOeFsbrZ3Is0",
         "id": "3d9DChrdc6BOeFsbrZ3Is0",
         "name": "Under the Bridge",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:3d9DChrdc6BOeFsbrZ3Is0",
         "is_local": false
       },
@@ -48943,7 +48943,7 @@
         "href": "https://api.spotify.com/v1/tracks/6PypGyiu0Y2lCDBN1XZEnP",
         "id": "6PypGyiu0Y2lCDBN1XZEnP",
         "name": "Everybody Hurts",
-        "popularity": 73,
+        "popularity": 74,
         "uri": "spotify:track:6PypGyiu0Y2lCDBN1XZEnP",
         "is_local": false
       },
@@ -49475,7 +49475,7 @@
         "href": "https://api.spotify.com/v1/tracks/1EryAkZ0VHstC6haIxVBiE",
         "id": "1EryAkZ0VHstC6haIxVBiE",
         "name": "Sextape",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
         "is_local": false
       },
@@ -61545,7 +61545,7 @@
         "href": "https://api.spotify.com/v1/tracks/2nD9CUfMMUVxL0UyFs8fGG",
         "id": "2nD9CUfMMUVxL0UyFs8fGG",
         "name": "Pistol",
-        "popularity": 64,
+        "popularity": 63,
         "uri": "spotify:track:2nD9CUfMMUVxL0UyFs8fGG",
         "is_local": false
       },
@@ -63395,7 +63395,7 @@
         "href": "https://api.spotify.com/v1/tracks/1ShRHPAiiIrh0arZbSFmx1",
         "id": "1ShRHPAiiIrh0arZbSFmx1",
         "name": "Heavy",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:1ShRHPAiiIrh0arZbSFmx1",
         "is_local": false
       },
@@ -69885,7 +69885,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Az8KU81g2aLBbJN67F2CI",
         "id": "5Az8KU81g2aLBbJN67F2CI",
         "name": "Mind Over Matter",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:5Az8KU81g2aLBbJN67F2CI",
         "is_local": false
       },
@@ -74033,7 +74033,7 @@
         "href": "https://api.spotify.com/v1/tracks/6F5mZpEEjhsAW8UEqbIpz1",
         "id": "6F5mZpEEjhsAW8UEqbIpz1",
         "name": "Tired",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:6F5mZpEEjhsAW8UEqbIpz1",
         "is_local": false
       },
@@ -75699,7 +75699,7 @@
         "href": "https://api.spotify.com/v1/tracks/2V852FRIFO7mFgfiyDMum1",
         "id": "2V852FRIFO7mFgfiyDMum1",
         "name": "Symphonia IX",
-        "popularity": 33,
+        "popularity": 32,
         "uri": "spotify:track:2V852FRIFO7mFgfiyDMum1",
         "is_local": false
       },
@@ -76183,7 +76183,7 @@
         "href": "https://api.spotify.com/v1/tracks/4E5N0mYyYFf0QZs3XDeSIj",
         "id": "4E5N0mYyYFf0QZs3XDeSIj",
         "name": "Summer's Over",
-        "popularity": 66,
+        "popularity": 67,
         "uri": "spotify:track:4E5N0mYyYFf0QZs3XDeSIj",
         "is_local": false
       },
@@ -77595,7 +77595,7 @@
         "href": "https://api.spotify.com/v1/tracks/37pKTyMwalomKCZjxTc2QZ",
         "id": "37pKTyMwalomKCZjxTc2QZ",
         "name": "Cherry-coloured Funk",
-        "popularity": 67,
+        "popularity": 68,
         "uri": "spotify:track:37pKTyMwalomKCZjxTc2QZ",
         "is_local": false
       },
@@ -78521,7 +78521,7 @@
         "href": "https://api.spotify.com/v1/tracks/4k6Uh1HXdhtusDW5y8Gbvy",
         "id": "4k6Uh1HXdhtusDW5y8Gbvy",
         "name": "Bad Habit",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:4k6Uh1HXdhtusDW5y8Gbvy",
         "is_local": false
       },
@@ -82217,7 +82217,7 @@
         "href": "https://api.spotify.com/v1/tracks/6UFivO2zqqPFPoQYsEMuCc",
         "id": "6UFivO2zqqPFPoQYsEMuCc",
         "name": "Bags",
-        "popularity": 78,
+        "popularity": 79,
         "uri": "spotify:track:6UFivO2zqqPFPoQYsEMuCc",
         "is_local": false
       },
@@ -89247,7 +89247,7 @@
         "href": "https://api.spotify.com/v1/tracks/6TGd66r0nlPaYm3KIoI7ET",
         "id": "6TGd66r0nlPaYm3KIoI7ET",
         "name": "THE GREATEST",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:6TGd66r0nlPaYm3KIoI7ET",
         "is_local": false
       },
@@ -90633,7 +90633,7 @@
         "href": "https://api.spotify.com/v1/tracks/1musbempyJAw5gfSKZHXP9",
         "id": "1musbempyJAw5gfSKZHXP9",
         "name": "Anxiety",
-        "popularity": 79,
+        "popularity": 81,
         "uri": "spotify:track:1musbempyJAw5gfSKZHXP9",
         "is_local": false
       },
