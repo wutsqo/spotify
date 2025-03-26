@@ -221,7 +221,44 @@
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
   "total_episodes": 47,
   "episodes": [
-    null,
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/69z7fvRd1vmfYsCYSFcvey/clip_134689_194689.mp3",
+      "description": "A general solution to the cubic equation was long considered impossible, until we gave up the requirement that math reflect reality.▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠",
+      "duration_ms": 1350398,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1JNAzvw7WaxC3q2rlVH3zj"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1JNAzvw7WaxC3q2rlVH3zj",
+      "html_description": "<p>A general solution to the cubic equation was long considered impossible, until we gave up the requirement that math reflect reality.</p><p>▀▀▀</p><p>You&#39;ll find our full back catalogue of hundreds of videos on <a href=\"https://www.youtube.com/&#64;veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠</a> . For early access videos, bonus content, and to support the channel, join us on <a href=\"https://www.patreon.com/c/veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠</a></p><p></p>",
+      "id": "1JNAzvw7WaxC3q2rlVH3zj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How Imaginary Numbers Were Invented",
+      "release_date": "2025-03-25",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:1JNAzvw7WaxC3q2rlVH3zj"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/72Jl0558TGSVckkGIDoz0O/clip_48000_108000.mp3",
       "description": "How a helicopter built of phone parts survived Mars for 3 years.Special thank you to Astrum for their help with this video, be sure to check their video out here ▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠Patreon. ⁠▀▀▀0:00 How Did Ingenuity Get To Mars?3:23 Better Results, Bigger Expectations6:15 Wobblecopter7:48 Dust On Mars9:41 What Is The Temperature On Mars?11:54 Wake-Up Call13:41 Android To The Rescue16:22 Cosmic Rays20:53 Dune and The Crash25:26 The Next Generation",
