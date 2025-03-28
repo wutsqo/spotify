@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 47,
+  "total_episodes": 48,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2pF3MF7p2mUpNKewg3QI6V/clip_110000_170000.mp3",
+      "description": "There is an entire branch of math simply devoted to knots – and it has changed the world. We’ll rope you in.▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠",
+      "duration_ms": 2004885,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5O9tL7ly0ol3aD7vFbEVdl"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5O9tL7ly0ol3aD7vFbEVdl",
+      "html_description": "<p>There is an entire branch of math simply devoted to knots – and it has changed the world. We’ll rope you in.</p><p>▀▀▀</p><p>You&#39;ll find our full back catalogue of hundreds of videos on <a href=\"https://www.youtube.com/&#64;veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠</a> . For early access videos, bonus content, and to support the channel, join us on <a href=\"https://www.patreon.com/c/veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠</a></p><p><br /></p><p></p>",
+      "id": "5O9tL7ly0ol3aD7vFbEVdl",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Insane Math Of Knot Theory",
+      "release_date": "2025-03-27",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5O9tL7ly0ol3aD7vFbEVdl"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/69z7fvRd1vmfYsCYSFcvey/clip_134689_194689.mp3",
       "description": "A general solution to the cubic equation was long considered impossible, until we gave up the requirement that math reflect reality.▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠",
