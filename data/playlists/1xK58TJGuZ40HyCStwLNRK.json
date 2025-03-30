@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 5042 },
+  "followers": { "href": null, "total": 5044 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -487,7 +487,7 @@
         "href": "https://api.spotify.com/v1/tracks/3s5ogvexUgA6XjNj37zpnP",
         "id": "3s5ogvexUgA6XjNj37zpnP",
         "name": "Piledriver waltz",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:3s5ogvexUgA6XjNj37zpnP",
         "is_local": false
       },
@@ -3539,7 +3539,7 @@
         "href": "https://api.spotify.com/v1/tracks/6EThJr4Dq1Y93JspecGU2F",
         "id": "6EThJr4Dq1Y93JspecGU2F",
         "name": "Cigarette Daydreams",
-        "popularity": 1,
+        "popularity": 2,
         "uri": "spotify:track:6EThJr4Dq1Y93JspecGU2F",
         "is_local": false
       },
@@ -6779,7 +6779,7 @@
         "href": "https://api.spotify.com/v1/tracks/3Y4rUyw7XBCK6hGHCOt6rp",
         "id": "3Y4rUyw7XBCK6hGHCOt6rp",
         "name": "Call It Fate, Call It Karma",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:3Y4rUyw7XBCK6hGHCOt6rp",
         "is_local": false
       },
@@ -7231,7 +7231,7 @@
         "href": "https://api.spotify.com/v1/tracks/3Smx621pPslSi49Ff4bVPo",
         "id": "3Smx621pPslSi49Ff4bVPo",
         "name": "She Lays Down",
-        "popularity": 41,
+        "popularity": 42,
         "uri": "spotify:track:3Smx621pPslSi49Ff4bVPo",
         "is_local": false
       },
@@ -8897,7 +8897,7 @@
         "href": "https://api.spotify.com/v1/tracks/59Bc4RPzSL3nYPANh25a6J",
         "id": "59Bc4RPzSL3nYPANh25a6J",
         "name": "My Jinji",
-        "popularity": 2,
+        "popularity": 1,
         "uri": "spotify:track:59Bc4RPzSL3nYPANh25a6J",
         "is_local": false
       },
@@ -17217,7 +17217,7 @@
         "href": "https://api.spotify.com/v1/tracks/6yu9LcfTlFwc16D3xtJ8AI",
         "id": "6yu9LcfTlFwc16D3xtJ8AI",
         "name": "Cupid",
-        "popularity": 45,
+        "popularity": 46,
         "uri": "spotify:track:6yu9LcfTlFwc16D3xtJ8AI",
         "is_local": false
       },
@@ -25949,7 +25949,7 @@
         "href": "https://api.spotify.com/v1/tracks/4PGWramunj3Bsz5UXCu4ex",
         "id": "4PGWramunj3Bsz5UXCu4ex",
         "name": "Anyways",
-        "popularity": 45,
+        "popularity": 46,
         "uri": "spotify:track:4PGWramunj3Bsz5UXCu4ex",
         "is_local": false
       },
@@ -27665,7 +27665,7 @@
         "href": "https://api.spotify.com/v1/tracks/18UsAG7SfOQ5sxJEdjAMH0",
         "id": "18UsAG7SfOQ5sxJEdjAMH0",
         "name": "Be My Mistake",
-        "popularity": 67,
+        "popularity": 68,
         "uri": "spotify:track:18UsAG7SfOQ5sxJEdjAMH0",
         "is_local": false
       },
@@ -29607,7 +29607,7 @@
         "href": "https://api.spotify.com/v1/tracks/7IL8PSVwLOJxqYne6azxQv",
         "id": "7IL8PSVwLOJxqYne6azxQv",
         "name": "Pretty Boy",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:7IL8PSVwLOJxqYne6azxQv",
         "is_local": false
       },
@@ -31647,7 +31647,7 @@
         "href": "https://api.spotify.com/v1/tracks/70YTBH8vOGJNMhy6186yFm",
         "id": "70YTBH8vOGJNMhy6186yFm",
         "name": "Heavenly",
-        "popularity": 72,
+        "popularity": 71,
         "uri": "spotify:track:70YTBH8vOGJNMhy6186yFm",
         "is_local": false
       },
@@ -32295,7 +32295,7 @@
         "href": "https://api.spotify.com/v1/tracks/6XdoudbyF67XLcwarEPy0L",
         "id": "6XdoudbyF67XLcwarEPy0L",
         "name": "Opera House",
-        "popularity": 59,
+        "popularity": 58,
         "uri": "spotify:track:6XdoudbyF67XLcwarEPy0L",
         "is_local": false
       },
@@ -39093,7 +39093,7 @@
         "href": "https://api.spotify.com/v1/tracks/5DZNSYxhFA1WA9WEJg9TNY",
         "id": "5DZNSYxhFA1WA9WEJg9TNY",
         "name": "Dreaming of You",
-        "popularity": 56,
+        "popularity": 55,
         "uri": "spotify:track:5DZNSYxhFA1WA9WEJg9TNY",
         "is_local": false
       },
@@ -41777,7 +41777,7 @@
         "href": "https://api.spotify.com/v1/tracks/5WhtlIoxoZrMmuaWWEQhwV",
         "id": "5WhtlIoxoZrMmuaWWEQhwV",
         "name": "Undone - The Sweater Song",
-        "popularity": 71,
+        "popularity": 72,
         "uri": "spotify:track:5WhtlIoxoZrMmuaWWEQhwV",
         "is_local": false
       },
@@ -42215,7 +42215,7 @@
         "href": "https://api.spotify.com/v1/tracks/3d9DChrdc6BOeFsbrZ3Is0",
         "id": "3d9DChrdc6BOeFsbrZ3Is0",
         "name": "Under the Bridge",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:3d9DChrdc6BOeFsbrZ3Is0",
         "is_local": false
       },
@@ -55633,7 +55633,7 @@
         "href": "https://api.spotify.com/v1/tracks/4w5wkuwuCByenZ6QufdeQN",
         "id": "4w5wkuwuCByenZ6QufdeQN",
         "name": "<maybe> it's my fault",
-        "popularity": 44,
+        "popularity": 45,
         "uri": "spotify:track:4w5wkuwuCByenZ6QufdeQN",
         "is_local": false
       },
@@ -58405,7 +58405,7 @@
         "href": "https://api.spotify.com/v1/tracks/0I1eFRytp4XRhLCjT6tZm7",
         "id": "0I1eFRytp4XRhLCjT6tZm7",
         "name": "I Can't Handle Change",
-        "popularity": 7,
+        "popularity": 6,
         "uri": "spotify:track:0I1eFRytp4XRhLCjT6tZm7",
         "is_local": false
       },
@@ -60709,7 +60709,7 @@
         "href": "https://api.spotify.com/v1/tracks/6YTUGuz1IzqKFpNm0yGQws",
         "id": "6YTUGuz1IzqKFpNm0yGQws",
         "name": "I Wouldn't Ask You",
-        "popularity": 53,
+        "popularity": 54,
         "uri": "spotify:track:6YTUGuz1IzqKFpNm0yGQws",
         "is_local": false
       },
@@ -62651,7 +62651,7 @@
         "href": "https://api.spotify.com/v1/tracks/1ShRHPAiiIrh0arZbSFmx1",
         "id": "1ShRHPAiiIrh0arZbSFmx1",
         "name": "Heavy",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:1ShRHPAiiIrh0arZbSFmx1",
         "is_local": false
       },
@@ -63115,7 +63115,7 @@
         "href": "https://api.spotify.com/v1/tracks/3TO7bbrUKrOSPGRTB5MeCz",
         "id": "3TO7bbrUKrOSPGRTB5MeCz",
         "name": "Time",
-        "popularity": 75,
+        "popularity": 76,
         "uri": "spotify:track:3TO7bbrUKrOSPGRTB5MeCz",
         "is_local": false
       },
@@ -64517,7 +64517,7 @@
         "href": "https://api.spotify.com/v1/tracks/1170VohRSx6GwE6QDCHPPH",
         "id": "1170VohRSx6GwE6QDCHPPH",
         "name": "Kilby Girl",
-        "popularity": 76,
+        "popularity": 77,
         "uri": "spotify:track:1170VohRSx6GwE6QDCHPPH",
         "is_local": false
       },
@@ -65439,7 +65439,7 @@
         "href": "https://api.spotify.com/v1/tracks/5LJ4ig9cMvjui3li1mrNRl",
         "id": "5LJ4ig9cMvjui3li1mrNRl",
         "name": "Punisher",
-        "popularity": 62,
+        "popularity": 63,
         "uri": "spotify:track:5LJ4ig9cMvjui3li1mrNRl",
         "is_local": false
       },
@@ -73937,7 +73937,7 @@
         "href": "https://api.spotify.com/v1/tracks/53mChDyESfwn9Dz8poHRf6",
         "id": "53mChDyESfwn9Dz8poHRf6",
         "name": "Taking What's Not Yours",
-        "popularity": 79,
+        "popularity": 80,
         "uri": "spotify:track:53mChDyESfwn9Dz8poHRf6",
         "is_local": false
       },
@@ -75923,7 +75923,7 @@
         "href": "https://api.spotify.com/v1/tracks/3SeDS5sSoWnwAZvVgkdKzf",
         "id": "3SeDS5sSoWnwAZvVgkdKzf",
         "name": "Better in the Dark",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:3SeDS5sSoWnwAZvVgkdKzf",
         "is_local": false
       },
@@ -77777,7 +77777,7 @@
         "href": "https://api.spotify.com/v1/tracks/4k6Uh1HXdhtusDW5y8Gbvy",
         "id": "4k6Uh1HXdhtusDW5y8Gbvy",
         "name": "Bad Habit",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:4k6Uh1HXdhtusDW5y8Gbvy",
         "is_local": false
       },
@@ -78705,7 +78705,7 @@
         "href": "https://api.spotify.com/v1/tracks/0b6xZk9f96N77BfmYWnQNC",
         "id": "0b6xZk9f96N77BfmYWnQNC",
         "name": "Mama's Boy",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:0b6xZk9f96N77BfmYWnQNC",
         "is_local": false
       },
@@ -81019,7 +81019,7 @@
         "href": "https://api.spotify.com/v1/tracks/2Lumsra3kuU61wXkEKzKaK",
         "id": "2Lumsra3kuU61wXkEKzKaK",
         "name": "Disco",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:2Lumsra3kuU61wXkEKzKaK",
         "is_local": false
       },
@@ -83871,7 +83871,7 @@
         "href": "https://api.spotify.com/v1/tracks/1i8dJGpKO0xQiKGCVslJqB",
         "id": "1i8dJGpKO0xQiKGCVslJqB",
         "name": "half return",
-        "popularity": 75,
+        "popularity": 76,
         "uri": "spotify:track:1i8dJGpKO0xQiKGCVslJqB",
         "is_local": false
       },
@@ -91281,7 +91281,7 @@
         "href": "https://api.spotify.com/v1/tracks/135ArLV1euyyeegU9D8HVR",
         "id": "135ArLV1euyyeegU9D8HVR",
         "name": "Army Dreamers - 2018 Remaster",
-        "popularity": 71,
+        "popularity": 72,
         "uri": "spotify:track:135ArLV1euyyeegU9D8HVR",
         "is_local": false
       },
