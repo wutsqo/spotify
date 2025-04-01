@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0mGHcGuklrskxmCPBhlIty"
   },
-  "followers": { "href": null, "total": 257 },
+  "followers": { "href": null, "total": 258 },
   "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty?locale=*",
   "id": "0mGHcGuklrskxmCPBhlIty",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846e000d7fc90982490a7e3e11",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846e000d7fc90982490a7e3e11",
       "width": null
     }
   ],
@@ -2887,7 +2887,7 @@
         "href": "https://api.spotify.com/v1/tracks/1zdlg6Yq21HXcjVbdvb40w",
         "id": "1zdlg6Yq21HXcjVbdvb40w",
         "name": "Don't Think Twice, It's All Right - 2004 Remaster",
-        "popularity": 34,
+        "popularity": 35,
         "uri": "spotify:track:1zdlg6Yq21HXcjVbdvb40w",
         "is_local": false
       },

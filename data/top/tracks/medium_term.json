@@ -1067,6 +1067,83 @@
         "artists": [
           {
             "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+            },
+            "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+            "id": "2FXC3k01G6Gw61bmprjgqS",
+            "name": "Hozier",
+            "type": "artist",
+            "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+          }
+        ],
+        "available_markets": ["AU", "CA", "PR", "US"],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
+        },
+        "href": "https://api.spotify.com/v1/albums/4Pv7m8D82A1Xun7xNCKZjJ",
+        "id": "4Pv7m8D82A1Xun7xNCKZjJ",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e024ca68d59a4a29c856a4a39c2",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048514ca68d59a4a29c856a4a39c2",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Hozier (Expanded Edition)",
+        "release_date": "2014-09-19",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:4Pv7m8D82A1Xun7xNCKZjJ"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          },
+          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
+          "id": "2FXC3k01G6Gw61bmprjgqS",
+          "name": "Hozier",
+          "type": "artist",
+          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "available_markets": ["AU", "CA", "PR", "US"],
+      "disc_number": 1,
+      "duration_ms": 229720,
+      "explicit": false,
+      "external_ids": { "isrc": "USSM11401475" },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5TgEJ62DOzBpGxZ7WRsrqb",
+      "id": "5TgEJ62DOzBpGxZ7WRsrqb",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Work Song",
+      "popularity": 81,
+      "preview_url": null,
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:5TgEJ62DOzBpGxZ7WRsrqb"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
               "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
             },
             "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
@@ -3304,7 +3381,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Girl Crush - Recorded at Metropolis Studios, London",
-      "popularity": 66,
+      "popularity": 67,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
@@ -6393,7 +6470,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "You'll Be in My Heart - Spotify Singles",
-      "popularity": 81,
+      "popularity": 82,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
@@ -11505,83 +11582,6 @@
       "track_number": 1,
       "type": "track",
       "uri": "spotify:track:3Ku0VYAQ4b6IomnonhjdVv"
-    },
-    {
-      "album": {
-        "album_type": "album",
-        "artists": [
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-            },
-            "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
-            "id": "2FXC3k01G6Gw61bmprjgqS",
-            "name": "Hozier",
-            "type": "artist",
-            "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
-          }
-        ],
-        "available_markets": ["AU", "CA", "PR", "US"],
-        "external_urls": {
-          "spotify": "https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ"
-        },
-        "href": "https://api.spotify.com/v1/albums/4Pv7m8D82A1Xun7xNCKZjJ",
-        "id": "4Pv7m8D82A1Xun7xNCKZjJ",
-        "images": [
-          {
-            "height": 640,
-            "url": "https://i.scdn.co/image/ab67616d0000b2734ca68d59a4a29c856a4a39c2",
-            "width": 640
-          },
-          {
-            "height": 300,
-            "url": "https://i.scdn.co/image/ab67616d00001e024ca68d59a4a29c856a4a39c2",
-            "width": 300
-          },
-          {
-            "height": 64,
-            "url": "https://i.scdn.co/image/ab67616d000048514ca68d59a4a29c856a4a39c2",
-            "width": 64
-          }
-        ],
-        "is_playable": true,
-        "name": "Hozier (Expanded Edition)",
-        "release_date": "2014-09-19",
-        "release_date_precision": "day",
-        "total_tracks": 15,
-        "type": "album",
-        "uri": "spotify:album:4Pv7m8D82A1Xun7xNCKZjJ"
-      },
-      "artists": [
-        {
-          "external_urls": {
-            "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
-          },
-          "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
-          "id": "2FXC3k01G6Gw61bmprjgqS",
-          "name": "Hozier",
-          "type": "artist",
-          "uri": "spotify:artist:2FXC3k01G6Gw61bmprjgqS"
-        }
-      ],
-      "available_markets": ["AU", "CA", "PR", "US"],
-      "disc_number": 1,
-      "duration_ms": 229720,
-      "explicit": false,
-      "external_ids": { "isrc": "USSM11401475" },
-      "external_urls": {
-        "spotify": "https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb"
-      },
-      "href": "https://api.spotify.com/v1/tracks/5TgEJ62DOzBpGxZ7WRsrqb",
-      "id": "5TgEJ62DOzBpGxZ7WRsrqb",
-      "is_local": false,
-      "is_playable": true,
-      "name": "Work Song",
-      "popularity": 81,
-      "preview_url": null,
-      "track_number": 9,
-      "type": "track",
-      "uri": "spotify:track:5TgEJ62DOzBpGxZ7WRsrqb"
     },
     {
       "album": {
@@ -26454,7 +26454,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Feel Good Inc.",
-      "popularity": 88,
+      "popularity": 89,
       "preview_url": null,
       "track_number": 6,
       "type": "track",
@@ -26903,7 +26903,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Disenchanted",
-      "popularity": 74,
+      "popularity": 75,
       "preview_url": null,
       "track_number": 12,
       "type": "track",
@@ -27352,7 +27352,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Putri Iklan",
-      "popularity": 69,
+      "popularity": 70,
       "preview_url": null,
       "track_number": 4,
       "type": "track",
@@ -30374,7 +30374,7 @@
       "is_local": false,
       "is_playable": true,
       "name": "Even The Nights Are Better",
-      "popularity": 42,
+      "popularity": 43,
       "preview_url": null,
       "track_number": 2,
       "type": "track",
