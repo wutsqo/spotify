@@ -219,8 +219,47 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 48,
+  "total_episodes": 50,
   "episodes": [
+    null,
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0L4g0zTGV9CU74fp4oIVnF/clip_225000_298480.mp3",
+      "description": "How do you make infinite choices?▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠▀▀▀0:00 What comes after one?2:42 Some infinities are bigger than others6:17 The Well Ordering Principle 10:32 Zermelo And The Axiom Of Choice17:22 Why is the axiom of choice controversial?23:16 The Banach–Tarski Paradox27:53 Obviously True, Obviously False29:58 Your Proof Your Choice",
+      "duration_ms": 1892906,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/14RdJijEHYHnSa5ohrcM4t"
+      },
+      "href": "https://api.spotify.com/v1/episodes/14RdJijEHYHnSa5ohrcM4t",
+      "html_description": "<p>How do you make infinite choices?</p><p>▀▀▀</p><p>You&#39;ll find our full back catalogue of hundreds of videos on <a href=\"https://www.youtube.com/&#64;veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠</a> . For early access videos, bonus content, and to support the channel, join us on <a href=\"https://www.patreon.com/c/veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠</a></p><p>▀▀▀</p><p>0:00 What comes after one?</p><p>2:42 Some infinities are bigger than others</p><p>6:17 The Well Ordering Principle </p><p>10:32 Zermelo And The Axiom Of Choice</p><p>17:22 Why is the axiom of choice controversial?</p><p>23:16 The Banach–Tarski Paradox</p><p>27:53 Obviously True, Obviously False</p><p>29:58 Your Proof Your Choice</p><p><br /></p><p><br /></p>",
+      "id": "14RdJijEHYHnSa5ohrcM4t",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Most Controversial Rule In Math",
+      "release_date": "2025-04-02",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:14RdJijEHYHnSa5ohrcM4t"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/2pF3MF7p2mUpNKewg3QI6V/clip_110000_170000.mp3",
       "description": "There is an entire branch of math simply devoted to knots – and it has changed the world. We’ll rope you in.▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠",
@@ -1203,7 +1242,7 @@
       "is_playable": true,
       "language": "en",
       "languages": ["en"],
-      "name": "We Might Find Alien Life In 2183 Days",
+      "name": "We Might Find Alien Life In 2178 Days",
       "release_date": "2025-01-03",
       "release_date_precision": "day",
       "type": "episode",
