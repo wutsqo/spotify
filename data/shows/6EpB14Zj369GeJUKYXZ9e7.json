@@ -221,7 +221,44 @@
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
   "total_episodes": 50,
   "episodes": [
-    null,
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6YCzPzh0CFy1hzGxNVIaK1/clip_0_63120.mp3",
+      "description": "There's a strange number system, featured in the work of a dozen Fields Medalists, that helps solve problems that are intractable with real numbers. ▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠",
+      "duration_ms": 1898965,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4cwACGPv3gosUEEHMELFKH"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4cwACGPv3gosUEEHMELFKH",
+      "html_description": "<p>There&#39;s a strange number system, featured in the work of a dozen Fields Medalists, that helps solve problems that are intractable with real numbers. </p><p>▀▀▀</p><p>You&#39;ll find our full back catalogue of hundreds of videos on <a href=\"https://www.youtube.com/&#64;veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> . For early access videos, bonus content, and to support the channel, join us on <a href=\"https://www.patreon.com/c/veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠</a></p><p></p>",
+      "id": "4cwACGPv3gosUEEHMELFKH",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Something Strange Happens When You Keep Squaring",
+      "release_date": "2025-04-04",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:4cwACGPv3gosUEEHMELFKH"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0L4g0zTGV9CU74fp4oIVnF/clip_225000_298480.mp3",
       "description": "How do you make infinite choices?▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠▀▀▀0:00 What comes after one?2:42 Some infinities are bigger than others6:17 The Well Ordering Principle 10:32 Zermelo And The Axiom Of Choice17:22 Why is the axiom of choice controversial?23:16 The Banach–Tarski Paradox27:53 Obviously True, Obviously False29:58 Your Proof Your Choice",
