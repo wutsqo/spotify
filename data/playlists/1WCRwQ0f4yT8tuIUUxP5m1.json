@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 415741 },
+  "followers": { "href": null, "total": 415826 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
       "width": null
     }
   ],
@@ -10201,7 +10201,7 @@
         "href": "https://api.spotify.com/v1/tracks/60dwJ8dnqZ4WrIdiu7LkNR",
         "id": "60dwJ8dnqZ4WrIdiu7LkNR",
         "name": "Saturday",
-        "popularity": 63,
+        "popularity": 64,
         "uri": "spotify:track:60dwJ8dnqZ4WrIdiu7LkNR",
         "is_local": false
       },
@@ -11101,7 +11101,7 @@
         "href": "https://api.spotify.com/v1/tracks/3CRDbSIZ4r5MsZ0YwxuEkn",
         "id": "3CRDbSIZ4r5MsZ0YwxuEkn",
         "name": "Stressed Out",
-        "popularity": 85,
+        "popularity": 86,
         "uri": "spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn",
         "is_local": false
       },
@@ -11973,7 +11973,7 @@
         "href": "https://api.spotify.com/v1/tracks/3bnVBN67NBEzedqQuWrpP4",
         "id": "3bnVBN67NBEzedqQuWrpP4",
         "name": "Tear in My Heart",
-        "popularity": 76,
+        "popularity": 77,
         "uri": "spotify:track:3bnVBN67NBEzedqQuWrpP4",
         "is_local": false
       },
@@ -16801,7 +16801,7 @@
         "href": "https://api.spotify.com/v1/tracks/1s9xuJxhYM0LdVqksjegcg",
         "id": "1s9xuJxhYM0LdVqksjegcg",
         "name": "Fairly Local",
-        "popularity": 63,
+        "popularity": 64,
         "uri": "spotify:track:1s9xuJxhYM0LdVqksjegcg",
         "is_local": false
       },
@@ -26603,7 +26603,7 @@
         "href": "https://api.spotify.com/v1/tracks/77vDHmiANW3JS2gNN5q7pI",
         "id": "77vDHmiANW3JS2gNN5q7pI",
         "name": "Fall Away",
-        "popularity": 24,
+        "popularity": 23,
         "uri": "spotify:track:77vDHmiANW3JS2gNN5q7pI",
         "is_local": false
       },
@@ -26695,7 +26695,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FvV3j98xtcylQF1drDc9j",
         "id": "3FvV3j98xtcylQF1drDc9j",
         "name": "Oh Ms Believer",
-        "popularity": 23,
+        "popularity": 22,
         "uri": "spotify:track:3FvV3j98xtcylQF1drDc9j",
         "is_local": false
       },
