@@ -221,7 +221,44 @@
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
   "total_episodes": 51,
   "episodes": [
-    null,
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7AkpVUM34Utjfli22WF32V/clip_534000_594560.mp3",
+      "description": "Bowling has been reinvented many times over the past seven thousand years but especially in the last 30. This is the fascinating physics of balls, oil, lane and pins.▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠",
+      "duration_ms": 1629973,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6zOh8uLXBLO1A1iLEdnHno"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6zOh8uLXBLO1A1iLEdnHno",
+      "html_description": "<p>Bowling has been reinvented many times over the past seven thousand years but especially in the last 30. This is the fascinating physics of balls, oil, lane and pins.</p><p>▀▀▀</p><p>You&#39;ll find our full back catalogue of hundreds of videos on <a href=\"https://www.youtube.com/&#64;veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> . For early access videos, bonus content, and to support the channel, join us on <a href=\"https://www.patreon.com/c/veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠</a></p><p></p>",
+      "id": "6zOh8uLXBLO1A1iLEdnHno",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How Hidden Technology Transformed Bowling",
+      "release_date": "2025-04-08",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:6zOh8uLXBLO1A1iLEdnHno"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6YCzPzh0CFy1hzGxNVIaK1/clip_0_63120.mp3",
       "description": "There's a strange number system, featured in the work of a dozen Fields Medalists, that helps solve problems that are intractable with real numbers. ▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠",
