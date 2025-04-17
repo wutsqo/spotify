@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 417766 },
+  "followers": { "href": null, "total": 417979 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
       "width": null
     }
   ],
@@ -487,7 +487,7 @@
         "href": "https://api.spotify.com/v1/tracks/0vsW1vAlNYiy9Y5briGT8Y",
         "id": "0vsW1vAlNYiy9Y5briGT8Y",
         "name": "Doubt (demo)",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:0vsW1vAlNYiy9Y5briGT8Y",
         "is_local": false
       },
@@ -8323,7 +8323,7 @@
         "href": "https://api.spotify.com/v1/tracks/6i0V12jOa3mr6uu4WYhUBr",
         "id": "6i0V12jOa3mr6uu4WYhUBr",
         "name": "Heathens",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:6i0V12jOa3mr6uu4WYhUBr",
         "is_local": false
       },
@@ -8785,7 +8785,7 @@
         "href": "https://api.spotify.com/v1/tracks/1E1uGhNdBe6Dddbgs2KqtZ",
         "id": "1E1uGhNdBe6Dddbgs2KqtZ",
         "name": "Jumpsuit",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:1E1uGhNdBe6Dddbgs2KqtZ",
         "is_local": false
       },
@@ -10637,7 +10637,7 @@
         "href": "https://api.spotify.com/v1/tracks/60dwJ8dnqZ4WrIdiu7LkNR",
         "id": "60dwJ8dnqZ4WrIdiu7LkNR",
         "name": "Saturday",
-        "popularity": 64,
+        "popularity": 65,
         "uri": "spotify:track:60dwJ8dnqZ4WrIdiu7LkNR",
         "is_local": false
       },
@@ -13719,7 +13719,7 @@
         "href": "https://api.spotify.com/v1/tracks/36tghkPg1AO4HsAzo6YpPp",
         "id": "36tghkPg1AO4HsAzo6YpPp",
         "name": "House of Gold",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:36tghkPg1AO4HsAzo6YpPp",
         "is_local": false
       },
@@ -14591,7 +14591,7 @@
         "href": "https://api.spotify.com/v1/tracks/1lguQJjlNrIOoOylYVZN3M",
         "id": "1lguQJjlNrIOoOylYVZN3M",
         "name": "The Judge",
-        "popularity": 67,
+        "popularity": 68,
         "uri": "spotify:track:1lguQJjlNrIOoOylYVZN3M",
         "is_local": false
       },
@@ -17237,7 +17237,7 @@
         "href": "https://api.spotify.com/v1/tracks/6GmkJJMe9U1tEcrJ3Hq3A1",
         "id": "6GmkJJMe9U1tEcrJ3Hq3A1",
         "name": "Polarize",
-        "popularity": 66,
+        "popularity": 67,
         "uri": "spotify:track:6GmkJJMe9U1tEcrJ3Hq3A1",
         "is_local": false
       },
@@ -18109,7 +18109,7 @@
         "href": "https://api.spotify.com/v1/tracks/4Oyl6oYSNeeZZP0OAxPVaU",
         "id": "4Oyl6oYSNeeZZP0OAxPVaU",
         "name": "Message Man",
-        "popularity": 65,
+        "popularity": 66,
         "uri": "spotify:track:4Oyl6oYSNeeZZP0OAxPVaU",
         "is_local": false
       },
@@ -19009,7 +19009,7 @@
         "href": "https://api.spotify.com/v1/tracks/40sRwFjfrRnaTdYPJIg4CP",
         "id": "40sRwFjfrRnaTdYPJIg4CP",
         "name": "Hometown",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:40sRwFjfrRnaTdYPJIg4CP",
         "is_local": false
       },
@@ -21615,7 +21615,7 @@
         "href": "https://api.spotify.com/v1/tracks/7qxjGHW485TL8ciwkHD5MK",
         "id": "7qxjGHW485TL8ciwkHD5MK",
         "name": "Not Today",
-        "popularity": 63,
+        "popularity": 64,
         "uri": "spotify:track:7qxjGHW485TL8ciwkHD5MK",
         "is_local": false
       },
@@ -22937,7 +22937,7 @@
         "href": "https://api.spotify.com/v1/tracks/68NsOuum1AegLDhOIr2ADL",
         "id": "68NsOuum1AegLDhOIr2ADL",
         "name": "The Run and Go",
-        "popularity": 61,
+        "popularity": 62,
         "uri": "spotify:track:68NsOuum1AegLDhOIr2ADL",
         "is_local": false
       },
@@ -27039,7 +27039,7 @@
         "href": "https://api.spotify.com/v1/tracks/77vDHmiANW3JS2gNN5q7pI",
         "id": "77vDHmiANW3JS2gNN5q7pI",
         "name": "Fall Away",
-        "popularity": 21,
+        "popularity": 20,
         "uri": "spotify:track:77vDHmiANW3JS2gNN5q7pI",
         "is_local": false
       },
@@ -27131,7 +27131,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FvV3j98xtcylQF1drDc9j",
         "id": "3FvV3j98xtcylQF1drDc9j",
         "name": "Oh Ms Believer",
-        "popularity": 20,
+        "popularity": 19,
         "uri": "spotify:track:3FvV3j98xtcylQF1drDc9j",
         "is_local": false
       },
@@ -29073,7 +29073,7 @@
         "href": "https://api.spotify.com/v1/tracks/2hUFjIbpKaRqs97OjUAmXb",
         "id": "2hUFjIbpKaRqs97OjUAmXb",
         "name": "Johnny Boy",
-        "popularity": 18,
+        "popularity": 17,
         "uri": "spotify:track:2hUFjIbpKaRqs97OjUAmXb",
         "is_local": false
       },
