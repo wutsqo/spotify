@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 53,
+  "total_episodes": 54,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7cth52X8tM41AuGYYqNUBV/clip_243000_306480.mp3",
+      "description": "The 100 Prisoners Riddle feels completely impossible even once you know the answer.▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠⁠",
+      "duration_ms": 1003178,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0TaFjs1Qq6eNO4xT5Oiack"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0TaFjs1Qq6eNO4xT5Oiack",
+      "html_description": "<p>The 100 Prisoners Riddle feels completely impossible even once you know the answer.</p><p>▀▀▀</p><p>You&#39;ll find our full back catalogue of hundreds of videos on <a href=\"https://www.youtube.com/&#64;veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> . For early access videos, bonus content, and to support the channel, join us on <a href=\"https://www.patreon.com/c/veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠⁠</a></p><p></p>",
+      "id": "0TaFjs1Qq6eNO4xT5Oiack",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Riddle That Seems Impossible Even If You Know The Answer",
+      "release_date": "2025-04-17",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:0TaFjs1Qq6eNO4xT5Oiack"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0pe1sBm4zYckxB900CMKbc/clip_585000_658360.mp3",
       "description": "Why does energy disappear in General Relativity?▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠⁠▀▀▀0:00 What is symmetry?4:25 Emmy Noether and Einstein7:33 General Covariance11:59 The Principle of Least Action15:29 Noether’s First Theorem18:24 The Continuity Equation23:20 Escape from Germany24:49 The Standard Model - Higgs and Quarks",
