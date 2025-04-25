@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 55,
+  "total_episodes": 56,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5X0SFNdB4AipzhHjcgNt0q/clip_104000_164880.mp3",
+      "description": "Which experts have real expertise? ▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠⁠",
+      "duration_ms": 1012522,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5i1h5GvR6fY6UZhBnLZk0G"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5i1h5GvR6fY6UZhBnLZk0G",
+      "html_description": "<p>Which experts have real expertise? </p><p>▀▀▀</p><p>You&#39;ll find our full back catalogue of hundreds of videos on <a href=\"https://www.youtube.com/&#64;veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠</a> . For early access videos, bonus content, and to support the channel, join us on <a href=\"https://www.patreon.com/c/veritasium\" rel=\"nofollow\">⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠⁠</a></p><p></p>",
+      "id": "5i1h5GvR6fY6UZhBnLZk0G",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The 4 things it takes to be an expert",
+      "release_date": "2025-04-24",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5i1h5GvR6fY6UZhBnLZk0G"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/5ddLeWqOxc6sj7G8hBROjo/clip_167528_227528.mp3",
       "description": "How do sewing machines actually work? ▀▀▀You'll find our full back catalogue of hundreds of videos on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠YouTube⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠ . For early access videos, bonus content, and to support the channel, join us on ⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠⁠Patreon. ⁠⁠⁠⁠",
