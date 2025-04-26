@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
   },
-  "followers": { "href": null, "total": 2095 },
+  "followers": { "href": null, "total": 2096 },
   "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW?locale=*",
   "id": "5e19c9XXF0zXOpAgEmYStW",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
       "width": null
     }
   ],
@@ -8643,7 +8643,7 @@
         "href": "https://api.spotify.com/v1/tracks/4sP2lZem4MZn3iDJqd9SBq",
         "id": "4sP2lZem4MZn3iDJqd9SBq",
         "name": "Frozen",
-        "popularity": 39,
+        "popularity": 38,
         "uri": "spotify:track:4sP2lZem4MZn3iDJqd9SBq",
         "is_local": false
       },
@@ -20513,7 +20513,7 @@
         "href": "https://api.spotify.com/v1/tracks/77loZpT5Y5PRP1S451P9Yz",
         "id": "77loZpT5Y5PRP1S451P9Yz",
         "name": "The Reason",
-        "popularity": 12,
+        "popularity": 13,
         "uri": "spotify:track:77loZpT5Y5PRP1S451P9Yz",
         "is_local": false
       },
@@ -34676,7 +34676,7 @@
         "href": "https://api.spotify.com/v1/tracks/0y2bqyIyVQrGnbqJZy6Kli",
         "id": "0y2bqyIyVQrGnbqJZy6Kli",
         "name": "Give It All",
-        "popularity": 48,
+        "popularity": 49,
         "uri": "spotify:track:0y2bqyIyVQrGnbqJZy6Kli",
         "is_local": false
       },
@@ -48980,7 +48980,7 @@
         "href": "https://api.spotify.com/v1/tracks/3ujzd7pcdAhILCnS3oGbaU",
         "id": "3ujzd7pcdAhILCnS3oGbaU",
         "name": "Never There",
-        "popularity": 55,
+        "popularity": 56,
         "uri": "spotify:track:3ujzd7pcdAhILCnS3oGbaU",
         "is_local": false
       },
@@ -58012,7 +58012,7 @@
         "href": "https://api.spotify.com/v1/tracks/5gb9UJkh8TfrNMRYOJNbew",
         "id": "5gb9UJkh8TfrNMRYOJNbew",
         "name": "Gives You Hell",
-        "popularity": 71,
+        "popularity": 72,
         "uri": "spotify:track:5gb9UJkh8TfrNMRYOJNbew",
         "is_local": false
       },
