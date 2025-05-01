@@ -2037,7 +2037,7 @@
         "href": "https://api.spotify.com/v1/tracks/410ZZP746AQeiywhKvXWCo",
         "id": "410ZZP746AQeiywhKvXWCo",
         "name": "SORRY NOT SORRY",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:410ZZP746AQeiywhKvXWCo",
         "is_local": false
       },
@@ -5794,17 +5794,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ef7224f090a0c495f06e7cae",
+              "url": "https://i.scdn.co/image/ab67616d0000b273c16c817c2b3e64ef09f17cc9",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02ef7224f090a0c495f06e7cae",
+              "url": "https://i.scdn.co/image/ab67616d00001e02c16c817c2b3e64ef09f17cc9",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851ef7224f090a0c495f06e7cae",
+              "url": "https://i.scdn.co/image/ab67616d00004851c16c817c2b3e64ef09f17cc9",
               "width": 64
             }
           ],
@@ -5822,16 +5822,6 @@
               "name": "Mk.gee",
               "type": "artist",
               "uri": "spotify:artist:7tr9pbgNEKtG0GQTKe08Tz"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3QCMLWLjJyGA8cQCPrusdv"
-              },
-              "href": "https://api.spotify.com/v1/artists/3QCMLWLjJyGA8cQCPrusdv",
-              "id": "3QCMLWLjJyGA8cQCPrusdv",
-              "name": "Two star",
-              "type": "artist",
-              "uri": "spotify:artist:3QCMLWLjJyGA8cQCPrusdv"
             }
           ],
           "external_urls": {
