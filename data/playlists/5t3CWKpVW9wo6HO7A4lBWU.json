@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5t3CWKpVW9wo6HO7A4lBWU"
   },
-  "followers": { "href": null, "total": 20004 },
+  "followers": { "href": null, "total": 20026 },
   "href": "https://api.spotify.com/v1/playlists/5t3CWKpVW9wo6HO7A4lBWU?locale=*",
   "id": "5t3CWKpVW9wo6HO7A4lBWU",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ca2c774f7992a14acae7f8aca",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a2c774f7992a14acae7f8aca",
       "width": null
     }
   ],
@@ -487,7 +487,7 @@
         "href": "https://api.spotify.com/v1/tracks/5h1Y5ZU60rke2qJbQYGgBN",
         "id": "5h1Y5ZU60rke2qJbQYGgBN",
         "name": "Things In Life",
-        "popularity": 45,
+        "popularity": 46,
         "uri": "spotify:track:5h1Y5ZU60rke2qJbQYGgBN",
         "is_local": false
       },

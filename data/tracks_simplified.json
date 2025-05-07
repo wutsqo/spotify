@@ -1,6 +1,35 @@
 {
-  "total": 157,
+  "total": 158,
   "tracks": [
+    {
+      "id": "3mPif8Y8v5n7D9NqT7PWMi",
+      "name": "Yellow (feat. Bekon)",
+      "added_at": "2025-05-06T16:59:37Z",
+      "popularity": 47,
+      "duration_ms": 291869,
+      "explicit": true,
+      "url": "https://open.spotify.com/track/3mPif8Y8v5n7D9NqT7PWMi",
+      "preview_url": null,
+      "album": {
+        "id": "4BmpDhIUZ6x3cdleJkocVq",
+        "name": "The Sailor",
+        "release_date": "2019-07-26",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b27343460a075329cfcb79d32f47",
+        "url": "https://open.spotify.com/album/4BmpDhIUZ6x3cdleJkocVq"
+      },
+      "artists": [
+        {
+          "id": "2IDLDx25HU1nQMKde4n61a",
+          "name": "Rich Brian",
+          "url": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
+        },
+        {
+          "id": "4VWnuR2hpj6DZNfcpe4e3M",
+          "name": "Bekon",
+          "url": "https://open.spotify.com/artist/4VWnuR2hpj6DZNfcpe4e3M"
+        }
+      ]
+    },
     {
       "id": "0otmxJEwq9JI1CidrcYEq4",
       "name": "Love Me Like There's No Tomorrow - Special Edition",
@@ -471,7 +500,7 @@
       "id": "5LpMlrvoSZkVrEVridNgfE",
       "name": "Stronger Than the Night",
       "added_at": "2024-04-12T18:46:48Z",
-      "popularity": 44,
+      "popularity": 43,
       "duration_ms": 262733,
       "explicit": false,
       "url": "https://open.spotify.com/track/5LpMlrvoSZkVrEVridNgfE",
@@ -942,7 +971,7 @@
       "id": "4koAtTVi7SKmE01mYryLqa",
       "name": "TRAGEDI PALING ANJING",
       "added_at": "2024-02-14T18:16:29Z",
-      "popularity": 27,
+      "popularity": 28,
       "duration_ms": 338000,
       "explicit": false,
       "url": "https://open.spotify.com/track/4koAtTVi7SKmE01mYryLqa",
@@ -2427,7 +2456,7 @@
       "id": "37mbA1RwYja7WFaIOzSczX",
       "name": "You'll Be In My Heart - Spotify Singles",
       "added_at": "2023-04-08T22:27:26Z",
-      "popularity": 1,
+      "popularity": 0,
       "duration_ms": 241776,
       "explicit": false,
       "url": "https://open.spotify.com/track/37mbA1RwYja7WFaIOzSczX",
@@ -3056,7 +3085,7 @@
       "id": "3bH4HzoZZFq8UpZmI2AMgV",
       "name": "New Light",
       "added_at": "2022-02-10T10:32:21Z",
-      "popularity": 4,
+      "popularity": 3,
       "duration_ms": 216014,
       "explicit": false,
       "url": "https://open.spotify.com/track/3bH4HzoZZFq8UpZmI2AMgV",
@@ -3614,7 +3643,7 @@
       "id": "73JnItJ3dofEssv5hWFHDs",
       "name": "Another Sunny Day",
       "added_at": "2021-06-09T16:06:58Z",
-      "popularity": 49,
+      "popularity": 50,
       "duration_ms": 244400,
       "explicit": true,
       "url": "https://open.spotify.com/track/73JnItJ3dofEssv5hWFHDs",
