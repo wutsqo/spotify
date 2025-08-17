@@ -1,5 +1,5 @@
 {
-  "total": 42,
+  "total": 43,
   "playlists": [
     {
       "collaborative": false,
@@ -101,10 +101,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAACEirBhgregqkPF6oMaw3P8X50EzmS",
+      "snapshot_id": "AAACGyu5E1iXvEnk+V4n86wW+bMcrVJI",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/1PJYA9axGNVNWqLa0f5p49/tracks",
-        "total": 689
+        "total": 697
       },
       "type": "playlist",
       "uri": "spotify:playlist:1PJYA9axGNVNWqLa0f5p49"
@@ -137,10 +137,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAABQq1XE2kJ8kklTU/ZvqXS1ztT9dWq",
+      "snapshot_id": "AAABSes84uDYWffwZgM9I3PiiD2HmJAH",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK/tracks",
-        "total": 249
+        "total": 256
       },
       "type": "playlist",
       "uri": "spotify:playlist:1xK58TJGuZ40HyCStwLNRK"
@@ -192,7 +192,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da844700437c1fd4e4aaddb0603f",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844700437c1fd4e4aaddb0603f",
           "width": null
         }
       ],
@@ -216,6 +216,52 @@
       },
       "type": "playlist",
       "uri": "spotify:playlist:1dFSy7jT4hSsbMiof1fTTA"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6MW0g8HWssN1FBkSWDZE76"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6MW0g8HWssN1FBkSWDZE76",
+      "id": "6MW0g8HWssN1FBkSWDZE76",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d00001e0243bff43a592efe047d2ab9ffab67616d00001e0250bb7ca1fe7e98df87ce41d9ab67616d00001e02686acaaa87bfc6ebb42b3bd2ab67616d00001e02eb9b9159e1ecb0614c2fc945",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d00001e0243bff43a592efe047d2ab9ffab67616d00001e0250bb7ca1fe7e98df87ce41d9ab67616d00001e02686acaaa87bfc6ebb42b3bd2ab67616d00001e02eb9b9159e1ecb0614c2fc945",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d00001e0243bff43a592efe047d2ab9ffab67616d00001e0250bb7ca1fe7e98df87ce41d9ab67616d00001e02686acaaa87bfc6ebb42b3bd2ab67616d00001e02eb9b9159e1ecb0614c2fc945",
+          "width": 60
+        }
+      ],
+      "name": "Camping",
+      "owner": {
+        "display_name": "fee",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/uvlyvsz7ykvnlxf3bst3l0rm6"
+        },
+        "href": "https://api.spotify.com/v1/users/uvlyvsz7ykvnlxf3bst3l0rm6",
+        "id": "uvlyvsz7ykvnlxf3bst3l0rm6",
+        "type": "user",
+        "uri": "spotify:user:uvlyvsz7ykvnlxf3bst3l0rm6"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAAFej2xR+kPl+RGTBfkFEwYT7T1nGm",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6MW0g8HWssN1FBkSWDZE76/tracks",
+        "total": 19
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6MW0g8HWssN1FBkSWDZE76"
     },
     {
       "collaborative": false,
@@ -281,10 +327,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAMrhV0L1AV3EI8YsgHHyuYON+SVVxo",
+      "snapshot_id": "AAAMtI/2IxyBY3DAknCYvuewlGcAabDi",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 1200
+        "total": 1206
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -490,7 +536,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e3641518229e821f60e3d62f",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
           "width": null
         }
       ],
@@ -507,10 +553,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAACL1WmTpZzI3UDxxFF2LBLZD1fOlDH",
+      "snapshot_id": "AAACMoDLnu7uYAhcSyMjAudyiHJUDJP9",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1/tracks",
-        "total": 69
+        "total": 70
       },
       "type": "playlist",
       "uri": "spotify:playlist:1WCRwQ0f4yT8tuIUUxP5m1"
@@ -1064,7 +1110,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846771f87d75feb46bd3670e34",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846771f87d75feb46bd3670e34",
           "width": null
         }
       ],
@@ -1346,7 +1392,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84cdb2ac017fdc55a5d1397e00",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84cdb2ac017fdc55a5d1397e00",
           "width": null
         }
       ],
@@ -1382,7 +1428,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8415270bf50d5ee17436d7f4bb",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8415270bf50d5ee17436d7f4bb",
           "width": null
         }
       ],
@@ -1418,7 +1464,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8475eca593e760dc88f1613465",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8475eca593e760dc88f1613465",
           "width": null
         }
       ],
@@ -1526,7 +1572,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
           "width": null
         }
       ],
