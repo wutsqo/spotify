@@ -1,6 +1,30 @@
 {
-  "total": 178,
+  "total": 179,
   "tracks": [
+    {
+      "id": "1jdTmewGT2IcFxGnwZgLKa",
+      "name": "Dua Sedjoli",
+      "added_at": "2025-08-17T01:37:24Z",
+      "popularity": 67,
+      "duration_ms": 324400,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/1jdTmewGT2IcFxGnwZgLKa",
+      "preview_url": null,
+      "album": {
+        "id": "3LRdN6TlxSk6DJqpSWwdFQ",
+        "name": "Bintang Lima",
+        "release_date": "2000-05-15",
+        "image_url": "https://i.scdn.co/image/64825eca60656397ee6133105402d94df84af353",
+        "url": "https://open.spotify.com/album/3LRdN6TlxSk6DJqpSWwdFQ"
+      },
+      "artists": [
+        {
+          "id": "35dWPb7Tmq0WESp6KAUJ8w",
+          "name": "Dewa",
+          "url": "https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w"
+        }
+      ]
+    },
     {
       "id": "4oEf84vBYVftf6KmZexhVo",
       "name": "Northern Attitude (with Hozier)",
