@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 437322 },
+  "followers": { "href": null, "total": 437316 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
@@ -487,7 +487,7 @@
         "href": "https://api.spotify.com/v1/tracks/4rPl7ezxtoqshKnI1kk3dX",
         "id": "4rPl7ezxtoqshKnI1kk3dX",
         "name": "Drum Show",
-        "popularity": 76,
+        "popularity": 78,
         "uri": "spotify:track:4rPl7ezxtoqshKnI1kk3dX",
         "is_local": false
       },
@@ -12031,7 +12031,7 @@
         "href": "https://api.spotify.com/v1/tracks/0yzj6eBs5a6X6d3P5qaQ5J",
         "id": "0yzj6eBs5a6X6d3P5qaQ5J",
         "name": "The Outside",
-        "popularity": 64,
+        "popularity": 65,
         "uri": "spotify:track:0yzj6eBs5a6X6d3P5qaQ5J",
         "is_local": false
       },
