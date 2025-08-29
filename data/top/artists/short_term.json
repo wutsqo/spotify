@@ -1,5 +1,5 @@
 {
-  "total": 18,
+  "total": 17,
   "artists": [
     {
       "external_urls": {
@@ -87,39 +87,9 @@
         }
       ],
       "name": "Barasuara",
-      "popularity": 69,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:5RbI1PF4n02wWKmgjk7hAE"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
-      },
-      "followers": { "href": null, "total": 7904056 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
-      "id": "2kxP07DLgs4xlWz8YHlvfh",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb0654e511623cba4e0e9e2f0c",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051740654e511623cba4e0e9e2f0c",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1780654e511623cba4e0e9e2f0c",
-          "width": 160
-        }
-      ],
-      "name": "NIKI",
-      "popularity": 81,
-      "type": "artist",
-      "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
     },
     {
       "external_urls": {
@@ -180,36 +150,6 @@
       "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-      },
-      "followers": { "href": null, "total": 4572336 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
-      "id": "78rUTD7y6Cy67W1RVzYs7t",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746bf10d74063b45938f5d8656",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786bf10d74063b45938f5d8656",
-          "width": 160
-        }
-      ],
-      "name": "PinkPantheress",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
     },
     {
       "external_urls": {
@@ -312,17 +252,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebff1b58e9136613fa610a8e60",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc2430b63f455505ebb8d34e1",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ff1b58e9136613fa610a8e60",
+          "url": "https://i.scdn.co/image/ab67616100005174c2430b63f455505ebb8d34e1",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ff1b58e9136613fa610a8e60",
+          "url": "https://i.scdn.co/image/ab6761610000f178c2430b63f455505ebb8d34e1",
           "width": 160
         }
       ],
@@ -363,36 +303,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
-      },
-      "followers": { "href": null, "total": 6411826 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
-      "id": "3l0CmX0FuQjFxr8SK7Vqag",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4804c4a44c85afea1a72d1bd",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744804c4a44c85afea1a72d1bd",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784804c4a44c85afea1a72d1bd",
-          "width": 160
-        }
-      ],
-      "name": "Clairo",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
       },
       "followers": { "href": null, "total": 3442355 },
@@ -420,6 +330,66 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+      },
+      "followers": { "href": null, "total": 4572336 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+      "id": "78rUTD7y6Cy67W1RVzYs7t",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051746bf10d74063b45938f5d8656",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1786bf10d74063b45938f5d8656",
+          "width": 160
+        }
+      ],
+      "name": "PinkPantheress",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
+      },
+      "followers": { "href": null, "total": 6411826 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
+      "id": "3l0CmX0FuQjFxr8SK7Vqag",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4804c4a44c85afea1a72d1bd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744804c4a44c85afea1a72d1bd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784804c4a44c85afea1a72d1bd",
+          "width": 160
+        }
+      ],
+      "name": "Clairo",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
     },
     {
       "external_urls": {
@@ -507,7 +477,7 @@
         }
       ],
       "name": "Daniel Caesar",
-      "popularity": 87,
+      "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
     },

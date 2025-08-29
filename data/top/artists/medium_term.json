@@ -1,5 +1,5 @@
 {
-  "total": 71,
+  "total": 68,
   "artists": [
     {
       "external_urls": {
@@ -147,7 +147,7 @@
         }
       ],
       "name": "Barasuara",
-      "popularity": 69,
+      "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:5RbI1PF4n02wWKmgjk7hAE"
     },
@@ -192,17 +192,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebef32954cf9860f420bc11c06",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb97365dd8db2cf1128e4b45f7",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ef32954cf9860f420bc11c06",
+          "url": "https://i.scdn.co/image/ab6761610000517497365dd8db2cf1128e4b45f7",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ef32954cf9860f420bc11c06",
+          "url": "https://i.scdn.co/image/ab6761610000f17897365dd8db2cf1128e4b45f7",
           "width": 160
         }
       ],
@@ -237,39 +237,9 @@
         }
       ],
       "name": "Radiohead",
-      "popularity": 89,
+      "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-      },
-      "followers": { "href": null, "total": 23575480 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
-      "id": "4V8LLVI7PbaPR0K2TGSxFF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdf2728294ff77dd11eeb18fb",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174df2728294ff77dd11eeb18fb",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178df2728294ff77dd11eeb18fb",
-          "width": 160
-        }
-      ],
-      "name": "Tyler, The Creator",
-      "popularity": 92,
-      "type": "artist",
-      "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
     },
     {
       "external_urls": {
@@ -300,6 +270,36 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+      },
+      "followers": { "href": null, "total": 23575480 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
+      "id": "4V8LLVI7PbaPR0K2TGSxFF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebdf2728294ff77dd11eeb18fb",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174df2728294ff77dd11eeb18fb",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178df2728294ff77dd11eeb18fb",
+          "width": 160
+        }
+      ],
+      "name": "Tyler, The Creator",
+      "popularity": 92,
+      "type": "artist",
+      "uri": "spotify:artist:4V8LLVI7PbaPR0K2TGSxFF"
     },
     {
       "external_urls": {
@@ -483,36 +483,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
-      },
-      "followers": { "href": null, "total": 6651863 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
-      "id": "7pbDxGE6nQSZVfiFdq9lOL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebee3852e6b5500f0af5315609",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ee3852e6b5500f0af5315609",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ee3852e6b5500f0af5315609",
-          "width": 160
-        }
-      ],
-      "name": "Rex Orange County",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a"
       },
       "followers": { "href": null, "total": 2142975 },
@@ -540,6 +510,36 @@
       "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:2IDLDx25HU1nQMKde4n61a"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
+      },
+      "followers": { "href": null, "total": 6651863 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
+      "id": "7pbDxGE6nQSZVfiFdq9lOL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee3852e6b5500f0af5315609",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ee3852e6b5500f0af5315609",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ee3852e6b5500f0af5315609",
+          "width": 160
+        }
+      ],
+      "name": "Rex Orange County",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:7pbDxGE6nQSZVfiFdq9lOL"
     },
     {
       "external_urls": {
@@ -747,7 +747,7 @@
         }
       ],
       "name": "Bob Atea",
-      "popularity": 9,
+      "popularity": 10,
       "type": "artist",
       "uri": "spotify:artist:1IiLN4R7igZ6Bg2fdmFPW9"
     },
@@ -807,7 +807,7 @@
         }
       ],
       "name": "Avicii",
-      "popularity": 84,
+      "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
     },
@@ -1172,7 +1172,7 @@
         }
       ],
       "name": "no na",
-      "popularity": 55,
+      "popularity": 54,
       "type": "artist",
       "uri": "spotify:artist:25ZVvmN0Tm9Os5K42swK8b"
     },
@@ -1187,17 +1187,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebff1b58e9136613fa610a8e60",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc2430b63f455505ebb8d34e1",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ff1b58e9136613fa610a8e60",
+          "url": "https://i.scdn.co/image/ab67616100005174c2430b63f455505ebb8d34e1",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ff1b58e9136613fa610a8e60",
+          "url": "https://i.scdn.co/image/ab6761610000f178c2430b63f455505ebb8d34e1",
           "width": 160
         }
       ],
@@ -1560,66 +1560,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W"
-      },
-      "followers": { "href": null, "total": 11927078 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/0Y6dVaC9DZtPNH4591M42W",
-      "id": "0Y6dVaC9DZtPNH4591M42W",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd80695211689a9c8c3fee3b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d80695211689a9c8c3fee3b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d80695211689a9c8c3fee3b0",
-          "width": 160
-        }
-      ],
-      "name": "TV Girl",
-      "popularity": 83,
-      "type": "artist",
-      "uri": "spotify:artist:0Y6dVaC9DZtPNH4591M42W"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL"
-      },
-      "followers": { "href": null, "total": 1718365 },
-      "genres": ["lo-fi indie"],
-      "href": "https://api.spotify.com/v1/artists/0m5FakHKCQdA7UN0PIzMcL",
-      "id": "0m5FakHKCQdA7UN0PIzMcL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4a0ff79c4f265a74b3037b22",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744a0ff79c4f265a74b3037b22",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784a0ff79c4f265a74b3037b22",
-          "width": 160
-        }
-      ],
-      "name": "Current Joys",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:0m5FakHKCQdA7UN0PIzMcL"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
       },
       "followers": { "href": null, "total": 13745820 },
@@ -1704,7 +1644,7 @@
         }
       ],
       "name": "Tears For Fears",
-      "popularity": 77,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:4bthk9UfsYUYdcFyqxmSUU"
     },
@@ -1734,7 +1674,7 @@
         }
       ],
       "name": "John Lennon",
-      "popularity": 72,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:4x1nvY2FN8jxqAFA0DA02H"
     },
@@ -1884,7 +1824,7 @@
         }
       ],
       "name": "Billy Joel",
-      "popularity": 83,
+      "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:6zFYqv1mOsgBRQbae3JJ9e"
     },
@@ -1974,7 +1914,7 @@
         }
       ],
       "name": "Daniel Caesar",
-      "popularity": 87,
+      "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
     },
@@ -2094,39 +2034,9 @@
         }
       ],
       "name": "Cage The Elephant",
-      "popularity": 77,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-      },
-      "followers": { "href": null, "total": 12158469 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
-      "id": "4Uc8Dsxct0oMqx0P6i60ea",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4c2b62d4748524454a6f99b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744c2b62d4748524454a6f99b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784c2b62d4748524454a6f99b0",
-          "width": 160
-        }
-      ],
-      "name": "Conan Gray",
-      "popularity": 84,
-      "type": "artist",
-      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
     },
     {
       "external_urls": {
