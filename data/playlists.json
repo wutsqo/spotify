@@ -1,5 +1,5 @@
 {
-  "total": 43,
+  "total": 44,
   "playlists": [
     {
       "collaborative": false,
@@ -120,7 +120,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
           "width": null
         }
       ],
@@ -445,6 +445,42 @@
     },
     {
       "collaborative": false,
+      "description": "dear future partner.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1exWJSwMHEUSEDa5efLVhs"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1exWJSwMHEUSEDa5efLVhs",
+      "id": "1exWJSwMHEUSEDa5efLVhs",
+      "images": [
+        {
+          "height": null,
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84164dcd79d0a06823fb67d892",
+          "width": null
+        }
+      ],
+      "name": "on my wedding day.",
+      "owner": {
+        "display_name": "purplesprkl",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/085696967329"
+        },
+        "href": "https://api.spotify.com/v1/users/085696967329",
+        "id": "085696967329",
+        "type": "user",
+        "uri": "spotify:user:085696967329"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "AAAACPgHCYfxEP83FBlKNG0XIeQgZT1M",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1exWJSwMHEUSEDa5efLVhs/tracks",
+        "total": 3
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1exWJSwMHEUSEDa5efLVhs"
+    },
+    {
+      "collaborative": false,
       "description": "",
       "external_urls": {
         "spotify": "https://open.spotify.com/playlist/0DbaAIrqenRqBJIpFGppt6"
@@ -536,7 +572,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
           "width": null
         }
       ],
@@ -1002,7 +1038,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84eeb4200b057be0480bab1b50",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84eeb4200b057be0480bab1b50",
           "width": null
         }
       ],
@@ -1038,7 +1074,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84eb4e010ca3a2f54a738cd4fe",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84eb4e010ca3a2f54a738cd4fe",
           "width": null
         }
       ],
@@ -1110,7 +1146,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846771f87d75feb46bd3670e34",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846771f87d75feb46bd3670e34",
           "width": null
         }
       ],
@@ -1163,10 +1199,10 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAMP59hC2VFsBh/SQBDByqkmykHkx2",
+      "snapshot_id": "AAAAMQmWalo78i4GRM+h43pmuEa644Ax",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/0pjLwygOBrPYVc0rG417iE/tracks",
-        "total": 200
+        "total": 202
       },
       "type": "playlist",
       "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE"
