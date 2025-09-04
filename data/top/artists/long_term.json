@@ -377,17 +377,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb274df4dfcb960867eccedfb5",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb61a7ea26d33ded218cd1e59d",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174274df4dfcb960867eccedfb5",
+          "url": "https://i.scdn.co/image/ab6761610000517461a7ea26d33ded218cd1e59d",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178274df4dfcb960867eccedfb5",
+          "url": "https://i.scdn.co/image/ab6761610000f17861a7ea26d33ded218cd1e59d",
           "width": 160
         }
       ],
@@ -587,17 +587,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc8824aec0936958401589b65",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4104fbd80f1f795728abbd59",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c8824aec0936958401589b65",
+          "url": "https://i.scdn.co/image/ab676161000051744104fbd80f1f795728abbd59",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c8824aec0936958401589b65",
+          "url": "https://i.scdn.co/image/ab6761610000f1784104fbd80f1f795728abbd59",
           "width": 160
         }
       ],
@@ -1130,6 +1130,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+      },
+      "followers": { "href": null, "total": 2309806 },
+      "genres": ["indonesian pop", "city pop"],
+      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
+      "id": "2NteKKMj3takKR3ABTd279",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebde4b65749982d5d0cd10d5e7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174de4b65749982d5d0cd10d5e7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178de4b65749982d5d0cd10d5e7",
+          "width": 160
+        }
+      ],
+      "name": "Chrisye",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
       },
       "followers": { "href": null, "total": 9594086 },
@@ -1250,33 +1280,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+        "spotify": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
       },
-      "followers": { "href": null, "total": 2309806 },
-      "genres": ["indonesian pop", "city pop"],
-      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
-      "id": "2NteKKMj3takKR3ABTd279",
+      "followers": { "href": null, "total": 6761819 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv",
+      "id": "5JZ7CnR6gTvEMKX4g70Amv",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebde4b65749982d5d0cd10d5e7",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb173d69f77530d77a991984f",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174de4b65749982d5d0cd10d5e7",
+          "url": "https://i.scdn.co/image/ab67616100005174b173d69f77530d77a991984f",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178de4b65749982d5d0cd10d5e7",
+          "url": "https://i.scdn.co/image/ab6761610000f178b173d69f77530d77a991984f",
           "width": 160
         }
       ],
-      "name": "Chrisye",
-      "popularity": 62,
+      "name": "Lauv",
+      "popularity": 77,
       "type": "artist",
-      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+      "uri": "spotify:artist:5JZ7CnR6gTvEMKX4g70Amv"
     },
     {
       "external_urls": {
@@ -1307,36 +1337,6 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:3WGpXCj9YhhfX11TToZcXP"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-      },
-      "followers": { "href": null, "total": 6761819 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/5JZ7CnR6gTvEMKX4g70Amv",
-      "id": "5JZ7CnR6gTvEMKX4g70Amv",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb173d69f77530d77a991984f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b173d69f77530d77a991984f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b173d69f77530d77a991984f",
-          "width": 160
-        }
-      ],
-      "name": "Lauv",
-      "popularity": 77,
-      "type": "artist",
-      "uri": "spotify:artist:5JZ7CnR6gTvEMKX4g70Amv"
     },
     {
       "external_urls": {
@@ -1735,36 +1735,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
-      },
-      "followers": { "href": null, "total": 10232158 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/1Hsdzj7Dlq2I7tHP7501T4",
-      "id": "1Hsdzj7Dlq2I7tHP7501T4",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174eccc1cde8e9fdcf1c9289897",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178eccc1cde8e9fdcf1c9289897",
-          "width": 160
-        }
-      ],
-      "name": "Niall Horan",
-      "popularity": 74,
-      "type": "artist",
-      "uri": "spotify:artist:1Hsdzj7Dlq2I7tHP7501T4"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
       },
       "followers": { "href": null, "total": 10353954 },
@@ -1857,6 +1827,36 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:7t0rwkOPGlDPEhaOcVtOt9"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1Hsdzj7Dlq2I7tHP7501T4"
+      },
+      "followers": { "href": null, "total": 10232158 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/1Hsdzj7Dlq2I7tHP7501T4",
+      "id": "1Hsdzj7Dlq2I7tHP7501T4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebeccc1cde8e9fdcf1c9289897",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174eccc1cde8e9fdcf1c9289897",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178eccc1cde8e9fdcf1c9289897",
+          "width": 160
+        }
+      ],
+      "name": "Niall Horan",
+      "popularity": 74,
+      "type": "artist",
+      "uri": "spotify:artist:1Hsdzj7Dlq2I7tHP7501T4"
     },
     {
       "external_urls": {
@@ -2319,17 +2319,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb80dd6b23c5c04d62d9aa0c6",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd3dfaf556b10df573a5ab1f5",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b80dd6b23c5c04d62d9aa0c6",
+          "url": "https://i.scdn.co/image/ab67616100005174d3dfaf556b10df573a5ab1f5",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b80dd6b23c5c04d62d9aa0c6",
+          "url": "https://i.scdn.co/image/ab6761610000f178d3dfaf556b10df573a5ab1f5",
           "width": 160
         }
       ],
@@ -2337,6 +2337,36 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:4MXUO7sVCaFgFjoTI5ox5c"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+      },
+      "followers": { "href": null, "total": 10220570 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/7cYEt1pqMgXJdq00hAwVpT",
+      "id": "7cYEt1pqMgXJdq00hAwVpT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba4e2d7045cbcca592ba6c7dd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a4e2d7045cbcca592ba6c7dd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a4e2d7045cbcca592ba6c7dd",
+          "width": 160
+        }
+      ],
+      "name": "Chase Atlantic",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:7cYEt1pqMgXJdq00hAwVpT"
     },
     {
       "external_urls": {
@@ -2594,17 +2624,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb86e362deb9f22566331fbdeb",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaf20f7db5288bce9beede034",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517486e362deb9f22566331fbdeb",
+          "url": "https://i.scdn.co/image/ab67616100005174af20f7db5288bce9beede034",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17886e362deb9f22566331fbdeb",
+          "url": "https://i.scdn.co/image/ab6761610000f178af20f7db5288bce9beede034",
           "width": 160
         }
       ],
@@ -2849,7 +2879,7 @@
         }
       ],
       "name": "PinkPantheress",
-      "popularity": 82,
+      "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
     },
@@ -2977,36 +3007,6 @@
       "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-      },
-      "followers": { "href": null, "total": 9433932 },
-      "genres": ["k-pop"],
-      "href": "https://api.spotify.com/v1/artists/6YVMFz59CuY7ngCxTxjpxE",
-      "id": "6YVMFz59CuY7ngCxTxjpxE",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb927f1260251e32135287e032",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174927f1260251e32135287e032",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178927f1260251e32135287e032",
-          "width": 160
-        }
-      ],
-      "name": "aespa",
-      "popularity": 80,
-      "type": "artist",
-      "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
     }
   ]
 }
