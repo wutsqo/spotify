@@ -1,11 +1,11 @@
 {
-  "total": 17,
+  "total": 18,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
       },
-      "followers": { "href": null, "total": 2309806 },
+      "followers": { "href": null, "total": 2310580 },
       "genres": ["indonesian pop", "city pop"],
       "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
       "id": "2NteKKMj3takKR3ABTd279",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
-      "followers": { "href": null, "total": 9577498 },
+      "followers": { "href": null, "total": 9627450 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
       "id": "51kyrUsAVqUBcoDEMFkX12",
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
       },
-      "followers": { "href": null, "total": 369243 },
+      "followers": { "href": null, "total": 369737 },
       "genres": ["indonesian indie", "indorock", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/5RbI1PF4n02wWKmgjk7hAE",
       "id": "5RbI1PF4n02wWKmgjk7hAE",
@@ -93,9 +93,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5ZjHIJr4arYA90bHniVAVu"
+      },
+      "followers": { "href": null, "total": 347 },
+      "genres": ["neoclassical"],
+      "href": "https://api.spotify.com/v1/artists/5ZjHIJr4arYA90bHniVAVu",
+      "id": "5ZjHIJr4arYA90bHniVAVu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb50c6530407db1368d70782b9",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517450c6530407db1368d70782b9",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17850c6530407db1368d70782b9",
+          "width": 160
+        }
+      ],
+      "name": "Anna Miernik",
+      "popularity": 39,
+      "type": "artist",
+      "uri": "spotify:artist:5ZjHIJr4arYA90bHniVAVu"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
       },
-      "followers": { "href": null, "total": 394537 },
+      "followers": { "href": null, "total": 400075 },
       "genres": ["dangdut", "lagu timur", "malay", "funkot", "malay rap"],
       "href": "https://api.spotify.com/v1/artists/6vP4azTCk053nGL0xAYnVH",
       "id": "6vP4azTCk053nGL0xAYnVH",
@@ -125,7 +155,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
-      "followers": { "href": null, "total": 19810926 },
+      "followers": { "href": null, "total": 19826402 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
       "id": "2h93pZq0e7k5yf4dywlkpM",
@@ -153,39 +183,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-      },
-      "followers": { "href": null, "total": 6261074 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/35l9BRT7MXmM8bv2WDQiyB",
-      "id": "35l9BRT7MXmM8bv2WDQiyB",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe7c6cea0c83857388127fced",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e7c6cea0c83857388127fced",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e7c6cea0c83857388127fced",
-          "width": 160
-        }
-      ],
-      "name": "beabadoobee",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
       },
-      "followers": { "href": null, "total": 6431735 },
+      "followers": { "href": null, "total": 6437750 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
       "id": "3l0CmX0FuQjFxr8SK7Vqag",
@@ -213,9 +213,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+      },
+      "followers": { "href": null, "total": 6270653 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/35l9BRT7MXmM8bv2WDQiyB",
+      "id": "35l9BRT7MXmM8bv2WDQiyB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe7c6cea0c83857388127fced",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e7c6cea0c83857388127fced",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e7c6cea0c83857388127fced",
+          "width": 160
+        }
+      ],
+      "name": "beabadoobee",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
       },
-      "followers": { "href": null, "total": 3576235 },
+      "followers": { "href": null, "total": 3622700 },
       "genres": ["indonesian indie", "indorock", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
       "id": "7Gy1PxqrgsiqWF6JNYPHeB",
@@ -243,39 +273,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
-      },
-      "followers": { "href": null, "total": 4587582 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
-      "id": "78rUTD7y6Cy67W1RVzYs7t",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051746bf10d74063b45938f5d8656",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1786bf10d74063b45938f5d8656",
-          "width": 160
-        }
-      ],
-      "name": "PinkPantheress",
-      "popularity": 81,
-      "type": "artist",
-      "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
       },
-      "followers": { "href": null, "total": 1528124 },
+      "followers": { "href": null, "total": 1533103 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
       "id": "1NjxFrpEGZTV2Ny0OJxeWu",
@@ -303,9 +303,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+      },
+      "followers": { "href": null, "total": 10463095 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
+      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e4d94f7cbebb17504c25d419",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e4d94f7cbebb17504c25d419",
+          "width": 160
+        }
+      ],
+      "name": "Daniel Caesar",
+      "popularity": 86,
+      "type": "artist",
+      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/20zafXaLhm5IcXnSU93rNn"
       },
-      "followers": { "href": null, "total": 10376300 },
+      "followers": { "href": null, "total": 10401619 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/20zafXaLhm5IcXnSU93rNn",
       "id": "20zafXaLhm5IcXnSU93rNn",
@@ -335,7 +365,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
       },
-      "followers": { "href": null, "total": 3364121 },
+      "followers": { "href": null, "total": 3377327 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
       "id": "2sSGPbdZJkaSE2AbcGOACx",
@@ -365,7 +395,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w"
       },
-      "followers": { "href": null, "total": 2595991 },
+      "followers": { "href": null, "total": 2598234 },
       "genres": ["indonesian pop", "indorock", "malay"],
       "href": "https://api.spotify.com/v1/artists/35dWPb7Tmq0WESp6KAUJ8w",
       "id": "35dWPb7Tmq0WESp6KAUJ8w",
@@ -395,7 +425,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
       },
-      "followers": { "href": null, "total": 6253027 },
+      "followers": { "href": null, "total": 6258152 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/57vWImR43h4CaDao012Ofp",
       "id": "57vWImR43h4CaDao012Ofp",
@@ -425,7 +455,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
       },
-      "followers": { "href": null, "total": 114031 },
+      "followers": { "href": null, "total": 114196 },
       "genres": ["indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/6ZKqWNmLTzV5kMwIh3VeVF",
       "id": "6ZKqWNmLTzV5kMwIh3VeVF",
@@ -453,39 +483,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
       },
-      "followers": { "href": null, "total": 10442997 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/20wkVLutqVOYrc0kxFs7rA",
-      "id": "20wkVLutqVOYrc0kxFs7rA",
+      "followers": { "href": null, "total": 4591623 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
+      "id": "78rUTD7y6Cy67W1RVzYs7t",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe4d94f7cbebb17504c25d419",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb6bf10d74063b45938f5d8656",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e4d94f7cbebb17504c25d419",
+          "url": "https://i.scdn.co/image/ab676161000051746bf10d74063b45938f5d8656",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e4d94f7cbebb17504c25d419",
+          "url": "https://i.scdn.co/image/ab6761610000f1786bf10d74063b45938f5d8656",
           "width": 160
         }
       ],
-      "name": "Daniel Caesar",
-      "popularity": 86,
+      "name": "PinkPantheress",
+      "popularity": 81,
       "type": "artist",
-      "uri": "spotify:artist:20wkVLutqVOYrc0kxFs7rA"
+      "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
       },
-      "followers": { "href": null, "total": 386003 },
+      "followers": { "href": null, "total": 385984 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/3UlOKNAlGyi7POSE9kyhfR",
       "id": "3UlOKNAlGyi7POSE9kyhfR",
@@ -507,7 +537,7 @@
         }
       ],
       "name": "Adhitia Sofyan",
-      "popularity": 56,
+      "popularity": 55,
       "type": "artist",
       "uri": "spotify:artist:3UlOKNAlGyi7POSE9kyhfR"
     }
