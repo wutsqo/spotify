@@ -1,5 +1,5 @@
 {
-  "total": 14,
+  "total": 12,
   "artists": [
     {
       "external_urls": {
@@ -333,36 +333,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
-      },
-      "followers": { "href": null, "total": 3622700 },
-      "genres": ["indonesian indie", "indorock", "indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
-      "id": "7Gy1PxqrgsiqWF6JNYPHeB",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb16f030ca05d4d917cdc2eb5e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517416f030ca05d4d917cdc2eb5e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17816f030ca05d4d917cdc2eb5e",
-          "width": 160
-        }
-      ],
-      "name": ".Feast",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
       "followers": { "href": null, "total": 19826402 },
@@ -390,36 +360,6 @@
       "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR"
-      },
-      "followers": { "href": null, "total": 385984 },
-      "genres": ["indonesian indie", "indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/3UlOKNAlGyi7POSE9kyhfR",
-      "id": "3UlOKNAlGyi7POSE9kyhfR",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb152916c8130060bf65b914ca",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174152916c8130060bf65b914ca",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178152916c8130060bf65b914ca",
-          "width": 160
-        }
-      ],
-      "name": "Adhitia Sofyan",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:3UlOKNAlGyi7POSE9kyhfR"
     }
   ]
 }

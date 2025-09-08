@@ -920,36 +920,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
-      },
-      "followers": { "href": null, "total": 2310580 },
-      "genres": ["indonesian pop", "city pop"],
-      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
-      "id": "2NteKKMj3takKR3ABTd279",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebde4b65749982d5d0cd10d5e7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174de4b65749982d5d0cd10d5e7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178de4b65749982d5d0cd10d5e7",
-          "width": 160
-        }
-      ],
-      "name": "Chrisye",
-      "popularity": 62,
-      "type": "artist",
-      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
       },
       "followers": { "href": null, "total": 6190641 },
@@ -1157,6 +1127,36 @@
       "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+      },
+      "followers": { "href": null, "total": 2310580 },
+      "genres": ["indonesian pop", "city pop"],
+      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
+      "id": "2NteKKMj3takKR3ABTd279",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebde4b65749982d5d0cd10d5e7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174de4b65749982d5d0cd10d5e7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178de4b65749982d5d0cd10d5e7",
+          "width": 160
+        }
+      ],
+      "name": "Chrisye",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
     },
     {
       "external_urls": {

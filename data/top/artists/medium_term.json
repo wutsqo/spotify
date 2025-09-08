@@ -153,36 +153,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
-      },
-      "followers": { "href": null, "total": 2310580 },
-      "genres": ["indonesian pop", "city pop"],
-      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
-      "id": "2NteKKMj3takKR3ABTd279",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebde4b65749982d5d0cd10d5e7",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174de4b65749982d5d0cd10d5e7",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178de4b65749982d5d0cd10d5e7",
-          "width": 160
-        }
-      ],
-      "name": "Chrisye",
-      "popularity": 62,
-      "type": "artist",
-      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
       },
       "followers": { "href": null, "total": 369737 },
@@ -210,6 +180,36 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:5RbI1PF4n02wWKmgjk7hAE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+      },
+      "followers": { "href": null, "total": 2310580 },
+      "genres": ["indonesian pop", "city pop"],
+      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
+      "id": "2NteKKMj3takKR3ABTd279",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebde4b65749982d5d0cd10d5e7",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174de4b65749982d5d0cd10d5e7",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178de4b65749982d5d0cd10d5e7",
+          "width": 160
+        }
+      ],
+      "name": "Chrisye",
+      "popularity": 62,
+      "type": "artist",
+      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
     },
     {
       "external_urls": {
@@ -1495,6 +1495,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
+      },
+      "followers": { "href": null, "total": 4006015 },
+      "genres": ["indonesian indie", "indonesian pop", "indie"],
+      "href": "https://api.spotify.com/v1/artists/2Ooa3TrmlskyBftzenv6xQ",
+      "id": "2Ooa3TrmlskyBftzenv6xQ",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfc58f42abb126bbe177239cf",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174fc58f42abb126bbe177239cf",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178fc58f42abb126bbe177239cf",
+          "width": 160
+        }
+      ],
+      "name": "Payung Teduh",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:2Ooa3TrmlskyBftzenv6xQ"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
       },
       "followers": { "href": null, "total": 7550982 },
@@ -1737,36 +1767,6 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:6q87vizIEdEN4NvlR6mjfT"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2Ooa3TrmlskyBftzenv6xQ"
-      },
-      "followers": { "href": null, "total": 4006015 },
-      "genres": ["indonesian indie", "indonesian pop", "indie"],
-      "href": "https://api.spotify.com/v1/artists/2Ooa3TrmlskyBftzenv6xQ",
-      "id": "2Ooa3TrmlskyBftzenv6xQ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebfc58f42abb126bbe177239cf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174fc58f42abb126bbe177239cf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178fc58f42abb126bbe177239cf",
-          "width": 160
-        }
-      ],
-      "name": "Payung Teduh",
-      "popularity": 67,
-      "type": "artist",
-      "uri": "spotify:artist:2Ooa3TrmlskyBftzenv6xQ"
     },
     {
       "external_urls": {
