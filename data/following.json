@@ -6,7 +6,12 @@
         "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
       },
       "followers": { "href": null, "total": 3809020 },
-      "genres": ["indonesian indie", "indorock", "indonesian pop"],
+      "genres": [
+        "indonesian indie",
+        "indonesian rock",
+        "indorock",
+        "indonesian pop"
+      ],
       "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
       "id": "7Gy1PxqrgsiqWF6JNYPHeB",
       "images": [
@@ -66,7 +71,12 @@
         "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
       },
       "followers": { "href": null, "total": 2313696 },
-      "genres": ["indonesian pop", "city pop"],
+      "genres": [
+        "pop kreatif",
+        "indonesian pop",
+        "indonesian jazz",
+        "city pop"
+      ],
       "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
       "id": "2NteKKMj3takKR3ABTd279",
       "images": [
@@ -95,7 +105,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
-      "followers": { "href": null, "total": 9830946 },
+      "followers": { "href": null, "total": 9858699 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
       "id": "51kyrUsAVqUBcoDEMFkX12",
@@ -186,7 +196,7 @@
         "spotify": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
       },
       "followers": { "href": null, "total": 8098134 },
-      "genres": [],
+      "genres": ["indonesian r&b"],
       "href": "https://api.spotify.com/v1/artists/2kxP07DLgs4xlWz8YHlvfh",
       "id": "2kxP07DLgs4xlWz8YHlvfh",
       "images": [
@@ -215,7 +225,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 6677457 },
+      "followers": { "href": null, "total": 6678930 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -245,7 +255,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
       },
-      "followers": { "href": null, "total": 1553947 },
+      "followers": { "href": null, "total": 1556693 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
       "id": "1NjxFrpEGZTV2Ny0OJxeWu",
@@ -275,7 +285,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
-      "followers": { "href": null, "total": 7903876 },
+      "followers": { "href": null, "total": 7905106 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
       "id": "3mIj9lX2MWuHmhNCA7LSCW",
@@ -336,7 +346,14 @@
         "spotify": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
       },
       "followers": { "href": null, "total": 17508 },
-      "genres": ["indonesian indie", "electro r&b", "breakcore"],
+      "genres": [
+        "hipdut",
+        "indonesian indie",
+        "indonesian r&b",
+        "electro r&b",
+        "indonesian hip hop",
+        "breakcore"
+      ],
       "href": "https://api.spotify.com/v1/artists/5L3RqiyBaI1VDhbNkzhdjc",
       "id": "5L3RqiyBaI1VDhbNkzhdjc",
       "images": [
