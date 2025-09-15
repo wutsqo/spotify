@@ -1,11 +1,41 @@
 {
-  "total": 13,
+  "total": 12,
   "artists": [
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+      },
+      "followers": { "href": null, "total": 1559596 },
+      "genres": ["indonesian indie", "indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee44c322de1daaa43c1fba40",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ee44c322de1daaa43c1fba40",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ee44c322de1daaa43c1fba40",
+          "width": 160
+        }
+      ],
+      "name": "Sal Priadi",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
+    },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
       },
-      "followers": { "href": null, "total": 2313696 },
+      "followers": { "href": null, "total": 2314352 },
       "genres": [
         "pop kreatif",
         "indonesian pop",
@@ -38,39 +68,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-      },
-      "followers": { "href": null, "total": 1556693 },
-      "genres": ["indonesian indie", "indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
-      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebee44c322de1daaa43c1fba40",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174ee44c322de1daaa43c1fba40",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178ee44c322de1daaa43c1fba40",
-          "width": 160
-        }
-      ],
-      "name": "Sal Priadi",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
-      "followers": { "href": null, "total": 9830946 },
+      "followers": { "href": null, "total": 9886147 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
       "id": "51kyrUsAVqUBcoDEMFkX12",
@@ -100,7 +100,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
       },
-      "followers": { "href": null, "total": 372835 },
+      "followers": { "href": null, "total": 373524 },
       "genres": [
         "indonesian indie",
         "indonesian indie rock",
@@ -136,7 +136,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w"
       },
-      "followers": { "href": null, "total": 2612763 },
+      "followers": { "href": null, "total": 2618655 },
       "genres": ["indonesian pop", "indonesian rock", "indorock", "malay"],
       "href": "https://api.spotify.com/v1/artists/35dWPb7Tmq0WESp6KAUJ8w",
       "id": "35dWPb7Tmq0WESp6KAUJ8w",
@@ -166,7 +166,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5ZjHIJr4arYA90bHniVAVu"
       },
-      "followers": { "href": null, "total": 349 },
+      "followers": { "href": null, "total": 351 },
       "genres": ["neoclassical"],
       "href": "https://api.spotify.com/v1/artists/5ZjHIJr4arYA90bHniVAVu",
       "id": "5ZjHIJr4arYA90bHniVAVu",
@@ -188,7 +188,7 @@
         }
       ],
       "name": "Anna Miernik",
-      "popularity": 39,
+      "popularity": 38,
       "type": "artist",
       "uri": "spotify:artist:5ZjHIJr4arYA90bHniVAVu"
     },
@@ -196,7 +196,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
       },
-      "followers": { "href": null, "total": 114781 },
+      "followers": { "href": null, "total": 114917 },
       "genres": [
         "indonesian pop",
         "indonesian jazz",
@@ -229,47 +229,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
-      },
-      "followers": { "href": null, "total": 424753 },
-      "genres": [
-        "hipdut",
-        "lagu timur",
-        "dangdut",
-        "malay",
-        "funkot",
-        "koplo",
-        "malay rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6vP4azTCk053nGL0xAYnVH",
-      "id": "6vP4azTCk053nGL0xAYnVH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc2430b63f455505ebb8d34e1",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c2430b63f455505ebb8d34e1",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c2430b63f455505ebb8d34e1",
-          "width": 160
-        }
-      ],
-      "name": "Tenxi",
-      "popularity": 76,
-      "type": "artist",
-      "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
       },
-      "followers": { "href": null, "total": 6466780 },
+      "followers": { "href": null, "total": 6468906 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
       "id": "3l0CmX0FuQjFxr8SK7Vqag",
@@ -299,7 +261,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
       },
-      "followers": { "href": null, "total": 6309238 },
+      "followers": { "href": null, "total": 6319076 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/35l9BRT7MXmM8bv2WDQiyB",
       "id": "35l9BRT7MXmM8bv2WDQiyB",
@@ -329,7 +291,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
       },
-      "followers": { "href": null, "total": 3442774 },
+      "followers": { "href": null, "total": 3450876 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
       "id": "2sSGPbdZJkaSE2AbcGOACx",
@@ -351,7 +313,7 @@
         }
       ],
       "name": "The Marías",
-      "popularity": 86,
+      "popularity": 87,
       "type": "artist",
       "uri": "spotify:artist:2sSGPbdZJkaSE2AbcGOACx"
     },
@@ -359,7 +321,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
       },
-      "followers": { "href": null, "total": 3809020 },
+      "followers": { "href": null, "total": 3859673 },
       "genres": [
         "indonesian indie",
         "indonesian rock",
@@ -394,7 +356,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
-      "followers": { "href": null, "total": 19889228 },
+      "followers": { "href": null, "total": 19904355 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
       "id": "2h93pZq0e7k5yf4dywlkpM",
