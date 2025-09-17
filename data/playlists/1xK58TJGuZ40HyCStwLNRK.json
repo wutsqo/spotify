@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 5205 },
+  "followers": { "href": null, "total": 5207 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -1413,7 +1413,7 @@
         "href": "https://api.spotify.com/v1/tracks/1nPjPnOhuKXhhjHA5LSaqL",
         "id": "1nPjPnOhuKXhhjHA5LSaqL",
         "name": "Ruby",
-        "popularity": 41,
+        "popularity": 40,
         "uri": "spotify:track:1nPjPnOhuKXhhjHA5LSaqL",
         "is_local": false
       },
@@ -2521,7 +2521,7 @@
         "href": "https://api.spotify.com/v1/tracks/3ixTiPABjqkBKPocxq6oIe",
         "id": "3ixTiPABjqkBKPocxq6oIe",
         "name": "Don't Look Back In Anger",
-        "popularity": 1,
+        "popularity": 2,
         "uri": "spotify:track:3ixTiPABjqkBKPocxq6oIe",
         "is_local": false
       },
@@ -16142,17 +16142,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736ee351b466462557e0ca8fb3",
+              "url": "https://i.scdn.co/image/ab67616d0000b27317cb878012a0c769091e8045",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026ee351b466462557e0ca8fb3",
+              "url": "https://i.scdn.co/image/ab67616d00001e0217cb878012a0c769091e8045",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516ee351b466462557e0ca8fb3",
+              "url": "https://i.scdn.co/image/ab67616d0000485117cb878012a0c769091e8045",
               "width": 64
             }
           ],
@@ -24933,7 +24933,7 @@
         "href": "https://api.spotify.com/v1/tracks/4WfV1CNg91SBp8oG0VY0VB",
         "id": "4WfV1CNg91SBp8oG0VY0VB",
         "name": "Crush",
-        "popularity": 23,
+        "popularity": 22,
         "uri": "spotify:track:4WfV1CNg91SBp8oG0VY0VB",
         "is_local": false
       },
@@ -29141,7 +29141,7 @@
         "href": "https://api.spotify.com/v1/tracks/6YArGkJUr82ehzRFa2YaRK",
         "id": "6YArGkJUr82ehzRFa2YaRK",
         "name": "Wake Me",
-        "popularity": 55,
+        "popularity": 54,
         "uri": "spotify:track:6YArGkJUr82ehzRFa2YaRK",
         "is_local": false
       },
@@ -32144,17 +32144,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731144029c4b92fe0a0c6c6477",
+              "url": "https://i.scdn.co/image/ab67616d0000b273e895ebededd1f73a2c875ce6",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e021144029c4b92fe0a0c6c6477",
+              "url": "https://i.scdn.co/image/ab67616d00001e02e895ebededd1f73a2c875ce6",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048511144029c4b92fe0a0c6c6477",
+              "url": "https://i.scdn.co/image/ab67616d00004851e895ebededd1f73a2c875ce6",
               "width": 64
             }
           ],
@@ -33769,7 +33769,7 @@
         "href": "https://api.spotify.com/v1/tracks/0SpkyS1Q4MD8GaVcP5YjT4",
         "id": "0SpkyS1Q4MD8GaVcP5YjT4",
         "name": "Sunsetz",
-        "popularity": 17,
+        "popularity": 16,
         "uri": "spotify:track:0SpkyS1Q4MD8GaVcP5YjT4",
         "is_local": false
       },
@@ -41147,7 +41147,7 @@
         "href": "https://api.spotify.com/v1/tracks/7LNm1oWd6PniO9wRYpNY5o",
         "id": "7LNm1oWd6PniO9wRYpNY5o",
         "name": "j's lullaby (darlin' i'd wait for you)",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:7LNm1oWd6PniO9wRYpNY5o",
         "is_local": false
       },
@@ -44333,7 +44333,7 @@
         "href": "https://api.spotify.com/v1/tracks/1LF3HPHVajnRT1mPCOqfOF",
         "id": "1LF3HPHVajnRT1mPCOqfOF",
         "name": "Another (Demo) One #2",
-        "popularity": 17,
+        "popularity": 16,
         "uri": "spotify:track:1LF3HPHVajnRT1mPCOqfOF",
         "is_local": false
       },
@@ -57438,17 +57438,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736ee351b466462557e0ca8fb3",
+              "url": "https://i.scdn.co/image/ab67616d0000b27317cb878012a0c769091e8045",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026ee351b466462557e0ca8fb3",
+              "url": "https://i.scdn.co/image/ab67616d00001e0217cb878012a0c769091e8045",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516ee351b466462557e0ca8fb3",
+              "url": "https://i.scdn.co/image/ab67616d0000485117cb878012a0c769091e8045",
               "width": 64
             }
           ],
@@ -62346,17 +62346,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2736ee351b466462557e0ca8fb3",
+              "url": "https://i.scdn.co/image/ab67616d0000b27317cb878012a0c769091e8045",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e026ee351b466462557e0ca8fb3",
+              "url": "https://i.scdn.co/image/ab67616d00001e0217cb878012a0c769091e8045",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048516ee351b466462557e0ca8fb3",
+              "url": "https://i.scdn.co/image/ab67616d0000485117cb878012a0c769091e8045",
               "width": 64
             }
           ],
@@ -69805,7 +69805,7 @@
         "href": "https://api.spotify.com/v1/tracks/3qhlB30KknSejmIvZZLjOD",
         "id": "3qhlB30KknSejmIvZZLjOD",
         "name": "End of Beginning",
-        "popularity": 88,
+        "popularity": 89,
         "uri": "spotify:track:3qhlB30KknSejmIvZZLjOD",
         "is_local": false
       },
@@ -82987,7 +82987,7 @@
         "href": "https://api.spotify.com/v1/tracks/3kQfBtkQqgN1fAMfhks8TU",
         "id": "3kQfBtkQqgN1fAMfhks8TU",
         "name": "Need 2",
-        "popularity": 75,
+        "popularity": 74,
         "uri": "spotify:track:3kQfBtkQqgN1fAMfhks8TU",
         "is_local": false
       },
