@@ -1,11 +1,11 @@
 {
-  "total": 13,
+  "total": 16,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
       },
-      "followers": { "href": null, "total": 1566730 },
+      "followers": { "href": null, "total": 1569095 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
       "id": "1NjxFrpEGZTV2Ny0OJxeWu",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
-      "followers": { "href": null, "total": 9954224 },
+      "followers": { "href": null, "total": 9977033 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
       "id": "51kyrUsAVqUBcoDEMFkX12",
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
       },
-      "followers": { "href": null, "total": 2315451 },
+      "followers": { "href": null, "total": 2315886 },
       "genres": [
         "pop kreatif",
         "indonesian pop",
@@ -100,7 +100,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
       },
-      "followers": { "href": null, "total": 444720 },
+      "followers": { "href": null, "total": 448865 },
       "genres": [
         "hipdut",
         "lagu timur",
@@ -138,7 +138,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
       },
-      "followers": { "href": null, "total": 374383 },
+      "followers": { "href": null, "total": 374684 },
       "genres": [
         "indonesian indie",
         "indonesian indie rock",
@@ -174,7 +174,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w"
       },
-      "followers": { "href": null, "total": 2626520 },
+      "followers": { "href": null, "total": 2629056 },
       "genres": ["indonesian pop", "indonesian rock", "indorock", "malay"],
       "href": "https://api.spotify.com/v1/artists/35dWPb7Tmq0WESp6KAUJ8w",
       "id": "35dWPb7Tmq0WESp6KAUJ8w",
@@ -234,7 +234,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag"
       },
-      "followers": { "href": null, "total": 6479357 },
+      "followers": { "href": null, "total": 6482949 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/3l0CmX0FuQjFxr8SK7Vqag",
       "id": "3l0CmX0FuQjFxr8SK7Vqag",
@@ -264,7 +264,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
       },
-      "followers": { "href": null, "total": 115125 },
+      "followers": { "href": null, "total": 115192 },
       "genres": [
         "indonesian pop",
         "indonesian jazz",
@@ -299,7 +299,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
       },
-      "followers": { "href": null, "total": 6334270 },
+      "followers": { "href": null, "total": 6339495 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/35l9BRT7MXmM8bv2WDQiyB",
       "id": "35l9BRT7MXmM8bv2WDQiyB",
@@ -327,9 +327,69 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3ekJhHQWBcEIstWRJc62hi"
+      },
+      "followers": { "href": null, "total": 37895 },
+      "genres": ["italo dance", "schlager", "schlagerparty"],
+      "href": "https://api.spotify.com/v1/artists/3ekJhHQWBcEIstWRJc62hi",
+      "id": "3ekJhHQWBcEIstWRJc62hi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb65a9eff459a33c692f335a80",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517465a9eff459a33c692f335a80",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17865a9eff459a33c692f335a80",
+          "width": 160
+        }
+      ],
+      "name": "Esteriore Brothers",
+      "popularity": 49,
+      "type": "artist",
+      "uri": "spotify:artist:3ekJhHQWBcEIstWRJc62hi"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/00w9sdZ78mWArooTmiSTld"
+      },
+      "followers": { "href": null, "total": 434752 },
+      "genres": ["italo dance", "italian singer-songwriter"],
+      "href": "https://api.spotify.com/v1/artists/00w9sdZ78mWArooTmiSTld",
+      "id": "00w9sdZ78mWArooTmiSTld",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb52c81324c1e17c2e8b1d87b6",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517452c81324c1e17c2e8b1d87b6",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17852c81324c1e17c2e8b1d87b6",
+          "width": 160
+        }
+      ],
+      "name": "Umberto Tozzi",
+      "popularity": 64,
+      "type": "artist",
+      "uri": "spotify:artist:00w9sdZ78mWArooTmiSTld"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
       },
-      "followers": { "href": null, "total": 3474688 },
+      "followers": { "href": null, "total": 3483361 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/2sSGPbdZJkaSE2AbcGOACx",
       "id": "2sSGPbdZJkaSE2AbcGOACx",
@@ -359,7 +419,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
       },
-      "followers": { "href": null, "total": 3920852 },
+      "followers": { "href": null, "total": 3940965 },
       "genres": [
         "indonesian indie",
         "indonesian rock",
@@ -394,7 +454,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
-      "followers": { "href": null, "total": 19933308 },
+      "followers": { "href": null, "total": 19943237 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
       "id": "2h93pZq0e7k5yf4dywlkpM",
@@ -419,6 +479,36 @@
       "popularity": 88,
       "type": "artist",
       "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5BwOOeKayeMZXa5SSaiRxv"
+      },
+      "followers": { "href": null, "total": 297644 },
+      "genres": ["italo dance", "italo disco"],
+      "href": "https://api.spotify.com/v1/artists/5BwOOeKayeMZXa5SSaiRxv",
+      "id": "5BwOOeKayeMZXa5SSaiRxv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb56d025ec4efa356f8d72a536",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517456d025ec4efa356f8d72a536",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17856d025ec4efa356f8d72a536",
+          "width": 160
+        }
+      ],
+      "name": "Ricchi E Poveri",
+      "popularity": 67,
+      "type": "artist",
+      "uri": "spotify:artist:5BwOOeKayeMZXa5SSaiRxv"
     }
   ]
 }
