@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/2sf5zMRhz2iBLdOj9gwwcP"
   },
-  "followers": { "href": null, "total": 2747 },
+  "followers": { "href": null, "total": 2748 },
   "href": "https://api.spotify.com/v1/playlists/2sf5zMRhz2iBLdOj9gwwcP?locale=*",
   "id": "2sf5zMRhz2iBLdOj9gwwcP",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
       "width": null
     }
   ],
@@ -577,7 +577,7 @@
         "href": "https://api.spotify.com/v1/tracks/4Ai0ANRDYwx6mCD4Uty1WS",
         "id": "4Ai0ANRDYwx6mCD4Uty1WS",
         "name": "Piledriver Waltz",
-        "popularity": 62,
+        "popularity": 61,
         "uri": "spotify:track:4Ai0ANRDYwx6mCD4Uty1WS",
         "is_local": false
       },

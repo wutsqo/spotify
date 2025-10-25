@@ -1,6 +1,25 @@
 {
-  "total": 13,
+  "total": 14,
   "albums": [
+    {
+      "id": "2WbgQIggT3i5OUr94vlcUT",
+      "name": "i feel everything",
+      "added_at": "2025-10-24T11:43:15Z",
+      "type": "album",
+      "total_tracks": 16,
+      "url": "https://open.spotify.com/album/2WbgQIggT3i5OUr94vlcUT",
+      "image_url": "https://i.scdn.co/image/ab67616d0000b273291ebf2e3b38ea1c2454d6dc",
+      "release_date": "2025-10-17",
+      "artists": [
+        {
+          "id": "0uGk2czvcpWQA383Im6ajf",
+          "name": "Maggie Lindemann",
+          "url": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
+        }
+      ],
+      "genres": [],
+      "popularity": 57
+    },
     {
       "id": "6HiRRMXgflIyrpjCiPW8rU",
       "name": "Doves, '25 on Blank Canvas",
@@ -75,7 +94,7 @@
         }
       ],
       "genres": [],
-      "popularity": 47
+      "popularity": 48
     },
     {
       "id": "0um9FI6BLBldL5POP4D4Cw",

@@ -964,12 +964,7 @@
         "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
       },
       "followers": { "href": null, "total": 2321399 },
-      "genres": [
-        "pop kreatif",
-        "indonesian pop",
-        "indonesian jazz",
-        "city pop"
-      ],
+      "genres": ["pop kreatif", "indonesian pop", "indonesian jazz"],
       "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
       "id": "2NteKKMj3takKR3ABTd279",
       "images": [
@@ -1176,7 +1171,7 @@
         }
       ],
       "name": "Avicii",
-      "popularity": 78,
+      "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
     },
@@ -1580,7 +1575,7 @@
         }
       ],
       "name": "Tenxi",
-      "popularity": 73,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH"
     },
@@ -1945,7 +1940,7 @@
         }
       ],
       "name": "Sunwich",
-      "popularity": 28,
+      "popularity": 29,
       "type": "artist",
       "uri": "spotify:artist:45KFMEB3QETjFvFME86vYO"
     },
@@ -2826,7 +2821,7 @@
         }
       ],
       "name": "Phoebe Bridgers",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:1r1uxoy19fzMxunt3ONAkG"
     },
