@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 442343 },
+  "followers": { "href": null, "total": 442468 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
       "width": null
     }
   ],
@@ -1873,7 +1873,7 @@
         "href": "https://api.spotify.com/v1/tracks/6YJYhPKP7MRzJSHqe3QI9K",
         "id": "6YJYhPKP7MRzJSHqe3QI9K",
         "name": "Garbage",
-        "popularity": 76,
+        "popularity": 75,
         "uri": "spotify:track:6YJYhPKP7MRzJSHqe3QI9K",
         "is_local": false
       },
@@ -6031,7 +6031,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FbMtvXMcjmuAzlAhgwK0I",
         "id": "3FbMtvXMcjmuAzlAhgwK0I",
         "name": "Intentions",
-        "popularity": 72,
+        "popularity": 71,
         "uri": "spotify:track:3FbMtvXMcjmuAzlAhgwK0I",
         "is_local": false
       },
@@ -26767,7 +26767,7 @@
         "href": "https://api.spotify.com/v1/tracks/773xZHHSHJvC1z3AAtWgH6",
         "id": "773xZHHSHJvC1z3AAtWgH6",
         "name": "Ode to Sleep",
-        "popularity": 63,
+        "popularity": 62,
         "uri": "spotify:track:773xZHHSHJvC1z3AAtWgH6",
         "is_local": false
       },
