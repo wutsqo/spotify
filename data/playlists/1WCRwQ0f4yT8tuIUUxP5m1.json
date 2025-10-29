@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 442708 },
+  "followers": { "href": null, "total": 442809 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
       "width": null
     }
   ],
@@ -1411,7 +1411,7 @@
         "href": "https://api.spotify.com/v1/tracks/4rPl7ezxtoqshKnI1kk3dX",
         "id": "4rPl7ezxtoqshKnI1kk3dX",
         "name": "Drum Show",
-        "popularity": 70,
+        "popularity": 69,
         "uri": "spotify:track:4rPl7ezxtoqshKnI1kk3dX",
         "is_local": false
       },
@@ -15259,7 +15259,7 @@
         "href": "https://api.spotify.com/v1/tracks/5SehvGGC53A7SZKCLXQcyt",
         "id": "5SehvGGC53A7SZKCLXQcyt",
         "name": "Nico and the Niners",
-        "popularity": 67,
+        "popularity": 66,
         "uri": "spotify:track:5SehvGGC53A7SZKCLXQcyt",
         "is_local": false
       },
@@ -32959,7 +32959,7 @@
         "href": "https://api.spotify.com/v1/tracks/5G6Gt9RtNaeIE418pd4yre",
         "id": "5G6Gt9RtNaeIE418pd4yre",
         "name": "Smithereens",
-        "popularity": 64,
+        "popularity": 63,
         "uri": "spotify:track:5G6Gt9RtNaeIE418pd4yre",
         "is_local": false
       },
@@ -33143,7 +33143,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FvV3j98xtcylQF1drDc9j",
         "id": "3FvV3j98xtcylQF1drDc9j",
         "name": "Oh Ms Believer",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:3FvV3j98xtcylQF1drDc9j",
         "is_local": false
       },

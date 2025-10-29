@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
   },
-  "followers": { "href": null, "total": 2085 },
+  "followers": { "href": null, "total": 2084 },
   "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW?locale=*",
   "id": "5e19c9XXF0zXOpAgEmYStW",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
       "width": null
     }
   ],
@@ -18603,7 +18603,7 @@
         "href": "https://api.spotify.com/v1/tracks/5dTHtzHFPyi8TlTtzoz1J9",
         "id": "5dTHtzHFPyi8TlTtzoz1J9",
         "name": "Helena",
-        "popularity": 79,
+        "popularity": 78,
         "uri": "spotify:track:5dTHtzHFPyi8TlTtzoz1J9",
         "is_local": false
       },
@@ -34320,7 +34320,7 @@
         "href": "https://api.spotify.com/v1/tracks/0y2bqyIyVQrGnbqJZy6Kli",
         "id": "0y2bqyIyVQrGnbqJZy6Kli",
         "name": "Give It All",
-        "popularity": 45,
+        "popularity": 44,
         "uri": "spotify:track:0y2bqyIyVQrGnbqJZy6Kli",
         "is_local": false
       },
