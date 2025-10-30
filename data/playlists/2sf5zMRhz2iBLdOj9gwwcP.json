@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/2sf5zMRhz2iBLdOj9gwwcP"
   },
-  "followers": { "href": null, "total": 2745 },
+  "followers": { "href": null, "total": 2744 },
   "href": "https://api.spotify.com/v1/playlists/2sf5zMRhz2iBLdOj9gwwcP?locale=*",
   "id": "2sf5zMRhz2iBLdOj9gwwcP",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845d36e96d01a472590dc743f7",
       "width": null
     }
   ],
@@ -3331,7 +3331,7 @@
         "href": "https://api.spotify.com/v1/tracks/2zzLRQ78kKfPTx8FJQCdC2",
         "id": "2zzLRQ78kKfPTx8FJQCdC2",
         "name": "When The Sun Goes Down",
-        "popularity": 72,
+        "popularity": 71,
         "uri": "spotify:track:2zzLRQ78kKfPTx8FJQCdC2",
         "is_local": false
       },
@@ -7581,7 +7581,7 @@
         "href": "https://api.spotify.com/v1/tracks/6wVWJl64yoTzU27EI8ep20",
         "id": "6wVWJl64yoTzU27EI8ep20",
         "name": "Crying Lightning",
-        "popularity": 70,
+        "popularity": 69,
         "uri": "spotify:track:6wVWJl64yoTzU27EI8ep20",
         "is_local": false
       },
