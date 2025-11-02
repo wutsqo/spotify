@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 443111 },
+  "followers": { "href": null, "total": 443188 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
       "width": null
     }
   ],
@@ -949,7 +949,7 @@
         "href": "https://api.spotify.com/v1/tracks/43ee3gqWBlPKe2MeGJ2S6I",
         "id": "43ee3gqWBlPKe2MeGJ2S6I",
         "name": "RAWFEAR",
-        "popularity": 77,
+        "popularity": 76,
         "uri": "spotify:track:43ee3gqWBlPKe2MeGJ2S6I",
         "is_local": false
       },
@@ -2797,7 +2797,7 @@
         "href": "https://api.spotify.com/v1/tracks/11QNo3ld81pncy71q6VIic",
         "id": "11QNo3ld81pncy71q6VIic",
         "name": "Downstairs",
-        "popularity": 75,
+        "popularity": 74,
         "uri": "spotify:track:11QNo3ld81pncy71q6VIic",
         "is_local": false
       },
@@ -6031,7 +6031,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FbMtvXMcjmuAzlAhgwK0I",
         "id": "3FbMtvXMcjmuAzlAhgwK0I",
         "name": "Intentions",
-        "popularity": 71,
+        "popularity": 70,
         "uri": "spotify:track:3FbMtvXMcjmuAzlAhgwK0I",
         "is_local": false
       },
@@ -6493,7 +6493,7 @@
         "href": "https://api.spotify.com/v1/tracks/0vsW1vAlNYiy9Y5briGT8Y",
         "id": "0vsW1vAlNYiy9Y5briGT8Y",
         "name": "Doubt (demo)",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:0vsW1vAlNYiy9Y5briGT8Y",
         "is_local": false
       },
@@ -15721,7 +15721,7 @@
         "href": "https://api.spotify.com/v1/tracks/2uBhGx3m5iJrtsql8Qk00j",
         "id": "2uBhGx3m5iJrtsql8Qk00j",
         "name": "Levitate",
-        "popularity": 61,
+        "popularity": 62,
         "uri": "spotify:track:2uBhGx3m5iJrtsql8Qk00j",
         "is_local": false
       },
