@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 443188 },
+  "followers": { "href": null, "total": 443276 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
       "width": null
     }
   ],
@@ -1873,7 +1873,7 @@
         "href": "https://api.spotify.com/v1/tracks/6YJYhPKP7MRzJSHqe3QI9K",
         "id": "6YJYhPKP7MRzJSHqe3QI9K",
         "name": "Garbage",
-        "popularity": 75,
+        "popularity": 74,
         "uri": "spotify:track:6YJYhPKP7MRzJSHqe3QI9K",
         "is_local": false
       },
@@ -33143,7 +33143,7 @@
         "href": "https://api.spotify.com/v1/tracks/3FvV3j98xtcylQF1drDc9j",
         "id": "3FvV3j98xtcylQF1drDc9j",
         "name": "Oh Ms Believer",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:3FvV3j98xtcylQF1drDc9j",
         "is_local": false
       },
