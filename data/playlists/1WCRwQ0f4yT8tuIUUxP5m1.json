@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 443276 },
+  "followers": { "href": null, "total": 443360 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
       "width": null
     }
   ],
@@ -1411,7 +1411,7 @@
         "href": "https://api.spotify.com/v1/tracks/4rPl7ezxtoqshKnI1kk3dX",
         "id": "4rPl7ezxtoqshKnI1kk3dX",
         "name": "Drum Show",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:4rPl7ezxtoqshKnI1kk3dX",
         "is_local": false
       },
@@ -14335,7 +14335,7 @@
         "href": "https://api.spotify.com/v1/tracks/6i0V12jOa3mr6uu4WYhUBr",
         "id": "6i0V12jOa3mr6uu4WYhUBr",
         "name": "Heathens",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:6i0V12jOa3mr6uu4WYhUBr",
         "is_local": false
       },
@@ -32959,7 +32959,7 @@
         "href": "https://api.spotify.com/v1/tracks/5G6Gt9RtNaeIE418pd4yre",
         "id": "5G6Gt9RtNaeIE418pd4yre",
         "name": "Smithereens",
-        "popularity": 64,
+        "popularity": 63,
         "uri": "spotify:track:5G6Gt9RtNaeIE418pd4yre",
         "is_local": false
       },
