@@ -1,6 +1,86 @@
 {
-  "total": 198,
+  "total": 199,
   "tracks": [
+    {
+      "added_at": "2025-11-08T09:18:02Z",
+      "track": {
+        "album": {
+          "album_type": "single",
+          "artists": [
+            {
+              "external_urls": {
+                "spotify": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+              },
+              "href": "https://api.spotify.com/v1/artists/1Sdc6ySbIvzO0X9vbyHzWm",
+              "id": "1Sdc6ySbIvzO0X9vbyHzWm",
+              "name": "Ogryzek",
+              "type": "artist",
+              "uri": "spotify:artist:1Sdc6ySbIvzO0X9vbyHzWm"
+            }
+          ],
+          "available_markets": [],
+          "external_urls": {
+            "spotify": "https://open.spotify.com/album/06a7H7nusNMvM7yL8m3fy1"
+          },
+          "href": "https://api.spotify.com/v1/albums/06a7H7nusNMvM7yL8m3fy1",
+          "id": "06a7H7nusNMvM7yL8m3fy1",
+          "images": [
+            {
+              "height": 640,
+              "width": 640,
+              "url": "https://i.scdn.co/image/ab67616d0000b273bb7e0eb64fae8dbd5b9d2a12"
+            },
+            {
+              "height": 300,
+              "width": 300,
+              "url": "https://i.scdn.co/image/ab67616d00001e02bb7e0eb64fae8dbd5b9d2a12"
+            },
+            {
+              "height": 64,
+              "width": 64,
+              "url": "https://i.scdn.co/image/ab67616d00004851bb7e0eb64fae8dbd5b9d2a12"
+            }
+          ],
+          "is_playable": true,
+          "name": "AURA",
+          "release_date": "2024-07-12",
+          "release_date_precision": "day",
+          "total_tracks": 3,
+          "type": "album",
+          "uri": "spotify:album:06a7H7nusNMvM7yL8m3fy1"
+        },
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1Sdc6ySbIvzO0X9vbyHzWm"
+            },
+            "href": "https://api.spotify.com/v1/artists/1Sdc6ySbIvzO0X9vbyHzWm",
+            "id": "1Sdc6ySbIvzO0X9vbyHzWm",
+            "name": "Ogryzek",
+            "type": "artist",
+            "uri": "spotify:artist:1Sdc6ySbIvzO0X9vbyHzWm"
+          }
+        ],
+        "available_markets": [],
+        "disc_number": 1,
+        "duration_ms": 115906,
+        "explicit": false,
+        "external_ids": { "isrc": "USUYG1561710" },
+        "external_urls": {
+          "spotify": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj"
+        },
+        "href": "https://api.spotify.com/v1/tracks/2TNv2GxMpIO8AyPiD7TLxj",
+        "id": "2TNv2GxMpIO8AyPiD7TLxj",
+        "is_local": false,
+        "is_playable": true,
+        "name": "AURA",
+        "popularity": 73,
+        "preview_url": null,
+        "track_number": 1,
+        "type": "track",
+        "uri": "spotify:track:2TNv2GxMpIO8AyPiD7TLxj"
+      }
+    },
     {
       "added_at": "2025-11-07T03:30:03Z",
       "track": {
@@ -24240,7 +24320,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Take A Slice",
-        "popularity": 73,
+        "popularity": 74,
         "preview_url": null,
         "track_number": 9,
         "type": "track",
@@ -31841,7 +31921,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Californication",
-        "popularity": 84,
+        "popularity": 85,
         "preview_url": null,
         "track_number": 6,
         "type": "track",
@@ -36229,7 +36309,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Just the Way You Are",
-        "popularity": 84,
+        "popularity": 85,
         "preview_url": null,
         "track_number": 2,
         "type": "track",
@@ -39913,7 +39993,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Anti GanDJa",
-        "popularity": 17,
+        "popularity": 18,
         "preview_url": null,
         "track_number": 2,
         "type": "track",
@@ -41265,7 +41345,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Super Shy",
-        "popularity": 78,
+        "popularity": 79,
         "preview_url": null,
         "track_number": 2,
         "type": "track",
@@ -57891,7 +57971,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "When We Are Together",
-        "popularity": 57,
+        "popularity": 56,
         "preview_url": null,
         "track_number": 11,
         "type": "track",
@@ -68981,7 +69061,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Youngblood",
-        "popularity": 80,
+        "popularity": 81,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
@@ -79969,7 +80049,7 @@
         "is_local": false,
         "is_playable": true,
         "name": "Strawberries & Cigarettes",
-        "popularity": 74,
+        "popularity": 75,
         "preview_url": null,
         "track_number": 1,
         "type": "track",
