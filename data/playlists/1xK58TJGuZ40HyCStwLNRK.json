@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 5261 },
+  "followers": { "href": null, "total": 5260 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
@@ -2521,7 +2521,7 @@
         "href": "https://api.spotify.com/v1/tracks/3ixTiPABjqkBKPocxq6oIe",
         "id": "3ixTiPABjqkBKPocxq6oIe",
         "name": "Don't Look Back In Anger",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3ixTiPABjqkBKPocxq6oIe",
         "is_local": false
       },
@@ -7695,7 +7695,7 @@
         "href": "https://api.spotify.com/v1/tracks/7zwn1eykZtZ5LODrf7c0tS",
         "id": "7zwn1eykZtZ5LODrf7c0tS",
         "name": "You Get Me So High",
-        "popularity": 80,
+        "popularity": 81,
         "uri": "spotify:track:7zwn1eykZtZ5LODrf7c0tS",
         "is_local": false
       },
@@ -44331,7 +44331,7 @@
         "href": "https://api.spotify.com/v1/tracks/1LF3HPHVajnRT1mPCOqfOF",
         "id": "1LF3HPHVajnRT1mPCOqfOF",
         "name": "Another (Demo) One #2",
-        "popularity": 4,
+        "popularity": 3,
         "uri": "spotify:track:1LF3HPHVajnRT1mPCOqfOF",
         "is_local": false
       },
@@ -44793,7 +44793,7 @@
         "href": "https://api.spotify.com/v1/tracks/5M4yti0QxgqJieUYaEXcpw",
         "id": "5M4yti0QxgqJieUYaEXcpw",
         "name": "Eventually",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:5M4yti0QxgqJieUYaEXcpw",
         "is_local": false
       },
@@ -62511,7 +62511,7 @@
         "href": "https://api.spotify.com/v1/tracks/7vPHiwgCOAjSBRjAirbMvS",
         "id": "7vPHiwgCOAjSBRjAirbMvS",
         "name": "Sea, Swallow Me",
-        "popularity": 65,
+        "popularity": 64,
         "uri": "spotify:track:7vPHiwgCOAjSBRjAirbMvS",
         "is_local": false
       },
