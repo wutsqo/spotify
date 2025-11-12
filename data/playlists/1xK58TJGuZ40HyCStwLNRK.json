@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 5260 },
+  "followers": { "href": null, "total": 5258 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
@@ -2521,7 +2521,7 @@
         "href": "https://api.spotify.com/v1/tracks/3ixTiPABjqkBKPocxq6oIe",
         "id": "3ixTiPABjqkBKPocxq6oIe",
         "name": "Don't Look Back In Anger",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:3ixTiPABjqkBKPocxq6oIe",
         "is_local": false
       },
@@ -4929,7 +4929,7 @@
         "href": "https://api.spotify.com/v1/tracks/35YyxFpE0ZTOoqFx5bADW8",
         "id": "35YyxFpE0ZTOoqFx5bADW8",
         "name": "Nude",
-        "popularity": 73,
+        "popularity": 74,
         "uri": "spotify:track:35YyxFpE0ZTOoqFx5bADW8",
         "is_local": false
       },
@@ -18139,7 +18139,7 @@
         "href": "https://api.spotify.com/v1/tracks/6IRzBP4gVoV4D2zHmocoWy",
         "id": "6IRzBP4gVoV4D2zHmocoWy",
         "name": "Eternal Summer",
-        "popularity": 59,
+        "popularity": 60,
         "uri": "spotify:track:6IRzBP4gVoV4D2zHmocoWy",
         "is_local": false
       },
@@ -19343,7 +19343,7 @@
         "href": "https://api.spotify.com/v1/tracks/7nbAMKGkPMjc4EuNNsjXqZ",
         "id": "7nbAMKGkPMjc4EuNNsjXqZ",
         "name": "Neon Moon",
-        "popularity": 41,
+        "popularity": 42,
         "uri": "spotify:track:7nbAMKGkPMjc4EuNNsjXqZ",
         "is_local": false
       },
@@ -29546,17 +29546,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731a721f3757e5b67f87e1acd3",
+              "url": "https://i.scdn.co/image/ab67616d0000b2735aa30ba7fff59083baccc773",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e021a721f3757e5b67f87e1acd3",
+              "url": "https://i.scdn.co/image/ab67616d00001e025aa30ba7fff59083baccc773",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048511a721f3757e5b67f87e1acd3",
+              "url": "https://i.scdn.co/image/ab67616d000048515aa30ba7fff59083baccc773",
               "width": 64
             }
           ],
@@ -30623,7 +30623,7 @@
         "href": "https://api.spotify.com/v1/tracks/1BYZxKSf0aTxp8ZFoeyM3d",
         "id": "1BYZxKSf0aTxp8ZFoeyM3d",
         "name": "we fell in love in october",
-        "popularity": 3,
+        "popularity": 2,
         "uri": "spotify:track:1BYZxKSf0aTxp8ZFoeyM3d",
         "is_local": false
       },
@@ -38025,7 +38025,7 @@
         "href": "https://api.spotify.com/v1/tracks/0UV5zxRMz6AO4ZwUOZNIKI",
         "id": "0UV5zxRMz6AO4ZwUOZNIKI",
         "name": "Where'd All the Time Go?",
-        "popularity": 79,
+        "popularity": 80,
         "uri": "spotify:track:0UV5zxRMz6AO4ZwUOZNIKI",
         "is_local": false
       },
@@ -56696,17 +56696,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b2731a721f3757e5b67f87e1acd3",
+              "url": "https://i.scdn.co/image/ab67616d0000b2735aa30ba7fff59083baccc773",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e021a721f3757e5b67f87e1acd3",
+              "url": "https://i.scdn.co/image/ab67616d00001e025aa30ba7fff59083baccc773",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d000048511a721f3757e5b67f87e1acd3",
+              "url": "https://i.scdn.co/image/ab67616d000048515aa30ba7fff59083baccc773",
               "width": 64
             }
           ],
@@ -58807,7 +58807,7 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
+        "explicit": true,
         "type": "track",
         "episode": false,
         "track": true,
@@ -59063,7 +59063,7 @@
         "href": "https://api.spotify.com/v1/tracks/6Uwi2Qk3H7fM4b4W4ExrAp",
         "id": "6Uwi2Qk3H7fM4b4W4ExrAp",
         "name": "Scott Street",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:6Uwi2Qk3H7fM4b4W4ExrAp",
         "is_local": false
       },
@@ -59617,7 +59617,7 @@
         "href": "https://api.spotify.com/v1/tracks/6YTUGuz1IzqKFpNm0yGQws",
         "id": "6YTUGuz1IzqKFpNm0yGQws",
         "name": "I Wouldn't Ask You",
-        "popularity": 16,
+        "popularity": 15,
         "uri": "spotify:track:6YTUGuz1IzqKFpNm0yGQws",
         "is_local": false
       },
@@ -62511,7 +62511,7 @@
         "href": "https://api.spotify.com/v1/tracks/7vPHiwgCOAjSBRjAirbMvS",
         "id": "7vPHiwgCOAjSBRjAirbMvS",
         "name": "Sea, Swallow Me",
-        "popularity": 64,
+        "popularity": 65,
         "uri": "spotify:track:7vPHiwgCOAjSBRjAirbMvS",
         "is_local": false
       },
@@ -79651,7 +79651,7 @@
         "href": "https://api.spotify.com/v1/tracks/6UFivO2zqqPFPoQYsEMuCc",
         "id": "6UFivO2zqqPFPoQYsEMuCc",
         "name": "Bags",
-        "popularity": 41,
+        "popularity": 40,
         "uri": "spotify:track:6UFivO2zqqPFPoQYsEMuCc",
         "is_local": false
       },
@@ -83100,17 +83100,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273c6084929566743530de8c721",
+              "url": "https://i.scdn.co/image/ab67616d0000b273033dbfae219de887bd94952a",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02c6084929566743530de8c721",
+              "url": "https://i.scdn.co/image/ab67616d00001e02033dbfae219de887bd94952a",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851c6084929566743530de8c721",
+              "url": "https://i.scdn.co/image/ab67616d00004851033dbfae219de887bd94952a",
               "width": 64
             }
           ],
@@ -92437,7 +92437,7 @@
         "href": "https://api.spotify.com/v1/tracks/3LSfoRpyN83w68NgkpeGLR",
         "id": "3LSfoRpyN83w68NgkpeGLR",
         "name": "Long Sardine x Mr. Brightside",
-        "popularity": 46,
+        "popularity": 45,
         "uri": "spotify:track:3LSfoRpyN83w68NgkpeGLR",
         "is_local": false
       },
@@ -93359,7 +93359,7 @@
         "href": "https://api.spotify.com/v1/tracks/6PBanBy8L1K2Ry4UN186XH",
         "id": "6PBanBy8L1K2Ry4UN186XH",
         "name": "forwards beckon rebound",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:6PBanBy8L1K2Ry4UN186XH",
         "is_local": false
       },

@@ -10,7 +10,7 @@
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84ecaeb41c1b85f7a2e2bae855",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84ecaeb41c1b85f7a2e2bae855",
       "width": null
     }
   ],
@@ -3041,7 +3041,7 @@
           "ET",
           "XK"
         ],
-        "explicit": false,
+        "explicit": true,
         "type": "track",
         "episode": false,
         "track": true,
@@ -3297,7 +3297,7 @@
         "href": "https://api.spotify.com/v1/tracks/6Uwi2Qk3H7fM4b4W4ExrAp",
         "id": "6Uwi2Qk3H7fM4b4W4ExrAp",
         "name": "Scott Street",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:6Uwi2Qk3H7fM4b4W4ExrAp",
         "is_local": false
       },
