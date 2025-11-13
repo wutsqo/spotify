@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 5258 },
+  "followers": { "href": null, "total": 5261 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
@@ -2521,7 +2521,7 @@
         "href": "https://api.spotify.com/v1/tracks/3ixTiPABjqkBKPocxq6oIe",
         "id": "3ixTiPABjqkBKPocxq6oIe",
         "name": "Don't Look Back In Anger",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3ixTiPABjqkBKPocxq6oIe",
         "is_local": false
       },
@@ -6779,7 +6779,7 @@
         "href": "https://api.spotify.com/v1/tracks/3Y4rUyw7XBCK6hGHCOt6rp",
         "id": "3Y4rUyw7XBCK6hGHCOt6rp",
         "name": "Call It Fate, Call It Karma",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:3Y4rUyw7XBCK6hGHCOt6rp",
         "is_local": false
       },
@@ -8157,7 +8157,7 @@
         "href": "https://api.spotify.com/v1/tracks/086myS9r57YsLbJpU0TgK9",
         "id": "086myS9r57YsLbJpU0TgK9",
         "name": "Why'd You Only Call Me When You're High?",
-        "popularity": 84,
+        "popularity": 85,
         "uri": "spotify:track:086myS9r57YsLbJpU0TgK9",
         "is_local": false
       },
@@ -18082,17 +18082,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273bfa99afb5ef0d26d5064b23b",
+              "url": "https://i.scdn.co/image/ab67616d0000b273e3f1ba3de4659708c25d0f39",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02bfa99afb5ef0d26d5064b23b",
+              "url": "https://i.scdn.co/image/ab67616d00001e02e3f1ba3de4659708c25d0f39",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851bfa99afb5ef0d26d5064b23b",
+              "url": "https://i.scdn.co/image/ab67616d00004851e3f1ba3de4659708c25d0f39",
               "width": 64
             }
           ],
@@ -20543,7 +20543,7 @@
         "href": "https://api.spotify.com/v1/tracks/2UKvxuMTM7JwprZrnpxgY1",
         "id": "2UKvxuMTM7JwprZrnpxgY1",
         "name": "Kiss It Off Me",
-        "popularity": 42,
+        "popularity": 43,
         "uri": "spotify:track:2UKvxuMTM7JwprZrnpxgY1",
         "is_local": false
       },
@@ -21559,7 +21559,7 @@
         "href": "https://api.spotify.com/v1/tracks/4iwpCp7qdDLngGI3gsVTza",
         "id": "4iwpCp7qdDLngGI3gsVTza",
         "name": "Miracle Aligner",
-        "popularity": 61,
+        "popularity": 62,
         "uri": "spotify:track:4iwpCp7qdDLngGI3gsVTza",
         "is_local": false
       },
@@ -30531,7 +30531,7 @@
         "href": "https://api.spotify.com/v1/tracks/2fhOljbX79loRcdl47SFye",
         "id": "2fhOljbX79loRcdl47SFye",
         "name": "Moonlight on the River",
-        "popularity": 78,
+        "popularity": 79,
         "uri": "spotify:track:2fhOljbX79loRcdl47SFye",
         "is_local": false
       },
@@ -34231,7 +34231,7 @@
         "href": "https://api.spotify.com/v1/tracks/1vKPCcclqSIHpMIh4YieQG",
         "id": "1vKPCcclqSIHpMIh4YieQG",
         "name": "Disappear",
-        "popularity": 49,
+        "popularity": 50,
         "uri": "spotify:track:1vKPCcclqSIHpMIh4YieQG",
         "is_local": false
       },
@@ -58599,7 +58599,7 @@
         "href": "https://api.spotify.com/v1/tracks/1fDFHXcykq4iw8Gg7s5hG9",
         "id": "1fDFHXcykq4iw8Gg7s5hG9",
         "name": "About You",
-        "popularity": 84,
+        "popularity": 83,
         "uri": "spotify:track:1fDFHXcykq4iw8Gg7s5hG9",
         "is_local": false
       },
@@ -61099,7 +61099,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Qv2Nby1xTr9pQyjkrc94J",
         "id": "5Qv2Nby1xTr9pQyjkrc94J",
         "name": "All I Need",
-        "popularity": 82,
+        "popularity": 83,
         "uri": "spotify:track:5Qv2Nby1xTr9pQyjkrc94J",
         "is_local": false
       },
@@ -68047,7 +68047,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Az8KU81g2aLBbJN67F2CI",
         "id": "5Az8KU81g2aLBbJN67F2CI",
         "name": "Mind Over Matter",
-        "popularity": 70,
+        "popularity": 71,
         "uri": "spotify:track:5Az8KU81g2aLBbJN67F2CI",
         "is_local": false
       },
@@ -70901,7 +70901,7 @@
         "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
         "id": "0j3mqDTK4Z6lvrLzFCUUz6",
         "name": "Good Looking",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
         "is_local": false
       },
@@ -77709,7 +77709,7 @@
         "href": "https://api.spotify.com/v1/tracks/0uhYgQQ6WX9rCONnum7Fmw",
         "id": "0uhYgQQ6WX9rCONnum7Fmw",
         "name": "I Know",
-        "popularity": 61,
+        "popularity": 62,
         "uri": "spotify:track:0uhYgQQ6WX9rCONnum7Fmw",
         "is_local": false
       },
@@ -80203,7 +80203,7 @@
         "href": "https://api.spotify.com/v1/tracks/0zzz9l8ZX5vDBJmNHnWOom",
         "id": "0zzz9l8ZX5vDBJmNHnWOom",
         "name": "North",
-        "popularity": 29,
+        "popularity": 28,
         "uri": "spotify:track:0zzz9l8ZX5vDBJmNHnWOom",
         "is_local": false
       },
@@ -80667,7 +80667,7 @@
         "href": "https://api.spotify.com/v1/tracks/3oBNQdDbNrs8wQbcZ3BXwP",
         "id": "3oBNQdDbNrs8wQbcZ3BXwP",
         "name": "Velvet Ring - 2023 Remaster",
-        "popularity": 76,
+        "popularity": 77,
         "uri": "spotify:track:3oBNQdDbNrs8wQbcZ3BXwP",
         "is_local": false
       },
@@ -89187,7 +89187,7 @@
         "href": "https://api.spotify.com/v1/tracks/37l31PrCNsg8baUjarNAi9",
         "id": "37l31PrCNsg8baUjarNAi9",
         "name": "I Can't Handle Change",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:37l31PrCNsg8baUjarNAi9",
         "is_local": false
       },
@@ -91973,7 +91973,7 @@
         "href": "https://api.spotify.com/v1/tracks/5XuU9htN358NTMCcqRvfDV",
         "id": "5XuU9htN358NTMCcqRvfDV",
         "name": "Bullet Proof ... I Wish I Was",
-        "popularity": 64,
+        "popularity": 65,
         "uri": "spotify:track:5XuU9htN358NTMCcqRvfDV",
         "is_local": false
       },
@@ -94749,7 +94749,7 @@
         "href": "https://api.spotify.com/v1/tracks/7xueAc2nuW1NLxGgoVonS8",
         "id": "7xueAc2nuW1NLxGgoVonS8",
         "name": "Teenage Hurt",
-        "popularity": 39,
+        "popularity": 40,
         "uri": "spotify:track:7xueAc2nuW1NLxGgoVonS8",
         "is_local": false
       },
