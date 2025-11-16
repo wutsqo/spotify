@@ -4144,17 +4144,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ec8be21d32e663885fbb244e",
+              "url": "https://i.scdn.co/image/ab67616d0000b27311b78d26863f111044c4060f",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02ec8be21d32e663885fbb244e",
+              "url": "https://i.scdn.co/image/ab67616d00001e0211b78d26863f111044c4060f",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851ec8be21d32e663885fbb244e",
+              "url": "https://i.scdn.co/image/ab67616d0000485111b78d26863f111044c4060f",
               "width": 64
             }
           ],
@@ -4193,7 +4193,7 @@
         ],
         "disc_number": 1,
         "track_number": 9,
-        "duration_ms": 220706,
+        "duration_ms": 220700,
         "external_ids": { "isrc": "GBARL1601807" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/5Bge1Dsqjc14hhGguYML5w"
@@ -5543,7 +5543,7 @@
         "href": "https://api.spotify.com/v1/tracks/1C5utO1I8FoSIn6g1R5DAZ",
         "id": "1C5utO1I8FoSIn6g1R5DAZ",
         "name": "If You’re Too Shy (Let Me Know)",
-        "popularity": 63,
+        "popularity": 64,
         "uri": "spotify:track:1C5utO1I8FoSIn6g1R5DAZ",
         "is_local": false
       },
