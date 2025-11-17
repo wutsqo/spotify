@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 444797 },
+  "followers": { "href": null, "total": 444880 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
       "width": null
     }
   ],
@@ -1873,7 +1873,7 @@
         "href": "https://api.spotify.com/v1/tracks/6YJYhPKP7MRzJSHqe3QI9K",
         "id": "6YJYhPKP7MRzJSHqe3QI9K",
         "name": "Garbage",
-        "popularity": 74,
+        "popularity": 73,
         "uri": "spotify:track:6YJYhPKP7MRzJSHqe3QI9K",
         "is_local": false
       },
@@ -2797,7 +2797,7 @@
         "href": "https://api.spotify.com/v1/tracks/11QNo3ld81pncy71q6VIic",
         "id": "11QNo3ld81pncy71q6VIic",
         "name": "Downstairs",
-        "popularity": 74,
+        "popularity": 73,
         "uri": "spotify:track:11QNo3ld81pncy71q6VIic",
         "is_local": false
       },
@@ -7433,7 +7433,7 @@
         "href": "https://api.spotify.com/v1/tracks/3qrTll9OQ9wcejTxPFY0qg",
         "id": "3qrTll9OQ9wcejTxPFY0qg",
         "name": "The Line (from the series Arcane League of Legends)",
-        "popularity": 68,
+        "popularity": 69,
         "uri": "spotify:track:3qrTll9OQ9wcejTxPFY0qg",
         "is_local": false
       },
@@ -17549,7 +17549,7 @@
         "href": "https://api.spotify.com/v1/tracks/3CRDbSIZ4r5MsZ0YwxuEkn",
         "id": "3CRDbSIZ4r5MsZ0YwxuEkn",
         "name": "Stressed Out",
-        "popularity": 85,
+        "popularity": 86,
         "uri": "spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn",
         "is_local": false
       },
@@ -18421,7 +18421,7 @@
         "href": "https://api.spotify.com/v1/tracks/3bnVBN67NBEzedqQuWrpP4",
         "id": "3bnVBN67NBEzedqQuWrpP4",
         "name": "Tear in My Heart",
-        "popularity": 74,
+        "popularity": 75,
         "uri": "spotify:track:3bnVBN67NBEzedqQuWrpP4",
         "is_local": false
       },
@@ -22377,7 +22377,7 @@
         "href": "https://api.spotify.com/v1/tracks/3C3cr2JQwXIhqAHqOardVO",
         "id": "3C3cr2JQwXIhqAHqOardVO",
         "name": "Holding on to You",
-        "popularity": 66,
+        "popularity": 67,
         "uri": "spotify:track:3C3cr2JQwXIhqAHqOardVO",
         "is_local": false
       },
@@ -30761,7 +30761,7 @@
         "href": "https://api.spotify.com/v1/tracks/7I3skNaQdvZSS7zXY2VHId",
         "id": "7I3skNaQdvZSS7zXY2VHId",
         "name": "The Hype",
-        "popularity": 63,
+        "popularity": 64,
         "uri": "spotify:track:7I3skNaQdvZSS7zXY2VHId",
         "is_local": false
       },

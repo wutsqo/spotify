@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 5261 },
+  "followers": { "href": null, "total": 5260 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
@@ -2521,7 +2521,7 @@
         "href": "https://api.spotify.com/v1/tracks/3ixTiPABjqkBKPocxq6oIe",
         "id": "3ixTiPABjqkBKPocxq6oIe",
         "name": "Don't Look Back In Anger",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:3ixTiPABjqkBKPocxq6oIe",
         "is_local": false
       },
@@ -9355,7 +9355,7 @@
         "href": "https://api.spotify.com/v1/tracks/4ya6kBUnCe27g0hZM57L1n",
         "id": "4ya6kBUnCe27g0hZM57L1n",
         "name": "Four Out Of Five - Recorded at Electric Lady Studios, New York",
-        "popularity": 33,
+        "popularity": 34,
         "uri": "spotify:track:4ya6kBUnCe27g0hZM57L1n",
         "is_local": false
       },
@@ -18787,7 +18787,7 @@
         "href": "https://api.spotify.com/v1/tracks/0HUTL8i4y4MiGCPId7M7wb",
         "id": "0HUTL8i4y4MiGCPId7M7wb",
         "name": "Freaks",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:0HUTL8i4y4MiGCPId7M7wb",
         "is_local": false
       },
@@ -26563,7 +26563,7 @@
         "href": "https://api.spotify.com/v1/tracks/0kYUrLVQOfx21xuXu7OGrT",
         "id": "0kYUrLVQOfx21xuXu7OGrT",
         "name": "All These Things That I've Done",
-        "popularity": 2,
+        "popularity": 3,
         "uri": "spotify:track:0kYUrLVQOfx21xuXu7OGrT",
         "is_local": false
       },
@@ -59525,7 +59525,7 @@
         "href": "https://api.spotify.com/v1/tracks/0LpF3BJplNYWei6BmgZJwq",
         "id": "0LpF3BJplNYWei6BmgZJwq",
         "name": "Tom's Diner",
-        "popularity": 49,
+        "popularity": 50,
         "uri": "spotify:track:0LpF3BJplNYWei6BmgZJwq",
         "is_local": false
       },
@@ -82241,7 +82241,7 @@
         "href": "https://api.spotify.com/v1/tracks/3kQfBtkQqgN1fAMfhks8TU",
         "id": "3kQfBtkQqgN1fAMfhks8TU",
         "name": "Need 2",
-        "popularity": 54,
+        "popularity": 53,
         "uri": "spotify:track:3kQfBtkQqgN1fAMfhks8TU",
         "is_local": false
       },
