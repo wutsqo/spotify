@@ -6511,7 +6511,7 @@
         "href": "https://api.spotify.com/v1/tracks/4LRPiXqCikLlN15c3yImP7",
         "id": "4LRPiXqCikLlN15c3yImP7",
         "name": "As It Was",
-        "popularity": 14,
+        "popularity": 13,
         "uri": "spotify:track:4LRPiXqCikLlN15c3yImP7",
         "is_local": false
       },
@@ -15393,7 +15393,7 @@
         "href": "https://api.spotify.com/v1/tracks/6UFivO2zqqPFPoQYsEMuCc",
         "id": "6UFivO2zqqPFPoQYsEMuCc",
         "name": "Bags",
-        "popularity": 39,
+        "popularity": 38,
         "uri": "spotify:track:6UFivO2zqqPFPoQYsEMuCc",
         "is_local": false
       },
@@ -24616,17 +24616,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27317cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0217cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485117cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6",
               "width": 64
             }
           ],
@@ -24665,7 +24665,7 @@
         ],
         "disc_number": 1,
         "track_number": 6,
-        "duration_ms": 382834,
+        "duration_ms": 380080,
         "external_ids": { "isrc": "GBN9Y1100081" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"

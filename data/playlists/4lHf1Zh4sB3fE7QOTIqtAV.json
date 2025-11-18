@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4lHf1Zh4sB3fE7QOTIqtAV"
   },
-  "followers": { "href": null, "total": 33224 },
+  "followers": { "href": null, "total": 33221 },
   "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV?locale=*",
   "id": "4lHf1Zh4sB3fE7QOTIqtAV",
   "images": [
@@ -522,17 +522,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27317cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0217cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485117cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6",
               "width": 64
             }
           ],
@@ -571,7 +571,7 @@
         ],
         "disc_number": 1,
         "track_number": 5,
-        "duration_ms": 283872,
+        "duration_ms": 284413,
         "external_ids": { "isrc": "GBN9Y1100080" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/2TjdnqlpwOjhijHCwHCP2d"
@@ -1319,7 +1319,7 @@
         "href": "https://api.spotify.com/v1/tracks/20DTloPLv58GPqO4C1jHVk",
         "id": "20DTloPLv58GPqO4C1jHVk",
         "name": "Krista",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:20DTloPLv58GPqO4C1jHVk",
         "is_local": false
       },
@@ -5699,7 +5699,7 @@
         "href": "https://api.spotify.com/v1/tracks/6EVfAHbP00xnCGeFwAvuQR",
         "id": "6EVfAHbP00xnCGeFwAvuQR",
         "name": "February Blue (Short Version)",
-        "popularity": 3,
+        "popularity": 2,
         "uri": "spotify:track:6EVfAHbP00xnCGeFwAvuQR",
         "is_local": false
       },
@@ -24637,7 +24637,7 @@
         "href": "https://api.spotify.com/v1/tracks/7quKNbdDIWhUUOq5ENg8G8",
         "id": "7quKNbdDIWhUUOq5ENg8G8",
         "name": "Heaven My Home",
-        "popularity": 5,
+        "popularity": 4,
         "uri": "spotify:track:7quKNbdDIWhUUOq5ENg8G8",
         "is_local": false
       },
@@ -30429,7 +30429,7 @@
         "href": "https://api.spotify.com/v1/tracks/0zAfsZqRG8HYg2RKhJFV5k",
         "id": "0zAfsZqRG8HYg2RKhJFV5k",
         "name": "Free",
-        "popularity": 2,
+        "popularity": 1,
         "uri": "spotify:track:0zAfsZqRG8HYg2RKhJFV5k",
         "is_local": false
       },
@@ -34983,7 +34983,7 @@
         "href": "https://api.spotify.com/v1/tracks/1uhDr6kX9I3k1vsMxhEAd2",
         "id": "1uhDr6kX9I3k1vsMxhEAd2",
         "name": "blackjacket",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:1uhDr6kX9I3k1vsMxhEAd2",
         "is_local": false
       },
@@ -40321,7 +40321,7 @@
         "href": "https://api.spotify.com/v1/tracks/6bpQ9JWKbDOQYb6YG6jInN",
         "id": "6bpQ9JWKbDOQYb6YG6jInN",
         "name": "FELIZ NAVIDAD",
-        "popularity": 10,
+        "popularity": 11,
         "uri": "spotify:track:6bpQ9JWKbDOQYb6YG6jInN",
         "is_local": false
       },
@@ -49321,7 +49321,7 @@
         "href": "https://api.spotify.com/v1/tracks/2kqd7CX7eWTFhDcKLbo7er",
         "id": "2kqd7CX7eWTFhDcKLbo7er",
         "name": "Hot&Bright",
-        "popularity": 4,
+        "popularity": 3,
         "uri": "spotify:track:2kqd7CX7eWTFhDcKLbo7er",
         "is_local": false
       },
@@ -100881,7 +100881,7 @@
         "href": "https://api.spotify.com/v1/tracks/2zeNMHKVNMq8Ot96RVfjEF",
         "id": "2zeNMHKVNMq8Ot96RVfjEF",
         "name": "Sambuca Smoove Mix",
-        "popularity": 4,
+        "popularity": 3,
         "uri": "spotify:track:2zeNMHKVNMq8Ot96RVfjEF",
         "is_local": false
       },
@@ -106449,7 +106449,7 @@
         "href": "https://api.spotify.com/v1/tracks/2wF4ddC1cNSbcU6intaohR",
         "id": "2wF4ddC1cNSbcU6intaohR",
         "name": "Her Heart",
-        "popularity": 6,
+        "popularity": 5,
         "uri": "spotify:track:2wF4ddC1cNSbcU6intaohR",
         "is_local": false
       },
@@ -132275,7 +132275,7 @@
         "href": "https://api.spotify.com/v1/tracks/6fcJhYmdRKn4fg7jWSo0Pu",
         "id": "6fcJhYmdRKn4fg7jWSo0Pu",
         "name": "Gold",
-        "popularity": 8,
+        "popularity": 7,
         "uri": "spotify:track:6fcJhYmdRKn4fg7jWSo0Pu",
         "is_local": false
       },
@@ -150111,7 +150111,7 @@
         "href": "https://api.spotify.com/v1/tracks/106SaBLxuieBkBp8R7q3CX",
         "id": "106SaBLxuieBkBp8R7q3CX",
         "name": "Lift You Up",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:106SaBLxuieBkBp8R7q3CX",
         "is_local": false
       },
@@ -165617,7 +165617,7 @@
         "href": "https://api.spotify.com/v1/tracks/0BmNiuKnwbnE5WhvsolN06",
         "id": "0BmNiuKnwbnE5WhvsolN06",
         "name": "In My Next Life",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:0BmNiuKnwbnE5WhvsolN06",
         "is_local": false
       },
@@ -188027,7 +188027,7 @@
         "href": "https://api.spotify.com/v1/tracks/0BmNiuKnwbnE5WhvsolN06",
         "id": "0BmNiuKnwbnE5WhvsolN06",
         "name": "In My Next Life",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:0BmNiuKnwbnE5WhvsolN06",
         "is_local": false
       },
@@ -196017,7 +196017,7 @@
         "href": "https://api.spotify.com/v1/tracks/134SUI4ytcLk2jwBYXvvxg",
         "id": "134SUI4ytcLk2jwBYXvvxg",
         "name": "Listen to the Horses Run",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:134SUI4ytcLk2jwBYXvvxg",
         "is_local": false
       },
@@ -218745,7 +218745,7 @@
         "href": "https://api.spotify.com/v1/tracks/22X45OoB699DPojK2iZmnb",
         "id": "22X45OoB699DPojK2iZmnb",
         "name": "Broken",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:22X45OoB699DPojK2iZmnb",
         "is_local": false
       },
@@ -234885,7 +234885,7 @@
         "href": "https://api.spotify.com/v1/tracks/0hhDfepYxeKHyGNwSXwaSz",
         "id": "0hhDfepYxeKHyGNwSXwaSz",
         "name": "Unbroken",
-        "popularity": 2,
+        "popularity": 3,
         "uri": "spotify:track:0hhDfepYxeKHyGNwSXwaSz",
         "is_local": false
       },
@@ -236369,7 +236369,7 @@
         "href": "https://api.spotify.com/v1/tracks/1pYLrHyN5Vek7up6zCVwQf",
         "id": "1pYLrHyN5Vek7up6zCVwQf",
         "name": "Do I have to let you go",
-        "popularity": 1,
+        "popularity": 2,
         "uri": "spotify:track:1pYLrHyN5Vek7up6zCVwQf",
         "is_local": false
       },
@@ -256053,7 +256053,7 @@
         "href": "https://api.spotify.com/v1/tracks/3SZ9GCqgXwFDReG9vSeaPp",
         "id": "3SZ9GCqgXwFDReG9vSeaPp",
         "name": "Sharon (Original Version)",
-        "popularity": 11,
+        "popularity": 10,
         "uri": "spotify:track:3SZ9GCqgXwFDReG9vSeaPp",
         "is_local": false
       },
@@ -258465,7 +258465,7 @@
         "href": "https://api.spotify.com/v1/tracks/55q6PgfI7IZyhJeUy8IGSZ",
         "id": "55q6PgfI7IZyhJeUy8IGSZ",
         "name": "Babylon",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:55q6PgfI7IZyhJeUy8IGSZ",
         "is_local": false
       },
@@ -263793,7 +263793,7 @@
         "href": "https://api.spotify.com/v1/tracks/7KY14ihBd3Sr7jJ7Rg62Ij",
         "id": "7KY14ihBd3Sr7jJ7Rg62Ij",
         "name": "Headed for the Wall",
-        "popularity": 2,
+        "popularity": 3,
         "uri": "spotify:track:7KY14ihBd3Sr7jJ7Rg62Ij",
         "is_local": false
       },
@@ -274001,7 +274001,7 @@
         "href": "https://api.spotify.com/v1/tracks/3BgiU1HWLmWqmeVji0TQ0n",
         "id": "3BgiU1HWLmWqmeVji0TQ0n",
         "name": "Day by Day",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3BgiU1HWLmWqmeVji0TQ0n",
         "is_local": false
       },
@@ -276321,7 +276321,7 @@
         "href": "https://api.spotify.com/v1/tracks/0wNBm4iJCqnj6bF2XFwKHO",
         "id": "0wNBm4iJCqnj6bF2XFwKHO",
         "name": "Cornucopia",
-        "popularity": 1,
+        "popularity": 2,
         "uri": "spotify:track:0wNBm4iJCqnj6bF2XFwKHO",
         "is_local": false
       },
@@ -290527,7 +290527,7 @@
         "href": "https://api.spotify.com/v1/tracks/2HzFDAJ7jRnh7jqTXyVYVT",
         "id": "2HzFDAJ7jRnh7jqTXyVYVT",
         "name": "Misfortune",
-        "popularity": 3,
+        "popularity": 2,
         "uri": "spotify:track:2HzFDAJ7jRnh7jqTXyVYVT",
         "is_local": false
       },
@@ -292011,7 +292011,7 @@
         "href": "https://api.spotify.com/v1/tracks/38fxSSkemb3pywCHZQNvp8",
         "id": "38fxSSkemb3pywCHZQNvp8",
         "name": "Anemone",
-        "popularity": 4,
+        "popularity": 5,
         "uri": "spotify:track:38fxSSkemb3pywCHZQNvp8",
         "is_local": false
       },
@@ -305183,7 +305183,7 @@
         "href": "https://api.spotify.com/v1/tracks/3BgiU1HWLmWqmeVji0TQ0n",
         "id": "3BgiU1HWLmWqmeVji0TQ0n",
         "name": "Day by Day",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3BgiU1HWLmWqmeVji0TQ0n",
         "is_local": false
       },
@@ -309171,7 +309171,7 @@
         "href": "https://api.spotify.com/v1/tracks/5KlQTaZ2V9mtOlUDwnuAQw",
         "id": "5KlQTaZ2V9mtOlUDwnuAQw",
         "name": "Earth Stopped Cold At Dawn",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:5KlQTaZ2V9mtOlUDwnuAQw",
         "is_local": false
       },
@@ -322741,7 +322741,7 @@
         "href": "https://api.spotify.com/v1/tracks/7BqK1bwL1YVV7R2e3Ykujs",
         "id": "7BqK1bwL1YVV7R2e3Ykujs",
         "name": "Horses Flyin' (Sweet Dreams Tonight)",
-        "popularity": 11,
+        "popularity": 10,
         "uri": "spotify:track:7BqK1bwL1YVV7R2e3Ykujs",
         "is_local": false
       },
@@ -328591,7 +328591,7 @@
         "href": "https://api.spotify.com/v1/tracks/3BgiU1HWLmWqmeVji0TQ0n",
         "id": "3BgiU1HWLmWqmeVji0TQ0n",
         "name": "Day by Day",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3BgiU1HWLmWqmeVji0TQ0n",
         "is_local": false
       },
@@ -336475,7 +336475,7 @@
         "href": "https://api.spotify.com/v1/tracks/6EpE8EEn1UbFUiUSO6WsGM",
         "id": "6EpE8EEn1UbFUiUSO6WsGM",
         "name": "Labyrinth of Me",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:6EpE8EEn1UbFUiUSO6WsGM",
         "is_local": false
       },
@@ -356851,7 +356851,7 @@
         "href": "https://api.spotify.com/v1/tracks/7snQQk1zcKl8gZ92AnueZW",
         "id": "7snQQk1zcKl8gZ92AnueZW",
         "name": "Sweet Child O' Mine",
-        "popularity": 87,
+        "popularity": 88,
         "uri": "spotify:track:7snQQk1zcKl8gZ92AnueZW",
         "is_local": false
       },
@@ -357258,17 +357258,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27317cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0217cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485117cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6",
               "width": 64
             }
           ],
@@ -357307,7 +357307,7 @@
         ],
         "disc_number": 1,
         "track_number": 2,
-        "duration_ms": 169534,
+        "duration_ms": 169560,
         "external_ids": { "isrc": "GBN9Y1100077" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/2ctvdKmETyOzPb2GiJJT53"
@@ -359664,17 +359664,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e895ebededd1f73a2c875ce6",
+              "url": "https://i.scdn.co/image/ab67616d0000b273828e52cfb7bf22869349799e",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02e895ebededd1f73a2c875ce6",
+              "url": "https://i.scdn.co/image/ab67616d00001e02828e52cfb7bf22869349799e",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851e895ebededd1f73a2c875ce6",
+              "url": "https://i.scdn.co/image/ab67616d00004851828e52cfb7bf22869349799e",
               "width": 64
             }
           ],
@@ -359713,7 +359713,7 @@
         ],
         "disc_number": 1,
         "track_number": 4,
-        "duration_ms": 334743,
+        "duration_ms": 338466,
         "external_ids": { "isrc": "GBN9Y1100088" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/6mFkJmJqdDVQ1REhVfGgd1"
@@ -368675,7 +368675,7 @@
         "href": "https://api.spotify.com/v1/tracks/1q4sqcotiJ2I6bUr9rGyW5",
         "id": "1q4sqcotiJ2I6bUr9rGyW5",
         "name": "Promise You Made",
-        "popularity": 3,
+        "popularity": 4,
         "uri": "spotify:track:1q4sqcotiJ2I6bUr9rGyW5",
         "is_local": false
       },
@@ -374903,7 +374903,7 @@
         "href": "https://api.spotify.com/v1/tracks/70Znjq5VPKFrwlB7O26SWT",
         "id": "70Znjq5VPKFrwlB7O26SWT",
         "name": "Zanzibar",
-        "popularity": 55,
+        "popularity": 56,
         "uri": "spotify:track:70Znjq5VPKFrwlB7O26SWT",
         "is_local": false
       },
@@ -390161,7 +390161,7 @@
         "href": "https://api.spotify.com/v1/tracks/14dJexYlvd3t3XAtD1pYW1",
         "id": "14dJexYlvd3t3XAtD1pYW1",
         "name": "Oh Caroline",
-        "popularity": 60,
+        "popularity": 59,
         "uri": "spotify:track:14dJexYlvd3t3XAtD1pYW1",
         "is_local": false
       },
@@ -400961,7 +400961,7 @@
         "href": "https://api.spotify.com/v1/tracks/2AkmdLbVKS1steeZdy8H1l",
         "id": "2AkmdLbVKS1steeZdy8H1l",
         "name": "I Want To Break Free - Single Remix",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:2AkmdLbVKS1steeZdy8H1l",
         "is_local": false
       },
@@ -402301,7 +402301,7 @@
         "href": "https://api.spotify.com/v1/tracks/1wo3UYTeizJHkwYIuLuBPF",
         "id": "1wo3UYTeizJHkwYIuLuBPF",
         "name": "Champagne Supernova - Remastered",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:1wo3UYTeizJHkwYIuLuBPF",
         "is_local": false
       },
@@ -424616,17 +424616,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27317cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0217cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485117cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6",
               "width": 64
             }
           ],
@@ -424665,7 +424665,7 @@
         ],
         "disc_number": 1,
         "track_number": 9,
-        "duration_ms": 226666,
+        "duration_ms": 230493,
         "external_ids": { "isrc": "GBN9Y1100140" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/05uGBKRCuePsf43Hfm0JwX"
@@ -427531,7 +427531,7 @@
         "href": "https://api.spotify.com/v1/tracks/7utRJ4BeYx85khzP3lKoBX",
         "id": "7utRJ4BeYx85khzP3lKoBX",
         "name": "Tears in Heaven",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:7utRJ4BeYx85khzP3lKoBX",
         "is_local": false
       },
@@ -442340,7 +442340,7 @@
         "href": "https://api.spotify.com/v1/tracks/2tjskutXjrrfAyoSw4q4kb",
         "id": "2tjskutXjrrfAyoSw4q4kb",
         "name": "The Prettiest Star - 2013 Remaster",
-        "popularity": 48,
+        "popularity": 49,
         "uri": "spotify:track:2tjskutXjrrfAyoSw4q4kb",
         "is_local": false
       },
@@ -447559,17 +447559,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27317cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0217cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485117cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6",
               "width": 64
             }
           ],
@@ -447608,7 +447608,7 @@
         ],
         "disc_number": 1,
         "track_number": 6,
-        "duration_ms": 382834,
+        "duration_ms": 380080,
         "external_ids": { "isrc": "GBN9Y1100081" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/0vFOzaXqZHahrZp6enQwQb"
@@ -450182,7 +450182,7 @@
         "href": "https://api.spotify.com/v1/tracks/1RB8jMVr0eSo6ExOOvXavV",
         "id": "1RB8jMVr0eSo6ExOOvXavV",
         "name": "All I Need To Hear",
-        "popularity": 56,
+        "popularity": 55,
         "uri": "spotify:track:1RB8jMVr0eSo6ExOOvXavV",
         "is_local": false
       },
@@ -457164,7 +457164,7 @@
         "href": "https://api.spotify.com/v1/tracks/6yVnpVWuT3NdhAmQe05T33",
         "id": "6yVnpVWuT3NdhAmQe05T33",
         "name": "Wild West End",
-        "popularity": 64,
+        "popularity": 65,
         "uri": "spotify:track:6yVnpVWuT3NdhAmQe05T33",
         "is_local": false
       },
@@ -461351,17 +461351,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27317cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d0000b273db216ca805faf5fe35df4ee6",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0217cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00001e02db216ca805faf5fe35df4ee6",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485117cb878012a0c769091e8045",
+              "url": "https://i.scdn.co/image/ab67616d00004851db216ca805faf5fe35df4ee6",
               "width": 64
             }
           ],
@@ -461400,7 +461400,7 @@
         ],
         "disc_number": 1,
         "track_number": 7,
-        "duration_ms": 469224,
+        "duration_ms": 472626,
         "external_ids": { "isrc": "GBN9Y1100082" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/1TKTiKp3zbNgrBH2IwSwIx"
@@ -470874,7 +470874,7 @@
         "href": "https://api.spotify.com/v1/tracks/5M5TD1Tlpcgq0Fj1l6Mz6Z",
         "id": "5M5TD1Tlpcgq0Fj1l6Mz6Z",
         "name": "When We Are Together",
-        "popularity": 54,
+        "popularity": 53,
         "uri": "spotify:track:5M5TD1Tlpcgq0Fj1l6Mz6Z",
         "is_local": false
       },
@@ -474296,7 +474296,7 @@
         "href": "https://api.spotify.com/v1/tracks/6Jv7kjGkhY2fT4yuBF3aTz",
         "id": "6Jv7kjGkhY2fT4yuBF3aTz",
         "name": "Lover, You Should've Come Over",
-        "popularity": 84,
+        "popularity": 83,
         "uri": "spotify:track:6Jv7kjGkhY2fT4yuBF3aTz",
         "is_local": false
       },
@@ -482889,17 +482889,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273e895ebededd1f73a2c875ce6",
+              "url": "https://i.scdn.co/image/ab67616d0000b273828e52cfb7bf22869349799e",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02e895ebededd1f73a2c875ce6",
+              "url": "https://i.scdn.co/image/ab67616d00001e02828e52cfb7bf22869349799e",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851e895ebededd1f73a2c875ce6",
+              "url": "https://i.scdn.co/image/ab67616d00004851828e52cfb7bf22869349799e",
               "width": 64
             }
           ],
@@ -482938,7 +482938,7 @@
         ],
         "disc_number": 1,
         "track_number": 1,
-        "duration_ms": 811077,
+        "duration_ms": 812800,
         "external_ids": { "isrc": "GBN9Y1100085" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/6pnwfWyaWjQiHCKTiZLItr"

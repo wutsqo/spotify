@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 444880 },
+  "followers": { "href": null, "total": 445010 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
       "width": null
     }
   ],
@@ -5569,7 +5569,7 @@
         "href": "https://api.spotify.com/v1/tracks/0DGf6s54MQ3Oht41mj6s6K",
         "id": "0DGf6s54MQ3Oht41mj6s6K",
         "name": "Tally",
-        "popularity": 74,
+        "popularity": 73,
         "uri": "spotify:track:0DGf6s54MQ3Oht41mj6s6K",
         "is_local": false
       },
@@ -22377,7 +22377,7 @@
         "href": "https://api.spotify.com/v1/tracks/3C3cr2JQwXIhqAHqOardVO",
         "id": "3C3cr2JQwXIhqAHqOardVO",
         "name": "Holding on to You",
-        "popularity": 67,
+        "popularity": 66,
         "uri": "spotify:track:3C3cr2JQwXIhqAHqOardVO",
         "is_local": false
       },
@@ -30761,7 +30761,7 @@
         "href": "https://api.spotify.com/v1/tracks/7I3skNaQdvZSS7zXY2VHId",
         "id": "7I3skNaQdvZSS7zXY2VHId",
         "name": "The Hype",
-        "popularity": 64,
+        "popularity": 63,
         "uri": "spotify:track:7I3skNaQdvZSS7zXY2VHId",
         "is_local": false
       },
