@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 101,
+  "total_episodes": 102,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4UgvbrnY6w5TqMJ50hzDNV/clip_116000_175000.mp3",
+      "description": "How does a jet engine not melt?We have a tabletop game launching! Pledge your support now on Kickstarter!⁠If you’re looking for a molecular modelling kit, try ⁠Snatoms⁠, a kit I invented where the atoms snap together magnetically.⁠Sign up to the Veritasium newsletter⁠ for weekly science updates.",
+      "duration_ms": 2292138,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5bdKorJclhD27leMKtuO8R"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5bdKorJclhD27leMKtuO8R",
+      "html_description": "<p>How does a jet engine not melt?</p><p><br /></p><p>We have a tabletop game launching! <a href=\"https://www.kickstarter.com/projects/elements-of-truth/elements-of-truth-by-veritasium?ref&#61;a65ytf\" rel=\"nofollow\">Pledge your support now on Kickstarter!⁠</a></p><p><br /></p><p>If you’re looking for a molecular modelling kit, try <a href=\"https://ve42.co/SnatomsV\" rel=\"nofollow\">⁠Snatoms⁠</a>, a kit I invented where the atoms snap together magnetically.</p><p><br /></p><p><a href=\"https://ve42.co/Newsletter\" rel=\"nofollow\">⁠Sign up to the Veritasium newsletter⁠</a> for weekly science updates.</p>",
+      "id": "5bdKorJclhD27leMKtuO8R",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Why Don’t Jet Engines Melt?",
+      "release_date": "2025-11-18",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5bdKorJclhD27leMKtuO8R"
+    },
     {
       "audio_preview_url": null,
       "description": "The problem with overconfidence. To help correct your overconfidence we have a tabletop game launching. Pledge your support now on Kickstarter!If you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically.Sign up to the Veritasium newsletter for weekly science updates.",
