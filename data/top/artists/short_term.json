@@ -1,11 +1,11 @@
 {
-  "total": 13,
+  "total": 15,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 6758376 },
+      "followers": { "href": null, "total": 6759618 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
-      "followers": { "href": null, "total": 11359346 },
+      "followers": { "href": null, "total": 11383685 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
       "id": "51kyrUsAVqUBcoDEMFkX12",
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf"
       },
-      "followers": { "href": null, "total": 2048555 },
+      "followers": { "href": null, "total": 2048668 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/0uGk2czvcpWQA383Im6ajf",
       "id": "0uGk2czvcpWQA383Im6ajf",
@@ -95,7 +95,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
       },
-      "followers": { "href": null, "total": 85303882 },
+      "followers": { "href": null, "total": 85320353 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
       "id": "1uNFoZAHBGtllmzznpCI3s",
@@ -123,44 +123,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
-      },
-      "followers": { "href": null, "total": 119211 },
-      "genres": [
-        "indonesian pop",
-        "indonesian jazz",
-        "indonesian r&b",
-        "pop kreatif"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6ZKqWNmLTzV5kMwIh3VeVF",
-      "id": "6ZKqWNmLTzV5kMwIh3VeVF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8b789b23e1b1188030cd489b",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748b789b23e1b1188030cd489b",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788b789b23e1b1188030cd489b",
-          "width": 160
-        }
-      ],
-      "name": "Reza Artamevia",
-      "popularity": 55,
-      "type": "artist",
-      "uri": "spotify:artist:6ZKqWNmLTzV5kMwIh3VeVF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
       },
-      "followers": { "href": null, "total": 727535 },
+      "followers": { "href": null, "total": 731585 },
       "genres": [
         "hipdut",
         "lagu timur",
@@ -199,7 +164,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg"
       },
-      "followers": { "href": null, "total": 12002292 },
+      "followers": { "href": null, "total": 12006088 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/0TnOYISbd1XYRBk9myaseg",
       "id": "0TnOYISbd1XYRBk9myaseg",
@@ -229,7 +194,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
       },
-      "followers": { "href": null, "total": 6395030 },
+      "followers": { "href": null, "total": 6398655 },
       "genres": ["hyperpop", "art pop"],
       "href": "https://api.spotify.com/v1/artists/25uiPmTg16RbhZWAqwLBy5",
       "id": "25uiPmTg16RbhZWAqwLBy5",
@@ -259,7 +224,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
       },
-      "followers": { "href": null, "total": 37802117 },
+      "followers": { "href": null, "total": 37821451 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
       "id": "3fMbdgg4jU18AjLCKBhRSm",
@@ -287,45 +252,44 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+        "spotify": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
       },
-      "followers": { "href": null, "total": 385748 },
+      "followers": { "href": null, "total": 119240 },
       "genres": [
-        "indonesian indie",
-        "indonesian indie rock",
-        "indonesian rock",
         "indonesian pop",
-        "indorock"
+        "indonesian jazz",
+        "indonesian r&b",
+        "pop kreatif"
       ],
-      "href": "https://api.spotify.com/v1/artists/5RbI1PF4n02wWKmgjk7hAE",
-      "id": "5RbI1PF4n02wWKmgjk7hAE",
+      "href": "https://api.spotify.com/v1/artists/6ZKqWNmLTzV5kMwIh3VeVF",
+      "id": "6ZKqWNmLTzV5kMwIh3VeVF",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb178bd257d6ef0cabf44cb594",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8b789b23e1b1188030cd489b",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174178bd257d6ef0cabf44cb594",
+          "url": "https://i.scdn.co/image/ab676161000051748b789b23e1b1188030cd489b",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178178bd257d6ef0cabf44cb594",
+          "url": "https://i.scdn.co/image/ab6761610000f1788b789b23e1b1188030cd489b",
           "width": 160
         }
       ],
-      "name": "Barasuara",
-      "popularity": 63,
+      "name": "Reza Artamevia",
+      "popularity": 55,
       "type": "artist",
-      "uri": "spotify:artist:5RbI1PF4n02wWKmgjk7hAE"
+      "uri": "spotify:artist:6ZKqWNmLTzV5kMwIh3VeVF"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
       },
-      "followers": { "href": null, "total": 9845352 },
+      "followers": { "href": null, "total": 9848336 },
       "genres": ["pop punk", "emo"],
       "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
       "id": "74XFHRwlV6OrjEM0A2NCMF",
@@ -355,7 +319,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
       },
-      "followers": { "href": null, "total": 4966573 },
+      "followers": { "href": null, "total": 4983585 },
       "genres": [
         "indonesian indie",
         "indonesian rock",
@@ -390,7 +354,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
       },
-      "followers": { "href": null, "total": 21037 },
+      "followers": { "href": null, "total": 21094 },
       "genres": [
         "hipdut",
         "indonesian indie",
@@ -421,6 +385,102 @@
       "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:5L3RqiyBaI1VDhbNkzhdjc"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+      },
+      "followers": { "href": null, "total": 1692800 },
+      "genres": ["indonesian indie", "indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebee44c322de1daaa43c1fba40",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ee44c322de1daaa43c1fba40",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ee44c322de1daaa43c1fba40",
+          "width": 160
+        }
+      ],
+      "name": "Sal Priadi",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+      },
+      "followers": { "href": null, "total": 10355647 },
+      "genres": ["emo", "pop punk"],
+      "href": "https://api.spotify.com/v1/artists/7FBcuc1gsnv6Y1nwFtNRCb",
+      "id": "7FBcuc1gsnv6Y1nwFtNRCb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9c00ad0308287b38b8fdabc2",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051749c00ad0308287b38b8fdabc2",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1789c00ad0308287b38b8fdabc2",
+          "width": 160
+        }
+      ],
+      "name": "My Chemical Romance",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:7FBcuc1gsnv6Y1nwFtNRCb"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
+      },
+      "followers": { "href": null, "total": 386852 },
+      "genres": [
+        "indonesian indie",
+        "indonesian indie rock",
+        "indonesian rock",
+        "indonesian pop",
+        "indorock"
+      ],
+      "href": "https://api.spotify.com/v1/artists/5RbI1PF4n02wWKmgjk7hAE",
+      "id": "5RbI1PF4n02wWKmgjk7hAE",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb178bd257d6ef0cabf44cb594",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174178bd257d6ef0cabf44cb594",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178178bd257d6ef0cabf44cb594",
+          "width": 160
+        }
+      ],
+      "name": "Barasuara",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:5RbI1PF4n02wWKmgjk7hAE"
     }
   ]
 }
