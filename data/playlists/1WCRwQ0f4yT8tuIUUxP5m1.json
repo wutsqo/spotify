@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 445228 },
+  "followers": { "href": null, "total": 445365 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
       "width": null
     }
   ],
@@ -20603,7 +20603,7 @@
         "href": "https://api.spotify.com/v1/tracks/1lguQJjlNrIOoOylYVZN3M",
         "id": "1lguQJjlNrIOoOylYVZN3M",
         "name": "The Judge",
-        "popularity": 64,
+        "popularity": 65,
         "uri": "spotify:track:1lguQJjlNrIOoOylYVZN3M",
         "is_local": false
       },
@@ -30761,7 +30761,7 @@
         "href": "https://api.spotify.com/v1/tracks/7I3skNaQdvZSS7zXY2VHId",
         "id": "7I3skNaQdvZSS7zXY2VHId",
         "name": "The Hype",
-        "popularity": 63,
+        "popularity": 64,
         "uri": "spotify:track:7I3skNaQdvZSS7zXY2VHId",
         "is_local": false
       },

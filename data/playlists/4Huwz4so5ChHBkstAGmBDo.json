@@ -10,17 +10,17 @@
   "images": [
     {
       "height": 640,
-      "url": "https://mosaic.scdn.co/640/ab67616d00001e0213b3e37318a0c247b550bccdab67616d00001e0249091440fe73435983406f43ab67616d00001e02a048415db06a5b6fa7ec4e1aab67616d00001e02d304ba2d71de306812eebaf4",
+      "url": "https://mosaic.scdn.co/640/ab67616d00001e0213b3e37318a0c247b550bccdab67616d00001e0234a29f220057810cce98e1b4ab67616d00001e0249091440fe73435983406f43ab67616d00001e02a048415db06a5b6fa7ec4e1a",
       "width": 640
     },
     {
       "height": 300,
-      "url": "https://mosaic.scdn.co/300/ab67616d00001e0213b3e37318a0c247b550bccdab67616d00001e0249091440fe73435983406f43ab67616d00001e02a048415db06a5b6fa7ec4e1aab67616d00001e02d304ba2d71de306812eebaf4",
+      "url": "https://mosaic.scdn.co/300/ab67616d00001e0213b3e37318a0c247b550bccdab67616d00001e0234a29f220057810cce98e1b4ab67616d00001e0249091440fe73435983406f43ab67616d00001e02a048415db06a5b6fa7ec4e1a",
       "width": 300
     },
     {
       "height": 60,
-      "url": "https://mosaic.scdn.co/60/ab67616d00001e0213b3e37318a0c247b550bccdab67616d00001e0249091440fe73435983406f43ab67616d00001e02a048415db06a5b6fa7ec4e1aab67616d00001e02d304ba2d71de306812eebaf4",
+      "url": "https://mosaic.scdn.co/60/ab67616d00001e0213b3e37318a0c247b550bccdab67616d00001e0234a29f220057810cce98e1b4ab67616d00001e0249091440fe73435983406f43ab67616d00001e02a048415db06a5b6fa7ec4e1a",
       "width": 60
     }
   ],
@@ -442,17 +442,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273d304ba2d71de306812eebaf4",
+              "url": "https://i.scdn.co/image/ab67616d0000b27334a29f220057810cce98e1b4",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02d304ba2d71de306812eebaf4",
+              "url": "https://i.scdn.co/image/ab67616d00001e0234a29f220057810cce98e1b4",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851d304ba2d71de306812eebaf4",
+              "url": "https://i.scdn.co/image/ab67616d0000485134a29f220057810cce98e1b4",
               "width": 64
             }
           ],
@@ -491,7 +491,7 @@
         ],
         "disc_number": 1,
         "track_number": 3,
-        "duration_ms": 229040,
+        "duration_ms": 229038,
         "external_ids": { "isrc": "GBHMU1400161" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/6HFywc5eQYRRYHYTatCb5Y"
@@ -3879,7 +3879,7 @@
         "href": "https://api.spotify.com/v1/tracks/14dJexYlvd3t3XAtD1pYW1",
         "id": "14dJexYlvd3t3XAtD1pYW1",
         "name": "Oh Caroline",
-        "popularity": 59,
+        "popularity": 58,
         "uri": "spotify:track:14dJexYlvd3t3XAtD1pYW1",
         "is_local": false
       },
