@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 103,
+  "total_episodes": 104,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4TyobTid2t15EZeIbWCXix/clip_473122_533122.mp3",
+      "description": "How Paul Dirac uncovered the anti-universe. Get your exclusive edition of Veritasium’s first tabletop game - join 8,000+ backers - https://ve42.co/did 0:00 Can Negative Energy Exist?3:27 The Schrödinger Equation Is Wrong8:49 The Strangest Man In Physics11:20 Dirac and the Klein-Gordon equation17:36 Heisenberg’s Uncertainty Principle21:12 The Dirac Equation24:34 The Saddest Chapter in Modern Physics26:49 The Anti-Electron30:14 Antiparticles Travel Backwards In Time31:43 The Anti-World ",
+      "duration_ms": 2054399,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2n4AKXIRLYvJSE7w9ToXJ3"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2n4AKXIRLYvJSE7w9ToXJ3",
+      "html_description": "<p>How Paul Dirac uncovered the anti-universe. </p><p><br /></p><p>Get your exclusive edition of Veritasium’s first tabletop game - join 8,000&#43; backers - https://ve42.co/did </p><p><br /></p><p>0:00 Can Negative Energy Exist?</p><p>3:27 The Schrödinger Equation Is Wrong</p><p>8:49 The Strangest Man In Physics</p><p>11:20 Dirac and the Klein-Gordon equation</p><p>17:36 Heisenberg’s Uncertainty Principle</p><p>21:12 The Dirac Equation</p><p>24:34 The Saddest Chapter in Modern Physics</p><p>26:49 The Anti-Electron</p><p>30:14 Antiparticles Travel Backwards In Time</p><p>31:43 The Anti-World </p>",
+      "id": "2n4AKXIRLYvJSE7w9ToXJ3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Something Weird Happens When E=−mc²",
+      "release_date": "2025-12-08",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2n4AKXIRLYvJSE7w9ToXJ3"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/7EANeQMGkhBkQQf3RuhznS/clip_0_60360.mp3",
       "description": "The world is not Normal.▀▀▀The problem with overconfidence. To help correct your overconfidence we have a tabletop game launching. ⁠Pledge your support now on Kickstarter!⁠If you’re looking for a molecular modelling kit, try ⁠Snatoms⁠, a kit I invented where the atoms snap together magnetically.⁠Sign up to the Veritasium newsletter⁠ for weekly science updates.▀▀▀0:00 What is a power law?4:31 Expected Values8:49 The St. Petersburg Paradox11:37 Outliers Dominate Averages15:23 Fractals and Power Laws 19:28 Self-Organized Criticality24:08 Why do we light controlled forest fires?26:40 How We Can Predict Earthquakes32:11 Critical Systems and Universality 36:31 How Some Businesses Are Built On Power Laws 39:30 What game are you playing? Normal or power?",
