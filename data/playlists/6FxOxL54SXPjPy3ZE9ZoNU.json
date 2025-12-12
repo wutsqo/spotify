@@ -11584,7 +11584,7 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "album",
+          "album_type": "compilation",
           "href": "https://api.spotify.com/v1/albums/3TnMW3EicWwdyFAze9Y0og",
           "id": "3TnMW3EicWwdyFAze9Y0og",
           "images": [
@@ -14431,7 +14431,7 @@
         "href": "https://api.spotify.com/v1/tracks/6qEQuACZCNWf94T1WF4tLB",
         "id": "6qEQuACZCNWf94T1WF4tLB",
         "name": "The End of the World",
-        "popularity": 28,
+        "popularity": 29,
         "uri": "spotify:track:6qEQuACZCNWf94T1WF4tLB",
         "is_local": false
       },
