@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 104,
+  "total_episodes": 105,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4TNJa88cDZ6athfAPVxS9T/clip_215000_280280.mp3",
+      "description": "How an argument between Einstein and Bohr changed quantum mechanics forever. ▀▀▀Correction: At 30 minutes 53 seconds - Electrons and Positrons not Protons▀▀▀0:00 The Speed of Gravity3:07 Spooky Action at a Distance5:21 The Copenhagen Interpretation9:12 The EPR Paradox and Hidden Variables17:25 Einstein vs Bohr20:51 John Bell and Entanglement 22:14 Bell’s Theorem 29:30 The Bell Inequality Test33:41 The Most Misunderstood Experiment in Physics35:06 The Locality Problem 40:37 The Many-Worlds Interpretation",
+      "duration_ms": 2572544,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/22e5pimy41UjzTljrcyzbb"
+      },
+      "href": "https://api.spotify.com/v1/episodes/22e5pimy41UjzTljrcyzbb",
+      "html_description": "<p>How an argument between Einstein and Bohr changed quantum mechanics forever. </p><p><br /></p><p>▀▀▀</p><p>Correction: At 30 minutes 53 seconds - Electrons and Positrons not Protons▀▀▀</p><p>0:00 The Speed of Gravity</p><p>3:07 Spooky Action at a Distance</p><p>5:21 The Copenhagen Interpretation</p><p>9:12 The EPR Paradox and Hidden Variables</p><p>17:25 Einstein vs Bohr</p><p>20:51 John Bell and Entanglement </p><p>22:14 Bell’s Theorem </p><p>29:30 The Bell Inequality Test</p><p>33:41 The Most Misunderstood Experiment in Physics</p><p>35:06 The Locality Problem </p><p>40:37 The Many-Worlds Interpretation</p>",
+      "id": "22e5pimy41UjzTljrcyzbb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "There Is Something Faster Than Light",
+      "release_date": "2025-12-21",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:22e5pimy41UjzTljrcyzbb"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/4TyobTid2t15EZeIbWCXix/clip_473122_533122.mp3",
       "description": "How Paul Dirac uncovered the anti-universe. Get your exclusive edition of Veritasium’s first tabletop game - join 8,000+ backers - https://ve42.co/did 0:00 Can Negative Energy Exist?3:27 The Schrödinger Equation Is Wrong8:49 The Strangest Man In Physics11:20 Dirac and the Klein-Gordon equation17:36 Heisenberg’s Uncertainty Principle21:12 The Dirac Equation24:34 The Saddest Chapter in Modern Physics26:49 The Anti-Electron30:14 Antiparticles Travel Backwards In Time31:43 The Anti-World ",
