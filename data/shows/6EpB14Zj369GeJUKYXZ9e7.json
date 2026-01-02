@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 106,
+  "total_episodes": 107,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/0A4waAOrkjpV7iewH71xy4/clip_81000_140000.mp3",
+      "description": "The insane machines that make the most advanced computer chips. ▀▀▀0:00 The Machine That Saved Moore’s Law3:12 How are microchips made?9:11 What is extreme ultraviolet lithography?15:04 Nuclear Fusion To The Rescue 21:59 How ASML Conquered The Chip World35:35 Who are ASML’s biggest customers?37:40 The Most Important Tech Company In The World41:25 Inside ASML ",
+      "duration_ms": 3179861,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/6Hg1HcSFUaKYMs7xoutQJG"
+      },
+      "href": "https://api.spotify.com/v1/episodes/6Hg1HcSFUaKYMs7xoutQJG",
+      "html_description": "<p>The insane machines that make the most advanced computer chips.</p><p> </p><p>▀▀▀</p><p>0:00 The Machine That Saved Moore’s Law</p><p>3:12 How are microchips made?</p><p>9:11 What is extreme ultraviolet lithography?</p><p>15:04 Nuclear Fusion To The Rescue </p><p>21:59 How ASML Conquered The Chip World</p><p>35:35 Who are ASML’s biggest customers?</p><p>37:40 The Most Important Tech Company In The World</p><p>41:25 Inside ASML </p>",
+      "id": "6Hg1HcSFUaKYMs7xoutQJG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Ridiculous Engineering Of The World's Most Important Machine",
+      "release_date": "2026-01-01",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:6Hg1HcSFUaKYMs7xoutQJG"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1OueHEvQbbfvt2DhjChGK2/clip_113000_171000.mp3",
       "description": "Am I retiring?",
