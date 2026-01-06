@@ -1,6 +1,88 @@
 {
-  "total": 202,
+  "total": 205,
   "tracks": [
+    {
+      "id": "4fDWO9Z69ydDGbtB1xMsCn",
+      "name": "Aku Cinta Dia",
+      "added_at": "2026-01-05T15:17:37Z",
+      "popularity": 55,
+      "duration_ms": 220775,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/4fDWO9Z69ydDGbtB1xMsCn",
+      "preview_url": null,
+      "album": {
+        "id": "3Mx4qoDagD1M6SuaA2mbAo",
+        "name": "Aku Cinta Dia",
+        "release_date": "1985-01-01",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2734388a8f946e927d52ef9e8b2",
+        "url": "https://open.spotify.com/album/3Mx4qoDagD1M6SuaA2mbAo"
+      },
+      "artists": [
+        {
+          "id": "2NteKKMj3takKR3ABTd279",
+          "name": "Chrisye",
+          "url": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+        }
+      ]
+    },
+    {
+      "id": "19EDO639QlL6INSAy3Yb8j",
+      "name": "Andai Aku Bisa",
+      "added_at": "2026-01-05T14:31:58Z",
+      "popularity": 60,
+      "duration_ms": 276240,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/19EDO639QlL6INSAy3Yb8j",
+      "preview_url": null,
+      "album": {
+        "id": "4AQwLHzLYSnFojkeR9IG3a",
+        "name": "Greatest Hits",
+        "release_date": "2007-01-01",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273d9a0f3dea8af57eefd1b8063",
+        "url": "https://open.spotify.com/album/4AQwLHzLYSnFojkeR9IG3a"
+      },
+      "artists": [
+        {
+          "id": "2NteKKMj3takKR3ABTd279",
+          "name": "Chrisye",
+          "url": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+        }
+      ]
+    },
+    {
+      "id": "1gvI1nP8e6wr6KSilWutKz",
+      "name": "hoRRReg",
+      "added_at": "2026-01-05T12:39:49Z",
+      "popularity": 75,
+      "duration_ms": 188852,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/1gvI1nP8e6wr6KSilWutKz",
+      "preview_url": null,
+      "album": {
+        "id": "45uKX8IYbs9w5jbDNrRp4K",
+        "name": "Puting Beliung",
+        "release_date": "2025-08-29",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273ebdd8446bacd87dc7796cede",
+        "url": "https://open.spotify.com/album/45uKX8IYbs9w5jbDNrRp4K"
+      },
+      "artists": [
+        {
+          "id": "6vP4azTCk053nGL0xAYnVH",
+          "name": "Tenxi",
+          "url": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
+        },
+        {
+          "id": "3x1vHC0kthfGxbY5w8AiRE",
+          "name": "Naufal Syachreza",
+          "url": "https://open.spotify.com/artist/3x1vHC0kthfGxbY5w8AiRE"
+        },
+        {
+          "id": "5PTw7KmM8c9QfBjU5caHWs",
+          "name": "Jemsii",
+          "url": "https://open.spotify.com/artist/5PTw7KmM8c9QfBjU5caHWs"
+        }
+      ]
+    },
     {
       "id": "1b4EDa9QUbZEmORq0F3oLh",
       "name": "what if we?",
