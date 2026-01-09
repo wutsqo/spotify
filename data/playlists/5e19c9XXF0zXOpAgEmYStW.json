@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
   },
-  "followers": { "href": null, "total": 2081 },
+  "followers": { "href": null, "total": 2082 },
   "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW?locale=*",
   "id": "5e19c9XXF0zXOpAgEmYStW",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
       "width": null
     }
   ],
@@ -4591,7 +4591,7 @@
         "href": "https://api.spotify.com/v1/tracks/6o39Ln9118FKTMbM4BvcEy",
         "id": "6o39Ln9118FKTMbM4BvcEy",
         "name": "Drown",
-        "popularity": 74,
+        "popularity": 75,
         "uri": "spotify:track:6o39Ln9118FKTMbM4BvcEy",
         "is_local": false
       },
@@ -38178,7 +38178,7 @@
         "href": "https://api.spotify.com/v1/tracks/0lP4HYLmvowOKdsQ7CVkuq",
         "id": "0lP4HYLmvowOKdsQ7CVkuq",
         "name": "The Kill",
-        "popularity": 80,
+        "popularity": 81,
         "uri": "spotify:track:0lP4HYLmvowOKdsQ7CVkuq",
         "is_local": false
       },
@@ -55020,7 +55020,7 @@
         "href": "https://api.spotify.com/v1/tracks/06j7eVHrgRSt9eQSWhH3zK",
         "id": "06j7eVHrgRSt9eQSWhH3zK",
         "name": "Left Behind",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:06j7eVHrgRSt9eQSWhH3zK",
         "is_local": false
       },
