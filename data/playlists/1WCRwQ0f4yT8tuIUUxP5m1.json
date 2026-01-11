@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 450807 },
+  "followers": { "href": null, "total": 450921 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
       "width": null
     }
   ],
@@ -5107,7 +5107,7 @@
         "href": "https://api.spotify.com/v1/tracks/3yKIL7niCEJajKlVmMNBZA",
         "id": "3yKIL7niCEJajKlVmMNBZA",
         "name": "Days Lie Dormant",
-        "popularity": 68,
+        "popularity": 67,
         "uri": "spotify:track:3yKIL7niCEJajKlVmMNBZA",
         "is_local": false
       },
