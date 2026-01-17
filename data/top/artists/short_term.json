@@ -5,7 +5,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/7pbDxGE6nQSZVfiFdq9lOL"
       },
-      "followers": { "href": null, "total": 6878442 },
+      "followers": { "href": null, "total": 6880284 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/7pbDxGE6nQSZVfiFdq9lOL",
       "id": "7pbDxGE6nQSZVfiFdq9lOL",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
       },
-      "followers": { "href": null, "total": 9287018 },
+      "followers": { "href": null, "total": 9289025 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/2FXC3k01G6Gw61bmprjgqS",
       "id": "2FXC3k01G6Gw61bmprjgqS",
@@ -65,8 +65,13 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
       },
-      "followers": { "href": null, "total": 2356344 },
-      "genres": ["pop kreatif", "indonesian pop", "indonesian jazz"],
+      "followers": { "href": null, "total": 2356725 },
+      "genres": [
+        "pop kreatif",
+        "indonesian pop",
+        "indonesian jazz",
+        "city pop"
+      ],
       "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
       "id": "2NteKKMj3takKR3ABTd279",
       "images": [
@@ -95,7 +100,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
-      "followers": { "href": null, "total": 13136438 },
+      "followers": { "href": null, "total": 13167917 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
       "id": "51kyrUsAVqUBcoDEMFkX12",
@@ -125,7 +130,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
       },
-      "followers": { "href": null, "total": 318750 },
+      "followers": { "href": null, "total": 321720 },
       "genres": [
         "hipdut",
         "lagu timur",
@@ -163,7 +168,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5L3RqiyBaI1VDhbNkzhdjc"
       },
-      "followers": { "href": null, "total": 23753 },
+      "followers": { "href": null, "total": 23786 },
       "genres": [
         "hipdut",
         "indonesian indie",
@@ -191,7 +196,7 @@
         }
       ],
       "name": "White Chorus",
-      "popularity": 51,
+      "popularity": 50,
       "type": "artist",
       "uri": "spotify:artist:5L3RqiyBaI1VDhbNkzhdjc"
     },
@@ -199,7 +204,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
       },
-      "followers": { "href": null, "total": 53754 },
+      "followers": { "href": null, "total": 55414 },
       "genres": [
         "hipdut",
         "dangdut",
@@ -236,7 +241,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE"
       },
-      "followers": { "href": null, "total": 414107 },
+      "followers": { "href": null, "total": 414329 },
       "genres": [
         "indonesian indie",
         "indonesian indie rock",
@@ -272,7 +277,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
-      "followers": { "href": null, "total": 8129896 },
+      "followers": { "href": null, "total": 8131990 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
       "id": "3mIj9lX2MWuHmhNCA7LSCW",
@@ -302,7 +307,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
       },
-      "followers": { "href": null, "total": 25492387 },
+      "followers": { "href": null, "total": 25504752 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/4V8LLVI7PbaPR0K2TGSxFF",
       "id": "4V8LLVI7PbaPR0K2TGSxFF",
@@ -332,12 +337,8 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
       },
-      "followers": { "href": null, "total": 338537 },
-      "genres": [
-        "indonesian indie",
-        "indonesian indie rock",
-        "indonesian rock"
-      ],
+      "followers": { "href": null, "total": 340349 },
+      "genres": ["indonesian indie", "indonesian indie rock"],
       "href": "https://api.spotify.com/v1/artists/0NbKRRBuiIUwS9irPvi7wD",
       "id": "0NbKRRBuiIUwS9irPvi7wD",
       "images": [
@@ -366,7 +367,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
       },
-      "followers": { "href": null, "total": 1126078 },
+      "followers": { "href": null, "total": 1134041 },
       "genres": [
         "hipdut",
         "dangdut",
