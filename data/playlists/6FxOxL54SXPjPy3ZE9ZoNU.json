@@ -8336,7 +8336,7 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "album",
+          "album_type": "compilation",
           "href": "https://api.spotify.com/v1/albums/5Vck2QyeSlhWymxrnQWpoM",
           "id": "5Vck2QyeSlhWymxrnQWpoM",
           "images": [
@@ -8357,8 +8357,8 @@
             }
           ],
           "name": "Golden Girl (The Columbia Recordings 1944-1966)",
-          "release_date": "1945",
-          "release_date_precision": "year",
+          "release_date": "1999-06-01",
+          "release_date_precision": "day",
           "uri": "spotify:album:5Vck2QyeSlhWymxrnQWpoM",
           "artists": [
             {
@@ -10261,7 +10261,7 @@
         "href": "https://api.spotify.com/v1/tracks/4aTCNddtjztjuK2EOgz7ZZ",
         "id": "4aTCNddtjztjuK2EOgz7ZZ",
         "name": "Itsy Bitsy Teenie Weenie Yellow Polka Dot Bikini",
-        "popularity": 58,
+        "popularity": 57,
         "uri": "spotify:track:4aTCNddtjztjuK2EOgz7ZZ",
         "is_local": false
       },
