@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 5266 },
+  "followers": { "href": null, "total": 5264 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -2521,7 +2521,7 @@
         "href": "https://api.spotify.com/v1/tracks/3ixTiPABjqkBKPocxq6oIe",
         "id": "3ixTiPABjqkBKPocxq6oIe",
         "name": "Don't Look Back In Anger",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3ixTiPABjqkBKPocxq6oIe",
         "is_local": false
       },
@@ -9909,7 +9909,7 @@
         "href": "https://api.spotify.com/v1/tracks/37y7iDayfwm3WXn5BiAoRk",
         "id": "37y7iDayfwm3WXn5BiAoRk",
         "name": "Dark Red",
-        "popularity": 4,
+        "popularity": 3,
         "uri": "spotify:track:37y7iDayfwm3WXn5BiAoRk",
         "is_local": false
       },
@@ -11569,7 +11569,7 @@
         "href": "https://api.spotify.com/v1/tracks/71ytDkCnYc11VRiRCrhDHX",
         "id": "71ytDkCnYc11VRiRCrhDHX",
         "name": "Only Ones Who Know",
-        "popularity": 66,
+        "popularity": 65,
         "uri": "spotify:track:71ytDkCnYc11VRiRCrhDHX",
         "is_local": false
       },
@@ -12495,7 +12495,7 @@
         "href": "https://api.spotify.com/v1/tracks/07XaOyTS5hyaWiUK1Bc3bR",
         "id": "07XaOyTS5hyaWiUK1Bc3bR",
         "name": "True Love Waits",
-        "popularity": 67,
+        "popularity": 66,
         "uri": "spotify:track:07XaOyTS5hyaWiUK1Bc3bR",
         "is_local": false
       },
@@ -12959,7 +12959,7 @@
         "href": "https://api.spotify.com/v1/tracks/4LpUpiYoZ2M3Z1kmhn4EQo",
         "id": "4LpUpiYoZ2M3Z1kmhn4EQo",
         "name": "Still Beating",
-        "popularity": 73,
+        "popularity": 72,
         "uri": "spotify:track:4LpUpiYoZ2M3Z1kmhn4EQo",
         "is_local": false
       },
@@ -19343,7 +19343,7 @@
         "href": "https://api.spotify.com/v1/tracks/7nbAMKGkPMjc4EuNNsjXqZ",
         "id": "7nbAMKGkPMjc4EuNNsjXqZ",
         "name": "Neon Moon",
-        "popularity": 31,
+        "popularity": 30,
         "uri": "spotify:track:7nbAMKGkPMjc4EuNNsjXqZ",
         "is_local": false
       },
@@ -25023,7 +25023,7 @@
         "href": "https://api.spotify.com/v1/tracks/3VbWnPbVYxJ4rmwFGJw0D2",
         "id": "3VbWnPbVYxJ4rmwFGJw0D2",
         "name": "Falling In Love",
-        "popularity": 27,
+        "popularity": 26,
         "uri": "spotify:track:3VbWnPbVYxJ4rmwFGJw0D2",
         "is_local": false
       },
@@ -26379,7 +26379,7 @@
         "href": "https://api.spotify.com/v1/tracks/3oP2vxUR2bjFCrU9YolGnM",
         "id": "3oP2vxUR2bjFCrU9YolGnM",
         "name": "I Could Die for You",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:3oP2vxUR2bjFCrU9YolGnM",
         "is_local": false
       },
@@ -26563,7 +26563,7 @@
         "href": "https://api.spotify.com/v1/tracks/0kYUrLVQOfx21xuXu7OGrT",
         "id": "0kYUrLVQOfx21xuXu7OGrT",
         "name": "All These Things That I've Done",
-        "popularity": 4,
+        "popularity": 3,
         "uri": "spotify:track:0kYUrLVQOfx21xuXu7OGrT",
         "is_local": false
       },
@@ -30531,7 +30531,7 @@
         "href": "https://api.spotify.com/v1/tracks/2fhOljbX79loRcdl47SFye",
         "id": "2fhOljbX79loRcdl47SFye",
         "name": "Moonlight on the River",
-        "popularity": 80,
+        "popularity": 79,
         "uri": "spotify:track:2fhOljbX79loRcdl47SFye",
         "is_local": false
       },
@@ -31087,7 +31087,7 @@
         "href": "https://api.spotify.com/v1/tracks/7peh6LUcdNPcMdrSH4JPsM",
         "id": "7peh6LUcdNPcMdrSH4JPsM",
         "name": "I Don't Trust Myself (With Loving You)",
-        "popularity": 56,
+        "popularity": 55,
         "uri": "spotify:track:7peh6LUcdNPcMdrSH4JPsM",
         "is_local": false
       },
@@ -31551,7 +31551,7 @@
         "href": "https://api.spotify.com/v1/tracks/4gs07VlJST4bdxGbBsXVue",
         "id": "4gs07VlJST4bdxGbBsXVue",
         "name": "Heartbreak Warfare",
-        "popularity": 65,
+        "popularity": 64,
         "uri": "spotify:track:4gs07VlJST4bdxGbBsXVue",
         "is_local": false
       },
@@ -35707,7 +35707,7 @@
         "href": "https://api.spotify.com/v1/tracks/7iPlcFvOMOzt6v0QvcAueZ",
         "id": "7iPlcFvOMOzt6v0QvcAueZ",
         "name": "I Always Wanna Die (Sometimes)",
-        "popularity": 65,
+        "popularity": 64,
         "uri": "spotify:track:7iPlcFvOMOzt6v0QvcAueZ",
         "is_local": false
       },
@@ -42229,7 +42229,7 @@
         "href": "https://api.spotify.com/v1/tracks/3d9DChrdc6BOeFsbrZ3Is0",
         "id": "3d9DChrdc6BOeFsbrZ3Is0",
         "name": "Under the Bridge",
-        "popularity": 86,
+        "popularity": 85,
         "uri": "spotify:track:3d9DChrdc6BOeFsbrZ3Is0",
         "is_local": false
       },
@@ -47841,7 +47841,7 @@
         "href": "https://api.spotify.com/v1/tracks/6PypGyiu0Y2lCDBN1XZEnP",
         "id": "6PypGyiu0Y2lCDBN1XZEnP",
         "name": "Everybody Hurts",
-        "popularity": 77,
+        "popularity": 76,
         "uri": "spotify:track:6PypGyiu0Y2lCDBN1XZEnP",
         "is_local": false
       },
@@ -53333,7 +53333,7 @@
         "href": "https://api.spotify.com/v1/tracks/7d6qX28ITEgBUhCJ86SeYq",
         "id": "7d6qX28ITEgBUhCJ86SeYq",
         "name": "Right Before My Eyes - Unpeeled",
-        "popularity": 47,
+        "popularity": 46,
         "uri": "spotify:track:7d6qX28ITEgBUhCJ86SeYq",
         "is_local": false
       },
@@ -59063,7 +59063,7 @@
         "href": "https://api.spotify.com/v1/tracks/6Uwi2Qk3H7fM4b4W4ExrAp",
         "id": "6Uwi2Qk3H7fM4b4W4ExrAp",
         "name": "Scott Street",
-        "popularity": 79,
+        "popularity": 78,
         "uri": "spotify:track:6Uwi2Qk3H7fM4b4W4ExrAp",
         "is_local": false
       },
@@ -72013,7 +72013,7 @@
         "href": "https://api.spotify.com/v1/tracks/1FWsomP9StpCcXNWmJk8Cl",
         "id": "1FWsomP9StpCcXNWmJk8Cl",
         "name": "K.",
-        "popularity": 9,
+        "popularity": 10,
         "uri": "spotify:track:1FWsomP9StpCcXNWmJk8Cl",
         "is_local": false
       },
@@ -73403,7 +73403,7 @@
         "href": "https://api.spotify.com/v1/tracks/4zEvxRDaKDoFlHxK7Hy0wg",
         "id": "4zEvxRDaKDoFlHxK7Hy0wg",
         "name": "Sunday",
-        "popularity": 72,
+        "popularity": 71,
         "uri": "spotify:track:4zEvxRDaKDoFlHxK7Hy0wg",
         "is_local": false
       },
@@ -74463,7 +74463,7 @@
         "href": "https://api.spotify.com/v1/tracks/3SeDS5sSoWnwAZvVgkdKzf",
         "id": "3SeDS5sSoWnwAZvVgkdKzf",
         "name": "Better in the Dark",
-        "popularity": 81,
+        "popularity": 80,
         "uri": "spotify:track:3SeDS5sSoWnwAZvVgkdKzf",
         "is_local": false
       },
@@ -77245,7 +77245,7 @@
         "href": "https://api.spotify.com/v1/tracks/0b6xZk9f96N77BfmYWnQNC",
         "id": "0b6xZk9f96N77BfmYWnQNC",
         "name": "Mama's Boy",
-        "popularity": 74,
+        "popularity": 73,
         "uri": "spotify:track:0b6xZk9f96N77BfmYWnQNC",
         "is_local": false
       },
@@ -82241,7 +82241,7 @@
         "href": "https://api.spotify.com/v1/tracks/3kQfBtkQqgN1fAMfhks8TU",
         "id": "3kQfBtkQqgN1fAMfhks8TU",
         "name": "Need 2",
-        "popularity": 32,
+        "popularity": 31,
         "uri": "spotify:track:3kQfBtkQqgN1fAMfhks8TU",
         "is_local": false
       },
@@ -82707,7 +82707,7 @@
         "href": "https://api.spotify.com/v1/tracks/3NCQO8ath5huTDMXXtibH6",
         "id": "3NCQO8ath5huTDMXXtibH6",
         "name": "Motion Picture Soundtrack",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3NCQO8ath5huTDMXXtibH6",
         "is_local": false
       },
@@ -88277,7 +88277,7 @@
         "href": "https://api.spotify.com/v1/tracks/3NfqN997u9A3YAAafgzhIa",
         "id": "3NfqN997u9A3YAAafgzhIa",
         "name": "All I Think About Now",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:3NfqN997u9A3YAAafgzhIa",
         "is_local": false
       },
@@ -88737,7 +88737,7 @@
         "href": "https://api.spotify.com/v1/tracks/135ArLV1euyyeegU9D8HVR",
         "id": "135ArLV1euyyeegU9D8HVR",
         "name": "Army Dreamers - 2018 Remaster",
-        "popularity": 77,
+        "popularity": 76,
         "uri": "spotify:track:135ArLV1euyyeegU9D8HVR",
         "is_local": false
       },
@@ -90121,7 +90121,7 @@
         "href": "https://api.spotify.com/v1/tracks/1xK59OXxi2TAAAbmZK0kBL",
         "id": "1xK59OXxi2TAAAbmZK0kBL",
         "name": "Romantic Homicide",
-        "popularity": 86,
+        "popularity": 85,
         "uri": "spotify:track:1xK59OXxi2TAAAbmZK0kBL",
         "is_local": false
       },
@@ -92451,7 +92451,7 @@
         "href": "https://api.spotify.com/v1/tracks/3LSfoRpyN83w68NgkpeGLR",
         "id": "3LSfoRpyN83w68NgkpeGLR",
         "name": "Long Sardine x Mr. Brightside",
-        "popularity": 46,
+        "popularity": 45,
         "uri": "spotify:track:3LSfoRpyN83w68NgkpeGLR",
         "is_local": false
       },
@@ -93837,7 +93837,7 @@
         "href": "https://api.spotify.com/v1/tracks/4SrRrB27n7fiRkQcPoKfpk",
         "id": "4SrRrB27n7fiRkQcPoKfpk",
         "name": "Motion Picture Soundtrack",
-        "popularity": 76,
+        "popularity": 75,
         "uri": "spotify:track:4SrRrB27n7fiRkQcPoKfpk",
         "is_local": false
       },
