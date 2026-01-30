@@ -1,5 +1,5 @@
 {
-  "total": 66,
+  "total": 65,
   "artists": [
     {
       "external_urls": {
@@ -414,7 +414,7 @@
         }
       ],
       "name": "NIKI",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
     },
@@ -754,7 +754,7 @@
         }
       ],
       "name": "Anna Miernik",
-      "popularity": 39,
+      "popularity": 40,
       "type": "artist",
       "uri": "spotify:artist:5ZjHIJr4arYA90bHniVAVu"
     },
@@ -817,6 +817,36 @@
       "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:3l0CmX0FuQjFxr8SK7Vqag"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
+      },
+      "followers": { "href": null, "total": 359248 },
+      "genres": ["indonesian indie", "indonesian indie rock"],
+      "href": "https://api.spotify.com/v1/artists/0NbKRRBuiIUwS9irPvi7wD",
+      "id": "0NbKRRBuiIUwS9irPvi7wD",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebaacf892228a322f1415e168f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174aacf892228a322f1415e168f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178aacf892228a322f1415e168f",
+          "width": 160
+        }
+      ],
+      "name": "Perunggu",
+      "popularity": 73,
+      "type": "artist",
+      "uri": "spotify:artist:0NbKRRBuiIUwS9irPvi7wD"
     },
     {
       "external_urls": {
@@ -915,36 +945,6 @@
       "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0NbKRRBuiIUwS9irPvi7wD"
-      },
-      "followers": { "href": null, "total": 359248 },
-      "genres": ["indonesian indie", "indonesian indie rock"],
-      "href": "https://api.spotify.com/v1/artists/0NbKRRBuiIUwS9irPvi7wD",
-      "id": "0NbKRRBuiIUwS9irPvi7wD",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebaacf892228a322f1415e168f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174aacf892228a322f1415e168f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178aacf892228a322f1415e168f",
-          "width": 160
-        }
-      ],
-      "name": "Perunggu",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:0NbKRRBuiIUwS9irPvi7wD"
     },
     {
       "external_urls": {
@@ -1245,36 +1245,6 @@
       "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:3ekJhHQWBcEIstWRJc62hi"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6wD3vtAV0P3gWB9zLs7I4j"
-      },
-      "followers": { "href": null, "total": 691041 },
-      "genres": ["indonesian indie"],
-      "href": "https://api.spotify.com/v1/artists/6wD3vtAV0P3gWB9zLs7I4j",
-      "id": "6wD3vtAV0P3gWB9zLs7I4j",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc8275e79110bd3649e979975",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c8275e79110bd3649e979975",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c8275e79110bd3649e979975",
-          "width": 160
-        }
-      ],
-      "name": "Lomba Sihir",
-      "popularity": 60,
-      "type": "artist",
-      "uri": "spotify:artist:6wD3vtAV0P3gWB9zLs7I4j"
     },
     {
       "external_urls": {
@@ -1722,7 +1692,7 @@
         }
       ],
       "name": "Ogryzek",
-      "popularity": 69,
+      "popularity": 70,
       "type": "artist",
       "uri": "spotify:artist:1Sdc6ySbIvzO0X9vbyHzWm"
     },

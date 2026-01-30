@@ -98,44 +98,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
-      },
-      "followers": { "href": null, "total": 347740 },
-      "genres": [
-        "hipdut",
-        "lagu timur",
-        "dangdut",
-        "malay",
-        "funkot",
-        "koplo",
-        "indonesian pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/79omf4LgzaVAnXIRWPkJUq",
-      "id": "79omf4LgzaVAnXIRWPkJUq",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba224652429e1fc6dcaea1c2d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a224652429e1fc6dcaea1c2d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a224652429e1fc6dcaea1c2d",
-          "width": 160
-        }
-      ],
-      "name": "Naykilla",
-      "popularity": 72,
-      "type": "artist",
-      "uri": "spotify:artist:79omf4LgzaVAnXIRWPkJUq"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
       "followers": { "href": null, "total": 13507508 },
@@ -203,6 +165,44 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq"
+      },
+      "followers": { "href": null, "total": 347740 },
+      "genres": [
+        "hipdut",
+        "lagu timur",
+        "dangdut",
+        "malay",
+        "funkot",
+        "koplo",
+        "indonesian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/79omf4LgzaVAnXIRWPkJUq",
+      "id": "79omf4LgzaVAnXIRWPkJUq",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba224652429e1fc6dcaea1c2d",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a224652429e1fc6dcaea1c2d",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a224652429e1fc6dcaea1c2d",
+          "width": 160
+        }
+      ],
+      "name": "Naykilla",
+      "popularity": 72,
+      "type": "artist",
+      "uri": "spotify:artist:79omf4LgzaVAnXIRWPkJUq"
     },
     {
       "external_urls": {

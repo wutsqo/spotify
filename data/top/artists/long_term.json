@@ -57,7 +57,7 @@
         }
       ],
       "name": "NIKI",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:2kxP07DLgs4xlWz8YHlvfh"
     },
@@ -781,36 +781,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-      },
-      "followers": { "href": null, "total": 10078978 },
-      "genres": ["pop punk", "emo"],
-      "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
-      "id": "74XFHRwlV6OrjEM0A2NCMF",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b10c34546a4ca2d7faeb8865",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b10c34546a4ca2d7faeb8865",
-          "width": 160
-        }
-      ],
-      "name": "Paramore",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d"
       },
       "followers": { "href": null, "total": 12288309 },
@@ -838,6 +808,36 @@
       "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:6HvZYsbFfjnjFrWF950C9d"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+      },
+      "followers": { "href": null, "total": 10078978 },
+      "genres": ["pop punk", "emo"],
+      "href": "https://api.spotify.com/v1/artists/74XFHRwlV6OrjEM0A2NCMF",
+      "id": "74XFHRwlV6OrjEM0A2NCMF",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb10c34546a4ca2d7faeb8865",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b10c34546a4ca2d7faeb8865",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b10c34546a4ca2d7faeb8865",
+          "width": 160
+        }
+      ],
+      "name": "Paramore",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
     },
     {
       "external_urls": {
@@ -1056,7 +1056,7 @@
         }
       ],
       "name": "John Mayer",
-      "popularity": 78,
+      "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:0hEurMDQu99nJRq8pTxO14"
     },
