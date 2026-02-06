@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 110,
+  "total_episodes": 111,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/38P5164SPnicwlf7roELom/clip_123000_185720.mp3",
+      "description": "The rise and fall of a forgotten frozen empire.▀▀▀0:00 The Frozen Monopoly4:40 How To Stop Ice From Melting8:06 An Icy Welcome 10:52 The Rise Of The Ice King14:32 How Ice Transformed Cities18:29 The First Ice Machine23:22 Why is the back of the fridge hot?25:45 Natural Ice Is Deadly27:14 Would the world be different without refrigeration?",
+      "duration_ms": 1713898,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0MdZnLfVIuI7YzdFvvOpZG"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0MdZnLfVIuI7YzdFvvOpZG",
+      "html_description": "<p>The rise and fall of a forgotten frozen empire.</p><p>▀▀▀</p><p>0:00 The Frozen Monopoly</p><p>4:40 How To Stop Ice From Melting</p><p>8:06 An Icy Welcome </p><p>10:52 The Rise Of The Ice King</p><p>14:32 How Ice Transformed Cities</p><p>18:29 The First Ice Machine</p><p>23:22 Why is the back of the fridge hot?</p><p>25:45 Natural Ice Is Deadly</p><p>27:14 Would the world be different without refrigeration?</p>",
+      "id": "0MdZnLfVIuI7YzdFvvOpZG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Why Cold Drinks Were Lethal before 1914",
+      "release_date": "2026-02-05",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:0MdZnLfVIuI7YzdFvvOpZG"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/1yS2u5rMgdIVMPVwsga9IJ/clip_153000_214400.mp3",
       "description": "What this strange quantum effect reveals about potentials.▀▀▀Chapters:0:00 The 3 Body Problem4:16 Potential Energies7:09 What is the curl in mathematics?11:59 Bohm and Oppenheimer14:36 Potentials in the Schrödinger Equation18:40 The Aharonov-Bohm Effect25:29 The Donut Experiment27:49 Can potentials affect reality?33:51 The Gravitational Aharonov-Bohm Effect",
