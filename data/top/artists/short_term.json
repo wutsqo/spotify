@@ -11,8 +11,8 @@
         "dangdut",
         "lagu timur",
         "malay",
-        "funkot",
         "koplo",
+        "funkot",
         "indonesian hip hop",
         "malay rap",
         "indonesian pop"
@@ -40,36 +40,6 @@
       "popularity": 77,
       "type": "artist",
       "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
-      },
-      "followers": { "href": null, "total": 13757570 },
-      "genres": ["indonesian indie", "indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
-      "id": "51kyrUsAVqUBcoDEMFkX12",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebb786cb6de7505caff17fe11f",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174b786cb6de7505caff17fe11f",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178b786cb6de7505caff17fe11f",
-          "width": 160
-        }
-      ],
-      "name": "Hindia",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
     },
     {
       "external_urls": {
@@ -105,6 +75,36 @@
       "popularity": 66,
       "type": "artist",
       "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
+      },
+      "followers": { "href": null, "total": 13757570 },
+      "genres": ["indonesian indie", "indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
+      "id": "51kyrUsAVqUBcoDEMFkX12",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb786cb6de7505caff17fe11f",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b786cb6de7505caff17fe11f",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b786cb6de7505caff17fe11f",
+          "width": 160
+        }
+      ],
+      "name": "Hindia",
+      "popularity": 82,
+      "type": "artist",
+      "uri": "spotify:artist:51kyrUsAVqUBcoDEMFkX12"
     }
   ]
 }
