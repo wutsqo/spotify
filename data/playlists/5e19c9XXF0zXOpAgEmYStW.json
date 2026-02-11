@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
   },
-  "followers": { "href": null, "total": 2080 },
+  "followers": { "href": null, "total": 2079 },
   "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW?locale=*",
   "id": "5e19c9XXF0zXOpAgEmYStW",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
       "width": null
     }
   ],
@@ -2277,7 +2277,7 @@
         "href": "https://api.spotify.com/v1/tracks/3ZffCQKLFLUvYM59XKLbVm",
         "id": "3ZffCQKLFLUvYM59XKLbVm",
         "name": "Wake Me up When September Ends",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:3ZffCQKLFLUvYM59XKLbVm",
         "is_local": false
       },
@@ -10559,7 +10559,7 @@
         "href": "https://api.spotify.com/v1/tracks/0YAMQSmHk6BSUGTYpaoqTJ",
         "id": "0YAMQSmHk6BSUGTYpaoqTJ",
         "name": "Wherever you are",
-        "popularity": 48,
+        "popularity": 47,
         "uri": "spotify:track:0YAMQSmHk6BSUGTYpaoqTJ",
         "is_local": false
       },
@@ -35697,17 +35697,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b273ca2e09fd52e6330146ea9550",
+              "url": "https://i.scdn.co/image/ab67616d0000b273fb25458af0290a7f31ee73b5",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e02ca2e09fd52e6330146ea9550",
+              "url": "https://i.scdn.co/image/ab67616d00001e02fb25458af0290a7f31ee73b5",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d00004851ca2e09fd52e6330146ea9550",
+              "url": "https://i.scdn.co/image/ab67616d00004851fb25458af0290a7f31ee73b5",
               "width": 64
             }
           ],
