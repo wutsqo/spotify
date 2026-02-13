@@ -10,7 +10,7 @@
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842bf977fd6e7a0225e48bc67a",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842bf977fd6e7a0225e48bc67a",
       "width": null
     }
   ],
@@ -1378,17 +1378,17 @@
           "images": [
             {
               "height": 640,
-              "url": "https://i.scdn.co/image/ab67616d0000b27378ce6556cbc45c0bb8b48d46",
+              "url": "https://i.scdn.co/image/ab67616d0000b273af896e8a8477cce8185ba9e9",
               "width": 640
             },
             {
               "height": 300,
-              "url": "https://i.scdn.co/image/ab67616d00001e0278ce6556cbc45c0bb8b48d46",
+              "url": "https://i.scdn.co/image/ab67616d00001e02af896e8a8477cce8185ba9e9",
               "width": 300
             },
             {
               "height": 64,
-              "url": "https://i.scdn.co/image/ab67616d0000485178ce6556cbc45c0bb8b48d46",
+              "url": "https://i.scdn.co/image/ab67616d00004851af896e8a8477cce8185ba9e9",
               "width": 64
             }
           ],
@@ -1427,7 +1427,7 @@
         ],
         "disc_number": 1,
         "track_number": 2,
-        "duration_ms": 172643,
+        "duration_ms": 172644,
         "external_ids": { "isrc": "NLF5P2200002" },
         "external_urls": {
           "spotify": "https://open.spotify.com/track/4qCyQSrfF0xLKa5DvtthSI"
@@ -1435,7 +1435,7 @@
         "href": "https://api.spotify.com/v1/tracks/4qCyQSrfF0xLKa5DvtthSI",
         "id": "4qCyQSrfF0xLKa5DvtthSI",
         "name": "Closer",
-        "popularity": 6,
+        "popularity": 5,
         "uri": "spotify:track:4qCyQSrfF0xLKa5DvtthSI",
         "is_local": false
       },
