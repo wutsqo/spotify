@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 454005 },
+  "followers": { "href": null, "total": 454072 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
@@ -1873,7 +1873,7 @@
         "href": "https://api.spotify.com/v1/tracks/6YJYhPKP7MRzJSHqe3QI9K",
         "id": "6YJYhPKP7MRzJSHqe3QI9K",
         "name": "Garbage",
-        "popularity": 68,
+        "popularity": 69,
         "uri": "spotify:track:6YJYhPKP7MRzJSHqe3QI9K",
         "is_local": false
       },
@@ -14797,7 +14797,7 @@
         "href": "https://api.spotify.com/v1/tracks/1E1uGhNdBe6Dddbgs2KqtZ",
         "id": "1E1uGhNdBe6Dddbgs2KqtZ",
         "name": "Jumpsuit",
-        "popularity": 67,
+        "popularity": 68,
         "uri": "spotify:track:1E1uGhNdBe6Dddbgs2KqtZ",
         "is_local": false
       },
@@ -25445,7 +25445,7 @@
         "href": "https://api.spotify.com/v1/tracks/4RdRa3qq0GBSKjomxrkh5K",
         "id": "4RdRa3qq0GBSKjomxrkh5K",
         "name": "Guns for Hands",
-        "popularity": 65,
+        "popularity": 66,
         "uri": "spotify:track:4RdRa3qq0GBSKjomxrkh5K",
         "is_local": false
       },
@@ -34715,7 +34715,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bk6v5SBxNoVsbOvdOvUAJ",
         "id": "4bk6v5SBxNoVsbOvdOvUAJ",
         "name": "Addict With A Pen",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:4bk6v5SBxNoVsbOvdOvUAJ",
         "is_local": false
       },
