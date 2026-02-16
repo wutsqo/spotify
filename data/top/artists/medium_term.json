@@ -1,5 +1,5 @@
 {
-  "total": 60,
+  "total": 61,
   "artists": [
     {
       "external_urls": {
@@ -62,7 +62,7 @@
         }
       ],
       "name": "Chrisye",
-      "popularity": 64,
+      "popularity": 63,
       "type": "artist",
       "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
     },
@@ -198,7 +198,7 @@
         }
       ],
       "name": "White Chorus",
-      "popularity": 47,
+      "popularity": 46,
       "type": "artist",
       "uri": "spotify:artist:5L3RqiyBaI1VDhbNkzhdjc"
     },
@@ -354,7 +354,7 @@
         }
       ],
       "name": "Dewa",
-      "popularity": 63,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w"
     },
@@ -422,6 +422,36 @@
       "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+      },
+      "followers": { "href": null, "total": 109744269 },
+      "genres": ["reggaeton", "trap latino", "latin", "urbano latino"],
+      "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
+      "id": "4q3ewBCX7sLwd24euuV69X",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb81f47f44084e0a09b5f0fa13",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517481f47f44084e0a09b5f0fa13",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17881f47f44084e0a09b5f0fa13",
+          "width": 160
+        }
+      ],
+      "name": "Bad Bunny",
+      "popularity": 100,
+      "type": "artist",
+      "uri": "spotify:artist:4q3ewBCX7sLwd24euuV69X"
     },
     {
       "external_urls": {
@@ -604,7 +634,7 @@
         }
       ],
       "name": "Billie Eilish",
-      "popularity": 91,
+      "popularity": 90,
       "type": "artist",
       "uri": "spotify:artist:6qqNVTkY8uBg9cP3Jd7DAH"
     },
@@ -1002,7 +1032,7 @@
         }
       ],
       "name": "Sunwich",
-      "popularity": 28,
+      "popularity": 27,
       "type": "artist",
       "uri": "spotify:artist:45KFMEB3QETjFvFME86vYO"
     },
@@ -1035,6 +1065,36 @@
       "popularity": 16,
       "type": "artist",
       "uri": "spotify:artist:0IMWbeAo0Sc9kkhNECqFIX"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
+      },
+      "followers": { "href": null, "total": 79081738 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
+      "id": "0du5cEVh5yTK9QJze8zA0C",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c7688aad1bf03986934d7e26",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c7688aad1bf03986934d7e26",
+          "width": 160
+        }
+      ],
+      "name": "Bruno Mars",
+      "popularity": 93,
+      "type": "artist",
+      "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
     },
     {
       "external_urls": {
@@ -1217,7 +1277,7 @@
         }
       ],
       "name": "Sabrina Carpenter",
-      "popularity": 90,
+      "popularity": 89,
       "type": "artist",
       "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
     },
@@ -1397,7 +1457,7 @@
         }
       ],
       "name": "Twenty One Pilots",
-      "popularity": 83,
+      "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:3YQKmKGau1PzlVlkL1iodx"
     },
@@ -1487,7 +1547,7 @@
         }
       ],
       "name": "Moongazing And Her",
-      "popularity": 19,
+      "popularity": 18,
       "type": "artist",
       "uri": "spotify:artist:6Zo43jiGrri1Pq8tQNKodP"
     },
@@ -1547,7 +1607,7 @@
         }
       ],
       "name": "Taylor Swift",
-      "popularity": 97,
+      "popularity": 96,
       "type": "artist",
       "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
     },
@@ -1642,7 +1702,7 @@
         }
       ],
       "name": "Frank Ocean",
-      "popularity": 85,
+      "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
     },
@@ -1672,39 +1732,9 @@
         }
       ],
       "name": "Harry Styles",
-      "popularity": 86,
+      "popularity": 85,
       "type": "artist",
       "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
-      },
-      "followers": { "href": null, "total": 79081738 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/0du5cEVh5yTK9QJze8zA0C",
-      "id": "0du5cEVh5yTK9QJze8zA0C",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc7688aad1bf03986934d7e26",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c7688aad1bf03986934d7e26",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c7688aad1bf03986934d7e26",
-          "width": 160
-        }
-      ],
-      "name": "Bruno Mars",
-      "popularity": 93,
-      "type": "artist",
-      "uri": "spotify:artist:0du5cEVh5yTK9QJze8zA0C"
     },
     {
       "external_urls": {
@@ -1857,7 +1887,7 @@
         }
       ],
       "name": "Ricchi E Poveri",
-      "popularity": 63,
+      "popularity": 62,
       "type": "artist",
       "uri": "spotify:artist:5BwOOeKayeMZXa5SSaiRxv"
     }

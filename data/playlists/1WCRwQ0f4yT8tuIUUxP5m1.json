@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 454072 },
+  "followers": { "href": null, "total": 454136 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da843e059c4b3d2876956a959987",
       "width": null
     }
   ],
@@ -1873,7 +1873,7 @@
         "href": "https://api.spotify.com/v1/tracks/6YJYhPKP7MRzJSHqe3QI9K",
         "id": "6YJYhPKP7MRzJSHqe3QI9K",
         "name": "Garbage",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:6YJYhPKP7MRzJSHqe3QI9K",
         "is_local": false
       },
@@ -34623,7 +34623,7 @@
         "href": "https://api.spotify.com/v1/tracks/2hUFjIbpKaRqs97OjUAmXb",
         "id": "2hUFjIbpKaRqs97OjUAmXb",
         "name": "Johnny Boy",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:2hUFjIbpKaRqs97OjUAmXb",
         "is_local": false
       },
@@ -34715,7 +34715,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bk6v5SBxNoVsbOvdOvUAJ",
         "id": "4bk6v5SBxNoVsbOvdOvUAJ",
         "name": "Addict With A Pen",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:4bk6v5SBxNoVsbOvdOvUAJ",
         "is_local": false
       },
@@ -35177,7 +35177,7 @@
         "href": "https://api.spotify.com/v1/tracks/0S7lkKStHgfgjgwSFOvRNA",
         "id": "0S7lkKStHgfgjgwSFOvRNA",
         "name": "The Craving - single version",
-        "popularity": 59,
+        "popularity": 58,
         "uri": "spotify:track:0S7lkKStHgfgjgwSFOvRNA",
         "is_local": false
       },
