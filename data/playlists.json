@@ -34,6 +34,10 @@
         "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW/tracks",
         "total": 141
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW/items",
+        "total": 141
+      },
       "type": "playlist",
       "uri": "spotify:playlist:5e19c9XXF0zXOpAgEmYStW"
     },
@@ -68,6 +72,10 @@
       "snapshot_id": "AAAAMkgKtdCwdZy0B1Andps4ldf1Y7eh",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/3FPjBuN07Xiobd8BYAeirU/tracks",
+        "total": 18
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/3FPjBuN07Xiobd8BYAeirU/items",
         "total": 18
       },
       "type": "playlist",
@@ -106,6 +114,10 @@
         "href": "https://api.spotify.com/v1/playlists/1PJYA9axGNVNWqLa0f5p49/tracks",
         "total": 705
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/1PJYA9axGNVNWqLa0f5p49/items",
+        "total": 705
+      },
       "type": "playlist",
       "uri": "spotify:playlist:1PJYA9axGNVNWqLa0f5p49"
     },
@@ -120,7 +132,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
           "width": null
         }
       ],
@@ -142,6 +154,10 @@
         "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK/tracks",
         "total": 263
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK/items",
+        "total": 263
+      },
       "type": "playlist",
       "uri": "spotify:playlist:1xK58TJGuZ40HyCStwLNRK"
     },
@@ -156,7 +172,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da842bf977fd6e7a0225e48bc67a",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da842bf977fd6e7a0225e48bc67a",
           "width": null
         }
       ],
@@ -178,6 +194,10 @@
         "href": "https://api.spotify.com/v1/playlists/5G5Unv4duumybzGQzpaJAE/tracks",
         "total": 22
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/5G5Unv4duumybzGQzpaJAE/items",
+        "total": 22
+      },
       "type": "playlist",
       "uri": "spotify:playlist:5G5Unv4duumybzGQzpaJAE"
     },
@@ -192,7 +212,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da844700437c1fd4e4aaddb0603f",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da844700437c1fd4e4aaddb0603f",
           "width": null
         }
       ],
@@ -212,6 +232,10 @@
       "snapshot_id": "AAAAMM7PduoR/7aTnzo2v0y586q9+/p8",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/1dFSy7jT4hSsbMiof1fTTA/tracks",
+        "total": 21
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/1dFSy7jT4hSsbMiof1fTTA/items",
         "total": 21
       },
       "type": "playlist",
@@ -260,6 +284,10 @@
         "href": "https://api.spotify.com/v1/playlists/6MW0g8HWssN1FBkSWDZE76/tracks",
         "total": 19
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/6MW0g8HWssN1FBkSWDZE76/items",
+        "total": 19
+      },
       "type": "playlist",
       "uri": "spotify:playlist:6MW0g8HWssN1FBkSWDZE76"
     },
@@ -296,6 +324,10 @@
         "href": "https://api.spotify.com/v1/playlists/2sf5zMRhz2iBLdOj9gwwcP/tracks",
         "total": 19
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/2sf5zMRhz2iBLdOj9gwwcP/items",
+        "total": 19
+      },
       "type": "playlist",
       "uri": "spotify:playlist:2sf5zMRhz2iBLdOj9gwwcP"
     },
@@ -327,10 +359,14 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAMxEEmgjeixoTnGLq6pabLtf6+AR1x",
+      "snapshot_id": "AAAMxcNimhW+0H9Hyr3SACMyDJW0ixG5",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/tracks",
-        "total": 1222
+        "total": 1223
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV/items",
+        "total": 1223
       },
       "type": "playlist",
       "uri": "spotify:playlist:4lHf1Zh4sB3fE7QOTIqtAV"
@@ -346,7 +382,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da846e000d7fc90982490a7e3e11",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da846e000d7fc90982490a7e3e11",
           "width": null
         }
       ],
@@ -366,6 +402,10 @@
       "snapshot_id": "AAAAKHzwYGak+StuU6t5WJG/PlIUdscl",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty/tracks",
+        "total": 12
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty/items",
         "total": 12
       },
       "type": "playlist",
@@ -404,6 +444,10 @@
         "href": "https://api.spotify.com/v1/playlists/5t3CWKpVW9wo6HO7A4lBWU/tracks",
         "total": 6
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/5t3CWKpVW9wo6HO7A4lBWU/items",
+        "total": 6
+      },
       "type": "playlist",
       "uri": "spotify:playlist:5t3CWKpVW9wo6HO7A4lBWU"
     },
@@ -418,7 +462,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8434bf38a510ae676cd24f9f5e",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8434bf38a510ae676cd24f9f5e",
           "width": null
         }
       ],
@@ -440,6 +484,10 @@
         "href": "https://api.spotify.com/v1/playlists/2zkbJ5J9ePUk1UUUU90ptK/tracks",
         "total": 80
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/2zkbJ5J9ePUk1UUUU90ptK/items",
+        "total": 80
+      },
       "type": "playlist",
       "uri": "spotify:playlist:2zkbJ5J9ePUk1UUUU90ptK"
     },
@@ -454,7 +502,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84164dcd79d0a06823fb67d892",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84164dcd79d0a06823fb67d892",
           "width": null
         }
       ],
@@ -474,6 +522,10 @@
       "snapshot_id": "AAAACPgHCYfxEP83FBlKNG0XIeQgZT1M",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/1exWJSwMHEUSEDa5efLVhs/tracks",
+        "total": 3
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/1exWJSwMHEUSEDa5efLVhs/items",
         "total": 3
       },
       "type": "playlist",
@@ -510,6 +562,10 @@
       "snapshot_id": "AAAAeVTTJJCE72CAy2/O4ZxN2pr/7mk8",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/0DbaAIrqenRqBJIpFGppt6/tracks",
+        "total": 77
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/0DbaAIrqenRqBJIpFGppt6/items",
         "total": 77
       },
       "type": "playlist",
@@ -558,6 +614,10 @@
         "href": "https://api.spotify.com/v1/playlists/3c4vUnqSDlo3JS5H7KNs6l/tracks",
         "total": 24
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/3c4vUnqSDlo3JS5H7KNs6l/items",
+        "total": 24
+      },
       "type": "playlist",
       "uri": "spotify:playlist:3c4vUnqSDlo3JS5H7KNs6l"
     },
@@ -592,6 +652,10 @@
       "snapshot_id": "AAACRBZwJzYISHBIS7oVN0acM0j9QhF1",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1/tracks",
+        "total": 82
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1/items",
         "total": 82
       },
       "type": "playlist",
@@ -640,6 +704,10 @@
         "href": "https://api.spotify.com/v1/playlists/7IgQ5AgZyoI6bSl6t8nmmh/tracks",
         "total": 13
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/7IgQ5AgZyoI6bSl6t8nmmh/items",
+        "total": 13
+      },
       "type": "playlist",
       "uri": "spotify:playlist:7IgQ5AgZyoI6bSl6t8nmmh"
     },
@@ -684,6 +752,10 @@
       "snapshot_id": "AAAACMcLaFhDk9Q2/NEGqtyX76YW9QQP",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/2Kbn5hzIPHSPvWyX2LrIlG/tracks",
+        "total": 6
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/2Kbn5hzIPHSPvWyX2LrIlG/items",
         "total": 6
       },
       "type": "playlist",
@@ -732,6 +804,10 @@
         "href": "https://api.spotify.com/v1/playlists/6FxOxL54SXPjPy3ZE9ZoNU/tracks",
         "total": 50
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/6FxOxL54SXPjPy3ZE9ZoNU/items",
+        "total": 50
+      },
       "type": "playlist",
       "uri": "spotify:playlist:6FxOxL54SXPjPy3ZE9ZoNU"
     },
@@ -766,6 +842,10 @@
       "snapshot_id": "AAAABpl5dgnIGvacQl0PDANujn8qfkU9",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/7xOerbbn2JM5gYAXSKUIqh/tracks",
+        "total": 4
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/7xOerbbn2JM5gYAXSKUIqh/items",
         "total": 4
       },
       "type": "playlist",
@@ -814,6 +894,10 @@
         "href": "https://api.spotify.com/v1/playlists/7HQPFmJVqKQDPiIMyRIdTJ/tracks",
         "total": 23
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/7HQPFmJVqKQDPiIMyRIdTJ/items",
+        "total": 23
+      },
       "type": "playlist",
       "uri": "spotify:playlist:7HQPFmJVqKQDPiIMyRIdTJ"
     },
@@ -828,7 +912,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84e8943059b1441c61328ee1f0",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84e8943059b1441c61328ee1f0",
           "width": null
         }
       ],
@@ -848,6 +932,10 @@
       "snapshot_id": "AAAAIZ9ZuUfU5HS6Djc8Hj1RPHLYrBMX",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/6EnmWh4IRypf5s5HAgS4DT/tracks",
+        "total": 15
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/6EnmWh4IRypf5s5HAgS4DT/items",
         "total": 15
       },
       "type": "playlist",
@@ -896,6 +984,10 @@
         "href": "https://api.spotify.com/v1/playlists/2iFCbRrspTmd084w2W3B0R/tracks",
         "total": 50
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/2iFCbRrspTmd084w2W3B0R/items",
+        "total": 50
+      },
       "type": "playlist",
       "uri": "spotify:playlist:2iFCbRrspTmd084w2W3B0R"
     },
@@ -930,6 +1022,10 @@
       "snapshot_id": "AAAAA3cBw5ZMnCecvwSGCG6gLDQn6vRB",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4ZuzSAcnWQ6uxgraVBnLKN/tracks",
+        "total": 2
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/4ZuzSAcnWQ6uxgraVBnLKN/items",
         "total": 2
       },
       "type": "playlist",
@@ -978,6 +1074,10 @@
         "href": "https://api.spotify.com/v1/playlists/6Xs5Nd9R14Fpd1ifeveuid/tracks",
         "total": 50
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/6Xs5Nd9R14Fpd1ifeveuid/items",
+        "total": 50
+      },
       "type": "playlist",
       "uri": "spotify:playlist:6Xs5Nd9R14Fpd1ifeveuid"
     },
@@ -1024,6 +1124,10 @@
         "href": "https://api.spotify.com/v1/playlists/2nflnxUm0zebsgJkWLccNN/tracks",
         "total": 12
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/2nflnxUm0zebsgJkWLccNN/items",
+        "total": 12
+      },
       "type": "playlist",
       "uri": "spotify:playlist:2nflnxUm0zebsgJkWLccNN"
     },
@@ -1060,6 +1164,10 @@
         "href": "https://api.spotify.com/v1/playlists/2CdfCFDPibgAZdCm5lnpa2/tracks",
         "total": 17
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/2CdfCFDPibgAZdCm5lnpa2/items",
+        "total": 17
+      },
       "type": "playlist",
       "uri": "spotify:playlist:2CdfCFDPibgAZdCm5lnpa2"
     },
@@ -1094,6 +1202,10 @@
       "snapshot_id": "AAAAC6Ud5pzCpBDKUzhDtgRH/bildemW",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/7ehMo6TIbL2LK5q1VAlI0j/tracks",
+        "total": 9
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/7ehMo6TIbL2LK5q1VAlI0j/items",
         "total": 9
       },
       "type": "playlist",
@@ -1142,6 +1254,10 @@
         "href": "https://api.spotify.com/v1/playlists/1QZGMwUg1l3AXRi6LJHikB/tracks",
         "total": 50
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/1QZGMwUg1l3AXRi6LJHikB/items",
+        "total": 50
+      },
       "type": "playlist",
       "uri": "spotify:playlist:1QZGMwUg1l3AXRi6LJHikB"
     },
@@ -1176,6 +1292,10 @@
       "snapshot_id": "AAAAkDgf7ZZ4JJp+8eSUTgSYsFsE7C6+",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR/tracks",
+        "total": 64
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/5TdgOffe2sDXXNhwX3bBuR/items",
         "total": 64
       },
       "type": "playlist",
@@ -1214,6 +1334,10 @@
         "href": "https://api.spotify.com/v1/playlists/7LAbXoUaUUFN0yyaAJ2aLj/tracks",
         "total": 8
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/7LAbXoUaUUFN0yyaAJ2aLj/items",
+        "total": 8
+      },
       "type": "playlist",
       "uri": "spotify:playlist:7LAbXoUaUUFN0yyaAJ2aLj"
     },
@@ -1228,7 +1352,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da845060abec17745d7d1e545d6d",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da845060abec17745d7d1e545d6d",
           "width": null
         }
       ],
@@ -1245,10 +1369,14 @@
       },
       "primary_color": null,
       "public": true,
-      "snapshot_id": "AAAAR4k1NNcgh91lzuR3xYslL4T/9B+X",
+      "snapshot_id": "AAAASKNDHdszK7L7kIcgUU1L30a+BzLA",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/0pjLwygOBrPYVc0rG417iE/tracks",
-        "total": 226
+        "total": 227
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/0pjLwygOBrPYVc0rG417iE/items",
+        "total": 227
       },
       "type": "playlist",
       "uri": "spotify:playlist:0pjLwygOBrPYVc0rG417iE"
@@ -1296,6 +1424,10 @@
         "href": "https://api.spotify.com/v1/playlists/0ffwNg7aGosZDS6vRo4Xcn/tracks",
         "total": 50
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/0ffwNg7aGosZDS6vRo4Xcn/items",
+        "total": 50
+      },
       "type": "playlist",
       "uri": "spotify:playlist:0ffwNg7aGosZDS6vRo4Xcn"
     },
@@ -1330,6 +1462,10 @@
       "snapshot_id": "AAAABJl0YKQu8ln1fkIbWrjeSY92t24j",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/3EUxEf3VHvCkO5CPVYHFNn/tracks",
+        "total": 4
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/3EUxEf3VHvCkO5CPVYHFNn/items",
         "total": 4
       },
       "type": "playlist",
@@ -1378,6 +1514,10 @@
         "href": "https://api.spotify.com/v1/playlists/3ozr7w59ZYStDS9qPY2rnU/tracks",
         "total": 50
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/3ozr7w59ZYStDS9qPY2rnU/items",
+        "total": 50
+      },
       "type": "playlist",
       "uri": "spotify:playlist:3ozr7w59ZYStDS9qPY2rnU"
     },
@@ -1412,6 +1552,10 @@
       "snapshot_id": "AAAAHv0Kfzj1Yj29K7w9HSw8j55ikINT",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/2fxmftbEDAX5diXLgWYTsf/tracks",
+        "total": 8
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/2fxmftbEDAX5diXLgWYTsf/items",
         "total": 8
       },
       "type": "playlist",
@@ -1460,6 +1604,10 @@
         "href": "https://api.spotify.com/v1/playlists/4E8Fs4sp2YiigwGtbHszxy/tracks",
         "total": 11
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/4E8Fs4sp2YiigwGtbHszxy/items",
+        "total": 11
+      },
       "type": "playlist",
       "uri": "spotify:playlist:4E8Fs4sp2YiigwGtbHszxy"
     },
@@ -1494,6 +1642,10 @@
       "snapshot_id": "AAAABVZDOc9krFkc8a9CbI8rIGOk3YUL",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/2cjrDiXb98zjUmNbtgh7R0/tracks",
+        "total": 21
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/2cjrDiXb98zjUmNbtgh7R0/items",
         "total": 21
       },
       "type": "playlist",
@@ -1532,6 +1684,10 @@
         "href": "https://api.spotify.com/v1/playlists/5kVv0zcInwPRsX2uTVu05L/tracks",
         "total": 81
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/5kVv0zcInwPRsX2uTVu05L/items",
+        "total": 81
+      },
       "type": "playlist",
       "uri": "spotify:playlist:5kVv0zcInwPRsX2uTVu05L"
     },
@@ -1546,7 +1702,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da8475eca593e760dc88f1613465",
+          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da8475eca593e760dc88f1613465",
           "width": null
         }
       ],
@@ -1566,6 +1722,10 @@
       "snapshot_id": "AAAAMfM6p20JaJlqscyVthS//bofAceO",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/7cwI2PxwNXinh7OiSUOQX2/tracks",
+        "total": 32
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/7cwI2PxwNXinh7OiSUOQX2/items",
         "total": 32
       },
       "type": "playlist",
@@ -1604,6 +1764,10 @@
         "href": "https://api.spotify.com/v1/playlists/0N4XVIqdfLISwh5icfTKd3/tracks",
         "total": 32
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/0N4XVIqdfLISwh5icfTKd3/items",
+        "total": 32
+      },
       "type": "playlist",
       "uri": "spotify:playlist:0N4XVIqdfLISwh5icfTKd3"
     },
@@ -1640,6 +1804,10 @@
         "href": "https://api.spotify.com/v1/playlists/0jNNuCW6FctYSt7hWXJULr/tracks",
         "total": 1
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/0jNNuCW6FctYSt7hWXJULr/items",
+        "total": 1
+      },
       "type": "playlist",
       "uri": "spotify:playlist:0jNNuCW6FctYSt7hWXJULr"
     },
@@ -1654,7 +1822,7 @@
       "images": [
         {
           "height": null,
-          "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
+          "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84373800768573264ff23d7d78",
           "width": null
         }
       ],
@@ -1674,6 +1842,10 @@
       "snapshot_id": "AAAAEJUH4v89PRj6MoHg+zqe2GkIDYKk",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/0fs1evYdoE3OHDQdaRolmg/tracks",
+        "total": 4
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/0fs1evYdoE3OHDQdaRolmg/items",
         "total": 4
       },
       "type": "playlist",
@@ -1722,6 +1894,10 @@
         "href": "https://api.spotify.com/v1/playlists/6ugPdVyBfZEdtRG3iGclmC/tracks",
         "total": 21
       },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/6ugPdVyBfZEdtRG3iGclmC/items",
+        "total": 21
+      },
       "type": "playlist",
       "uri": "spotify:playlist:6ugPdVyBfZEdtRG3iGclmC"
     },
@@ -1766,6 +1942,10 @@
       "snapshot_id": "AAAAFG4Y+D75mmAs01L6WtzPIUHpIxA2",
       "tracks": {
         "href": "https://api.spotify.com/v1/playlists/4Huwz4so5ChHBkstAGmBDo/tracks",
+        "total": 18
+      },
+      "items": {
+        "href": "https://api.spotify.com/v1/playlists/4Huwz4so5ChHBkstAGmBDo/items",
         "total": 18
       },
       "type": "playlist",
