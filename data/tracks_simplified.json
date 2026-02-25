@@ -1,6 +1,30 @@
 {
-  "total": 207,
+  "total": 208,
   "tracks": [
+    {
+      "id": "6DH13QYXK7lKkYHSU88N48",
+      "name": "Who Knows",
+      "added_at": "2026-02-25T02:12:06Z",
+      "popularity": 89,
+      "duration_ms": 226283,
+      "explicit": false,
+      "url": "https://open.spotify.com/track/6DH13QYXK7lKkYHSU88N48",
+      "preview_url": null,
+      "album": {
+        "id": "2LKW0m9cC63QzEI9tJH3ql",
+        "name": "Son Of Spergy",
+        "release_date": "2025-10-24",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b2732bad6e56e77d5bef0aa3f2dc",
+        "url": "https://open.spotify.com/album/2LKW0m9cC63QzEI9tJH3ql"
+      },
+      "artists": [
+        {
+          "id": "20wkVLutqVOYrc0kxFs7rA",
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ]
+    },
     {
       "id": "0HoWTALX2BktSIrSmflWSP",
       "name": "Bintang 5",
@@ -241,7 +265,7 @@
       "id": "2TNv2GxMpIO8AyPiD7TLxj",
       "name": "AURA",
       "added_at": "2025-11-08T09:18:02Z",
-      "popularity": 36,
+      "popularity": 35,
       "duration_ms": 115906,
       "explicit": false,
       "url": "https://open.spotify.com/track/2TNv2GxMpIO8AyPiD7TLxj",
@@ -1121,7 +1145,7 @@
       "id": "3iC60wudai0qrFnkFUDHSs",
       "name": "Lalu Biru",
       "added_at": "2025-05-13T18:55:34Z",
-      "popularity": 51,
+      "popularity": 52,
       "duration_ms": 324083,
       "explicit": false,
       "url": "https://open.spotify.com/track/3iC60wudai0qrFnkFUDHSs",
@@ -2063,7 +2087,7 @@
       "id": "48UPSzbZjgc449aqz8bxox",
       "name": "Californication",
       "added_at": "2024-03-19T08:49:58Z",
-      "popularity": 86,
+      "popularity": 85,
       "duration_ms": 329733,
       "explicit": false,
       "url": "https://open.spotify.com/track/48UPSzbZjgc449aqz8bxox",
@@ -2087,7 +2111,7 @@
       "id": "4gKgefMQuie6nz017V6jiP",
       "name": "Yasudah",
       "added_at": "2024-03-19T02:24:37Z",
-      "popularity": 50,
+      "popularity": 51,
       "duration_ms": 296402,
       "explicit": false,
       "url": "https://open.spotify.com/track/4gKgefMQuie6nz017V6jiP",
@@ -2428,7 +2452,7 @@
       "id": "2zyz614fJRrqQXW1q0sY1c",
       "name": "Girls",
       "added_at": "2023-12-25T15:17:29Z",
-      "popularity": 56,
+      "popularity": 55,
       "duration_ms": 254620,
       "explicit": true,
       "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c",
