@@ -1,6 +1,35 @@
 {
-  "total": 208,
+  "total": 209,
   "tracks": [
+    {
+      "id": "77UjLW8j5UAGAGVGhR5oUK",
+      "name": "Pray For Me (with Kendrick Lamar)",
+      "added_at": "2026-02-26T15:14:11Z",
+      "popularity": 67,
+      "duration_ms": 211440,
+      "explicit": true,
+      "url": "https://open.spotify.com/track/77UjLW8j5UAGAGVGhR5oUK",
+      "preview_url": null,
+      "album": {
+        "id": "3pLdWdkj83EYfDN6H2N8MR",
+        "name": "Black Panther The Album Music From And Inspired By",
+        "release_date": "2018-02-09",
+        "image_url": "https://i.scdn.co/image/ab67616d0000b273c027ad28821777b00dcaa888",
+        "url": "https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR"
+      },
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "id": "2YZyLoL8N0Wb9xBt1NhZWg",
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ]
+    },
     {
       "id": "6DH13QYXK7lKkYHSU88N48",
       "name": "Who Knows",
@@ -477,7 +506,7 @@
       "id": "2oNIg8O5AuAvn4NclRvDHq",
       "name": "drown in love",
       "added_at": "2025-09-30T13:01:09Z",
-      "popularity": 33,
+      "popularity": 34,
       "duration_ms": 307083,
       "explicit": false,
       "url": "https://open.spotify.com/track/2oNIg8O5AuAvn4NclRvDHq",
@@ -794,7 +823,7 @@
       "id": "4oEf84vBYVftf6KmZexhVo",
       "name": "Northern Attitude (with Hozier)",
       "added_at": "2025-08-10T10:27:40Z",
-      "popularity": 68,
+      "popularity": 69,
       "duration_ms": 267256,
       "explicit": true,
       "url": "https://open.spotify.com/track/4oEf84vBYVftf6KmZexhVo",
@@ -1808,7 +1837,7 @@
       "id": "0j3mqDTK4Z6lvrLzFCUUz6",
       "name": "Good Looking",
       "added_at": "2024-04-10T06:42:36Z",
-      "popularity": 32,
+      "popularity": 31,
       "duration_ms": 214800,
       "explicit": false,
       "url": "https://open.spotify.com/track/0j3mqDTK4Z6lvrLzFCUUz6",
@@ -2452,7 +2481,7 @@
       "id": "2zyz614fJRrqQXW1q0sY1c",
       "name": "Girls",
       "added_at": "2023-12-25T15:17:29Z",
-      "popularity": 55,
+      "popularity": 56,
       "duration_ms": 254620,
       "explicit": true,
       "url": "https://open.spotify.com/track/2zyz614fJRrqQXW1q0sY1c",
@@ -4249,7 +4278,7 @@
       "id": "6uvh0In7u1Xn4HgxOfAn8O",
       "name": "Matilda",
       "added_at": "2022-05-21T01:32:16Z",
-      "popularity": 83,
+      "popularity": 82,
       "duration_ms": 245964,
       "explicit": false,
       "url": "https://open.spotify.com/track/6uvh0In7u1Xn4HgxOfAn8O",
