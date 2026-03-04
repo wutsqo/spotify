@@ -912,7 +912,7 @@
         }
       ],
       "name": "Paramore",
-      "popularity": 79,
+      "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:74XFHRwlV6OrjEM0A2NCMF"
     },
@@ -942,7 +942,7 @@
         }
       ],
       "name": "Reality Club",
-      "popularity": 64,
+      "popularity": 65,
       "type": "artist",
       "uri": "spotify:artist:1DjZI46mVZZZYmmmygRnTw"
     },
@@ -1316,14 +1316,7 @@
         "spotify": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
       },
       "followers": { "href": null, "total": 118746 },
-      "genres": [
-        "hipdut",
-        "dangdut",
-        "lagu timur",
-        "koplo",
-        "funkot",
-        "indonesian hip hop"
-      ],
+      "genres": ["hipdut", "dangdut", "lagu timur", "koplo", "funkot"],
       "href": "https://api.spotify.com/v1/artists/6WgjNWwGACXaBy7NZripBu",
       "id": "6WgjNWwGACXaBy7NZripBu",
       "images": [
