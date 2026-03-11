@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 113,
+  "total_episodes": 114,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/26axSsjsYbg4EAJAYfg071/clip_311823_371823.mp3",
+      "description": "Newcomb's Paradox is a problem in decision theory where both answers seem equally obvious to those on each side.Your choice of one box or two says a lot about the way you make decisions and the way you view the world. Can you choices now affect a predetermined outcome? What does this say about free will? And what is the ultimate strategy to beat the supercomputer, is it even possible? ",
+      "duration_ms": 1395029,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/3Gx8KDLzLdxHZJibe2W2Jy"
+      },
+      "href": "https://api.spotify.com/v1/episodes/3Gx8KDLzLdxHZJibe2W2Jy",
+      "html_description": "<p>Newcomb&#39;s Paradox is a problem in decision theory where both answers seem equally obvious to those on each side.</p><p><br /></p><p>Your choice of one box or two says a lot about the way you make decisions and the way you view the world. Can you choices now affect a predetermined outcome? What does this say about free will? And what is the ultimate strategy to beat the supercomputer, is it even possible? </p>",
+      "id": "3Gx8KDLzLdxHZJibe2W2Jy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a5c7dee56e4e2c148cf96fe99",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f5c7dee56e4e2c148cf96fe99",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d5c7dee56e4e2c148cf96fe99",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "What Newcomb's Paradox Says About Free Will",
+      "release_date": "2026-03-10",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:3Gx8KDLzLdxHZJibe2W2Jy"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6HKAH17q951gEeiTUrnrLM/clip_238000_299080.mp3",
       "description": "How a single hack infected the world’s most important operating system. ",
