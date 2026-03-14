@@ -44,8 +44,8 @@
         "koplo",
         "funkot",
         "indonesian hip hop",
-        "malay rap",
-        "indonesian pop"
+        "indonesian pop",
+        "malay rap"
       ],
       "href": "https://api.spotify.com/v1/artists/6vP4azTCk053nGL0xAYnVH",
       "id": "6vP4azTCk053nGL0xAYnVH",
@@ -376,7 +376,7 @@
         "spotify": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
       },
       "followers": { "href": null, "total": 132292 },
-      "genres": ["hipdut", "dangdut", "lagu timur", "koplo", "funkot"],
+      "genres": ["hipdut", "dangdut", "lagu timur", "koplo", "funkot", "malay"],
       "href": "https://api.spotify.com/v1/artists/6WgjNWwGACXaBy7NZripBu",
       "id": "6WgjNWwGACXaBy7NZripBu",
       "images": [
@@ -522,7 +522,7 @@
         }
       ],
       "name": "Harry Styles",
-      "popularity": 89,
+      "popularity": 90,
       "type": "artist",
       "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
     },

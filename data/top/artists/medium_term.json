@@ -1,5 +1,5 @@
 {
-  "total": 63,
+  "total": 60,
   "artists": [
     {
       "external_urls": {
@@ -44,8 +44,8 @@
         "koplo",
         "funkot",
         "indonesian hip hop",
-        "malay rap",
-        "indonesian pop"
+        "indonesian pop",
+        "malay rap"
       ],
       "href": "https://api.spotify.com/v1/artists/6vP4azTCk053nGL0xAYnVH",
       "id": "6vP4azTCk053nGL0xAYnVH",
@@ -70,36 +70,6 @@
       "popularity": 73,
       "type": "artist",
       "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
-      },
-      "followers": { "href": null, "total": 2034615 },
-      "genres": ["indonesian indie", "indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
-      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9851e03dd83ff72ee25bf8ca",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749851e03dd83ff72ee25bf8ca",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789851e03dd83ff72ee25bf8ca",
-          "width": 160
-        }
-      ],
-      "name": "Sal Priadi",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
     },
     {
       "external_urls": {
@@ -223,7 +193,7 @@
         }
       ],
       "name": "Maggie Lindemann",
-      "popularity": 60,
+      "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:0uGk2czvcpWQA383Im6ajf"
     },
@@ -289,36 +259,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w"
-      },
-      "followers": { "href": null, "total": 3235957 },
-      "genres": ["indonesian pop", "indonesian rock", "indorock", "malay"],
-      "href": "https://api.spotify.com/v1/artists/35dWPb7Tmq0WESp6KAUJ8w",
-      "id": "35dWPb7Tmq0WESp6KAUJ8w",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb8c647da81b4d73ec0c2bb738",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051748c647da81b4d73ec0c2bb738",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1788c647da81b4d73ec0c2bb738",
-          "width": 160
-        }
-      ],
-      "name": "Dewa",
-      "popularity": 63,
-      "type": "artist",
-      "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
       },
       "followers": { "href": null, "total": 5428103 },
@@ -379,73 +319,63 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+        "spotify": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
       },
-      "followers": { "href": null, "total": 2378208 },
-      "genres": [
-        "pop kreatif",
-        "indonesian pop",
-        "indonesian jazz",
-        "city pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
-      "id": "2NteKKMj3takKR3ABTd279",
+      "followers": { "href": null, "total": 2034615 },
+      "genres": ["indonesian indie", "indonesian pop"],
+      "href": "https://api.spotify.com/v1/artists/1NjxFrpEGZTV2Ny0OJxeWu",
+      "id": "1NjxFrpEGZTV2Ny0OJxeWu",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4b432a19f1b2afd943d194d1",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb9851e03dd83ff72ee25bf8ca",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744b432a19f1b2afd943d194d1",
+          "url": "https://i.scdn.co/image/ab676161000051749851e03dd83ff72ee25bf8ca",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784b432a19f1b2afd943d194d1",
+          "url": "https://i.scdn.co/image/ab6761610000f1789851e03dd83ff72ee25bf8ca",
           "width": 160
         }
       ],
-      "name": "Chrisye",
-      "popularity": 63,
+      "name": "Sal Priadi",
+      "popularity": 73,
       "type": "artist",
-      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+      "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
+        "spotify": "https://open.spotify.com/artist/35dWPb7Tmq0WESp6KAUJ8w"
       },
-      "followers": { "href": null, "total": 6831293 },
-      "genres": [
-        "indonesian indie",
-        "indonesian rock",
-        "indorock",
-        "indonesian pop"
-      ],
-      "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
-      "id": "7Gy1PxqrgsiqWF6JNYPHeB",
+      "followers": { "href": null, "total": 3235957 },
+      "genres": ["indonesian pop", "indonesian rock", "indorock", "malay"],
+      "href": "https://api.spotify.com/v1/artists/35dWPb7Tmq0WESp6KAUJ8w",
+      "id": "35dWPb7Tmq0WESp6KAUJ8w",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb16f030ca05d4d917cdc2eb5e",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb8c647da81b4d73ec0c2bb738",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517416f030ca05d4d917cdc2eb5e",
+          "url": "https://i.scdn.co/image/ab676161000051748c647da81b4d73ec0c2bb738",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17816f030ca05d4d917cdc2eb5e",
+          "url": "https://i.scdn.co/image/ab6761610000f1788c647da81b4d73ec0c2bb738",
           "width": 160
         }
       ],
-      "name": ".Feast",
-      "popularity": 72,
+      "name": "Dewa",
+      "popularity": 63,
       "type": "artist",
-      "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
+      "uri": "spotify:artist:35dWPb7Tmq0WESp6KAUJ8w"
     },
     {
       "external_urls": {
@@ -604,33 +534,38 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
       },
-      "followers": { "href": null, "total": 11063201 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/7cYEt1pqMgXJdq00hAwVpT",
-      "id": "7cYEt1pqMgXJdq00hAwVpT",
+      "followers": { "href": null, "total": 6831293 },
+      "genres": [
+        "indonesian indie",
+        "indonesian rock",
+        "indorock",
+        "indonesian pop"
+      ],
+      "href": "https://api.spotify.com/v1/artists/7Gy1PxqrgsiqWF6JNYPHeB",
+      "id": "7Gy1PxqrgsiqWF6JNYPHeB",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eba4e2d7045cbcca592ba6c7dd",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb16f030ca05d4d917cdc2eb5e",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174a4e2d7045cbcca592ba6c7dd",
+          "url": "https://i.scdn.co/image/ab6761610000517416f030ca05d4d917cdc2eb5e",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178a4e2d7045cbcca592ba6c7dd",
+          "url": "https://i.scdn.co/image/ab6761610000f17816f030ca05d4d917cdc2eb5e",
           "width": 160
         }
       ],
-      "name": "Chase Atlantic",
-      "popularity": 79,
+      "name": ".Feast",
+      "popularity": 72,
       "type": "artist",
-      "uri": "spotify:artist:7cYEt1pqMgXJdq00hAwVpT"
+      "uri": "spotify:artist:7Gy1PxqrgsiqWF6JNYPHeB"
     },
     {
       "external_urls": {
@@ -667,6 +602,36 @@
       "popularity": 61,
       "type": "artist",
       "uri": "spotify:artist:5RbI1PF4n02wWKmgjk7hAE"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+      },
+      "followers": { "href": null, "total": 11063201 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/7cYEt1pqMgXJdq00hAwVpT",
+      "id": "7cYEt1pqMgXJdq00hAwVpT",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eba4e2d7045cbcca592ba6c7dd",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174a4e2d7045cbcca592ba6c7dd",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178a4e2d7045cbcca592ba6c7dd",
+          "width": 160
+        }
+      ],
+      "name": "Chase Atlantic",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:7cYEt1pqMgXJdq00hAwVpT"
     },
     {
       "external_urls": {
@@ -795,36 +760,6 @@
       "popularity": 68,
       "type": "artist",
       "uri": "spotify:artist:79omf4LgzaVAnXIRWPkJUq"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C"
-      },
-      "followers": { "href": null, "total": 7560261 },
-      "genres": ["indonesian indie", "indonesian pop"],
-      "href": "https://api.spotify.com/v1/artists/7d86ERlvO5UG44j7Va0Y0C",
-      "id": "7d86ERlvO5UG44j7Va0Y0C",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb116ac5ba168e869c1821772d",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174116ac5ba168e869c1821772d",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178116ac5ba168e869c1821772d",
-          "width": 160
-        }
-      ],
-      "name": "Pamungkas",
-      "popularity": 71,
-      "type": "artist",
-      "uri": "spotify:artist:7d86ERlvO5UG44j7Va0Y0C"
     },
     {
       "external_urls": {
@@ -1346,7 +1281,7 @@
         "spotify": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
       },
       "followers": { "href": null, "total": 132292 },
-      "genres": ["hipdut", "dangdut", "lagu timur", "koplo", "funkot"],
+      "genres": ["hipdut", "dangdut", "lagu timur", "koplo", "funkot", "malay"],
       "href": "https://api.spotify.com/v1/artists/6WgjNWwGACXaBy7NZripBu",
       "id": "6WgjNWwGACXaBy7NZripBu",
       "images": [
@@ -1667,7 +1602,7 @@
         }
       ],
       "name": "Harry Styles",
-      "popularity": 89,
+      "popularity": 90,
       "type": "artist",
       "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
     },
@@ -1760,41 +1695,6 @@
       "popularity": 91,
       "type": "artist",
       "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
-      },
-      "followers": { "href": null, "total": 1465161 },
-      "genres": [
-        "indonesian jazz",
-        "indonesian pop",
-        "indonesian r&b",
-        "indonesian indie"
-      ],
-      "href": "https://api.spotify.com/v1/artists/18PmEN8ZiHBQlDpxrgR2xs",
-      "id": "18PmEN8ZiHBQlDpxrgR2xs",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3ca5bba1b31ac4939d85fedc",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743ca5bba1b31ac4939d85fedc",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783ca5bba1b31ac4939d85fedc",
-          "width": 160
-        }
-      ],
-      "name": "MALIQ & D'Essentials",
-      "popularity": 58,
-      "type": "artist",
-      "uri": "spotify:artist:18PmEN8ZiHBQlDpxrgR2xs"
     },
     {
       "external_urls": {
