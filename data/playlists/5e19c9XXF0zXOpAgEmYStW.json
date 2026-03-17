@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5e19c9XXF0zXOpAgEmYStW"
   },
-  "followers": { "href": null, "total": 2082 },
+  "followers": { "href": null, "total": 2083 },
   "href": "https://api.spotify.com/v1/playlists/5e19c9XXF0zXOpAgEmYStW?locale=*",
   "id": "5e19c9XXF0zXOpAgEmYStW",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da841f9519a3f5da1c73775b6c79",
       "width": null
     }
   ],
@@ -20626,7 +20626,7 @@
           "href": "https://api.spotify.com/v1/tracks/0YAMQSmHk6BSUGTYpaoqTJ",
           "id": "0YAMQSmHk6BSUGTYpaoqTJ",
           "name": "Wherever you are",
-          "popularity": 36,
+          "popularity": 35,
           "uri": "spotify:track:0YAMQSmHk6BSUGTYpaoqTJ",
           "is_local": false
         },
@@ -20703,7 +20703,7 @@
           "href": "https://api.spotify.com/v1/tracks/0YAMQSmHk6BSUGTYpaoqTJ",
           "id": "0YAMQSmHk6BSUGTYpaoqTJ",
           "name": "Wherever you are",
-          "popularity": 36,
+          "popularity": 35,
           "uri": "spotify:track:0YAMQSmHk6BSUGTYpaoqTJ",
           "is_local": false
         },
@@ -34404,7 +34404,7 @@
           "href": "https://api.spotify.com/v1/tracks/2nLtzopw4rPReszdYBJU6h",
           "id": "2nLtzopw4rPReszdYBJU6h",
           "name": "Numb",
-          "popularity": 88,
+          "popularity": 89,
           "uri": "spotify:track:2nLtzopw4rPReszdYBJU6h",
           "is_local": false
         },
@@ -34853,7 +34853,7 @@
           "href": "https://api.spotify.com/v1/tracks/2nLtzopw4rPReszdYBJU6h",
           "id": "2nLtzopw4rPReszdYBJU6h",
           "name": "Numb",
-          "popularity": 88,
+          "popularity": 89,
           "uri": "spotify:track:2nLtzopw4rPReszdYBJU6h",
           "is_local": false
         },
@@ -38911,7 +38911,7 @@
           "href": "https://api.spotify.com/v1/tracks/3rEwGRmPVVudVjqdgv0tRR",
           "id": "3rEwGRmPVVudVjqdgv0tRR",
           "name": "If It Means A Lot To You",
-          "popularity": 69,
+          "popularity": 70,
           "uri": "spotify:track:3rEwGRmPVVudVjqdgv0tRR",
           "is_local": false
         },
@@ -39358,7 +39358,7 @@
           "href": "https://api.spotify.com/v1/tracks/3rEwGRmPVVudVjqdgv0tRR",
           "id": "3rEwGRmPVVudVjqdgv0tRR",
           "name": "If It Means A Lot To You",
-          "popularity": 69,
+          "popularity": 70,
           "uri": "spotify:track:3rEwGRmPVVudVjqdgv0tRR",
           "is_local": false
         },
@@ -39450,7 +39450,7 @@
           "href": "https://api.spotify.com/v1/tracks/77loZpT5Y5PRP1S451P9Yz",
           "id": "77loZpT5Y5PRP1S451P9Yz",
           "name": "The Reason",
-          "popularity": 6,
+          "popularity": 7,
           "uri": "spotify:track:77loZpT5Y5PRP1S451P9Yz",
           "is_local": false
         },
@@ -39527,7 +39527,7 @@
           "href": "https://api.spotify.com/v1/tracks/77loZpT5Y5PRP1S451P9Yz",
           "id": "77loZpT5Y5PRP1S451P9Yz",
           "name": "The Reason",
-          "popularity": 6,
+          "popularity": 7,
           "uri": "spotify:track:77loZpT5Y5PRP1S451P9Yz",
           "is_local": false
         },
@@ -101498,7 +101498,7 @@
         "href": "https://api.spotify.com/v1/tracks/0YAMQSmHk6BSUGTYpaoqTJ",
         "id": "0YAMQSmHk6BSUGTYpaoqTJ",
         "name": "Wherever you are",
-        "popularity": 36,
+        "popularity": 35,
         "uri": "spotify:track:0YAMQSmHk6BSUGTYpaoqTJ",
         "is_local": false
       },
@@ -101575,7 +101575,7 @@
         "href": "https://api.spotify.com/v1/tracks/0YAMQSmHk6BSUGTYpaoqTJ",
         "id": "0YAMQSmHk6BSUGTYpaoqTJ",
         "name": "Wherever you are",
-        "popularity": 36,
+        "popularity": 35,
         "uri": "spotify:track:0YAMQSmHk6BSUGTYpaoqTJ",
         "is_local": false
       },
@@ -115276,7 +115276,7 @@
         "href": "https://api.spotify.com/v1/tracks/2nLtzopw4rPReszdYBJU6h",
         "id": "2nLtzopw4rPReszdYBJU6h",
         "name": "Numb",
-        "popularity": 88,
+        "popularity": 89,
         "uri": "spotify:track:2nLtzopw4rPReszdYBJU6h",
         "is_local": false
       },
@@ -115725,7 +115725,7 @@
         "href": "https://api.spotify.com/v1/tracks/2nLtzopw4rPReszdYBJU6h",
         "id": "2nLtzopw4rPReszdYBJU6h",
         "name": "Numb",
-        "popularity": 88,
+        "popularity": 89,
         "uri": "spotify:track:2nLtzopw4rPReszdYBJU6h",
         "is_local": false
       },
@@ -119783,7 +119783,7 @@
         "href": "https://api.spotify.com/v1/tracks/3rEwGRmPVVudVjqdgv0tRR",
         "id": "3rEwGRmPVVudVjqdgv0tRR",
         "name": "If It Means A Lot To You",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:3rEwGRmPVVudVjqdgv0tRR",
         "is_local": false
       },
@@ -120230,7 +120230,7 @@
         "href": "https://api.spotify.com/v1/tracks/3rEwGRmPVVudVjqdgv0tRR",
         "id": "3rEwGRmPVVudVjqdgv0tRR",
         "name": "If It Means A Lot To You",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:3rEwGRmPVVudVjqdgv0tRR",
         "is_local": false
       },
@@ -120322,7 +120322,7 @@
         "href": "https://api.spotify.com/v1/tracks/77loZpT5Y5PRP1S451P9Yz",
         "id": "77loZpT5Y5PRP1S451P9Yz",
         "name": "The Reason",
-        "popularity": 6,
+        "popularity": 7,
         "uri": "spotify:track:77loZpT5Y5PRP1S451P9Yz",
         "is_local": false
       },
@@ -120399,7 +120399,7 @@
         "href": "https://api.spotify.com/v1/tracks/77loZpT5Y5PRP1S451P9Yz",
         "id": "77loZpT5Y5PRP1S451P9Yz",
         "name": "The Reason",
-        "popularity": 6,
+        "popularity": 7,
         "uri": "spotify:track:77loZpT5Y5PRP1S451P9Yz",
         "is_local": false
       },
@@ -174253,7 +174253,7 @@
         "href": "https://api.spotify.com/v1/tracks/5ikdUUm6JbnEVnp35c7dvy",
         "id": "5ikdUUm6JbnEVnp35c7dvy",
         "name": "I Am the Resurrection - Remastered 2009",
-        "popularity": 61,
+        "popularity": 62,
         "uri": "spotify:track:5ikdUUm6JbnEVnp35c7dvy",
         "is_local": false
       },
@@ -174702,7 +174702,7 @@
         "href": "https://api.spotify.com/v1/tracks/5ikdUUm6JbnEVnp35c7dvy",
         "id": "5ikdUUm6JbnEVnp35c7dvy",
         "name": "I Am the Resurrection - Remastered 2009",
-        "popularity": 61,
+        "popularity": 62,
         "uri": "spotify:track:5ikdUUm6JbnEVnp35c7dvy",
         "is_local": false
       },
