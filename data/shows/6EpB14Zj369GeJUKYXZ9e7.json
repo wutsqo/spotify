@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 114,
+  "total_episodes": 115,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3BZmUhQ0ZNUZtwERnddZ7S/clip_625198_685198.mp3",
+      "description": "Zippers are more genius than you may think. The original patent for zippers has been unchanged for over 100 years but how does one work? What makes them near perfect in design? How do you fix one when it breaks?Here's everything you need to know about zippers! ",
+      "duration_ms": 1146282,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0XS8dmzg0BoJ7NelhTgpl4"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0XS8dmzg0BoJ7NelhTgpl4",
+      "html_description": "<p>Zippers are more genius than you may think. </p><p><br /></p><p>The original patent for zippers has been unchanged for over 100 years but how does one work? What makes them near perfect in design? How do you fix one when it breaks?</p><p><br /></p><p>Here&#39;s everything you need to know about zippers! </p>",
+      "id": "0XS8dmzg0BoJ7NelhTgpl4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a54102aef73e81a0e7628569d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f54102aef73e81a0e7628569d",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d54102aef73e81a0e7628569d",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Making A Giant Zipper To Explain How It Works",
+      "release_date": "2026-03-20",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:0XS8dmzg0BoJ7NelhTgpl4"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/26axSsjsYbg4EAJAYfg071/clip_311823_371823.mp3",
       "description": "Newcomb's Paradox is a problem in decision theory where both answers seem equally obvious to those on each side.Your choice of one box or two says a lot about the way you make decisions and the way you view the world. Can you choices now affect a predetermined outcome? What does this say about free will? And what is the ultimate strategy to beat the supercomputer, is it even possible? ",
