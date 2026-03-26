@@ -1,11 +1,11 @@
 {
-  "total": 15,
+  "total": 14,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
-      "followers": { "href": null, "total": 112975710 },
+      "followers": { "href": null, "total": 113046182 },
       "genres": ["reggaeton", "trap latino", "latin", "urbano latino"],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
       },
-      "followers": { "href": null, "total": 1628303 },
+      "followers": { "href": null, "total": 1637245 },
       "genres": [
         "hipdut",
         "dangdut",
@@ -44,8 +44,8 @@
         "koplo",
         "funkot",
         "indonesian hip hop",
-        "malay rap",
-        "indonesian pop"
+        "indonesian pop",
+        "malay rap"
       ],
       "href": "https://api.spotify.com/v1/artists/6vP4azTCk053nGL0xAYnVH",
       "id": "6vP4azTCk053nGL0xAYnVH",
@@ -75,7 +75,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
       },
-      "followers": { "href": null, "total": 152015 },
+      "followers": { "href": null, "total": 153665 },
       "genres": ["hipdut", "dangdut", "lagu timur", "koplo", "funkot", "malay"],
       "href": "https://api.spotify.com/v1/artists/6WgjNWwGACXaBy7NZripBu",
       "id": "6WgjNWwGACXaBy7NZripBu",
@@ -105,7 +105,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
       },
-      "followers": { "href": null, "total": 5541179 },
+      "followers": { "href": null, "total": 5548872 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
       "id": "78rUTD7y6Cy67W1RVzYs7t",
@@ -135,7 +135,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
       },
-      "followers": { "href": null, "total": 10481162 },
+      "followers": { "href": null, "total": 10489672 },
       "genres": ["neo-psychedelic", "indie"],
       "href": "https://api.spotify.com/v1/artists/5INjqkS1o8h1imAzPqGZBb",
       "id": "5INjqkS1o8h1imAzPqGZBb",
@@ -165,7 +165,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
       },
-      "followers": { "href": null, "total": 120202387 },
+      "followers": { "href": null, "total": 120249617 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/1Xyo4u8uXC1ZmMpatF05PJ",
       "id": "1Xyo4u8uXC1ZmMpatF05PJ",
@@ -195,7 +195,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
       },
-      "followers": { "href": null, "total": 87849436 },
+      "followers": { "href": null, "total": 87873671 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/1uNFoZAHBGtllmzznpCI3s",
       "id": "1uNFoZAHBGtllmzznpCI3s",
@@ -225,7 +225,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
       },
-      "followers": { "href": null, "total": 47072523 },
+      "followers": { "href": null, "total": 47087279 },
       "genres": ["hip hop", "west coast hip hop"],
       "href": "https://api.spotify.com/v1/artists/2YZyLoL8N0Wb9xBt1NhZWg",
       "id": "2YZyLoL8N0Wb9xBt1NhZWg",
@@ -255,7 +255,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM"
       },
-      "followers": { "href": null, "total": 21792398 },
+      "followers": { "href": null, "total": 21804805 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/2h93pZq0e7k5yf4dywlkpM",
       "id": "2h93pZq0e7k5yf4dywlkpM",
@@ -283,39 +283,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
-      },
-      "followers": { "href": null, "total": 9720276 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
-      "id": "7gW0r5CkdEUMm42w9XpyZO",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c751deb23ed62e7cadfb669a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c751deb23ed62e7cadfb669a",
-          "width": 160
-        }
-      ],
-      "name": "Laufey",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/51kyrUsAVqUBcoDEMFkX12"
       },
-      "followers": { "href": null, "total": 15265343 },
+      "followers": { "href": null, "total": 15302842 },
       "genres": ["indonesian indie", "indonesian pop"],
       "href": "https://api.spotify.com/v1/artists/51kyrUsAVqUBcoDEMFkX12",
       "id": "51kyrUsAVqUBcoDEMFkX12",
@@ -343,74 +313,39 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+        "spotify": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
       },
-      "followers": { "href": null, "total": 5619458 },
+      "followers": { "href": null, "total": 9726531 },
       "genres": [],
-      "href": "https://api.spotify.com/v1/artists/47zz7sob9NUcODy0BTDvKx",
-      "id": "47zz7sob9NUcODy0BTDvKx",
+      "href": "https://api.spotify.com/v1/artists/7gW0r5CkdEUMm42w9XpyZO",
+      "id": "7gW0r5CkdEUMm42w9XpyZO",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc751deb23ed62e7cadfb669a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517492883b0e094a36d2f43ad284",
+          "url": "https://i.scdn.co/image/ab67616100005174c751deb23ed62e7cadfb669a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17892883b0e094a36d2f43ad284",
+          "url": "https://i.scdn.co/image/ab6761610000f178c751deb23ed62e7cadfb669a",
           "width": 160
         }
       ],
-      "name": "Sade",
-      "popularity": 79,
+      "name": "Laufey",
+      "popularity": 82,
       "type": "artist",
-      "uri": "spotify:artist:47zz7sob9NUcODy0BTDvKx"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-      },
-      "followers": { "href": null, "total": 40919865 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq",
-      "id": "4AK6F7OLvEQ5QYCBNiQWHq",
-      "images": [
-        {
-          "height": 1000,
-          "url": "https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8",
-          "width": 1000
-        },
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/289c7f686f5b78ceeb224453cf9a15697a678a79",
-          "width": 640
-        },
-        {
-          "height": 200,
-          "url": "https://i.scdn.co/image/45741ba38b51130bb96e00c0e24d17ba311a9293",
-          "width": 200
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/6c89c662ad0ab75bc2af9a3ae2b16f811daced50",
-          "width": 64
-        }
-      ],
-      "name": "One Direction",
-      "popularity": 83,
-      "type": "artist",
-      "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
+      "uri": "spotify:artist:7gW0r5CkdEUMm42w9XpyZO"
     },
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
       },
-      "followers": { "href": null, "total": 8269089 },
+      "followers": { "href": null, "total": 8271407 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
       "id": "3mIj9lX2MWuHmhNCA7LSCW",
@@ -438,9 +373,39 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/47zz7sob9NUcODy0BTDvKx"
+      },
+      "followers": { "href": null, "total": 5622726 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/47zz7sob9NUcODy0BTDvKx",
+      "id": "47zz7sob9NUcODy0BTDvKx",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb92883b0e094a36d2f43ad284",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517492883b0e094a36d2f43ad284",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17892883b0e094a36d2f43ad284",
+          "width": 160
+        }
+      ],
+      "name": "Sade",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:47zz7sob9NUcODy0BTDvKx"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB"
       },
-      "followers": { "href": null, "total": 6986252 },
+      "followers": { "href": null, "total": 7000150 },
       "genres": [
         "indonesian indie",
         "indonesian rock",
