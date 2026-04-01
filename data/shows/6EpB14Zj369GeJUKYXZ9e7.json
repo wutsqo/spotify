@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 115,
+  "total_episodes": 116,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/50vMhbvFYsQs7hwV5LLuHV/clip_218789_278789.mp3",
+      "description": "The history of credit cards has been a battle between speed and security. How can banks make you spend more without worrying about fraud or theft?In comes tap to pay, which now accounts for approximately for 45% of the world's purchases each year.But how does it work and what does it have to do with espionage during the Cold War?We dissolved a credit card in acetone to find out.",
+      "duration_ms": 1642453,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/22acJaulB9yzDT05nSNIeI"
+      },
+      "href": "https://api.spotify.com/v1/episodes/22acJaulB9yzDT05nSNIeI",
+      "html_description": "<p>The history of credit cards has been a battle between speed and security. How can banks make you spend more without worrying about fraud or theft?</p><p><br /></p><p>In comes tap to pay, which now accounts for approximately for 45% of the world&#39;s purchases each year.</p><p><br /></p><p>But how does it work and what does it have to do with espionage during the Cold War?</p><p><br /></p><p>We dissolved a credit card in acetone to find out.</p>",
+      "id": "22acJaulB9yzDT05nSNIeI",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ae9780336b951ac3afcc7ee96",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fe9780336b951ac3afcc7ee96",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68de9780336b951ac3afcc7ee96",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Secret Spy Tech Inside Every Credit Card",
+      "release_date": "2026-03-31",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:22acJaulB9yzDT05nSNIeI"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/3BZmUhQ0ZNUZtwERnddZ7S/clip_625198_685198.mp3",
       "description": "Zippers are more genius than you may think. The original patent for zippers has been unchanged for over 100 years but how does one work? What makes them near perfect in design? How do you fix one when it breaks?Here's everything you need to know about zippers! ",
