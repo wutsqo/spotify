@@ -3230,7 +3230,7 @@
           "href": "https://api.spotify.com/v1/tracks/0JmnkIqdlnUzPaf8sqBRs3",
           "id": "0JmnkIqdlnUzPaf8sqBRs3",
           "name": "Moonlight",
-          "popularity": 81,
+          "popularity": 82,
           "uri": "spotify:track:0JmnkIqdlnUzPaf8sqBRs3",
           "is_local": false
         },
@@ -3675,7 +3675,7 @@
           "href": "https://api.spotify.com/v1/tracks/0JmnkIqdlnUzPaf8sqBRs3",
           "id": "0JmnkIqdlnUzPaf8sqBRs3",
           "name": "Moonlight",
-          "popularity": 81,
+          "popularity": 82,
           "uri": "spotify:track:0JmnkIqdlnUzPaf8sqBRs3",
           "is_local": false
         },
@@ -16374,7 +16374,7 @@
           "href": "https://api.spotify.com/v1/tracks/6unndO70DvZfnXYcYQMyQJ",
           "id": "6unndO70DvZfnXYcYQMyQJ",
           "name": "Never Felt So Alone",
-          "popularity": 71,
+          "popularity": 72,
           "uri": "spotify:track:6unndO70DvZfnXYcYQMyQJ",
           "is_local": false
         },
@@ -16823,7 +16823,7 @@
           "href": "https://api.spotify.com/v1/tracks/6unndO70DvZfnXYcYQMyQJ",
           "id": "6unndO70DvZfnXYcYQMyQJ",
           "name": "Never Felt So Alone",
-          "popularity": 71,
+          "popularity": 72,
           "uri": "spotify:track:6unndO70DvZfnXYcYQMyQJ",
           "is_local": false
         },
@@ -20945,7 +20945,7 @@
           "href": "https://api.spotify.com/v1/tracks/0mL82sxCRjrs3br407IdJh",
           "id": "0mL82sxCRjrs3br407IdJh",
           "name": "Is There Someone Else?",
-          "popularity": 81,
+          "popularity": 82,
           "uri": "spotify:track:0mL82sxCRjrs3br407IdJh",
           "is_local": false
         },
@@ -21392,7 +21392,7 @@
           "href": "https://api.spotify.com/v1/tracks/0mL82sxCRjrs3br407IdJh",
           "id": "0mL82sxCRjrs3br407IdJh",
           "name": "Is There Someone Else?",
-          "popularity": 81,
+          "popularity": 82,
           "uri": "spotify:track:0mL82sxCRjrs3br407IdJh",
           "is_local": false
         },
@@ -25504,7 +25504,7 @@
           "href": "https://api.spotify.com/v1/tracks/3xKsf9qdS1CyvXSMEid6g8",
           "id": "3xKsf9qdS1CyvXSMEid6g8",
           "name": "Pink + White",
-          "popularity": 88,
+          "popularity": 89,
           "uri": "spotify:track:3xKsf9qdS1CyvXSMEid6g8",
           "is_local": false
         },
@@ -25953,7 +25953,7 @@
           "href": "https://api.spotify.com/v1/tracks/3xKsf9qdS1CyvXSMEid6g8",
           "id": "3xKsf9qdS1CyvXSMEid6g8",
           "name": "Pink + White",
-          "popularity": 88,
+          "popularity": 89,
           "uri": "spotify:track:3xKsf9qdS1CyvXSMEid6g8",
           "is_local": false
         },
@@ -30626,7 +30626,7 @@
           "href": "https://api.spotify.com/v1/tracks/1odExI7RdWc4BT515LTAwj",
           "id": "1odExI7RdWc4BT515LTAwj",
           "name": "Daylight",
-          "popularity": 13,
+          "popularity": 14,
           "uri": "spotify:track:1odExI7RdWc4BT515LTAwj",
           "is_local": false
         },
@@ -30703,7 +30703,7 @@
           "href": "https://api.spotify.com/v1/tracks/1odExI7RdWc4BT515LTAwj",
           "id": "1odExI7RdWc4BT515LTAwj",
           "name": "Daylight",
-          "popularity": 13,
+          "popularity": 14,
           "uri": "spotify:track:1odExI7RdWc4BT515LTAwj",
           "is_local": false
         },
@@ -33930,7 +33930,7 @@
           "href": "https://api.spotify.com/v1/tracks/2Zo1PcszsT9WQ0ANntJbID",
           "id": "2Zo1PcszsT9WQ0ANntJbID",
           "name": "Feather",
-          "popularity": 83,
+          "popularity": 84,
           "uri": "spotify:track:2Zo1PcszsT9WQ0ANntJbID",
           "is_local": false
         },
@@ -34375,7 +34375,7 @@
           "href": "https://api.spotify.com/v1/tracks/2Zo1PcszsT9WQ0ANntJbID",
           "id": "2Zo1PcszsT9WQ0ANntJbID",
           "name": "Feather",
-          "popularity": 83,
+          "popularity": 84,
           "uri": "spotify:track:2Zo1PcszsT9WQ0ANntJbID",
           "is_local": false
         },
@@ -40787,13 +40787,13 @@
         "primary_color": null,
         "track": {
           "preview_url": null,
-          "available_markets": ["JP"],
+          "available_markets": [],
           "explicit": false,
           "type": "track",
           "episode": false,
           "track": true,
           "album": {
-            "available_markets": ["JP"],
+            "available_markets": [],
             "type": "album",
             "album_type": "album",
             "href": "https://api.spotify.com/v1/albums/0QB8JzlX70ame6G972aEF1",
@@ -40874,13 +40874,13 @@
         },
         "item": {
           "preview_url": null,
-          "available_markets": ["JP"],
+          "available_markets": [],
           "explicit": false,
           "type": "track",
           "episode": false,
           "track": true,
           "album": {
-            "available_markets": ["JP"],
+            "available_markets": [],
             "type": "album",
             "album_type": "album",
             "href": "https://api.spotify.com/v1/albums/0QB8JzlX70ame6G972aEF1",
@@ -45998,7 +45998,7 @@
         "href": "https://api.spotify.com/v1/tracks/0JmnkIqdlnUzPaf8sqBRs3",
         "id": "0JmnkIqdlnUzPaf8sqBRs3",
         "name": "Moonlight",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:0JmnkIqdlnUzPaf8sqBRs3",
         "is_local": false
       },
@@ -46443,7 +46443,7 @@
         "href": "https://api.spotify.com/v1/tracks/0JmnkIqdlnUzPaf8sqBRs3",
         "id": "0JmnkIqdlnUzPaf8sqBRs3",
         "name": "Moonlight",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:0JmnkIqdlnUzPaf8sqBRs3",
         "is_local": false
       },
@@ -59142,7 +59142,7 @@
         "href": "https://api.spotify.com/v1/tracks/6unndO70DvZfnXYcYQMyQJ",
         "id": "6unndO70DvZfnXYcYQMyQJ",
         "name": "Never Felt So Alone",
-        "popularity": 71,
+        "popularity": 72,
         "uri": "spotify:track:6unndO70DvZfnXYcYQMyQJ",
         "is_local": false
       },
@@ -59591,7 +59591,7 @@
         "href": "https://api.spotify.com/v1/tracks/6unndO70DvZfnXYcYQMyQJ",
         "id": "6unndO70DvZfnXYcYQMyQJ",
         "name": "Never Felt So Alone",
-        "popularity": 71,
+        "popularity": 72,
         "uri": "spotify:track:6unndO70DvZfnXYcYQMyQJ",
         "is_local": false
       },
@@ -63713,7 +63713,7 @@
         "href": "https://api.spotify.com/v1/tracks/0mL82sxCRjrs3br407IdJh",
         "id": "0mL82sxCRjrs3br407IdJh",
         "name": "Is There Someone Else?",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:0mL82sxCRjrs3br407IdJh",
         "is_local": false
       },
@@ -64160,7 +64160,7 @@
         "href": "https://api.spotify.com/v1/tracks/0mL82sxCRjrs3br407IdJh",
         "id": "0mL82sxCRjrs3br407IdJh",
         "name": "Is There Someone Else?",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:0mL82sxCRjrs3br407IdJh",
         "is_local": false
       },
@@ -68272,7 +68272,7 @@
         "href": "https://api.spotify.com/v1/tracks/3xKsf9qdS1CyvXSMEid6g8",
         "id": "3xKsf9qdS1CyvXSMEid6g8",
         "name": "Pink + White",
-        "popularity": 88,
+        "popularity": 89,
         "uri": "spotify:track:3xKsf9qdS1CyvXSMEid6g8",
         "is_local": false
       },
@@ -68721,7 +68721,7 @@
         "href": "https://api.spotify.com/v1/tracks/3xKsf9qdS1CyvXSMEid6g8",
         "id": "3xKsf9qdS1CyvXSMEid6g8",
         "name": "Pink + White",
-        "popularity": 88,
+        "popularity": 89,
         "uri": "spotify:track:3xKsf9qdS1CyvXSMEid6g8",
         "is_local": false
       },
@@ -73394,7 +73394,7 @@
         "href": "https://api.spotify.com/v1/tracks/1odExI7RdWc4BT515LTAwj",
         "id": "1odExI7RdWc4BT515LTAwj",
         "name": "Daylight",
-        "popularity": 13,
+        "popularity": 14,
         "uri": "spotify:track:1odExI7RdWc4BT515LTAwj",
         "is_local": false
       },
@@ -73471,7 +73471,7 @@
         "href": "https://api.spotify.com/v1/tracks/1odExI7RdWc4BT515LTAwj",
         "id": "1odExI7RdWc4BT515LTAwj",
         "name": "Daylight",
-        "popularity": 13,
+        "popularity": 14,
         "uri": "spotify:track:1odExI7RdWc4BT515LTAwj",
         "is_local": false
       },
@@ -76698,7 +76698,7 @@
         "href": "https://api.spotify.com/v1/tracks/2Zo1PcszsT9WQ0ANntJbID",
         "id": "2Zo1PcszsT9WQ0ANntJbID",
         "name": "Feather",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:2Zo1PcszsT9WQ0ANntJbID",
         "is_local": false
       },
@@ -77143,7 +77143,7 @@
         "href": "https://api.spotify.com/v1/tracks/2Zo1PcszsT9WQ0ANntJbID",
         "id": "2Zo1PcszsT9WQ0ANntJbID",
         "name": "Feather",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:2Zo1PcszsT9WQ0ANntJbID",
         "is_local": false
       },
@@ -83555,13 +83555,13 @@
       "primary_color": null,
       "track": {
         "preview_url": null,
-        "available_markets": ["JP"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["JP"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/0QB8JzlX70ame6G972aEF1",
@@ -83642,13 +83642,13 @@
       },
       "item": {
         "preview_url": null,
-        "available_markets": ["JP"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["JP"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/0QB8JzlX70ame6G972aEF1",

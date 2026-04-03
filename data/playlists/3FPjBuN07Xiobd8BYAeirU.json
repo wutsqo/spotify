@@ -2840,7 +2840,7 @@
           "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
           "id": "0j3mqDTK4Z6lvrLzFCUUz6",
           "name": "Good Looking",
-          "popularity": 23,
+          "popularity": 22,
           "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
           "is_local": false
         },
@@ -2917,7 +2917,7 @@
           "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
           "id": "0j3mqDTK4Z6lvrLzFCUUz6",
           "name": "Good Looking",
-          "popularity": 23,
+          "popularity": 22,
           "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
           "is_local": false
         },
@@ -2938,13 +2938,13 @@
         "primary_color": null,
         "track": {
           "preview_url": null,
-          "available_markets": ["JP"],
+          "available_markets": [],
           "explicit": false,
           "type": "track",
           "episode": false,
           "track": true,
           "album": {
-            "available_markets": ["JP"],
+            "available_markets": [],
             "type": "album",
             "album_type": "album",
             "href": "https://api.spotify.com/v1/albums/0QB8JzlX70ame6G972aEF1",
@@ -3025,13 +3025,13 @@
         },
         "item": {
           "preview_url": null,
-          "available_markets": ["JP"],
+          "available_markets": [],
           "explicit": false,
           "type": "track",
           "episode": false,
           "track": true,
           "album": {
-            "available_markets": ["JP"],
+            "available_markets": [],
             "type": "album",
             "album_type": "album",
             "href": "https://api.spotify.com/v1/albums/0QB8JzlX70ame6G972aEF1",
@@ -17100,7 +17100,7 @@
         "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
         "id": "0j3mqDTK4Z6lvrLzFCUUz6",
         "name": "Good Looking",
-        "popularity": 23,
+        "popularity": 22,
         "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
         "is_local": false
       },
@@ -17177,7 +17177,7 @@
         "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
         "id": "0j3mqDTK4Z6lvrLzFCUUz6",
         "name": "Good Looking",
-        "popularity": 23,
+        "popularity": 22,
         "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
         "is_local": false
       },
@@ -17198,13 +17198,13 @@
       "primary_color": null,
       "track": {
         "preview_url": null,
-        "available_markets": ["JP"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["JP"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/0QB8JzlX70ame6G972aEF1",
@@ -17285,13 +17285,13 @@
       },
       "item": {
         "preview_url": null,
-        "available_markets": ["JP"],
+        "available_markets": [],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["JP"],
+          "available_markets": [],
           "type": "album",
           "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/0QB8JzlX70ame6G972aEF1",
