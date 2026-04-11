@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 116,
+  "total_episodes": 117,
   "episodes": [
+    {
+      "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/6iqJPkvTA9TDGdssKxCdGc/clip_108000_168680.mp3",
+      "description": "Antimatter is the world's most volatile substance. When it comes into contact with matter they annihilate producing photons and energy. (This is due to Einstein's E=mc^2)There is only one factory in the world that makes it and it's at CERN. We went inside to find out how it works and why they're making it...",
+      "duration_ms": 3460842,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2FWb4bg3gCY1v6trEQxSSc"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2FWb4bg3gCY1v6trEQxSSc",
+      "html_description": "<p>Antimatter is the world&#39;s most volatile substance. When it comes into contact with matter they annihilate producing photons and energy. (This is due to Einstein&#39;s E&#61;mc^2)</p><p><br /></p><p>There is only one factory in the world that makes it and it&#39;s at CERN. </p><p><br /></p><p>We went inside to find out how it works and why they&#39;re making it...</p><p><br /></p><p><br /></p>",
+      "id": "2FWb4bg3gCY1v6trEQxSSc",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a755a5ca1ab929dd1f81449b8",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f755a5ca1ab929dd1f81449b8",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d755a5ca1ab929dd1f81449b8",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How We Make Antimatter",
+      "release_date": "2026-04-10",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2FWb4bg3gCY1v6trEQxSSc"
+    },
     {
       "audio_preview_url": "https://podz-content.spotifycdn.com/audio/clips/50vMhbvFYsQs7hwV5LLuHV/clip_93000_154280.mp3",
       "description": "The history of credit cards has been a battle between speed and security. How can banks make you spend more without worrying about fraud or theft?In comes tap to pay, which now accounts for approximately for 45% of the world's purchases each year.But how does it work and what does it have to do with espionage during the Cold War?We dissolved a credit card in acetone to find out.",
