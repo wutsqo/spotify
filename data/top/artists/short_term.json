@@ -1,11 +1,11 @@
 {
-  "total": 4,
+  "total": 5,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
       },
-      "followers": { "href": null, "total": 180635 },
+      "followers": { "href": null, "total": 181941 },
       "genres": ["hipdut", "dangdut", "lagu timur", "koplo", "funkot", "malay"],
       "href": "https://api.spotify.com/v1/artists/6WgjNWwGACXaBy7NZripBu",
       "id": "6WgjNWwGACXaBy7NZripBu",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
-      "followers": { "href": null, "total": 114284735 },
+      "followers": { "href": null, "total": 114346737 },
       "genres": ["reggaeton", "trap latino", "latin", "urbano latino"],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
       },
-      "followers": { "href": null, "total": 1767360 },
+      "followers": { "href": null, "total": 1773304 },
       "genres": [
         "hipdut",
         "dangdut",
@@ -105,7 +105,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
       },
-      "followers": { "href": null, "total": 5700431 },
+      "followers": { "href": null, "total": 5708690 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
       "id": "78rUTD7y6Cy67W1RVzYs7t",
@@ -130,6 +130,36 @@
       "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:78rUTD7y6Cy67W1RVzYs7t"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "followers": { "href": null, "total": 35227720 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id": "6KImCVD70vtIoJWnq6nGn3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe309f8c3056a59f20d0968ca",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e309f8c3056a59f20d0968ca",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e309f8c3056a59f20d0968ca",
+          "width": 160
+        }
+      ],
+      "name": "Harry Styles",
+      "popularity": 91,
+      "type": "artist",
+      "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
     }
   ]
 }
