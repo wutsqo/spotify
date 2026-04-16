@@ -5,7 +5,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6WgjNWwGACXaBy7NZripBu"
       },
-      "followers": { "href": null, "total": 183296 },
+      "followers": { "href": null, "total": 184685 },
       "genres": ["hipdut", "dangdut", "lagu timur", "koplo", "funkot", "malay"],
       "href": "https://api.spotify.com/v1/artists/6WgjNWwGACXaBy7NZripBu",
       "id": "6WgjNWwGACXaBy7NZripBu",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
-      "followers": { "href": null, "total": 114406618 },
+      "followers": { "href": null, "total": 114466996 },
       "genres": ["reggaeton", "trap latino", "latin", "urbano latino"],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
@@ -63,49 +63,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
-      },
-      "followers": { "href": null, "total": 1779032 },
-      "genres": [
-        "hipdut",
-        "dangdut",
-        "lagu timur",
-        "malay",
-        "koplo",
-        "funkot",
-        "indonesian hip hop",
-        "indonesian pop",
-        "malay rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6vP4azTCk053nGL0xAYnVH",
-      "id": "6vP4azTCk053nGL0xAYnVH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb29c41392ae281462cbc7f140",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517429c41392ae281462cbc7f140",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17829c41392ae281462cbc7f140",
-          "width": 160
-        }
-      ],
-      "name": "Tenxi",
-      "popularity": 73,
-      "type": "artist",
-      "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
       },
-      "followers": { "href": null, "total": 5716248 },
+      "followers": { "href": null, "total": 5723635 },
       "genres": ["bedroom pop"],
       "href": "https://api.spotify.com/v1/artists/78rUTD7y6Cy67W1RVzYs7t",
       "id": "78rUTD7y6Cy67W1RVzYs7t",
@@ -135,7 +95,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
       },
-      "followers": { "href": null, "total": 35231349 },
+      "followers": { "href": null, "total": 35234996 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
       "id": "6KImCVD70vtIoJWnq6nGn3",
@@ -160,6 +120,36 @@
       "popularity": 91,
       "type": "artist",
       "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+      },
+      "followers": { "href": null, "total": 8320989 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/3mIj9lX2MWuHmhNCA7LSCW",
+      "id": "3mIj9lX2MWuHmhNCA7LSCW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb0c6e752cbb1e6d1416970f5a",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051740c6e752cbb1e6d1416970f5a",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1780c6e752cbb1e6d1416970f5a",
+          "width": 160
+        }
+      ],
+      "name": "The 1975",
+      "popularity": 78,
+      "type": "artist",
+      "uri": "spotify:artist:3mIj9lX2MWuHmhNCA7LSCW"
     }
   ]
 }
