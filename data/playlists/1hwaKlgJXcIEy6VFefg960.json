@@ -14382,7 +14382,7 @@
               "XK"
             ],
             "type": "album",
-            "album_type": "compilation",
+            "album_type": "album",
             "href": "https://api.spotify.com/v1/albums/6CmJJCI3lOn5XVZ68hP9kY",
             "id": "6CmJJCI3lOn5XVZ68hP9kY",
             "images": [
@@ -14403,8 +14403,8 @@
               }
             ],
             "name": "Reading Writing And Arithmetic",
-            "release_date": "2003-02-28",
-            "release_date_precision": "day",
+            "release_date": "1990",
+            "release_date_precision": "year",
             "uri": "spotify:album:6CmJJCI3lOn5XVZ68hP9kY",
             "artists": [
               {
@@ -14825,7 +14825,7 @@
               "XK"
             ],
             "type": "album",
-            "album_type": "compilation",
+            "album_type": "album",
             "href": "https://api.spotify.com/v1/albums/6CmJJCI3lOn5XVZ68hP9kY",
             "id": "6CmJJCI3lOn5XVZ68hP9kY",
             "images": [
@@ -14846,8 +14846,8 @@
               }
             ],
             "name": "Reading Writing And Arithmetic",
-            "release_date": "2003-02-28",
-            "release_date_precision": "day",
+            "release_date": "1990",
+            "release_date_precision": "year",
             "uri": "spotify:album:6CmJJCI3lOn5XVZ68hP9kY",
             "artists": [
               {
@@ -56332,7 +56332,7 @@
           "href": "https://api.spotify.com/v1/tracks/4IA6pgGRmqfxWGAfyZ8cgR",
           "id": "4IA6pgGRmqfxWGAfyZ8cgR",
           "name": "Verbatim",
-          "popularity": 72,
+          "popularity": 71,
           "uri": "spotify:track:4IA6pgGRmqfxWGAfyZ8cgR",
           "is_local": false
         },
@@ -56781,7 +56781,7 @@
           "href": "https://api.spotify.com/v1/tracks/4IA6pgGRmqfxWGAfyZ8cgR",
           "id": "4IA6pgGRmqfxWGAfyZ8cgR",
           "name": "Verbatim",
-          "popularity": 72,
+          "popularity": 71,
           "uri": "spotify:track:4IA6pgGRmqfxWGAfyZ8cgR",
           "is_local": false
         },
@@ -64059,7 +64059,7 @@
           "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
           "id": "0j3mqDTK4Z6lvrLzFCUUz6",
           "name": "Good Looking",
-          "popularity": 16,
+          "popularity": 15,
           "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
           "is_local": false
         },
@@ -64136,7 +64136,7 @@
           "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
           "id": "0j3mqDTK4Z6lvrLzFCUUz6",
           "name": "Good Looking",
-          "popularity": 16,
+          "popularity": 15,
           "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
           "is_local": false
         },
@@ -98298,7 +98298,7 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "compilation",
+          "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/6CmJJCI3lOn5XVZ68hP9kY",
           "id": "6CmJJCI3lOn5XVZ68hP9kY",
           "images": [
@@ -98319,8 +98319,8 @@
             }
           ],
           "name": "Reading Writing And Arithmetic",
-          "release_date": "2003-02-28",
-          "release_date_precision": "day",
+          "release_date": "1990",
+          "release_date_precision": "year",
           "uri": "spotify:album:6CmJJCI3lOn5XVZ68hP9kY",
           "artists": [
             {
@@ -98741,7 +98741,7 @@
             "XK"
           ],
           "type": "album",
-          "album_type": "compilation",
+          "album_type": "album",
           "href": "https://api.spotify.com/v1/albums/6CmJJCI3lOn5XVZ68hP9kY",
           "id": "6CmJJCI3lOn5XVZ68hP9kY",
           "images": [
@@ -98762,8 +98762,8 @@
             }
           ],
           "name": "Reading Writing And Arithmetic",
-          "release_date": "2003-02-28",
-          "release_date_precision": "day",
+          "release_date": "1990",
+          "release_date_precision": "year",
           "uri": "spotify:album:6CmJJCI3lOn5XVZ68hP9kY",
           "artists": [
             {
@@ -140248,7 +140248,7 @@
         "href": "https://api.spotify.com/v1/tracks/4IA6pgGRmqfxWGAfyZ8cgR",
         "id": "4IA6pgGRmqfxWGAfyZ8cgR",
         "name": "Verbatim",
-        "popularity": 72,
+        "popularity": 71,
         "uri": "spotify:track:4IA6pgGRmqfxWGAfyZ8cgR",
         "is_local": false
       },
@@ -140697,7 +140697,7 @@
         "href": "https://api.spotify.com/v1/tracks/4IA6pgGRmqfxWGAfyZ8cgR",
         "id": "4IA6pgGRmqfxWGAfyZ8cgR",
         "name": "Verbatim",
-        "popularity": 72,
+        "popularity": 71,
         "uri": "spotify:track:4IA6pgGRmqfxWGAfyZ8cgR",
         "is_local": false
       },
@@ -147975,7 +147975,7 @@
         "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
         "id": "0j3mqDTK4Z6lvrLzFCUUz6",
         "name": "Good Looking",
-        "popularity": 16,
+        "popularity": 15,
         "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
         "is_local": false
       },
@@ -148052,7 +148052,7 @@
         "href": "https://api.spotify.com/v1/tracks/0j3mqDTK4Z6lvrLzFCUUz6",
         "id": "0j3mqDTK4Z6lvrLzFCUUz6",
         "name": "Good Looking",
-        "popularity": 16,
+        "popularity": 15,
         "uri": "spotify:track:0j3mqDTK4Z6lvrLzFCUUz6",
         "is_local": false
       },
@@ -220992,7 +220992,7 @@
         "href": "https://api.spotify.com/v1/tracks/1SKPmfSYaPsETbRHaiA18G",
         "id": "1SKPmfSYaPsETbRHaiA18G",
         "name": "Somewhere Only We Know",
-        "popularity": 87,
+        "popularity": 88,
         "uri": "spotify:track:1SKPmfSYaPsETbRHaiA18G",
         "is_local": false
       },
@@ -221435,7 +221435,7 @@
         "href": "https://api.spotify.com/v1/tracks/1SKPmfSYaPsETbRHaiA18G",
         "id": "1SKPmfSYaPsETbRHaiA18G",
         "name": "Somewhere Only We Know",
-        "popularity": 87,
+        "popularity": 88,
         "uri": "spotify:track:1SKPmfSYaPsETbRHaiA18G",
         "is_local": false
       },

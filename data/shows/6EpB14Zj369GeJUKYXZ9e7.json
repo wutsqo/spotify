@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 118,
+  "total_episodes": 119,
   "episodes": [
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/14d53f2b83f1a32d2817a2bae28557dc271ef999.mp3",
+      "description": "The crystals that wiped out an HIV medication, almost overnight.And the scary thing is this could happen to any medication at any time. These are the most dangerous crystals in chemistry, polymorphs. ",
+      "duration_ms": 1893034,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/1pnk1RfvDdnbCos4Nj0Cyb"
+      },
+      "href": "https://api.spotify.com/v1/episodes/1pnk1RfvDdnbCos4Nj0Cyb",
+      "html_description": "<p>The crystals that wiped out an HIV medication, almost overnight.</p><p><br /></p><p>And the scary thing is this could happen to any medication at any time. </p><p><br /></p><p>These are the most dangerous crystals in chemistry, polymorphs. </p>",
+      "id": "1pnk1RfvDdnbCos4Nj0Cyb",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a3e7c965b20b6a6063b12b3d7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f3e7c965b20b6a6063b12b3d7",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d3e7c965b20b6a6063b12b3d7",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How A Miracle Drug Almost Disappeared Overnight",
+      "release_date": "2026-04-30",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:1pnk1RfvDdnbCos4Nj0Cyb"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/0688bf2aa72d553f25b85fcb1783ebcbd992fe27.mp3",
       "description": "Tap to pay is one of the most widely used ways of paying in the world. But it has one tiny flaw which if exploited can let you steal a lot of money from a locked phone. Here is how we hacked MKBHD and stole $10,000!▀▀▀If you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV Sign up for the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter",
