@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 5295 },
+  "followers": { "href": null, "total": 5296 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -487,7 +487,7 @@
           "href": "https://api.spotify.com/v1/tracks/3s5ogvexUgA6XjNj37zpnP",
           "id": "3s5ogvexUgA6XjNj37zpnP",
           "name": "Piledriver waltz",
-          "popularity": 61,
+          "popularity": 60,
           "uri": "spotify:track:3s5ogvexUgA6XjNj37zpnP",
           "is_local": false
         },
@@ -934,7 +934,7 @@
           "href": "https://api.spotify.com/v1/tracks/3s5ogvexUgA6XjNj37zpnP",
           "id": "3s5ogvexUgA6XjNj37zpnP",
           "name": "Piledriver waltz",
-          "popularity": 61,
+          "popularity": 60,
           "uri": "spotify:track:3s5ogvexUgA6XjNj37zpnP",
           "is_local": false
         },
@@ -4296,7 +4296,7 @@
           "href": "https://api.spotify.com/v1/tracks/605E2oDpy3uSIhbRFcrQyn",
           "id": "605E2oDpy3uSIhbRFcrQyn",
           "name": "Despair In The Departure Lounge",
-          "popularity": 57,
+          "popularity": 56,
           "uri": "spotify:track:605E2oDpy3uSIhbRFcrQyn",
           "is_local": false
         },
@@ -4743,7 +4743,7 @@
           "href": "https://api.spotify.com/v1/tracks/605E2oDpy3uSIhbRFcrQyn",
           "id": "605E2oDpy3uSIhbRFcrQyn",
           "name": "Despair In The Departure Lounge",
-          "popularity": 57,
+          "popularity": 56,
           "uri": "spotify:track:605E2oDpy3uSIhbRFcrQyn",
           "is_local": false
         },
@@ -68337,7 +68337,7 @@
         "href": "https://api.spotify.com/v1/tracks/3s5ogvexUgA6XjNj37zpnP",
         "id": "3s5ogvexUgA6XjNj37zpnP",
         "name": "Piledriver waltz",
-        "popularity": 61,
+        "popularity": 60,
         "uri": "spotify:track:3s5ogvexUgA6XjNj37zpnP",
         "is_local": false
       },
@@ -68784,7 +68784,7 @@
         "href": "https://api.spotify.com/v1/tracks/3s5ogvexUgA6XjNj37zpnP",
         "id": "3s5ogvexUgA6XjNj37zpnP",
         "name": "Piledriver waltz",
-        "popularity": 61,
+        "popularity": 60,
         "uri": "spotify:track:3s5ogvexUgA6XjNj37zpnP",
         "is_local": false
       },
@@ -72146,7 +72146,7 @@
         "href": "https://api.spotify.com/v1/tracks/605E2oDpy3uSIhbRFcrQyn",
         "id": "605E2oDpy3uSIhbRFcrQyn",
         "name": "Despair In The Departure Lounge",
-        "popularity": 57,
+        "popularity": 56,
         "uri": "spotify:track:605E2oDpy3uSIhbRFcrQyn",
         "is_local": false
       },
@@ -72593,7 +72593,7 @@
         "href": "https://api.spotify.com/v1/tracks/605E2oDpy3uSIhbRFcrQyn",
         "id": "605E2oDpy3uSIhbRFcrQyn",
         "name": "Despair In The Departure Lounge",
-        "popularity": 57,
+        "popularity": 56,
         "uri": "spotify:track:605E2oDpy3uSIhbRFcrQyn",
         "is_local": false
       },
@@ -167922,7 +167922,7 @@
         "href": "https://api.spotify.com/v1/tracks/2LdG9xtEzCho3jCr58M6cq",
         "id": "2LdG9xtEzCho3jCr58M6cq",
         "name": "Arabella",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:2LdG9xtEzCho3jCr58M6cq",
         "is_local": false
       },
@@ -167999,7 +167999,7 @@
         "href": "https://api.spotify.com/v1/tracks/2LdG9xtEzCho3jCr58M6cq",
         "id": "2LdG9xtEzCho3jCr58M6cq",
         "name": "Arabella",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:2LdG9xtEzCho3jCr58M6cq",
         "is_local": false
       },
@@ -170098,7 +170098,7 @@
         "href": "https://api.spotify.com/v1/tracks/5S5u0EWtlblH00iTNExZ6X",
         "id": "5S5u0EWtlblH00iTNExZ6X",
         "name": "I Think I Like When It Rains",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:5S5u0EWtlblH00iTNExZ6X",
         "is_local": false
       },
@@ -170175,7 +170175,7 @@
         "href": "https://api.spotify.com/v1/tracks/5S5u0EWtlblH00iTNExZ6X",
         "id": "5S5u0EWtlblH00iTNExZ6X",
         "name": "I Think I Like When It Rains",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:5S5u0EWtlblH00iTNExZ6X",
         "is_local": false
       },
@@ -211633,7 +211633,7 @@
         "href": "https://api.spotify.com/v1/tracks/2V852FRIFO7mFgfiyDMum1",
         "id": "2V852FRIFO7mFgfiyDMum1",
         "name": "Symphonia IX",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:2V852FRIFO7mFgfiyDMum1",
         "is_local": false
       },
@@ -211710,7 +211710,7 @@
         "href": "https://api.spotify.com/v1/tracks/2V852FRIFO7mFgfiyDMum1",
         "id": "2V852FRIFO7mFgfiyDMum1",
         "name": "Symphonia IX",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:2V852FRIFO7mFgfiyDMum1",
         "is_local": false
       },

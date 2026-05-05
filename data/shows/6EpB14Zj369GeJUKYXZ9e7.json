@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 119,
+  "total_episodes": 120,
   "episodes": [
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/67db49ce5b4ac984792140fa3a152ea7cf7c43cd.mp3",
+      "description": "Did the CIA really save an airman by monitoring his heartbeat from 60km away?This is a look into the CIA's rumoured 'Ghost Murmur' technology and the plausibility of their claims.",
+      "duration_ms": 1180480,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0JdBcTfVmQaAKyvHt8NbyA"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0JdBcTfVmQaAKyvHt8NbyA",
+      "html_description": "<p>Did the CIA really save an airman by monitoring his heartbeat from 60km away?</p><p><br /></p><p>This is a look into the CIA&#39;s rumoured &#39;Ghost Murmur&#39; technology and the plausibility of their claims.</p>",
+      "id": "0JdBcTfVmQaAKyvHt8NbyA",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a37db82c5d51c3706b90186ed",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f37db82c5d51c3706b90186ed",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d37db82c5d51c3706b90186ed",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Can the CIA detect your heartbeat from 60 km away?",
+      "release_date": "2026-05-04",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:0JdBcTfVmQaAKyvHt8NbyA"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/14d53f2b83f1a32d2817a2bae28557dc271ef999.mp3",
       "description": "The crystals that wiped out an HIV medication, almost overnight.And the scary thing is this could happen to any medication at any time. These are the most dangerous crystals in chemistry, polymorphs. ",
