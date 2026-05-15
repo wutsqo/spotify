@@ -7088,7 +7088,7 @@
           "href": "https://api.spotify.com/v1/tracks/0jHkgTtTaqg5LNCiYDQPUB",
           "id": "0jHkgTtTaqg5LNCiYDQPUB",
           "name": "Let's Get It On",
-          "popularity": 0,
+          "popularity": 1,
           "uri": "spotify:track:0jHkgTtTaqg5LNCiYDQPUB",
           "is_local": false
         },
@@ -7165,7 +7165,7 @@
           "href": "https://api.spotify.com/v1/tracks/0jHkgTtTaqg5LNCiYDQPUB",
           "id": "0jHkgTtTaqg5LNCiYDQPUB",
           "name": "Let's Get It On",
-          "popularity": 0,
+          "popularity": 1,
           "uri": "spotify:track:0jHkgTtTaqg5LNCiYDQPUB",
           "is_local": false
         },
@@ -7629,7 +7629,7 @@
           "href": "https://api.spotify.com/v1/tracks/2tUBqZG2AbRi7Q0BIrVrEj",
           "id": "2tUBqZG2AbRi7Q0BIrVrEj",
           "name": "I Wanna Dance with Somebody (Who Loves Me)",
-          "popularity": 85,
+          "popularity": 86,
           "uri": "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj",
           "is_local": false
         },
@@ -8078,7 +8078,7 @@
           "href": "https://api.spotify.com/v1/tracks/2tUBqZG2AbRi7Q0BIrVrEj",
           "id": "2tUBqZG2AbRi7Q0BIrVrEj",
           "name": "I Wanna Dance with Somebody (Who Loves Me)",
-          "popularity": 85,
+          "popularity": 86,
           "uri": "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj",
           "is_local": false
         },
@@ -8170,7 +8170,7 @@
           "href": "https://api.spotify.com/v1/tracks/3M5eeHXgG4VplKNcsBC8Dj",
           "id": "3M5eeHXgG4VplKNcsBC8Dj",
           "name": "Signed, Sealed, Delivered (I'm Yours)",
-          "popularity": 0,
+          "popularity": 1,
           "uri": "spotify:track:3M5eeHXgG4VplKNcsBC8Dj",
           "is_local": false
         },
@@ -8247,7 +8247,7 @@
           "href": "https://api.spotify.com/v1/tracks/3M5eeHXgG4VplKNcsBC8Dj",
           "id": "3M5eeHXgG4VplKNcsBC8Dj",
           "name": "Signed, Sealed, Delivered (I'm Yours)",
-          "popularity": 0,
+          "popularity": 1,
           "uri": "spotify:track:3M5eeHXgG4VplKNcsBC8Dj",
           "is_local": false
         },
@@ -37485,6 +37485,7 @@
             "TW",
             "TR",
             "UY",
+            "US",
             "GB",
             "AD",
             "LI",
@@ -37556,6 +37557,7 @@
             "FM",
             "NA",
             "NE",
+            "PR",
             "SM",
             "ST",
             "SN",
@@ -37661,6 +37663,7 @@
               "TW",
               "TR",
               "UY",
+              "US",
               "GB",
               "AD",
               "LI",
@@ -37732,6 +37735,7 @@
               "FM",
               "NA",
               "NE",
+              "PR",
               "SM",
               "ST",
               "SN",
@@ -37902,6 +37906,7 @@
             "TW",
             "TR",
             "UY",
+            "US",
             "GB",
             "AD",
             "LI",
@@ -37973,6 +37978,7 @@
             "FM",
             "NA",
             "NE",
+            "PR",
             "SM",
             "ST",
             "SN",
@@ -38078,6 +38084,7 @@
               "TW",
               "TR",
               "UY",
+              "US",
               "GB",
               "AD",
               "LI",
@@ -38149,6 +38156,7 @@
               "FM",
               "NA",
               "NE",
+              "PR",
               "SM",
               "ST",
               "SN",
@@ -71942,7 +71950,7 @@
         "href": "https://api.spotify.com/v1/tracks/0jHkgTtTaqg5LNCiYDQPUB",
         "id": "0jHkgTtTaqg5LNCiYDQPUB",
         "name": "Let's Get It On",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:0jHkgTtTaqg5LNCiYDQPUB",
         "is_local": false
       },
@@ -72019,7 +72027,7 @@
         "href": "https://api.spotify.com/v1/tracks/0jHkgTtTaqg5LNCiYDQPUB",
         "id": "0jHkgTtTaqg5LNCiYDQPUB",
         "name": "Let's Get It On",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:0jHkgTtTaqg5LNCiYDQPUB",
         "is_local": false
       },
@@ -72483,7 +72491,7 @@
         "href": "https://api.spotify.com/v1/tracks/2tUBqZG2AbRi7Q0BIrVrEj",
         "id": "2tUBqZG2AbRi7Q0BIrVrEj",
         "name": "I Wanna Dance with Somebody (Who Loves Me)",
-        "popularity": 85,
+        "popularity": 86,
         "uri": "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj",
         "is_local": false
       },
@@ -72932,7 +72940,7 @@
         "href": "https://api.spotify.com/v1/tracks/2tUBqZG2AbRi7Q0BIrVrEj",
         "id": "2tUBqZG2AbRi7Q0BIrVrEj",
         "name": "I Wanna Dance with Somebody (Who Loves Me)",
-        "popularity": 85,
+        "popularity": 86,
         "uri": "spotify:track:2tUBqZG2AbRi7Q0BIrVrEj",
         "is_local": false
       },
@@ -73024,7 +73032,7 @@
         "href": "https://api.spotify.com/v1/tracks/3M5eeHXgG4VplKNcsBC8Dj",
         "id": "3M5eeHXgG4VplKNcsBC8Dj",
         "name": "Signed, Sealed, Delivered (I'm Yours)",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3M5eeHXgG4VplKNcsBC8Dj",
         "is_local": false
       },
@@ -73101,7 +73109,7 @@
         "href": "https://api.spotify.com/v1/tracks/3M5eeHXgG4VplKNcsBC8Dj",
         "id": "3M5eeHXgG4VplKNcsBC8Dj",
         "name": "Signed, Sealed, Delivered (I'm Yours)",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3M5eeHXgG4VplKNcsBC8Dj",
         "is_local": false
       },
@@ -102339,6 +102347,7 @@
           "TW",
           "TR",
           "UY",
+          "US",
           "GB",
           "AD",
           "LI",
@@ -102410,6 +102419,7 @@
           "FM",
           "NA",
           "NE",
+          "PR",
           "SM",
           "ST",
           "SN",
@@ -102515,6 +102525,7 @@
             "TW",
             "TR",
             "UY",
+            "US",
             "GB",
             "AD",
             "LI",
@@ -102586,6 +102597,7 @@
             "FM",
             "NA",
             "NE",
+            "PR",
             "SM",
             "ST",
             "SN",
@@ -102756,6 +102768,7 @@
           "TW",
           "TR",
           "UY",
+          "US",
           "GB",
           "AD",
           "LI",
@@ -102827,6 +102840,7 @@
           "FM",
           "NA",
           "NE",
+          "PR",
           "SM",
           "ST",
           "SN",
@@ -102932,6 +102946,7 @@
             "TW",
             "TR",
             "UY",
+            "US",
             "GB",
             "AD",
             "LI",
@@ -103003,6 +103018,7 @@
             "FM",
             "NA",
             "NE",
+            "PR",
             "SM",
             "ST",
             "SN",
@@ -135611,7 +135627,7 @@
         "href": "https://api.spotify.com/v1/tracks/49nBXQzYNyjoBmUda3ezMf",
         "id": "49nBXQzYNyjoBmUda3ezMf",
         "name": "Whatever Gets You Thru The Night - Remastered 2010",
-        "popularity": 50,
+        "popularity": 51,
         "uri": "spotify:track:49nBXQzYNyjoBmUda3ezMf",
         "is_local": false
       },
@@ -136058,7 +136074,7 @@
         "href": "https://api.spotify.com/v1/tracks/49nBXQzYNyjoBmUda3ezMf",
         "id": "49nBXQzYNyjoBmUda3ezMf",
         "name": "Whatever Gets You Thru The Night - Remastered 2010",
-        "popularity": 50,
+        "popularity": 51,
         "uri": "spotify:track:49nBXQzYNyjoBmUda3ezMf",
         "is_local": false
       },
@@ -136520,7 +136536,7 @@
         "href": "https://api.spotify.com/v1/tracks/3KiexfmhxHvG5IgAElmTkd",
         "id": "3KiexfmhxHvG5IgAElmTkd",
         "name": "I Saw Her Standing There - Remastered 2009",
-        "popularity": 68,
+        "popularity": 69,
         "uri": "spotify:track:3KiexfmhxHvG5IgAElmTkd",
         "is_local": false
       },
@@ -136967,7 +136983,7 @@
         "href": "https://api.spotify.com/v1/tracks/3KiexfmhxHvG5IgAElmTkd",
         "id": "3KiexfmhxHvG5IgAElmTkd",
         "name": "I Saw Her Standing There - Remastered 2009",
-        "popularity": 68,
+        "popularity": 69,
         "uri": "spotify:track:3KiexfmhxHvG5IgAElmTkd",
         "is_local": false
       },
@@ -143304,7 +143320,7 @@
         "href": "https://api.spotify.com/v1/tracks/7oOOI85fVQvVnK5ynNMdW7",
         "id": "7oOOI85fVQvVnK5ynNMdW7",
         "name": "Rock with You - Single Version",
-        "popularity": 89,
+        "popularity": 90,
         "uri": "spotify:track:7oOOI85fVQvVnK5ynNMdW7",
         "is_local": false
       },
@@ -143753,7 +143769,7 @@
         "href": "https://api.spotify.com/v1/tracks/7oOOI85fVQvVnK5ynNMdW7",
         "id": "7oOOI85fVQvVnK5ynNMdW7",
         "name": "Rock with You - Single Version",
-        "popularity": 89,
+        "popularity": 90,
         "uri": "spotify:track:7oOOI85fVQvVnK5ynNMdW7",
         "is_local": false
       },
@@ -160145,7 +160161,7 @@
         "href": "https://api.spotify.com/v1/tracks/6bnFjTW3EnMG4BwreDnSHK",
         "id": "6bnFjTW3EnMG4BwreDnSHK",
         "name": "Mr. Blue",
-        "popularity": 50,
+        "popularity": 51,
         "uri": "spotify:track:6bnFjTW3EnMG4BwreDnSHK",
         "is_local": false
       },
@@ -160590,7 +160606,7 @@
         "href": "https://api.spotify.com/v1/tracks/6bnFjTW3EnMG4BwreDnSHK",
         "id": "6bnFjTW3EnMG4BwreDnSHK",
         "name": "Mr. Blue",
-        "popularity": 50,
+        "popularity": 51,
         "uri": "spotify:track:6bnFjTW3EnMG4BwreDnSHK",
         "is_local": false
       },
@@ -195353,7 +195369,7 @@
         "href": "https://api.spotify.com/v1/tracks/0a4agFmqHXxcZl1nho1BxM",
         "id": "0a4agFmqHXxcZl1nho1BxM",
         "name": "Heart Of Glass - Special Mix",
-        "popularity": 76,
+        "popularity": 75,
         "uri": "spotify:track:0a4agFmqHXxcZl1nho1BxM",
         "is_local": false
       },
@@ -195800,7 +195816,7 @@
         "href": "https://api.spotify.com/v1/tracks/0a4agFmqHXxcZl1nho1BxM",
         "id": "0a4agFmqHXxcZl1nho1BxM",
         "name": "Heart Of Glass - Special Mix",
-        "popularity": 76,
+        "popularity": 75,
         "uri": "spotify:track:0a4agFmqHXxcZl1nho1BxM",
         "is_local": false
       },
@@ -212756,7 +212772,7 @@
         "href": "https://api.spotify.com/v1/tracks/0j3p1p06deJ7f9xmJ9yG22",
         "id": "0j3p1p06deJ7f9xmJ9yG22",
         "name": "Back In The U.S.S.R. - Remastered 2009",
-        "popularity": 63,
+        "popularity": 64,
         "uri": "spotify:track:0j3p1p06deJ7f9xmJ9yG22",
         "is_local": false
       },
@@ -213203,7 +213219,7 @@
         "href": "https://api.spotify.com/v1/tracks/0j3p1p06deJ7f9xmJ9yG22",
         "id": "0j3p1p06deJ7f9xmJ9yG22",
         "name": "Back In The U.S.S.R. - Remastered 2009",
-        "popularity": 63,
+        "popularity": 64,
         "uri": "spotify:track:0j3p1p06deJ7f9xmJ9yG22",
         "is_local": false
       },
@@ -224250,7 +224266,7 @@
         "href": "https://api.spotify.com/v1/tracks/6EbtwJ2vOScM1SJgIx8xjy",
         "id": "6EbtwJ2vOScM1SJgIx8xjy",
         "name": "Ganz in weiß",
-        "popularity": 39,
+        "popularity": 40,
         "uri": "spotify:track:6EbtwJ2vOScM1SJgIx8xjy",
         "is_local": false
       },
@@ -224695,7 +224711,7 @@
         "href": "https://api.spotify.com/v1/tracks/6EbtwJ2vOScM1SJgIx8xjy",
         "id": "6EbtwJ2vOScM1SJgIx8xjy",
         "name": "Ganz in weiß",
-        "popularity": 39,
+        "popularity": 40,
         "uri": "spotify:track:6EbtwJ2vOScM1SJgIx8xjy",
         "is_local": false
       },
@@ -229883,7 +229899,7 @@
         "href": "https://api.spotify.com/v1/tracks/1kzDnLz9xPlrKMoDvrDtkr",
         "id": "1kzDnLz9xPlrKMoDvrDtkr",
         "name": "Morning Sky",
-        "popularity": 31,
+        "popularity": 32,
         "uri": "spotify:track:1kzDnLz9xPlrKMoDvrDtkr",
         "is_local": false
       },
@@ -230346,7 +230362,7 @@
         "href": "https://api.spotify.com/v1/tracks/1kzDnLz9xPlrKMoDvrDtkr",
         "id": "1kzDnLz9xPlrKMoDvrDtkr",
         "name": "Morning Sky",
-        "popularity": 31,
+        "popularity": 32,
         "uri": "spotify:track:1kzDnLz9xPlrKMoDvrDtkr",
         "is_local": false
       },
@@ -260584,7 +260600,7 @@
         "href": "https://api.spotify.com/v1/tracks/0i19MAZbyn8uTir7FprXId",
         "id": "0i19MAZbyn8uTir7FprXId",
         "name": "Oh! Sweet Nuthin' - 2015 Remaster",
-        "popularity": 62,
+        "popularity": 63,
         "uri": "spotify:track:0i19MAZbyn8uTir7FprXId",
         "is_local": false
       },
@@ -261033,7 +261049,7 @@
         "href": "https://api.spotify.com/v1/tracks/0i19MAZbyn8uTir7FprXId",
         "id": "0i19MAZbyn8uTir7FprXId",
         "name": "Oh! Sweet Nuthin' - 2015 Remaster",
-        "popularity": 62,
+        "popularity": 63,
         "uri": "spotify:track:0i19MAZbyn8uTir7FprXId",
         "is_local": false
       },
@@ -282406,7 +282422,7 @@
         "href": "https://api.spotify.com/v1/tracks/4XMRt4xFqLzGs4wDKkSSeu",
         "id": "4XMRt4xFqLzGs4wDKkSSeu",
         "name": "Give Me Love (Give Me Peace on Earth)",
-        "popularity": 13,
+        "popularity": 12,
         "uri": "spotify:track:4XMRt4xFqLzGs4wDKkSSeu",
         "is_local": false
       },
@@ -282483,7 +282499,7 @@
         "href": "https://api.spotify.com/v1/tracks/4XMRt4xFqLzGs4wDKkSSeu",
         "id": "4XMRt4xFqLzGs4wDKkSSeu",
         "name": "Give Me Love (Give Me Peace on Earth)",
-        "popularity": 13,
+        "popularity": 12,
         "uri": "spotify:track:4XMRt4xFqLzGs4wDKkSSeu",
         "is_local": false
       },
@@ -301407,7 +301423,7 @@
         "href": "https://api.spotify.com/v1/tracks/4DWFSrNnZXow1aB96gByho",
         "id": "4DWFSrNnZXow1aB96gByho",
         "name": "Elenore",
-        "popularity": 57,
+        "popularity": 58,
         "uri": "spotify:track:4DWFSrNnZXow1aB96gByho",
         "is_local": false
       },
@@ -301850,7 +301866,7 @@
         "href": "https://api.spotify.com/v1/tracks/4DWFSrNnZXow1aB96gByho",
         "id": "4DWFSrNnZXow1aB96gByho",
         "name": "Elenore",
-        "popularity": 57,
+        "popularity": 58,
         "uri": "spotify:track:4DWFSrNnZXow1aB96gByho",
         "is_local": false
       },
@@ -324493,7 +324509,7 @@
         "href": "https://api.spotify.com/v1/tracks/6PP44BIMWrvBvTnGvf6oJd",
         "id": "6PP44BIMWrvBvTnGvf6oJd",
         "name": "Gail Loves Me",
-        "popularity": 21,
+        "popularity": 22,
         "uri": "spotify:track:6PP44BIMWrvBvTnGvf6oJd",
         "is_local": false
       },
@@ -324960,7 +324976,7 @@
         "href": "https://api.spotify.com/v1/tracks/6PP44BIMWrvBvTnGvf6oJd",
         "id": "6PP44BIMWrvBvTnGvf6oJd",
         "name": "Gail Loves Me",
-        "popularity": 21,
+        "popularity": 22,
         "uri": "spotify:track:6PP44BIMWrvBvTnGvf6oJd",
         "is_local": false
       },
@@ -331260,7 +331276,7 @@
         "href": "https://api.spotify.com/v1/tracks/0KlJjhnfwAnPacNd7EH45J",
         "id": "0KlJjhnfwAnPacNd7EH45J",
         "name": "Always Something There to Remind Me",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:0KlJjhnfwAnPacNd7EH45J",
         "is_local": false
       },
@@ -331337,7 +331353,7 @@
         "href": "https://api.spotify.com/v1/tracks/0KlJjhnfwAnPacNd7EH45J",
         "id": "0KlJjhnfwAnPacNd7EH45J",
         "name": "Always Something There to Remind Me",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:0KlJjhnfwAnPacNd7EH45J",
         "is_local": false
       },
@@ -333247,7 +333263,7 @@
         "href": "https://api.spotify.com/v1/tracks/3Au6174rC3JSzZN5BhCl3D",
         "id": "3Au6174rC3JSzZN5BhCl3D",
         "name": "I Want To Break Free - Single Remix",
-        "popularity": 3,
+        "popularity": 2,
         "uri": "spotify:track:3Au6174rC3JSzZN5BhCl3D",
         "is_local": false
       },
@@ -333324,7 +333340,7 @@
         "href": "https://api.spotify.com/v1/tracks/3Au6174rC3JSzZN5BhCl3D",
         "id": "3Au6174rC3JSzZN5BhCl3D",
         "name": "I Want To Break Free - Single Remix",
-        "popularity": 3,
+        "popularity": 2,
         "uri": "spotify:track:3Au6174rC3JSzZN5BhCl3D",
         "is_local": false
       },
@@ -356008,7 +356024,7 @@
         "href": "https://api.spotify.com/v1/tracks/4cAgP9vxRFaKRdP4yyFbPo",
         "id": "4cAgP9vxRFaKRdP4yyFbPo",
         "name": "Merci cherie",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:4cAgP9vxRFaKRdP4yyFbPo",
         "is_local": false
       },
@@ -356267,7 +356283,7 @@
         "href": "https://api.spotify.com/v1/tracks/4cAgP9vxRFaKRdP4yyFbPo",
         "id": "4cAgP9vxRFaKRdP4yyFbPo",
         "name": "Merci cherie",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:4cAgP9vxRFaKRdP4yyFbPo",
         "is_local": false
       },
@@ -387803,7 +387819,7 @@
         "href": "https://api.spotify.com/v1/tracks/1IrrcAS7VL8gUcOF0KHBfU",
         "id": "1IrrcAS7VL8gUcOF0KHBfU",
         "name": "Stitch in Time",
-        "popularity": 35,
+        "popularity": 36,
         "uri": "spotify:track:1IrrcAS7VL8gUcOF0KHBfU",
         "is_local": false
       },
@@ -388250,7 +388266,7 @@
         "href": "https://api.spotify.com/v1/tracks/1IrrcAS7VL8gUcOF0KHBfU",
         "id": "1IrrcAS7VL8gUcOF0KHBfU",
         "name": "Stitch in Time",
-        "popularity": 35,
+        "popularity": 36,
         "uri": "spotify:track:1IrrcAS7VL8gUcOF0KHBfU",
         "is_local": false
       },
@@ -422471,7 +422487,7 @@
         "href": "https://api.spotify.com/v1/tracks/1ZF08a0A4O2G4ED5OtxgKf",
         "id": "1ZF08a0A4O2G4ED5OtxgKf",
         "name": "La La Love You",
-        "popularity": 27,
+        "popularity": 28,
         "uri": "spotify:track:1ZF08a0A4O2G4ED5OtxgKf",
         "is_local": false
       },
@@ -422918,7 +422934,7 @@
         "href": "https://api.spotify.com/v1/tracks/1ZF08a0A4O2G4ED5OtxgKf",
         "id": "1ZF08a0A4O2G4ED5OtxgKf",
         "name": "La La Love You",
-        "popularity": 27,
+        "popularity": 28,
         "uri": "spotify:track:1ZF08a0A4O2G4ED5OtxgKf",
         "is_local": false
       },
@@ -423382,7 +423398,7 @@
         "href": "https://api.spotify.com/v1/tracks/6KDG8vvFerlCU63IXdw1zb",
         "id": "6KDG8vvFerlCU63IXdw1zb",
         "name": "Suspicious Minds",
-        "popularity": 57,
+        "popularity": 58,
         "uri": "spotify:track:6KDG8vvFerlCU63IXdw1zb",
         "is_local": false
       },
@@ -423831,7 +423847,7 @@
         "href": "https://api.spotify.com/v1/tracks/6KDG8vvFerlCU63IXdw1zb",
         "id": "6KDG8vvFerlCU63IXdw1zb",
         "name": "Suspicious Minds",
-        "popularity": 57,
+        "popularity": 58,
         "uri": "spotify:track:6KDG8vvFerlCU63IXdw1zb",
         "is_local": false
       },
@@ -439035,7 +439051,7 @@
         "href": "https://api.spotify.com/v1/tracks/6hgY1l6EqrfrHRNrxwKRiK",
         "id": "6hgY1l6EqrfrHRNrxwKRiK",
         "name": "Love Hurts - 2007 Remaster",
-        "popularity": 54,
+        "popularity": 53,
         "uri": "spotify:track:6hgY1l6EqrfrHRNrxwKRiK",
         "is_local": false
       },
@@ -439460,7 +439476,7 @@
         "href": "https://api.spotify.com/v1/tracks/6hgY1l6EqrfrHRNrxwKRiK",
         "id": "6hgY1l6EqrfrHRNrxwKRiK",
         "name": "Love Hurts - 2007 Remaster",
-        "popularity": 54,
+        "popularity": 53,
         "uri": "spotify:track:6hgY1l6EqrfrHRNrxwKRiK",
         "is_local": false
       },
@@ -517104,7 +517120,7 @@
         "href": "https://api.spotify.com/v1/tracks/0qRR9d89hIS0MHRkQ0ejxX",
         "id": "0qRR9d89hIS0MHRkQ0ejxX",
         "name": "Rich Girl",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:0qRR9d89hIS0MHRkQ0ejxX",
         "is_local": false
       },
@@ -517551,7 +517567,7 @@
         "href": "https://api.spotify.com/v1/tracks/0qRR9d89hIS0MHRkQ0ejxX",
         "id": "0qRR9d89hIS0MHRkQ0ejxX",
         "name": "Rich Girl",
-        "popularity": 81,
+        "popularity": 82,
         "uri": "spotify:track:0qRR9d89hIS0MHRkQ0ejxX",
         "is_local": false
       },
@@ -576125,7 +576141,7 @@
         "href": "https://api.spotify.com/v1/tracks/6GvZwXT7ZxWxM7PqG4gD6k",
         "id": "6GvZwXT7ZxWxM7PqG4gD6k",
         "name": "There Is Something in My Heart",
-        "popularity": 23,
+        "popularity": 24,
         "uri": "spotify:track:6GvZwXT7ZxWxM7PqG4gD6k",
         "is_local": false
       },
@@ -576574,7 +576590,7 @@
         "href": "https://api.spotify.com/v1/tracks/6GvZwXT7ZxWxM7PqG4gD6k",
         "id": "6GvZwXT7ZxWxM7PqG4gD6k",
         "name": "There Is Something in My Heart",
-        "popularity": 23,
+        "popularity": 24,
         "uri": "spotify:track:6GvZwXT7ZxWxM7PqG4gD6k",
         "is_local": false
       },
@@ -581567,7 +581583,7 @@
         "href": "https://api.spotify.com/v1/tracks/5zpg54FaDA8YuXGOBsW5JM",
         "id": "5zpg54FaDA8YuXGOBsW5JM",
         "name": "There's Always Something There to Remind Me",
-        "popularity": 25,
+        "popularity": 26,
         "uri": "spotify:track:5zpg54FaDA8YuXGOBsW5JM",
         "is_local": false
       },
@@ -581988,7 +582004,7 @@
         "href": "https://api.spotify.com/v1/tracks/5zpg54FaDA8YuXGOBsW5JM",
         "id": "5zpg54FaDA8YuXGOBsW5JM",
         "name": "There's Always Something There to Remind Me",
-        "popularity": 25,
+        "popularity": 26,
         "uri": "spotify:track:5zpg54FaDA8YuXGOBsW5JM",
         "is_local": false
       },
@@ -584272,7 +584288,7 @@
         "href": "https://api.spotify.com/v1/tracks/0lHZqyRXGbuXGF7Ba4aH4M",
         "id": "0lHZqyRXGbuXGF7Ba4aH4M",
         "name": "I Saw the Light - 2015 Remaster",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:0lHZqyRXGbuXGF7Ba4aH4M",
         "is_local": false
       },
@@ -584719,7 +584735,7 @@
         "href": "https://api.spotify.com/v1/tracks/0lHZqyRXGbuXGF7Ba4aH4M",
         "id": "0lHZqyRXGbuXGF7Ba4aH4M",
         "name": "I Saw the Light - 2015 Remaster",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:0lHZqyRXGbuXGF7Ba4aH4M",
         "is_local": false
       },
