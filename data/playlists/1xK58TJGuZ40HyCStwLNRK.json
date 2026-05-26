@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 5309 },
+  "followers": { "href": null, "total": 5308 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -170098,7 +170098,7 @@
         "href": "https://api.spotify.com/v1/tracks/5S5u0EWtlblH00iTNExZ6X",
         "id": "5S5u0EWtlblH00iTNExZ6X",
         "name": "I Think I Like When It Rains",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:5S5u0EWtlblH00iTNExZ6X",
         "is_local": false
       },
@@ -170175,7 +170175,7 @@
         "href": "https://api.spotify.com/v1/tracks/5S5u0EWtlblH00iTNExZ6X",
         "id": "5S5u0EWtlblH00iTNExZ6X",
         "name": "I Think I Like When It Rains",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:5S5u0EWtlblH00iTNExZ6X",
         "is_local": false
       },
@@ -190603,7 +190603,7 @@
         "href": "https://api.spotify.com/v1/tracks/4sNG6zQBmtq7M8aeeKJRMQ",
         "id": "4sNG6zQBmtq7M8aeeKJRMQ",
         "name": "Brazil",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:4sNG6zQBmtq7M8aeeKJRMQ",
         "is_local": false
       },
@@ -191044,7 +191044,7 @@
         "href": "https://api.spotify.com/v1/tracks/4sNG6zQBmtq7M8aeeKJRMQ",
         "id": "4sNG6zQBmtq7M8aeeKJRMQ",
         "name": "Brazil",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:4sNG6zQBmtq7M8aeeKJRMQ",
         "is_local": false
       },
@@ -194221,7 +194221,7 @@
         "href": "https://api.spotify.com/v1/tracks/0pUVeEgZuNyFzIMKp67RbS",
         "id": "0pUVeEgZuNyFzIMKp67RbS",
         "name": "Eyes Without A Face",
-        "popularity": 86,
+        "popularity": 87,
         "uri": "spotify:track:0pUVeEgZuNyFzIMKp67RbS",
         "is_local": false
       },
@@ -194668,7 +194668,7 @@
         "href": "https://api.spotify.com/v1/tracks/0pUVeEgZuNyFzIMKp67RbS",
         "id": "0pUVeEgZuNyFzIMKp67RbS",
         "name": "Eyes Without A Face",
-        "popularity": 86,
+        "popularity": 87,
         "uri": "spotify:track:0pUVeEgZuNyFzIMKp67RbS",
         "is_local": false
       },
@@ -200590,7 +200590,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Az8KU81g2aLBbJN67F2CI",
         "id": "5Az8KU81g2aLBbJN67F2CI",
         "name": "Mind Over Matter",
-        "popularity": 74,
+        "popularity": 75,
         "uri": "spotify:track:5Az8KU81g2aLBbJN67F2CI",
         "is_local": false
       },
@@ -201039,7 +201039,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Az8KU81g2aLBbJN67F2CI",
         "id": "5Az8KU81g2aLBbJN67F2CI",
         "name": "Mind Over Matter",
-        "popularity": 74,
+        "popularity": 75,
         "uri": "spotify:track:5Az8KU81g2aLBbJN67F2CI",
         "is_local": false
       },
@@ -222995,7 +222995,7 @@
         "href": "https://api.spotify.com/v1/tracks/6UFivO2zqqPFPoQYsEMuCc",
         "id": "6UFivO2zqqPFPoQYsEMuCc",
         "name": "Bags",
-        "popularity": 14,
+        "popularity": 13,
         "uri": "spotify:track:6UFivO2zqqPFPoQYsEMuCc",
         "is_local": false
       },
@@ -223072,7 +223072,7 @@
         "href": "https://api.spotify.com/v1/tracks/6UFivO2zqqPFPoQYsEMuCc",
         "id": "6UFivO2zqqPFPoQYsEMuCc",
         "name": "Bags",
-        "popularity": 14,
+        "popularity": 13,
         "uri": "spotify:track:6UFivO2zqqPFPoQYsEMuCc",
         "is_local": false
       },
@@ -228957,7 +228957,7 @@
         "href": "https://api.spotify.com/v1/tracks/3NCQO8ath5huTDMXXtibH6",
         "id": "3NCQO8ath5huTDMXXtibH6",
         "name": "Motion Picture Soundtrack",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3NCQO8ath5huTDMXXtibH6",
         "is_local": false
       },
@@ -229034,7 +229034,7 @@
         "href": "https://api.spotify.com/v1/tracks/3NCQO8ath5huTDMXXtibH6",
         "id": "3NCQO8ath5huTDMXXtibH6",
         "name": "Motion Picture Soundtrack",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:3NCQO8ath5huTDMXXtibH6",
         "is_local": false
       },
