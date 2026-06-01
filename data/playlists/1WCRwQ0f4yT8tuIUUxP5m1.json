@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1WCRwQ0f4yT8tuIUUxP5m1"
   },
-  "followers": { "href": null, "total": 460578 },
+  "followers": { "href": null, "total": 460576 },
   "href": "https://api.spotify.com/v1/playlists/1WCRwQ0f4yT8tuIUUxP5m1?locale=*",
   "id": "1WCRwQ0f4yT8tuIUUxP5m1",
   "images": [
@@ -19608,7 +19608,7 @@
           "href": "https://api.spotify.com/v1/tracks/4bDIAWaOBGAAk95nyXI6zJ",
           "id": "4bDIAWaOBGAAk95nyXI6zJ",
           "name": "Routines In The Night",
-          "popularity": 75,
+          "popularity": 76,
           "uri": "spotify:track:4bDIAWaOBGAAk95nyXI6zJ",
           "is_local": false
         },
@@ -20055,7 +20055,7 @@
           "href": "https://api.spotify.com/v1/tracks/4bDIAWaOBGAAk95nyXI6zJ",
           "id": "4bDIAWaOBGAAk95nyXI6zJ",
           "name": "Routines In The Night",
-          "popularity": 75,
+          "popularity": 76,
           "uri": "spotify:track:4bDIAWaOBGAAk95nyXI6zJ",
           "is_local": false
         },
@@ -68868,7 +68868,7 @@
           "href": "https://api.spotify.com/v1/tracks/2hUFjIbpKaRqs97OjUAmXb",
           "id": "2hUFjIbpKaRqs97OjUAmXb",
           "name": "Johnny Boy",
-          "popularity": 1,
+          "popularity": 0,
           "uri": "spotify:track:2hUFjIbpKaRqs97OjUAmXb",
           "is_local": false
         },
@@ -68945,7 +68945,7 @@
           "href": "https://api.spotify.com/v1/tracks/2hUFjIbpKaRqs97OjUAmXb",
           "id": "2hUFjIbpKaRqs97OjUAmXb",
           "name": "Johnny Boy",
-          "popularity": 1,
+          "popularity": 0,
           "uri": "spotify:track:2hUFjIbpKaRqs97OjUAmXb",
           "is_local": false
         },
@@ -90525,7 +90525,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bDIAWaOBGAAk95nyXI6zJ",
         "id": "4bDIAWaOBGAAk95nyXI6zJ",
         "name": "Routines In The Night",
-        "popularity": 75,
+        "popularity": 76,
         "uri": "spotify:track:4bDIAWaOBGAAk95nyXI6zJ",
         "is_local": false
       },
@@ -90972,7 +90972,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bDIAWaOBGAAk95nyXI6zJ",
         "id": "4bDIAWaOBGAAk95nyXI6zJ",
         "name": "Routines In The Night",
-        "popularity": 75,
+        "popularity": 76,
         "uri": "spotify:track:4bDIAWaOBGAAk95nyXI6zJ",
         "is_local": false
       },
@@ -139785,7 +139785,7 @@
         "href": "https://api.spotify.com/v1/tracks/2hUFjIbpKaRqs97OjUAmXb",
         "id": "2hUFjIbpKaRqs97OjUAmXb",
         "name": "Johnny Boy",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:2hUFjIbpKaRqs97OjUAmXb",
         "is_local": false
       },
@@ -139862,7 +139862,7 @@
         "href": "https://api.spotify.com/v1/tracks/2hUFjIbpKaRqs97OjUAmXb",
         "id": "2hUFjIbpKaRqs97OjUAmXb",
         "name": "Johnny Boy",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:2hUFjIbpKaRqs97OjUAmXb",
         "is_local": false
       },
