@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 120,
+  "total_episodes": 121,
   "episodes": [
+    {
+      "audio_preview_url": null,
+      "description": "The math behind Google Maps is a 20 minute algorithm written by Edsger W. Dijkstra on the back of a napkin. We simulated Dijkstra's algorithm to find out how Google Maps finds the best route between any two points in the world, almost instantly!  ",
+      "duration_ms": 1689813,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/0qVKT2tW95GjoviF2DbVeC"
+      },
+      "href": "https://api.spotify.com/v1/episodes/0qVKT2tW95GjoviF2DbVeC",
+      "html_description": "<p>The math behind Google Maps is a 20 minute algorithm written by Edsger W. Dijkstra on the back of a napkin. </p><p><br /></p><p>We simulated Dijkstra&#39;s algorithm to find out how Google Maps finds the best route between any two points in the world, almost instantly!  </p>",
+      "id": "0qVKT2tW95GjoviF2DbVeC",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad5491c4637a2515bfbab86e6",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd5491c4637a2515bfbab86e6",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd5491c4637a2515bfbab86e6",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "How Does Google Maps Actually Work?",
+      "release_date": "2026-06-03",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:0qVKT2tW95GjoviF2DbVeC"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/67db49ce5b4ac984792140fa3a152ea7cf7c43cd.mp3",
       "description": "Did the CIA really save an airman by monitoring his heartbeat from 60km away?This is a look into the CIA's rumoured 'Ghost Murmur' technology and the plausibility of their claims.",
