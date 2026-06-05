@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/5t3CWKpVW9wo6HO7A4lBWU"
   },
-  "followers": { "href": null, "total": 24577 },
+  "followers": { "href": null, "total": 24589 },
   "href": "https://api.spotify.com/v1/playlists/5t3CWKpVW9wo6HO7A4lBWU?locale=*",
   "id": "5t3CWKpVW9wo6HO7A4lBWU",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72ca2c774f7992a14acae7f8aca",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84a2c774f7992a14acae7f8aca",
       "width": null
     }
   ],
@@ -2844,7 +2844,7 @@
           "href": "https://api.spotify.com/v1/tracks/4JGKZS7h4Qa16gOU3oNETV",
           "id": "4JGKZS7h4Qa16gOU3oNETV",
           "name": "Dreams",
-          "popularity": 83,
+          "popularity": 82,
           "uri": "spotify:track:4JGKZS7h4Qa16gOU3oNETV",
           "is_local": false
         },
@@ -2921,7 +2921,7 @@
           "href": "https://api.spotify.com/v1/tracks/4JGKZS7h4Qa16gOU3oNETV",
           "id": "4JGKZS7h4Qa16gOU3oNETV",
           "name": "Dreams",
-          "popularity": 83,
+          "popularity": 82,
           "uri": "spotify:track:4JGKZS7h4Qa16gOU3oNETV",
           "is_local": false
         },
@@ -6828,7 +6828,7 @@
         "href": "https://api.spotify.com/v1/tracks/4JGKZS7h4Qa16gOU3oNETV",
         "id": "4JGKZS7h4Qa16gOU3oNETV",
         "name": "Dreams",
-        "popularity": 83,
+        "popularity": 82,
         "uri": "spotify:track:4JGKZS7h4Qa16gOU3oNETV",
         "is_local": false
       },
@@ -6905,7 +6905,7 @@
         "href": "https://api.spotify.com/v1/tracks/4JGKZS7h4Qa16gOU3oNETV",
         "id": "4JGKZS7h4Qa16gOU3oNETV",
         "name": "Dreams",
-        "popularity": 83,
+        "popularity": 82,
         "uri": "spotify:track:4JGKZS7h4Qa16gOU3oNETV",
         "is_local": false
       },

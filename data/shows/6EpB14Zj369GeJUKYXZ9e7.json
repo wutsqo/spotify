@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 121,
+  "total_episodes": 122,
   "episodes": [
+    {
+      "audio_preview_url": null,
+      "description": "Something is disrupting GPS signals across Europe. After noticing this disruption two scientists, Professor Todd Humphreys and Dr Zach Clements at the University of Texas at Austin, went on a hunt to find the source of this jamming.This is the story of how they tracked it down. If you want to read their full paper (out today!) click the link below! Clements, Z. L., Kriezis, A., & Humphreys, T. E. (2026). Chasing Lightning: Detecting, Characterizing, and Identifying a Powerful Space-Based GNSS Interference - https://ve42.co/GNSSInterference ",
+      "duration_ms": 1936192,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2a0jFLtLqL3r76uQ8L4aLS"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2a0jFLtLqL3r76uQ8L4aLS",
+      "html_description": "<p>Something is disrupting GPS signals across Europe. </p><p><br /></p><p>After noticing this disruption two scientists, Professor Todd Humphreys and Dr Zach Clements at the University of Texas at Austin, went on a hunt to find the source of this jamming.</p><p><br /></p><p>This is the story of how they tracked it down. If you want to read their full paper (out today!) click the link below! </p><p><br /></p><p>Clements, Z. L., Kriezis, A., &amp; Humphreys, T. E. (2026). Chasing Lightning: Detecting, Characterizing, and Identifying a Powerful Space-Based GNSS Interference - https://ve42.co/GNSSInterference </p>",
+      "id": "2a0jFLtLqL3r76uQ8L4aLS",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a9672b2c88e1b1710d48d50bf",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f9672b2c88e1b1710d48d50bf",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d9672b2c88e1b1710d48d50bf",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "What Is Disrupting GPS Over The Whole Of Europe?",
+      "release_date": "2026-06-05",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2a0jFLtLqL3r76uQ8L4aLS"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/eec9bbe6bdf5aaba700b26e3822120e236ca01f3.mp3",
       "description": "The math behind Google Maps is a 20 minute algorithm written by Edsger W. Dijkstra on the back of a napkin. We simulated Dijkstra's algorithm to find out how Google Maps finds the best route between any two points in the world, almost instantly!  ",
