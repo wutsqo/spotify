@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4lHf1Zh4sB3fE7QOTIqtAV"
   },
-  "followers": { "href": null, "total": 32720 },
+  "followers": { "href": null, "total": 32716 },
   "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV?locale=*",
   "id": "4lHf1Zh4sB3fE7QOTIqtAV",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f7851a6d18af96141bc1d481",
+      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f7851a6d18af96141bc1d481",
       "width": null
     }
   ],
@@ -2617,7 +2617,7 @@
           "href": "https://api.spotify.com/v1/tracks/1fDFHXcykq4iw8Gg7s5hG9",
           "id": "1fDFHXcykq4iw8Gg7s5hG9",
           "name": "About You",
-          "popularity": 20,
+          "popularity": 19,
           "uri": "spotify:track:1fDFHXcykq4iw8Gg7s5hG9",
           "is_local": false
         },
@@ -2694,7 +2694,7 @@
           "href": "https://api.spotify.com/v1/tracks/1fDFHXcykq4iw8Gg7s5hG9",
           "id": "1fDFHXcykq4iw8Gg7s5hG9",
           "name": "About You",
-          "popularity": 20,
+          "popularity": 19,
           "uri": "spotify:track:1fDFHXcykq4iw8Gg7s5hG9",
           "is_local": false
         },
@@ -6392,7 +6392,7 @@
           "href": "https://api.spotify.com/v1/tracks/194N1UOBRaNB4wfVPJFVom",
           "id": "194N1UOBRaNB4wfVPJFVom",
           "name": "Just Like That",
-          "popularity": 37,
+          "popularity": 36,
           "uri": "spotify:track:194N1UOBRaNB4wfVPJFVom",
           "is_local": false
         },
@@ -6841,7 +6841,7 @@
           "href": "https://api.spotify.com/v1/tracks/194N1UOBRaNB4wfVPJFVom",
           "id": "194N1UOBRaNB4wfVPJFVom",
           "name": "Just Like That",
-          "popularity": 37,
+          "popularity": 36,
           "uri": "spotify:track:194N1UOBRaNB4wfVPJFVom",
           "is_local": false
         },
@@ -24448,7 +24448,7 @@
           "href": "https://api.spotify.com/v1/tracks/5kUTZ0C29rBzm3dpv3koJc",
           "id": "5kUTZ0C29rBzm3dpv3koJc",
           "name": "Hold On",
-          "popularity": 7,
+          "popularity": 6,
           "uri": "spotify:track:5kUTZ0C29rBzm3dpv3koJc",
           "is_local": false
         },
@@ -24897,7 +24897,7 @@
           "href": "https://api.spotify.com/v1/tracks/5kUTZ0C29rBzm3dpv3koJc",
           "id": "5kUTZ0C29rBzm3dpv3koJc",
           "name": "Hold On",
-          "popularity": 7,
+          "popularity": 6,
           "uri": "spotify:track:5kUTZ0C29rBzm3dpv3koJc",
           "is_local": false
         },
@@ -27098,6 +27098,7 @@
             "CZ",
             "DK",
             "DO",
+            "DE",
             "EC",
             "EE",
             "SV",
@@ -27288,6 +27289,7 @@
               "CZ",
               "DK",
               "DO",
+              "DE",
               "EC",
               "EE",
               "SV",
@@ -27543,6 +27545,7 @@
             "CZ",
             "DK",
             "DO",
+            "DE",
             "EC",
             "EE",
             "SV",
@@ -27733,6 +27736,7 @@
               "CZ",
               "DK",
               "DO",
+              "DE",
               "EC",
               "EE",
               "SV",
@@ -77147,7 +77151,7 @@
         "href": "https://api.spotify.com/v1/tracks/1fDFHXcykq4iw8Gg7s5hG9",
         "id": "1fDFHXcykq4iw8Gg7s5hG9",
         "name": "About You",
-        "popularity": 20,
+        "popularity": 19,
         "uri": "spotify:track:1fDFHXcykq4iw8Gg7s5hG9",
         "is_local": false
       },
@@ -77224,7 +77228,7 @@
         "href": "https://api.spotify.com/v1/tracks/1fDFHXcykq4iw8Gg7s5hG9",
         "id": "1fDFHXcykq4iw8Gg7s5hG9",
         "name": "About You",
-        "popularity": 20,
+        "popularity": 19,
         "uri": "spotify:track:1fDFHXcykq4iw8Gg7s5hG9",
         "is_local": false
       },
@@ -80922,7 +80926,7 @@
         "href": "https://api.spotify.com/v1/tracks/194N1UOBRaNB4wfVPJFVom",
         "id": "194N1UOBRaNB4wfVPJFVom",
         "name": "Just Like That",
-        "popularity": 37,
+        "popularity": 36,
         "uri": "spotify:track:194N1UOBRaNB4wfVPJFVom",
         "is_local": false
       },
@@ -81371,7 +81375,7 @@
         "href": "https://api.spotify.com/v1/tracks/194N1UOBRaNB4wfVPJFVom",
         "id": "194N1UOBRaNB4wfVPJFVom",
         "name": "Just Like That",
-        "popularity": 37,
+        "popularity": 36,
         "uri": "spotify:track:194N1UOBRaNB4wfVPJFVom",
         "is_local": false
       },
@@ -98978,7 +98982,7 @@
         "href": "https://api.spotify.com/v1/tracks/5kUTZ0C29rBzm3dpv3koJc",
         "id": "5kUTZ0C29rBzm3dpv3koJc",
         "name": "Hold On",
-        "popularity": 7,
+        "popularity": 6,
         "uri": "spotify:track:5kUTZ0C29rBzm3dpv3koJc",
         "is_local": false
       },
@@ -99427,7 +99431,7 @@
         "href": "https://api.spotify.com/v1/tracks/5kUTZ0C29rBzm3dpv3koJc",
         "id": "5kUTZ0C29rBzm3dpv3koJc",
         "name": "Hold On",
-        "popularity": 7,
+        "popularity": 6,
         "uri": "spotify:track:5kUTZ0C29rBzm3dpv3koJc",
         "is_local": false
       },
@@ -101628,6 +101632,7 @@
           "CZ",
           "DK",
           "DO",
+          "DE",
           "EC",
           "EE",
           "SV",
@@ -101818,6 +101823,7 @@
             "CZ",
             "DK",
             "DO",
+            "DE",
             "EC",
             "EE",
             "SV",
@@ -102073,6 +102079,7 @@
           "CZ",
           "DK",
           "DO",
+          "DE",
           "EC",
           "EE",
           "SV",
@@ -102263,6 +102270,7 @@
             "CZ",
             "DK",
             "DO",
+            "DE",
             "EC",
             "EE",
             "SV",
@@ -159750,7 +159758,7 @@
         "href": "https://api.spotify.com/v1/tracks/44aTAUBF0g6sMkMNE8I5kd",
         "id": "44aTAUBF0g6sMkMNE8I5kd",
         "name": "Every Little Thing She Does Is Magic",
-        "popularity": 78,
+        "popularity": 79,
         "uri": "spotify:track:44aTAUBF0g6sMkMNE8I5kd",
         "is_local": false
       },
@@ -160187,7 +160195,7 @@
         "href": "https://api.spotify.com/v1/tracks/44aTAUBF0g6sMkMNE8I5kd",
         "id": "44aTAUBF0g6sMkMNE8I5kd",
         "name": "Every Little Thing She Does Is Magic",
-        "popularity": 78,
+        "popularity": 79,
         "uri": "spotify:track:44aTAUBF0g6sMkMNE8I5kd",
         "is_local": false
       },
@@ -161564,7 +161572,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Ei9o2fHEnfHb84YrPuz4v",
         "id": "5Ei9o2fHEnfHb84YrPuz4v",
         "name": "China Girl - 2018 Remaster",
-        "popularity": 66,
+        "popularity": 67,
         "uri": "spotify:track:5Ei9o2fHEnfHb84YrPuz4v",
         "is_local": false
       },
@@ -162013,7 +162021,7 @@
         "href": "https://api.spotify.com/v1/tracks/5Ei9o2fHEnfHb84YrPuz4v",
         "id": "5Ei9o2fHEnfHb84YrPuz4v",
         "name": "China Girl - 2018 Remaster",
-        "popularity": 66,
+        "popularity": 67,
         "uri": "spotify:track:5Ei9o2fHEnfHb84YrPuz4v",
         "is_local": false
       },
@@ -181821,7 +181829,7 @@
         "href": "https://api.spotify.com/v1/tracks/1xaTREM89RbIxkcjlpf4Uw",
         "id": "1xaTREM89RbIxkcjlpf4Uw",
         "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:1xaTREM89RbIxkcjlpf4Uw",
         "is_local": false
       },
@@ -182270,7 +182278,7 @@
         "href": "https://api.spotify.com/v1/tracks/1xaTREM89RbIxkcjlpf4Uw",
         "id": "1xaTREM89RbIxkcjlpf4Uw",
         "name": "Heaven Knows I'm Miserable Now - 2011 Remaster",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:1xaTREM89RbIxkcjlpf4Uw",
         "is_local": false
       },
@@ -188102,7 +188110,7 @@
         "href": "https://api.spotify.com/v1/tracks/0SzvmWfOhoxZVGrmvb56YL",
         "id": "0SzvmWfOhoxZVGrmvb56YL",
         "name": "Baby I'm Yours",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:0SzvmWfOhoxZVGrmvb56YL",
         "is_local": false
       },
@@ -188549,7 +188557,7 @@
         "href": "https://api.spotify.com/v1/tracks/0SzvmWfOhoxZVGrmvb56YL",
         "id": "0SzvmWfOhoxZVGrmvb56YL",
         "name": "Baby I'm Yours",
-        "popularity": 69,
+        "popularity": 70,
         "uri": "spotify:track:0SzvmWfOhoxZVGrmvb56YL",
         "is_local": false
       },
@@ -209625,7 +209633,7 @@
         "href": "https://api.spotify.com/v1/tracks/23l1kVpqMVREiwU1YAlcr4",
         "id": "23l1kVpqMVREiwU1YAlcr4",
         "name": "I Guess That's Why They Call It The Blues",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:23l1kVpqMVREiwU1YAlcr4",
         "is_local": false
       },
@@ -210072,7 +210080,7 @@
         "href": "https://api.spotify.com/v1/tracks/23l1kVpqMVREiwU1YAlcr4",
         "id": "23l1kVpqMVREiwU1YAlcr4",
         "name": "I Guess That's Why They Call It The Blues",
-        "popularity": 72,
+        "popularity": 73,
         "uri": "spotify:track:23l1kVpqMVREiwU1YAlcr4",
         "is_local": false
       },
@@ -227482,7 +227490,7 @@
         "href": "https://api.spotify.com/v1/tracks/6LUGvXEAK8WxIBYK43uoTb",
         "id": "6LUGvXEAK8WxIBYK43uoTb",
         "name": "Back to the Old House - 2011 Remaster",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:6LUGvXEAK8WxIBYK43uoTb",
         "is_local": false
       },
@@ -227931,7 +227939,7 @@
         "href": "https://api.spotify.com/v1/tracks/6LUGvXEAK8WxIBYK43uoTb",
         "id": "6LUGvXEAK8WxIBYK43uoTb",
         "name": "Back to the Old House - 2011 Remaster",
-        "popularity": 83,
+        "popularity": 84,
         "uri": "spotify:track:6LUGvXEAK8WxIBYK43uoTb",
         "is_local": false
       },
@@ -239490,7 +239498,7 @@
         "href": "https://api.spotify.com/v1/tracks/05oETzWbd4SI33qK2gbJfR",
         "id": "05oETzWbd4SI33qK2gbJfR",
         "name": "Rhiannon",
-        "popularity": 81,
+        "popularity": 80,
         "uri": "spotify:track:05oETzWbd4SI33qK2gbJfR",
         "is_local": false
       },
@@ -239937,7 +239945,7 @@
         "href": "https://api.spotify.com/v1/tracks/05oETzWbd4SI33qK2gbJfR",
         "id": "05oETzWbd4SI33qK2gbJfR",
         "name": "Rhiannon",
-        "popularity": 81,
+        "popularity": 80,
         "uri": "spotify:track:05oETzWbd4SI33qK2gbJfR",
         "is_local": false
       },
@@ -245083,7 +245091,7 @@
         "href": "https://api.spotify.com/v1/tracks/4Tp4gRuDo1sIMP6gH9LwuH",
         "id": "4Tp4gRuDo1sIMP6gH9LwuH",
         "name": "Wiped Out!",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:4Tp4gRuDo1sIMP6gH9LwuH",
         "is_local": false
       },
@@ -245532,7 +245540,7 @@
         "href": "https://api.spotify.com/v1/tracks/4Tp4gRuDo1sIMP6gH9LwuH",
         "id": "4Tp4gRuDo1sIMP6gH9LwuH",
         "name": "Wiped Out!",
-        "popularity": 60,
+        "popularity": 61,
         "uri": "spotify:track:4Tp4gRuDo1sIMP6gH9LwuH",
         "is_local": false
       },
@@ -313380,7 +313388,7 @@
         "href": "https://api.spotify.com/v1/tracks/3PzsbWSQdLCKDLxn7YZfkM",
         "id": "3PzsbWSQdLCKDLxn7YZfkM",
         "name": "I'm On Fire",
-        "popularity": 84,
+        "popularity": 85,
         "uri": "spotify:track:3PzsbWSQdLCKDLxn7YZfkM",
         "is_local": false
       },
@@ -313829,7 +313837,7 @@
         "href": "https://api.spotify.com/v1/tracks/3PzsbWSQdLCKDLxn7YZfkM",
         "id": "3PzsbWSQdLCKDLxn7YZfkM",
         "name": "I'm On Fire",
-        "popularity": 84,
+        "popularity": 85,
         "uri": "spotify:track:3PzsbWSQdLCKDLxn7YZfkM",
         "is_local": false
       },
@@ -335122,7 +335130,7 @@
         "href": "https://api.spotify.com/v1/tracks/4qjLvvBh5ZeKEPyShKRf06",
         "id": "4qjLvvBh5ZeKEPyShKRf06",
         "name": "Narcissist (feat. The 1975)",
-        "popularity": 62,
+        "popularity": 63,
         "uri": "spotify:track:4qjLvvBh5ZeKEPyShKRf06",
         "is_local": false
       },
@@ -335581,7 +335589,7 @@
         "href": "https://api.spotify.com/v1/tracks/4qjLvvBh5ZeKEPyShKRf06",
         "id": "4qjLvvBh5ZeKEPyShKRf06",
         "name": "Narcissist (feat. The 1975)",
-        "popularity": 62,
+        "popularity": 63,
         "uri": "spotify:track:4qjLvvBh5ZeKEPyShKRf06",
         "is_local": false
       },
@@ -336206,7 +336214,7 @@
         "href": "https://api.spotify.com/v1/tracks/5QwSCAHexrkWpIGZJ3ilrV",
         "id": "5QwSCAHexrkWpIGZJ3ilrV",
         "name": "Medicine - Live From The O2, London. 16.12.16",
-        "popularity": 26,
+        "popularity": 25,
         "uri": "spotify:track:5QwSCAHexrkWpIGZJ3ilrV",
         "is_local": false
       },
@@ -336647,7 +336655,7 @@
         "href": "https://api.spotify.com/v1/tracks/5QwSCAHexrkWpIGZJ3ilrV",
         "id": "5QwSCAHexrkWpIGZJ3ilrV",
         "name": "Medicine - Live From The O2, London. 16.12.16",
-        "popularity": 26,
+        "popularity": 25,
         "uri": "spotify:track:5QwSCAHexrkWpIGZJ3ilrV",
         "is_local": false
       },
@@ -352492,7 +352500,7 @@
         "href": "https://api.spotify.com/v1/tracks/7KHNOy6E37Xg3WOzrRuWD2",
         "id": "7KHNOy6E37Xg3WOzrRuWD2",
         "name": "Context",
-        "popularity": 2,
+        "popularity": 3,
         "uri": "spotify:track:7KHNOy6E37Xg3WOzrRuWD2",
         "is_local": false
       },
@@ -352941,7 +352949,7 @@
         "href": "https://api.spotify.com/v1/tracks/7KHNOy6E37Xg3WOzrRuWD2",
         "id": "7KHNOy6E37Xg3WOzrRuWD2",
         "name": "Context",
-        "popularity": 2,
+        "popularity": 3,
         "uri": "spotify:track:7KHNOy6E37Xg3WOzrRuWD2",
         "is_local": false
       },
