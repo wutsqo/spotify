@@ -10,17 +10,17 @@
   "images": [
     {
       "height": 640,
-      "url": "https://mosaic.scdn.co/640/ab67616d00001e026a605c9d974d3461b1741948ab67616d00001e02810789d9556c3043d20c2bcdab67616d00001e02dc252547af66fa6a5e3ed781ab67616d00001e02dc35f5b5b51d56f5d88ed6b9",
+      "url": "https://mosaic.scdn.co/640/ab67616d00001e026a605c9d974d3461b1741948ab67616d00001e02aa95a399fd30fbb4f6f59fcaab67616d00001e02dc252547af66fa6a5e3ed781ab67616d00001e02dc35f5b5b51d56f5d88ed6b9",
       "width": 640
     },
     {
       "height": 300,
-      "url": "https://mosaic.scdn.co/300/ab67616d00001e026a605c9d974d3461b1741948ab67616d00001e02810789d9556c3043d20c2bcdab67616d00001e02dc252547af66fa6a5e3ed781ab67616d00001e02dc35f5b5b51d56f5d88ed6b9",
+      "url": "https://mosaic.scdn.co/300/ab67616d00001e026a605c9d974d3461b1741948ab67616d00001e02aa95a399fd30fbb4f6f59fcaab67616d00001e02dc252547af66fa6a5e3ed781ab67616d00001e02dc35f5b5b51d56f5d88ed6b9",
       "width": 300
     },
     {
       "height": 60,
-      "url": "https://mosaic.scdn.co/60/ab67616d00001e026a605c9d974d3461b1741948ab67616d00001e02810789d9556c3043d20c2bcdab67616d00001e02dc252547af66fa6a5e3ed781ab67616d00001e02dc35f5b5b51d56f5d88ed6b9",
+      "url": "https://mosaic.scdn.co/60/ab67616d00001e026a605c9d974d3461b1741948ab67616d00001e02aa95a399fd30fbb4f6f59fcaab67616d00001e02dc252547af66fa6a5e3ed781ab67616d00001e02dc35f5b5b51d56f5d88ed6b9",
       "width": 60
     }
   ],
@@ -118,35 +118,25 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
               },
-              "href": "https://api.spotify.com/v1/artists/3DGlTwdM5Dim9XQipb3jMf",
-              "id": "3DGlTwdM5Dim9XQipb3jMf",
-              "name": "Jordan Ward",
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "",
               "type": "artist",
-              "uri": "spotify:artist:3DGlTwdM5Dim9XQipb3jMf"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-              },
-              "href": "https://api.spotify.com/v1/artists/5YHM0i7v5TqqibZhS0YiuX",
-              "id": "5YHM0i7v5TqqibZhS0YiuX",
-              "name": "Ryan Trey",
-              "type": "artist",
-              "uri": "spotify:artist:5YHM0i7v5TqqibZhS0YiuX"
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
             }
           ],
           "disc_number": 1,
           "track_number": 1,
-          "duration_ms": 147773,
-          "external_ids": { "isrc": "USUM72219469" },
+          "duration_ms": 0,
+          "external_ids": {},
           "external_urls": {
             "spotify": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
           },
           "href": "https://api.spotify.com/v1/tracks/45uwA5e851qa3xWqKGYxGC",
           "id": "45uwA5e851qa3xWqKGYxGC",
-          "name": "WHITE CROCS (with Ryan Trey)",
+          "name": "",
           "popularity": 0,
           "uri": "spotify:track:45uwA5e851qa3xWqKGYxGC",
           "is_local": false
@@ -215,35 +205,25 @@
           "artists": [
             {
               "external_urls": {
-                "spotify": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+                "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
               },
-              "href": "https://api.spotify.com/v1/artists/3DGlTwdM5Dim9XQipb3jMf",
-              "id": "3DGlTwdM5Dim9XQipb3jMf",
-              "name": "Jordan Ward",
+              "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+              "id": "0LyfQWJT6nXafLPZqxe9Of",
+              "name": "",
               "type": "artist",
-              "uri": "spotify:artist:3DGlTwdM5Dim9XQipb3jMf"
-            },
-            {
-              "external_urls": {
-                "spotify": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-              },
-              "href": "https://api.spotify.com/v1/artists/5YHM0i7v5TqqibZhS0YiuX",
-              "id": "5YHM0i7v5TqqibZhS0YiuX",
-              "name": "Ryan Trey",
-              "type": "artist",
-              "uri": "spotify:artist:5YHM0i7v5TqqibZhS0YiuX"
+              "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
             }
           ],
           "disc_number": 1,
           "track_number": 1,
-          "duration_ms": 147773,
-          "external_ids": { "isrc": "USUM72219469" },
+          "duration_ms": 0,
+          "external_ids": {},
           "external_urls": {
             "spotify": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
           },
           "href": "https://api.spotify.com/v1/tracks/45uwA5e851qa3xWqKGYxGC",
           "id": "45uwA5e851qa3xWqKGYxGC",
-          "name": "WHITE CROCS (with Ryan Trey)",
+          "name": "",
           "popularity": 0,
           "uri": "spotify:track:45uwA5e851qa3xWqKGYxGC",
           "is_local": false
@@ -726,7 +706,7 @@
           "href": "https://api.spotify.com/v1/tracks/6AQbmUe0Qwf5PZnt4HmTXv",
           "id": "6AQbmUe0Qwf5PZnt4HmTXv",
           "name": "Boy's a liar Pt. 2",
-          "popularity": 73,
+          "popularity": 74,
           "uri": "spotify:track:6AQbmUe0Qwf5PZnt4HmTXv",
           "is_local": false
         },
@@ -1193,7 +1173,7 @@
           "href": "https://api.spotify.com/v1/tracks/6AQbmUe0Qwf5PZnt4HmTXv",
           "id": "6AQbmUe0Qwf5PZnt4HmTXv",
           "name": "Boy's a liar Pt. 2",
-          "popularity": 73,
+          "popularity": 74,
           "uri": "spotify:track:6AQbmUe0Qwf5PZnt4HmTXv",
           "is_local": false
         },
@@ -19252,35 +19232,25 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
             },
-            "href": "https://api.spotify.com/v1/artists/3DGlTwdM5Dim9XQipb3jMf",
-            "id": "3DGlTwdM5Dim9XQipb3jMf",
-            "name": "Jordan Ward",
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "",
             "type": "artist",
-            "uri": "spotify:artist:3DGlTwdM5Dim9XQipb3jMf"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-            },
-            "href": "https://api.spotify.com/v1/artists/5YHM0i7v5TqqibZhS0YiuX",
-            "id": "5YHM0i7v5TqqibZhS0YiuX",
-            "name": "Ryan Trey",
-            "type": "artist",
-            "uri": "spotify:artist:5YHM0i7v5TqqibZhS0YiuX"
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
           }
         ],
         "disc_number": 1,
         "track_number": 1,
-        "duration_ms": 147773,
-        "external_ids": { "isrc": "USUM72219469" },
+        "duration_ms": 0,
+        "external_ids": {},
         "external_urls": {
           "spotify": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
         },
         "href": "https://api.spotify.com/v1/tracks/45uwA5e851qa3xWqKGYxGC",
         "id": "45uwA5e851qa3xWqKGYxGC",
-        "name": "WHITE CROCS (with Ryan Trey)",
+        "name": "",
         "popularity": 0,
         "uri": "spotify:track:45uwA5e851qa3xWqKGYxGC",
         "is_local": false
@@ -19349,35 +19319,25 @@
         "artists": [
           {
             "external_urls": {
-              "spotify": "https://open.spotify.com/artist/3DGlTwdM5Dim9XQipb3jMf"
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
             },
-            "href": "https://api.spotify.com/v1/artists/3DGlTwdM5Dim9XQipb3jMf",
-            "id": "3DGlTwdM5Dim9XQipb3jMf",
-            "name": "Jordan Ward",
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "",
             "type": "artist",
-            "uri": "spotify:artist:3DGlTwdM5Dim9XQipb3jMf"
-          },
-          {
-            "external_urls": {
-              "spotify": "https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX"
-            },
-            "href": "https://api.spotify.com/v1/artists/5YHM0i7v5TqqibZhS0YiuX",
-            "id": "5YHM0i7v5TqqibZhS0YiuX",
-            "name": "Ryan Trey",
-            "type": "artist",
-            "uri": "spotify:artist:5YHM0i7v5TqqibZhS0YiuX"
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
           }
         ],
         "disc_number": 1,
         "track_number": 1,
-        "duration_ms": 147773,
-        "external_ids": { "isrc": "USUM72219469" },
+        "duration_ms": 0,
+        "external_ids": {},
         "external_urls": {
           "spotify": "https://open.spotify.com/track/45uwA5e851qa3xWqKGYxGC"
         },
         "href": "https://api.spotify.com/v1/tracks/45uwA5e851qa3xWqKGYxGC",
         "id": "45uwA5e851qa3xWqKGYxGC",
-        "name": "WHITE CROCS (with Ryan Trey)",
+        "name": "",
         "popularity": 0,
         "uri": "spotify:track:45uwA5e851qa3xWqKGYxGC",
         "is_local": false
@@ -19860,7 +19820,7 @@
         "href": "https://api.spotify.com/v1/tracks/6AQbmUe0Qwf5PZnt4HmTXv",
         "id": "6AQbmUe0Qwf5PZnt4HmTXv",
         "name": "Boy's a liar Pt. 2",
-        "popularity": 73,
+        "popularity": 74,
         "uri": "spotify:track:6AQbmUe0Qwf5PZnt4HmTXv",
         "is_local": false
       },
@@ -20327,7 +20287,7 @@
         "href": "https://api.spotify.com/v1/tracks/6AQbmUe0Qwf5PZnt4HmTXv",
         "id": "6AQbmUe0Qwf5PZnt4HmTXv",
         "name": "Boy's a liar Pt. 2",
-        "popularity": 73,
+        "popularity": 74,
         "uri": "spotify:track:6AQbmUe0Qwf5PZnt4HmTXv",
         "is_local": false
       },

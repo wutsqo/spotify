@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 122,
+  "total_episodes": 123,
   "episodes": [
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/93acb89a9d966605bb62c54647a620bef42ab096.mp3",
+      "description": "Do twin primes go on forever? It seems like a simple question, but proving something in mathematics is tricky, especially the twin prime conjecture.In 2013 however, there was a big break through. Not from one of the world's top mathematicians, but from a professor at the University of New Hampshire... who used to be a subway worker!If you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV Sign up for the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter For early access to work in progress videos join our patreon https://ve42.co/VePatreon",
+      "duration_ms": 2394944,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/2IenDfURV0osYStnkvoGEG"
+      },
+      "href": "https://api.spotify.com/v1/episodes/2IenDfURV0osYStnkvoGEG",
+      "html_description": "<p>Do twin primes go on forever? </p><p><br /></p><p>It seems like a simple question, but proving something in mathematics is tricky, especially the twin prime conjecture.</p><p><br /></p><p>In 2013 however, there was a big break through. Not from one of the world&#39;s top mathematicians, but from a professor at the University of New Hampshire... who used to be a subway worker!</p><p>If you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV </p><p>Sign up for the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter </p><p>For early access to work in progress videos join our patreon https://ve42.co/VePatreon</p>",
+      "id": "2IenDfURV0osYStnkvoGEG",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a656d01c0665aa9dd3907e804",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f656d01c0665aa9dd3907e804",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d656d01c0665aa9dd3907e804",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "The Infinite Twin Prime Problem",
+      "release_date": "2026-06-14",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:2IenDfURV0osYStnkvoGEG"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/eb0b1e83f2f69db8f89c8bcbf49cf8a988e16b3c.mp3",
       "description": "Something is disrupting GPS signals across Europe. After noticing this disruption two scientists, Professor Todd Humphreys and Dr Zach Clements at the University of Texas at Austin, went on a hunt to find the source of this jamming.This is the story of how they tracked it down. If you want to read their full paper (out today!) click the link below! Clements, Z. L., Kriezis, A., & Humphreys, T. E. (2026). Chasing Lightning: Detecting, Characterizing, and Identifying a Powerful Space-Based GNSS Interference - https://ve42.co/GNSSInterference ",
