@@ -267,7 +267,7 @@
         }
       ],
       "name": "Sal Priadi",
-      "popularity": 75,
+      "popularity": 76,
       "type": "artist",
       "uri": "spotify:artist:1NjxFrpEGZTV2Ny0OJxeWu"
     },
@@ -548,7 +548,7 @@
         }
       ],
       "name": "Arctic Monkeys",
-      "popularity": 85,
+      "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
     },
@@ -740,41 +740,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
-      },
-      "followers": { "href": null, "total": 41574335 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq",
-      "id": "4AK6F7OLvEQ5QYCBNiQWHq",
-      "images": [
-        {
-          "height": 1000,
-          "url": "https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8",
-          "width": 1000
-        },
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/289c7f686f5b78ceeb224453cf9a15697a678a79",
-          "width": 640
-        },
-        {
-          "height": 200,
-          "url": "https://i.scdn.co/image/45741ba38b51130bb96e00c0e24d17ba311a9293",
-          "width": 200
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/6c89c662ad0ab75bc2af9a3ae2b16f811daced50",
-          "width": 64
-        }
-      ],
-      "name": "One Direction",
-      "popularity": 84,
-      "type": "artist",
-      "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
       },
       "followers": { "href": null, "total": 23751674 },
@@ -802,36 +767,6 @@
       "popularity": 84,
       "type": "artist",
       "uri": "spotify:artist:77SW9BnxLY8rJ0RciFqkHh"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-      },
-      "followers": { "href": null, "total": 127090283 },
-      "genres": ["soft pop"],
-      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
-      "id": "6eUKZXaKkcviH0Ku9w2n3V",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d55c95ad400aed87da52daec",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d55c95ad400aed87da52daec",
-          "width": 160
-        }
-      ],
-      "name": "Ed Sheeran",
-      "popularity": 88,
-      "type": "artist",
-      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
     },
     {
       "external_urls": {
@@ -932,6 +867,71 @@
       "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "followers": { "href": null, "total": 127090283 },
+      "genres": ["soft pop"],
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d55c95ad400aed87da52daec",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d55c95ad400aed87da52daec",
+          "width": 160
+        }
+      ],
+      "name": "Ed Sheeran",
+      "popularity": 88,
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq"
+      },
+      "followers": { "href": null, "total": 41574335 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/4AK6F7OLvEQ5QYCBNiQWHq",
+      "id": "4AK6F7OLvEQ5QYCBNiQWHq",
+      "images": [
+        {
+          "height": 1000,
+          "url": "https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8",
+          "width": 1000
+        },
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/289c7f686f5b78ceeb224453cf9a15697a678a79",
+          "width": 640
+        },
+        {
+          "height": 200,
+          "url": "https://i.scdn.co/image/45741ba38b51130bb96e00c0e24d17ba311a9293",
+          "width": 200
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/6c89c662ad0ab75bc2af9a3ae2b16f811daced50",
+          "width": 64
+        }
+      ],
+      "name": "One Direction",
+      "popularity": 84,
+      "type": "artist",
+      "uri": "spotify:artist:4AK6F7OLvEQ5QYCBNiQWHq"
     },
     {
       "external_urls": {
@@ -1750,6 +1750,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
+      },
+      "followers": { "href": null, "total": 13311371 },
+      "genres": ["indonesian pop", "indonesian rock", "indorock", "malay"],
+      "href": "https://api.spotify.com/v1/artists/48bKH1ugFBhERC1rdojP9d",
+      "id": "48bKH1ugFBhERC1rdojP9d",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb96bfa9ff288138f3432e0fa4",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517496bfa9ff288138f3432e0fa4",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17896bfa9ff288138f3432e0fa4",
+          "width": 160
+        }
+      ],
+      "name": "Dewa 19",
+      "popularity": 70,
+      "type": "artist",
+      "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
       },
       "followers": { "href": null, "total": 8996026 },
@@ -1792,36 +1822,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/48bKH1ugFBhERC1rdojP9d"
-      },
-      "followers": { "href": null, "total": 13311371 },
-      "genres": ["indonesian pop", "indonesian rock", "indorock", "malay"],
-      "href": "https://api.spotify.com/v1/artists/48bKH1ugFBhERC1rdojP9d",
-      "id": "48bKH1ugFBhERC1rdojP9d",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb96bfa9ff288138f3432e0fa4",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517496bfa9ff288138f3432e0fa4",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17896bfa9ff288138f3432e0fa4",
-          "width": 160
-        }
-      ],
-      "name": "Dewa 19",
-      "popularity": 70,
-      "type": "artist",
-      "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM"
       },
       "followers": { "href": null, "total": 9844447 },
@@ -1846,7 +1846,7 @@
         }
       ],
       "name": "Red Velvet",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:1z4g3DjTBBZKhvAroFlhOM"
     },
@@ -2007,36 +2007,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-      },
-      "followers": { "href": null, "total": 7505726 },
-      "genres": ["bedroom pop"],
-      "href": "https://api.spotify.com/v1/artists/35l9BRT7MXmM8bv2WDQiyB",
-      "id": "35l9BRT7MXmM8bv2WDQiyB",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb3a41a62e7193703d29d30a9a",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051743a41a62e7193703d29d30a9a",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1783a41a62e7193703d29d30a9a",
-          "width": 160
-        }
-      ],
-      "name": "beabadoobee",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
       },
       "followers": { "href": null, "total": 21563716 },
@@ -2187,36 +2157,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
-      },
-      "followers": { "href": null, "total": 1042413 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/1ctkBmvz80MGyi72Ix055S",
-      "id": "1ctkBmvz80MGyi72Ix055S",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab67616d0000b273672951d44a35cb08092f2c1f",
-          "width": 640
-        },
-        {
-          "height": 300,
-          "url": "https://i.scdn.co/image/ab67616d00001e02672951d44a35cb08092f2c1f",
-          "width": 300
-        },
-        {
-          "height": 64,
-          "url": "https://i.scdn.co/image/ab67616d00004851672951d44a35cb08092f2c1f",
-          "width": 64
-        }
-      ],
-      "name": "Alex Turner",
-      "popularity": 56,
-      "type": "artist",
-      "uri": "spotify:artist:1ctkBmvz80MGyi72Ix055S"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
       },
       "followers": { "href": null, "total": 11278796 },
@@ -2244,6 +2184,36 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:3MZsBdqDrRTJihTHQrO6Dq"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/1ctkBmvz80MGyi72Ix055S"
+      },
+      "followers": { "href": null, "total": 1042413 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/1ctkBmvz80MGyi72Ix055S",
+      "id": "1ctkBmvz80MGyi72Ix055S",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273672951d44a35cb08092f2c1f",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67616d00001e02672951d44a35cb08092f2c1f",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab67616d00004851672951d44a35cb08092f2c1f",
+          "width": 64
+        }
+      ],
+      "name": "Alex Turner",
+      "popularity": 56,
+      "type": "artist",
+      "uri": "spotify:artist:1ctkBmvz80MGyi72Ix055S"
     },
     {
       "external_urls": {
@@ -2277,33 +2247,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+        "spotify": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
       },
-      "followers": { "href": null, "total": 6381690 },
-      "genres": ["singer-songwriter"],
-      "href": "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
-      "id": "0hEurMDQu99nJRq8pTxO14",
+      "followers": { "href": null, "total": 7505726 },
+      "genres": ["bedroom pop"],
+      "href": "https://api.spotify.com/v1/artists/35l9BRT7MXmM8bv2WDQiyB",
+      "id": "35l9BRT7MXmM8bv2WDQiyB",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebe926dd683e1700a6d65bd835",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb3a41a62e7193703d29d30a9a",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174e926dd683e1700a6d65bd835",
+          "url": "https://i.scdn.co/image/ab676161000051743a41a62e7193703d29d30a9a",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178e926dd683e1700a6d65bd835",
+          "url": "https://i.scdn.co/image/ab6761610000f1783a41a62e7193703d29d30a9a",
           "width": 160
         }
       ],
-      "name": "John Mayer",
-      "popularity": 77,
+      "name": "beabadoobee",
+      "popularity": 79,
       "type": "artist",
-      "uri": "spotify:artist:0hEurMDQu99nJRq8pTxO14"
+      "uri": "spotify:artist:35l9BRT7MXmM8bv2WDQiyB"
     },
     {
       "external_urls": {
@@ -2397,6 +2367,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+      },
+      "followers": { "href": null, "total": 6381690 },
+      "genres": ["singer-songwriter"],
+      "href": "https://api.spotify.com/v1/artists/0hEurMDQu99nJRq8pTxO14",
+      "id": "0hEurMDQu99nJRq8pTxO14",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe926dd683e1700a6d65bd835",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e926dd683e1700a6d65bd835",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e926dd683e1700a6d65bd835",
+          "width": 160
+        }
+      ],
+      "name": "John Mayer",
+      "popularity": 77,
+      "type": "artist",
+      "uri": "spotify:artist:0hEurMDQu99nJRq8pTxO14"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
       },
       "followers": { "href": null, "total": 1480830 },
@@ -2457,7 +2457,7 @@
         }
       ],
       "name": "Wallows",
-      "popularity": 68,
+      "popularity": 69,
       "type": "artist",
       "uri": "spotify:artist:0NIPkIjTV8mB795yEIiPYL"
     },
@@ -2618,6 +2618,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+      },
+      "followers": { "href": null, "total": 13281017 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
+      "id": "4Uc8Dsxct0oMqx0P6i60ea",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4c2b62d4748524454a6f99b0",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744c2b62d4748524454a6f99b0",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784c2b62d4748524454a6f99b0",
+          "width": 160
+        }
+      ],
+      "name": "Conan Gray",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
       },
       "followers": { "href": null, "total": 10298784 },
@@ -2675,36 +2705,6 @@
       "popularity": 80,
       "type": "artist",
       "uri": "spotify:artist:6YVMFz59CuY7ngCxTxjpxE"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
-      },
-      "followers": { "href": null, "total": 13281017 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/4Uc8Dsxct0oMqx0P6i60ea",
-      "id": "4Uc8Dsxct0oMqx0P6i60ea",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb4c2b62d4748524454a6f99b0",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051744c2b62d4748524454a6f99b0",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1784c2b62d4748524454a6f99b0",
-          "width": 160
-        }
-      ],
-      "name": "Conan Gray",
-      "popularity": 79,
-      "type": "artist",
-      "uri": "spotify:artist:4Uc8Dsxct0oMqx0P6i60ea"
     },
     {
       "external_urls": {

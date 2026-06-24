@@ -219,8 +219,46 @@
   "publisher": "Veritasium",
   "type": "show",
   "uri": "spotify:show:6EpB14Zj369GeJUKYXZ9e7",
-  "total_episodes": 123,
+  "total_episodes": 124,
   "episodes": [
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/972ba3bd563ec6346be5960135622e35dd7f15db.mp3",
+      "description": "Modern forensics can detect a single cell deposited at a crime scene, but it cannot tell us how or when it got there. In this video, we explore vulnerabilities, human biases, and systemic flaws hidden within the forensic field we trust to deliver justice. ",
+      "duration_ms": 1314154,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/5AUcDZehp8nyW5ebQrE6Lf"
+      },
+      "href": "https://api.spotify.com/v1/episodes/5AUcDZehp8nyW5ebQrE6Lf",
+      "html_description": "<p>Modern forensics can detect a single cell deposited at a crime scene, but it cannot tell us how or when it got there. </p><p><br /></p><p>In this video, we explore vulnerabilities, human biases, and systemic flaws hidden within the forensic field we trust to deliver justice. </p>",
+      "id": "5AUcDZehp8nyW5ebQrE6Lf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8a1965cc912bc8fff831211b92",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1f1965cc912bc8fff831211b92",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68d1965cc912bc8fff831211b92",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Forensic Science Is Not As Accurate As You Think",
+      "release_date": "2026-06-23",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:5AUcDZehp8nyW5ebQrE6Lf"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/93acb89a9d966605bb62c54647a620bef42ab096.mp3",
       "description": "Do twin primes go on forever? It seems like a simple question, but proving something in mathematics is tricky, especially the twin prime conjecture.In 2013 however, there was a big break through. Not from one of the world's top mathematicians, but from a professor at the University of New Hampshire... who used to be a subway worker!If you’re looking for a molecular modelling kit, try Snatoms, a kit I invented where the atoms snap together magnetically - https://ve42.co/SnatomsV Sign up for the Veritasium newsletter for weekly science updates - https://ve42.co/Newsletter For early access to work in progress videos join our patreon https://ve42.co/VePatreon",

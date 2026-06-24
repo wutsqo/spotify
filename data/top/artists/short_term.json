@@ -123,33 +123,43 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
       },
-      "followers": { "href": null, "total": 34802181 },
-      "genres": ["indie", "garage rock"],
-      "href": "https://api.spotify.com/v1/artists/7Ln80lUS6He07XvHI8qqHH",
-      "id": "7Ln80lUS6He07XvHI8qqHH",
+      "followers": { "href": null, "total": 2110531 },
+      "genres": [
+        "hipdut",
+        "dangdut",
+        "lagu timur",
+        "malay",
+        "koplo",
+        "funkot",
+        "indonesian hip hop",
+        "indonesian pop",
+        "malay rap"
+      ],
+      "href": "https://api.spotify.com/v1/artists/6vP4azTCk053nGL0xAYnVH",
+      "id": "6vP4azTCk053nGL0xAYnVH",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb29c41392ae281462cbc7f140",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051747da39dea0a72f581535fb11f",
+          "url": "https://i.scdn.co/image/ab6761610000517429c41392ae281462cbc7f140",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1787da39dea0a72f581535fb11f",
+          "url": "https://i.scdn.co/image/ab6761610000f17829c41392ae281462cbc7f140",
           "width": 160
         }
       ],
-      "name": "Arctic Monkeys",
-      "popularity": 85,
+      "name": "Tenxi",
+      "popularity": 69,
       "type": "artist",
-      "uri": "spotify:artist:7Ln80lUS6He07XvHI8qqHH"
+      "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH"
     },
     {
       "external_urls": {
