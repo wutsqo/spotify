@@ -1,12 +1,12 @@
 {
-  "total": 6,
+  "total": 5,
   "artists": [
     {
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 6888807 },
-      "genres": ["garage rock", "indie rock", "alternative rock"],
+      "followers": { "href": null, "total": 6890509 },
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
       "id": "0epOFNiUfyON9EYx7Tpr6V",
       "images": [
@@ -35,8 +35,8 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
       },
-      "followers": { "href": null, "total": 47089951 },
-      "genres": [],
+      "followers": { "href": null, "total": 47176308 },
+      "genres": ["garage rock", "indie rock", "alternative rock"],
       "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
       "id": "3fMbdgg4jU18AjLCKBhRSm",
       "images": [
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
-      "followers": { "href": null, "total": 118658131 },
+      "followers": { "href": null, "total": 118716905 },
       "genres": ["reggaeton", "trap latino", "latin", "urbano latino"],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
@@ -95,7 +95,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
       },
-      "followers": { "href": null, "total": 16240924 },
+      "followers": { "href": null, "total": 16246805 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
       "id": "3AA28KZvwAUcZuOKwyblJQ",
@@ -123,49 +123,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
-      },
-      "followers": { "href": null, "total": 2110531 },
-      "genres": [
-        "hipdut",
-        "dangdut",
-        "lagu timur",
-        "malay",
-        "koplo",
-        "funkot",
-        "indonesian hip hop",
-        "indonesian pop",
-        "malay rap"
-      ],
-      "href": "https://api.spotify.com/v1/artists/6vP4azTCk053nGL0xAYnVH",
-      "id": "6vP4azTCk053nGL0xAYnVH",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb29c41392ae281462cbc7f140",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517429c41392ae281462cbc7f140",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17829c41392ae281462cbc7f140",
-          "width": 160
-        }
-      ],
-      "name": "Tenxi",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:6vP4azTCk053nGL0xAYnVH"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
       },
-      "followers": { "href": null, "total": 3835712 },
+      "followers": { "href": null, "total": 3836661 },
       "genres": ["indie"],
       "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
       "id": "0SwO7SWeDHJijQ3XNS7xEE",

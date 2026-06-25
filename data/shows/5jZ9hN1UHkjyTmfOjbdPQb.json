@@ -221,7 +221,44 @@
   "uri": "spotify:show:5jZ9hN1UHkjyTmfOjbdPQb",
   "total_episodes": 258,
   "episodes": [
-    null,
+    {
+      "audio_preview_url": "https://p.scdn.co/mp3-preview/1c970c831bae7563fecf216fb8d05a95ab1adfe5.mp3",
+      "description": "19 year old Davion Flanagan’s family and 20 year old Dominic Russo’s family want to know what the hell happened that morning. How could 17 year old Mackenzie Shirilla drive her car straight into a brick building at 100 mph killing their two boys? How could she be the sole survivor?This is the case of Mackenzie Shirilla who used a high speed, intentional motor vehicle collision to end the lives of her longterm boyfriend Dominic Russo and his friend/roommate at the time, Davion Flanagan.After the release of Netflix’s documentary, ’The Crash,’ interest surrounding the case grew but audiences were left with more questions about the fuller picture. Naturally, we FOIA requested this case to the authorities and received.Over 4 thousand videos.Over 4 thousand photos.Around 31 thousand pages of text messages.Around 92 thousand text messages between just Mackenzie and Dominic.Close to 800 text messages between Mackenzie and her father, Steve Shirilla.Close to 2 thousand text messages between Mackenzie and her close friends.As well as 2 thousand pages of Instagram DMs.2 entire phone data extraction files with hundreds of personal videos, photos, and audio messages.And 97 jail calls from Mackenzie post-conviction.We have gone through all of it and we’re here to break it down for you.Full show notes available at RottenMangoPodcast.com",
+      "duration_ms": 9491732,
+      "explicit": false,
+      "external_urls": {
+        "spotify": "https://open.spotify.com/episode/4y0AtHyVxgJ1eplaaC5Esm"
+      },
+      "href": "https://api.spotify.com/v1/episodes/4y0AtHyVxgJ1eplaaC5Esm",
+      "html_description": "<p>19 year old Davion Flanagan’s family and 20 year old Dominic Russo’s family want to know what the hell happened that morning. How could 17 year old Mackenzie Shirilla drive her car straight into a brick building at 100 mph killing their two boys? How could she be the sole survivor?</p><p>This is the case of Mackenzie Shirilla who used a high speed, intentional motor vehicle collision to end the lives of her longterm boyfriend Dominic Russo and his friend/roommate at the time, Davion Flanagan.</p><p>After the release of Netflix’s documentary, ’The Crash,’ interest surrounding the case grew but audiences were left with more questions about the fuller picture. Naturally, we FOIA requested this case to the authorities and received.</p><p>Over 4 thousand videos.</p><p>Over 4 thousand photos.</p><p>Around 31 thousand pages of text messages.</p><p>Around 92 thousand text messages between just Mackenzie and Dominic.</p><p>Close to 800 text messages between Mackenzie and her father, Steve Shirilla.</p><p>Close to 2 thousand text messages between Mackenzie and her close friends.</p><p>As well as 2 thousand pages of Instagram DMs.</p><p>2 entire phone data extraction files with hundreds of personal videos, photos, and audio messages.</p><p>And 97 jail calls from Mackenzie post-conviction.</p><p>We have gone through all of it and we’re here to break it down for you.</p><p><br /></p><p>Full show notes available at RottenMangoPodcast.com</p>",
+      "id": "4y0AtHyVxgJ1eplaaC5Esm",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6765630000ba8ad479767335352837d5da5e48",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://i.scdn.co/image/ab67656300005f1fd479767335352837d5da5e48",
+          "width": 300
+        },
+        {
+          "height": 64,
+          "url": "https://i.scdn.co/image/ab6765630000f68dd479767335352837d5da5e48",
+          "width": 64
+        }
+      ],
+      "is_externally_hosted": false,
+      "is_playable": true,
+      "language": "en",
+      "languages": ["en"],
+      "name": "Everyone Who Stood By Mackenzie AFTER The Crash: Rosie & Bubba Interview",
+      "release_date": "2026-06-24",
+      "release_date_precision": "day",
+      "type": "episode",
+      "uri": "spotify:episode:4y0AtHyVxgJ1eplaaC5Esm"
+    },
     {
       "audio_preview_url": "https://p.scdn.co/mp3-preview/8cee5d05e121fc2a817458d60f058e625d9431e7.mp3",
       "description": "Case of Taylor Parker- Everything Netflix Left Out In \"Maternal Instinct\"",
