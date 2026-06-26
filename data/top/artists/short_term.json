@@ -5,7 +5,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 6890509 },
+      "followers": { "href": null, "total": 6893819 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
       "id": "0epOFNiUfyON9EYx7Tpr6V",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
       },
-      "followers": { "href": null, "total": 47176308 },
+      "followers": { "href": null, "total": 47368470 },
       "genres": ["garage rock", "indie rock", "alternative rock"],
       "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
       "id": "3fMbdgg4jU18AjLCKBhRSm",
@@ -65,8 +65,8 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
-      "followers": { "href": null, "total": 118716905 },
-      "genres": ["reggaeton", "trap latino", "latin", "urbano latino"],
+      "followers": { "href": null, "total": 118830328 },
+      "genres": [],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
       "images": [
@@ -95,8 +95,8 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
       },
-      "followers": { "href": null, "total": 16246805 },
-      "genres": [],
+      "followers": { "href": null, "total": 16258500 },
+      "genres": ["reggaeton", "trap latino", "latin", "urbano latino"],
       "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
       "id": "3AA28KZvwAUcZuOKwyblJQ",
       "images": [
@@ -123,33 +123,33 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE"
+        "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
       },
-      "followers": { "href": null, "total": 3836661 },
-      "genres": ["indie"],
-      "href": "https://api.spotify.com/v1/artists/0SwO7SWeDHJijQ3XNS7xEE",
-      "id": "0SwO7SWeDHJijQ3XNS7xEE",
+      "followers": { "href": null, "total": 11548185 },
+      "genres": ["french house", "electronic", "electro"],
+      "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+      "id": "4tZwfgrHOc3mvqYlEYSvVi",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb9dccdc8f4087cbe2bdedc9d3",
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd3aa7cc0e419b6c459b08e8e",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab676161000051749dccdc8f4087cbe2bdedc9d3",
+          "url": "https://i.scdn.co/image/ab67616100005174d3aa7cc0e419b6c459b08e8e",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f1789dccdc8f4087cbe2bdedc9d3",
+          "url": "https://i.scdn.co/image/ab6761610000f178d3aa7cc0e419b6c459b08e8e",
           "width": 160
         }
       ],
-      "name": "MGMT",
-      "popularity": 76,
+      "name": "Daft Punk",
+      "popularity": 82,
       "type": "artist",
-      "uri": "spotify:artist:0SwO7SWeDHJijQ3XNS7xEE"
+      "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
     }
   ]
 }
