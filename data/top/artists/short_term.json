@@ -6,23 +6,23 @@
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
       "followers": { "href": null, "total": 6898757 },
-      "genres": ["rap"],
+      "genres": ["garage rock", "indie rock", "alternative rock"],
       "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
       "id": "0epOFNiUfyON9EYx7Tpr6V",
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebc3b137793230f4043feb0089",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb98856eea770468af6dd999d9",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174c3b137793230f4043feb0089",
+          "url": "https://i.scdn.co/image/ab6761610000517498856eea770468af6dd999d9",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178c3b137793230f4043feb0089",
+          "url": "https://i.scdn.co/image/ab6761610000f17898856eea770468af6dd999d9",
           "width": 160
         }
       ],
@@ -106,7 +106,7 @@
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
       "followers": { "href": null, "total": 119004316 },
-      "genres": ["garage rock", "indie rock", "alternative rock"],
+      "genres": ["reggaeton", "trap latino", "latin", "urbano latino"],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
       "images": [
@@ -133,10 +133,40 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
+      },
+      "followers": { "href": null, "total": 15455099 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
+      "id": "73sIBHcqh3Z3NyqHKZ7FOL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebc3dc5429b676b16d451e5f77",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174c3dc5429b676b16d451e5f77",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178c3dc5429b676b16d451e5f77",
+          "width": 160
+        }
+      ],
+      "name": "Childish Gambino",
+      "popularity": 80,
+      "type": "artist",
+      "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
       },
       "followers": { "href": null, "total": 33802613 },
-      "genres": ["reggaeton", "trap latino", "latin", "urbano latino"],
+      "genres": ["rap"],
       "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
       "id": "5K4W6rqBFWDnAN6FQUkS6x",
       "images": [
@@ -160,36 +190,6 @@
       "popularity": 92,
       "type": "artist",
       "uri": "spotify:artist:5K4W6rqBFWDnAN6FQUkS6x"
-    },
-    {
-      "external_urls": {
-        "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-      },
-      "followers": { "href": null, "total": 16276571 },
-      "genres": [],
-      "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
-      "id": "3AA28KZvwAUcZuOKwyblJQ",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebdd5b57b40cf2aaeccd07835e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174dd5b57b40cf2aaeccd07835e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178dd5b57b40cf2aaeccd07835e",
-          "width": 160
-        }
-      ],
-      "name": "Gorillaz",
-      "popularity": 83,
-      "type": "artist",
-      "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
     },
     {
       "external_urls": {
