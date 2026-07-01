@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/4lHf1Zh4sB3fE7QOTIqtAV"
   },
-  "followers": { "href": null, "total": 32660 },
+  "followers": { "href": null, "total": 32658 },
   "href": "https://api.spotify.com/v1/playlists/4lHf1Zh4sB3fE7QOTIqtAV?locale=*",
   "id": "4lHf1Zh4sB3fE7QOTIqtAV",
   "images": [
@@ -14157,7 +14157,7 @@
           "href": "https://api.spotify.com/v1/tracks/4u7EnebtmKWzUH433cf5Qv",
           "id": "4u7EnebtmKWzUH433cf5Qv",
           "name": "Bohemian Rhapsody - Remastered 2011",
-          "popularity": 84,
+          "popularity": 85,
           "uri": "spotify:track:4u7EnebtmKWzUH433cf5Qv",
           "is_local": false
         },
@@ -14592,7 +14592,7 @@
           "href": "https://api.spotify.com/v1/tracks/4u7EnebtmKWzUH433cf5Qv",
           "id": "4u7EnebtmKWzUH433cf5Qv",
           "name": "Bohemian Rhapsody - Remastered 2011",
-          "popularity": 84,
+          "popularity": 85,
           "uri": "spotify:track:4u7EnebtmKWzUH433cf5Qv",
           "is_local": false
         },
@@ -49708,7 +49708,7 @@
           "href": "https://api.spotify.com/v1/tracks/6KTv0Z8BmVqM7DPxbGzpVC",
           "id": "6KTv0Z8BmVqM7DPxbGzpVC",
           "name": "Rock And Roll All Nite",
-          "popularity": 16,
+          "popularity": 17,
           "uri": "spotify:track:6KTv0Z8BmVqM7DPxbGzpVC",
           "is_local": false
         },
@@ -49785,7 +49785,7 @@
           "href": "https://api.spotify.com/v1/tracks/6KTv0Z8BmVqM7DPxbGzpVC",
           "id": "6KTv0Z8BmVqM7DPxbGzpVC",
           "name": "Rock And Roll All Nite",
-          "popularity": 16,
+          "popularity": 17,
           "uri": "spotify:track:6KTv0Z8BmVqM7DPxbGzpVC",
           "is_local": false
         },
@@ -51628,13 +51628,13 @@
         "primary_color": null,
         "track": {
           "preview_url": null,
-          "available_markets": ["CA", "US"],
+          "available_markets": ["CA", "PR", "US"],
           "explicit": false,
           "type": "track",
           "episode": false,
           "track": true,
           "album": {
-            "available_markets": ["CA", "US"],
+            "available_markets": ["CA", "PR", "US"],
             "type": "album",
             "album_type": "compilation",
             "href": "https://api.spotify.com/v1/albums/34ozkv3AkFksZD8srOmOrX",
@@ -51705,13 +51705,13 @@
         },
         "item": {
           "preview_url": null,
-          "available_markets": ["CA", "US"],
+          "available_markets": ["CA", "PR", "US"],
           "explicit": false,
           "type": "track",
           "episode": false,
           "track": true,
           "album": {
-            "available_markets": ["CA", "US"],
+            "available_markets": ["CA", "PR", "US"],
             "type": "album",
             "album_type": "compilation",
             "href": "https://api.spotify.com/v1/albums/34ozkv3AkFksZD8srOmOrX",
@@ -56894,7 +56894,7 @@
           "href": "https://api.spotify.com/v1/tracks/6MSH05EFXMrjtFPBfJfsUs",
           "id": "6MSH05EFXMrjtFPBfJfsUs",
           "name": "Captain Kit",
-          "popularity": 4,
+          "popularity": 5,
           "uri": "spotify:track:6MSH05EFXMrjtFPBfJfsUs",
           "is_local": false
         },
@@ -57343,7 +57343,7 @@
           "href": "https://api.spotify.com/v1/tracks/6MSH05EFXMrjtFPBfJfsUs",
           "id": "6MSH05EFXMrjtFPBfJfsUs",
           "name": "Captain Kit",
-          "popularity": 4,
+          "popularity": 5,
           "uri": "spotify:track:6MSH05EFXMrjtFPBfJfsUs",
           "is_local": false
         },
@@ -88691,7 +88691,7 @@
         "href": "https://api.spotify.com/v1/tracks/4u7EnebtmKWzUH433cf5Qv",
         "id": "4u7EnebtmKWzUH433cf5Qv",
         "name": "Bohemian Rhapsody - Remastered 2011",
-        "popularity": 84,
+        "popularity": 85,
         "uri": "spotify:track:4u7EnebtmKWzUH433cf5Qv",
         "is_local": false
       },
@@ -89126,7 +89126,7 @@
         "href": "https://api.spotify.com/v1/tracks/4u7EnebtmKWzUH433cf5Qv",
         "id": "4u7EnebtmKWzUH433cf5Qv",
         "name": "Bohemian Rhapsody - Remastered 2011",
-        "popularity": 84,
+        "popularity": 85,
         "uri": "spotify:track:4u7EnebtmKWzUH433cf5Qv",
         "is_local": false
       },
@@ -124242,7 +124242,7 @@
         "href": "https://api.spotify.com/v1/tracks/6KTv0Z8BmVqM7DPxbGzpVC",
         "id": "6KTv0Z8BmVqM7DPxbGzpVC",
         "name": "Rock And Roll All Nite",
-        "popularity": 16,
+        "popularity": 17,
         "uri": "spotify:track:6KTv0Z8BmVqM7DPxbGzpVC",
         "is_local": false
       },
@@ -124319,7 +124319,7 @@
         "href": "https://api.spotify.com/v1/tracks/6KTv0Z8BmVqM7DPxbGzpVC",
         "id": "6KTv0Z8BmVqM7DPxbGzpVC",
         "name": "Rock And Roll All Nite",
-        "popularity": 16,
+        "popularity": 17,
         "uri": "spotify:track:6KTv0Z8BmVqM7DPxbGzpVC",
         "is_local": false
       },
@@ -126162,13 +126162,13 @@
       "primary_color": null,
       "track": {
         "preview_url": null,
-        "available_markets": ["CA", "US"],
+        "available_markets": ["CA", "PR", "US"],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["CA", "US"],
+          "available_markets": ["CA", "PR", "US"],
           "type": "album",
           "album_type": "compilation",
           "href": "https://api.spotify.com/v1/albums/34ozkv3AkFksZD8srOmOrX",
@@ -126239,13 +126239,13 @@
       },
       "item": {
         "preview_url": null,
-        "available_markets": ["CA", "US"],
+        "available_markets": ["CA", "PR", "US"],
         "explicit": false,
         "type": "track",
         "episode": false,
         "track": true,
         "album": {
-          "available_markets": ["CA", "US"],
+          "available_markets": ["CA", "PR", "US"],
           "type": "album",
           "album_type": "compilation",
           "href": "https://api.spotify.com/v1/albums/34ozkv3AkFksZD8srOmOrX",
@@ -131428,7 +131428,7 @@
         "href": "https://api.spotify.com/v1/tracks/6MSH05EFXMrjtFPBfJfsUs",
         "id": "6MSH05EFXMrjtFPBfJfsUs",
         "name": "Captain Kit",
-        "popularity": 4,
+        "popularity": 5,
         "uri": "spotify:track:6MSH05EFXMrjtFPBfJfsUs",
         "is_local": false
       },
@@ -131877,7 +131877,7 @@
         "href": "https://api.spotify.com/v1/tracks/6MSH05EFXMrjtFPBfJfsUs",
         "id": "6MSH05EFXMrjtFPBfJfsUs",
         "name": "Captain Kit",
-        "popularity": 4,
+        "popularity": 5,
         "uri": "spotify:track:6MSH05EFXMrjtFPBfJfsUs",
         "is_local": false
       },
@@ -209094,7 +209094,7 @@
         "href": "https://api.spotify.com/v1/tracks/5fP7YHDNkIwh3F7zPPgEdB",
         "id": "5fP7YHDNkIwh3F7zPPgEdB",
         "name": "Tiny Dancer - Remastered",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:5fP7YHDNkIwh3F7zPPgEdB",
         "is_local": false
       },
@@ -209171,7 +209171,7 @@
         "href": "https://api.spotify.com/v1/tracks/5fP7YHDNkIwh3F7zPPgEdB",
         "id": "5fP7YHDNkIwh3F7zPPgEdB",
         "name": "Tiny Dancer - Remastered",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:5fP7YHDNkIwh3F7zPPgEdB",
         "is_local": false
       },
@@ -259728,7 +259728,7 @@
         "href": "https://api.spotify.com/v1/tracks/2Di0qFNb7ATroCGB3q0Ka7",
         "id": "2Di0qFNb7ATroCGB3q0Ka7",
         "name": "West End Girls - 2018 Remaster",
-        "popularity": 79,
+        "popularity": 80,
         "uri": "spotify:track:2Di0qFNb7ATroCGB3q0Ka7",
         "is_local": false
       },
@@ -260175,7 +260175,7 @@
         "href": "https://api.spotify.com/v1/tracks/2Di0qFNb7ATroCGB3q0Ka7",
         "id": "2Di0qFNb7ATroCGB3q0Ka7",
         "name": "West End Girls - 2018 Remaster",
-        "popularity": 79,
+        "popularity": 80,
         "uri": "spotify:track:2Di0qFNb7ATroCGB3q0Ka7",
         "is_local": false
       },
@@ -274348,7 +274348,7 @@
         "href": "https://api.spotify.com/v1/tracks/0S5EEpFAHcT7cm5XOASc29",
         "id": "0S5EEpFAHcT7cm5XOASc29",
         "name": "Love Never Felt So Good",
-        "popularity": 74,
+        "popularity": 73,
         "uri": "spotify:track:0S5EEpFAHcT7cm5XOASc29",
         "is_local": false
       },
@@ -274797,7 +274797,7 @@
         "href": "https://api.spotify.com/v1/tracks/0S5EEpFAHcT7cm5XOASc29",
         "id": "0S5EEpFAHcT7cm5XOASc29",
         "name": "Love Never Felt So Good",
-        "popularity": 74,
+        "popularity": 73,
         "uri": "spotify:track:0S5EEpFAHcT7cm5XOASc29",
         "is_local": false
       },
@@ -274889,7 +274889,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bHsxqR3GMrXTxEPLuK5ue",
         "id": "4bHsxqR3GMrXTxEPLuK5ue",
         "name": "Don't Stop Believin'",
-        "popularity": 16,
+        "popularity": 17,
         "uri": "spotify:track:4bHsxqR3GMrXTxEPLuK5ue",
         "is_local": false
       },
@@ -274966,7 +274966,7 @@
         "href": "https://api.spotify.com/v1/tracks/4bHsxqR3GMrXTxEPLuK5ue",
         "id": "4bHsxqR3GMrXTxEPLuK5ue",
         "name": "Don't Stop Believin'",
-        "popularity": 16,
+        "popularity": 17,
         "uri": "spotify:track:4bHsxqR3GMrXTxEPLuK5ue",
         "is_local": false
       },
@@ -284122,7 +284122,7 @@
         "href": "https://api.spotify.com/v1/tracks/0dGyrOsSR0TOAxY4UBojmV",
         "id": "0dGyrOsSR0TOAxY4UBojmV",
         "name": "Guys",
-        "popularity": 55,
+        "popularity": 56,
         "uri": "spotify:track:0dGyrOsSR0TOAxY4UBojmV",
         "is_local": false
       },
@@ -284563,7 +284563,7 @@
         "href": "https://api.spotify.com/v1/tracks/0dGyrOsSR0TOAxY4UBojmV",
         "id": "0dGyrOsSR0TOAxY4UBojmV",
         "name": "Guys",
-        "popularity": 55,
+        "popularity": 56,
         "uri": "spotify:track:0dGyrOsSR0TOAxY4UBojmV",
         "is_local": false
       },
@@ -288609,7 +288609,7 @@
         "href": "https://api.spotify.com/v1/tracks/4xlEKYv7HmC8zXoJIbpZKM",
         "id": "4xlEKYv7HmC8zXoJIbpZKM",
         "name": "Steady, As She Goes",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:4xlEKYv7HmC8zXoJIbpZKM",
         "is_local": false
       },
@@ -289076,7 +289076,7 @@
         "href": "https://api.spotify.com/v1/tracks/4xlEKYv7HmC8zXoJIbpZKM",
         "id": "4xlEKYv7HmC8zXoJIbpZKM",
         "name": "Steady, As She Goes",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:4xlEKYv7HmC8zXoJIbpZKM",
         "is_local": false
       },
