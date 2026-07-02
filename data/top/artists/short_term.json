@@ -5,7 +5,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
       },
-      "followers": { "href": null, "total": 6902233 },
+      "followers": { "href": null, "total": 6903897 },
       "genres": ["garage rock", "indie rock", "alternative rock"],
       "href": "https://api.spotify.com/v1/artists/0epOFNiUfyON9EYx7Tpr6V",
       "id": "0epOFNiUfyON9EYx7Tpr6V",
@@ -35,7 +35,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
       },
-      "followers": { "href": null, "total": 47820581 },
+      "followers": { "href": null, "total": 47903793 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3fMbdgg4jU18AjLCKBhRSm",
       "id": "3fMbdgg4jU18AjLCKBhRSm",
@@ -65,7 +65,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/6vP4azTCk053nGL0xAYnVH"
       },
-      "followers": { "href": null, "total": 2150463 },
+      "followers": { "href": null, "total": 2155124 },
       "genres": [
         "hipdut",
         "dangdut",
@@ -105,7 +105,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
       },
-      "followers": { "href": null, "total": 119113596 },
+      "followers": { "href": null, "total": 119167935 },
       "genres": ["reggaeton", "trap latino", "latin", "urbano latino"],
       "href": "https://api.spotify.com/v1/artists/4q3ewBCX7sLwd24euuV69X",
       "id": "4q3ewBCX7sLwd24euuV69X",
@@ -135,7 +135,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
       },
-      "followers": { "href": null, "total": 15460988 },
+      "followers": { "href": null, "total": 15463847 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/73sIBHcqh3Z3NyqHKZ7FOL",
       "id": "73sIBHcqh3Z3NyqHKZ7FOL",
@@ -157,7 +157,7 @@
         }
       ],
       "name": "Childish Gambino",
-      "popularity": 80,
+      "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
     },
@@ -165,7 +165,7 @@
       "external_urls": {
         "spotify": "https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x"
       },
-      "followers": { "href": null, "total": 33822156 },
+      "followers": { "href": null, "total": 33832243 },
       "genres": ["rap"],
       "href": "https://api.spotify.com/v1/artists/5K4W6rqBFWDnAN6FQUkS6x",
       "id": "5K4W6rqBFWDnAN6FQUkS6x",
@@ -193,39 +193,9 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
-      },
-      "followers": { "href": null, "total": 11559957 },
-      "genres": ["french house", "electronic", "electro"],
-      "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
-      "id": "4tZwfgrHOc3mvqYlEYSvVi",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd3aa7cc0e419b6c459b08e8e",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d3aa7cc0e419b6c459b08e8e",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d3aa7cc0e419b6c459b08e8e",
-          "width": 160
-        }
-      ],
-      "name": "Daft Punk",
-      "popularity": 82,
-      "type": "artist",
-      "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
       },
-      "followers": { "href": null, "total": 16287850 },
+      "followers": { "href": null, "total": 16293151 },
       "genres": [],
       "href": "https://api.spotify.com/v1/artists/3AA28KZvwAUcZuOKwyblJQ",
       "id": "3AA28KZvwAUcZuOKwyblJQ",
@@ -250,6 +220,36 @@
       "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:3AA28KZvwAUcZuOKwyblJQ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi"
+      },
+      "followers": { "href": null, "total": 11562204 },
+      "genres": ["french house", "electronic", "electro"],
+      "href": "https://api.spotify.com/v1/artists/4tZwfgrHOc3mvqYlEYSvVi",
+      "id": "4tZwfgrHOc3mvqYlEYSvVi",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd3aa7cc0e419b6c459b08e8e",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d3aa7cc0e419b6c459b08e8e",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d3aa7cc0e419b6c459b08e8e",
+          "width": 160
+        }
+      ],
+      "name": "Daft Punk",
+      "popularity": 83,
+      "type": "artist",
+      "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
     }
   ]
 }
