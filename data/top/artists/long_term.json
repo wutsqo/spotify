@@ -375,8 +375,8 @@
         "hipdut",
         "indonesian indie",
         "indonesian r&b",
-        "electro r&b",
-        "indonesian hip hop"
+        "indonesian hip hop",
+        "electro r&b"
       ],
       "href": "https://api.spotify.com/v1/artists/5L3RqiyBaI1VDhbNkzhdjc",
       "id": "5L3RqiyBaI1VDhbNkzhdjc",
@@ -488,7 +488,7 @@
         }
       ],
       "name": "Frank Ocean",
-      "popularity": 85,
+      "popularity": 86,
       "type": "artist",
       "uri": "spotify:artist:2h93pZq0e7k5yf4dywlkpM"
     },
@@ -729,17 +729,17 @@
       "images": [
         {
           "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb178bd257d6ef0cabf44cb594",
+          "url": "https://i.scdn.co/image/ab6761610000e5eb37bd21bdf91bcd306badc2b9",
           "width": 640
         },
         {
           "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174178bd257d6ef0cabf44cb594",
+          "url": "https://i.scdn.co/image/ab6761610000517437bd21bdf91bcd306badc2b9",
           "width": 320
         },
         {
           "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178178bd257d6ef0cabf44cb594",
+          "url": "https://i.scdn.co/image/ab6761610000f17837bd21bdf91bcd306badc2b9",
           "width": 160
         }
       ],
@@ -840,36 +840,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-      },
-      "followers": { "href": null, "total": 127238975 },
-      "genres": ["soft pop"],
-      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
-      "id": "6eUKZXaKkcviH0Ku9w2n3V",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174d55c95ad400aed87da52daec",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178d55c95ad400aed87da52daec",
-          "width": 160
-        }
-      ],
-      "name": "Ed Sheeran",
-      "popularity": 88,
-      "type": "artist",
-      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
       },
       "followers": { "href": null, "total": 124514216 },
@@ -897,6 +867,36 @@
       "popularity": 94,
       "type": "artist",
       "uri": "spotify:artist:1Xyo4u8uXC1ZmMpatF05PJ"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+      },
+      "followers": { "href": null, "total": 127238975 },
+      "genres": ["soft pop"],
+      "href": "https://api.spotify.com/v1/artists/6eUKZXaKkcviH0Ku9w2n3V",
+      "id": "6eUKZXaKkcviH0Ku9w2n3V",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebd55c95ad400aed87da52daec",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174d55c95ad400aed87da52daec",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178d55c95ad400aed87da52daec",
+          "width": 160
+        }
+      ],
+      "name": "Ed Sheeran",
+      "popularity": 88,
+      "type": "artist",
+      "uri": "spotify:artist:6eUKZXaKkcviH0Ku9w2n3V"
     },
     {
       "external_urls": {
@@ -1109,7 +1109,7 @@
         }
       ],
       "name": "Avicii",
-      "popularity": 81,
+      "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:1vCWHaC5f2uS3yhpwWbIA6"
     },
@@ -1774,7 +1774,7 @@
         }
       ],
       "name": "Dewa 19",
-      "popularity": 70,
+      "popularity": 71,
       "type": "artist",
       "uri": "spotify:artist:48bKH1ugFBhERC1rdojP9d"
     },
@@ -1912,36 +1912,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-      },
-      "followers": { "href": null, "total": 33562093 },
-      "genres": ["pop"],
-      "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
-      "id": "74KM79TiuVKeVCqs8QtB0B",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab6761610000517478e45cfa4697ce3c437cb455",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f17878e45cfa4697ce3c437cb455",
-          "width": 160
-        }
-      ],
-      "name": "Sabrina Carpenter",
-      "popularity": 89,
-      "type": "artist",
-      "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL"
       },
       "followers": { "href": null, "total": 15463847 },
@@ -1969,6 +1939,36 @@
       "popularity": 81,
       "type": "artist",
       "uri": "spotify:artist:73sIBHcqh3Z3NyqHKZ7FOL"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+      },
+      "followers": { "href": null, "total": 33562093 },
+      "genres": ["pop"],
+      "href": "https://api.spotify.com/v1/artists/74KM79TiuVKeVCqs8QtB0B",
+      "id": "74KM79TiuVKeVCqs8QtB0B",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb78e45cfa4697ce3c437cb455",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab6761610000517478e45cfa4697ce3c437cb455",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f17878e45cfa4697ce3c437cb455",
+          "width": 160
+        }
+      ],
+      "name": "Sabrina Carpenter",
+      "popularity": 89,
+      "type": "artist",
+      "uri": "spotify:artist:74KM79TiuVKeVCqs8QtB0B"
     },
     {
       "external_urls": {
@@ -2433,36 +2433,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-      },
-      "followers": { "href": null, "total": 3075726 },
-      "genres": ["indie"],
-      "href": "https://api.spotify.com/v1/artists/0NIPkIjTV8mB795yEIiPYL",
-      "id": "0NIPkIjTV8mB795yEIiPYL",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebfde4e7d59f6d8868e2ffdaf5",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174fde4e7d59f6d8868e2ffdaf5",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178fde4e7d59f6d8868e2ffdaf5",
-          "width": 160
-        }
-      ],
-      "name": "Wallows",
-      "popularity": 69,
-      "type": "artist",
-      "uri": "spotify:artist:0NIPkIjTV8mB795yEIiPYL"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
       },
       "followers": { "href": null, "total": 8715347 },
@@ -2495,6 +2465,36 @@
       "popularity": 79,
       "type": "artist",
       "uri": "spotify:artist:3yY2gUcIsjMr8hjo51PoJ8"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+      },
+      "followers": { "href": null, "total": 3075726 },
+      "genres": ["indie"],
+      "href": "https://api.spotify.com/v1/artists/0NIPkIjTV8mB795yEIiPYL",
+      "id": "0NIPkIjTV8mB795yEIiPYL",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebfde4e7d59f6d8868e2ffdaf5",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174fde4e7d59f6d8868e2ffdaf5",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178fde4e7d59f6d8868e2ffdaf5",
+          "width": 160
+        }
+      ],
+      "name": "Wallows",
+      "popularity": 69,
+      "type": "artist",
+      "uri": "spotify:artist:0NIPkIjTV8mB795yEIiPYL"
     },
     {
       "external_urls": {
@@ -2888,7 +2888,7 @@
         }
       ],
       "name": "Perunggu",
-      "popularity": 73,
+      "popularity": 74,
       "type": "artist",
       "uri": "spotify:artist:0NbKRRBuiIUwS9irPvi7wD"
     },
@@ -2989,36 +2989,6 @@
     },
     {
       "external_urls": {
-        "spotify": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-      },
-      "followers": { "href": null, "total": 36349829 },
-      "genres": ["r&b"],
-      "href": "https://api.spotify.com/v1/artists/7tYKF4w9nC0nq9CsPZTHyP",
-      "id": "7tYKF4w9nC0nq9CsPZTHyP",
-      "images": [
-        {
-          "height": 640,
-          "url": "https://i.scdn.co/image/ab6761610000e5ebfd0a9fb6c252a3ba44079acf",
-          "width": 640
-        },
-        {
-          "height": 320,
-          "url": "https://i.scdn.co/image/ab67616100005174fd0a9fb6c252a3ba44079acf",
-          "width": 320
-        },
-        {
-          "height": 160,
-          "url": "https://i.scdn.co/image/ab6761610000f178fd0a9fb6c252a3ba44079acf",
-          "width": 160
-        }
-      ],
-      "name": "SZA",
-      "popularity": 88,
-      "type": "artist",
-      "uri": "spotify:artist:7tYKF4w9nC0nq9CsPZTHyP"
-    },
-    {
-      "external_urls": {
         "spotify": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
       },
       "followers": { "href": null, "total": 23169491 },
@@ -3046,6 +3016,36 @@
       "popularity": 82,
       "type": "artist",
       "uri": "spotify:artist:26VFTg2z8YR0cCuwLzESi2"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/31aMmlq8isIAgojvmIwiS4"
+      },
+      "followers": { "href": null, "total": 6337854 },
+      "genres": ["indonesian pop", "malay", "indonesian rock", "indorock"],
+      "href": "https://api.spotify.com/v1/artists/31aMmlq8isIAgojvmIwiS4",
+      "id": "31aMmlq8isIAgojvmIwiS4",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebae2e045bcd6f904c9e3b365c",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174ae2e045bcd6f904c9e3b365c",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178ae2e045bcd6f904c9e3b365c",
+          "width": 160
+        }
+      ],
+      "name": "Noah",
+      "popularity": 68,
+      "type": "artist",
+      "uri": "spotify:artist:31aMmlq8isIAgojvmIwiS4"
     }
   ]
 }

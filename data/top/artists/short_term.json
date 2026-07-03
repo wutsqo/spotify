@@ -1,5 +1,5 @@
 {
-  "total": 8,
+  "total": 10,
   "artists": [
     {
       "external_urls": {
@@ -193,6 +193,36 @@
     },
     {
       "external_urls": {
+        "spotify": "https://open.spotify.com/artist/2NteKKMj3takKR3ABTd279"
+      },
+      "followers": { "href": null, "total": 2438907 },
+      "genres": ["pop kreatif", "indonesian pop", "indonesian jazz"],
+      "href": "https://api.spotify.com/v1/artists/2NteKKMj3takKR3ABTd279",
+      "id": "2NteKKMj3takKR3ABTd279",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5eb4b432a19f1b2afd943d194d1",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab676161000051744b432a19f1b2afd943d194d1",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f1784b432a19f1b2afd943d194d1",
+          "width": 160
+        }
+      ],
+      "name": "Chrisye",
+      "popularity": 63,
+      "type": "artist",
+      "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+    },
+    {
+      "external_urls": {
         "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
       },
       "followers": { "href": null, "total": 16293151 },
@@ -250,6 +280,36 @@
       "popularity": 83,
       "type": "artist",
       "uri": "spotify:artist:4tZwfgrHOc3mvqYlEYSvVi"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+      },
+      "followers": { "href": null, "total": 35605973 },
+      "genres": [],
+      "href": "https://api.spotify.com/v1/artists/6KImCVD70vtIoJWnq6nGn3",
+      "id": "6KImCVD70vtIoJWnq6nGn3",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebe309f8c3056a59f20d0968ca",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174e309f8c3056a59f20d0968ca",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178e309f8c3056a59f20d0968ca",
+          "width": 160
+        }
+      ],
+      "name": "Harry Styles",
+      "popularity": 88,
+      "type": "artist",
+      "uri": "spotify:artist:6KImCVD70vtIoJWnq6nGn3"
     }
   ]
 }
