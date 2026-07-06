@@ -4,13 +4,13 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/1xK58TJGuZ40HyCStwLNRK"
   },
-  "followers": { "href": null, "total": 5297 },
+  "followers": { "href": null, "total": 5295 },
   "href": "https://api.spotify.com/v1/playlists/1xK58TJGuZ40HyCStwLNRK?locale=*",
   "id": "1xK58TJGuZ40HyCStwLNRK",
   "images": [
     {
       "height": null,
-      "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
+      "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84f614afcc348b0c76acf3d3fc",
       "width": null
     }
   ],
@@ -3757,7 +3757,7 @@
           "href": "https://api.spotify.com/v1/tracks/1bSpwPhAxZwlR2enJJsv7U",
           "id": "1bSpwPhAxZwlR2enJJsv7U",
           "name": "No Surprises",
-          "popularity": 1,
+          "popularity": 2,
           "uri": "spotify:track:1bSpwPhAxZwlR2enJJsv7U",
           "is_local": false
         },
@@ -3834,7 +3834,7 @@
           "href": "https://api.spotify.com/v1/tracks/1bSpwPhAxZwlR2enJJsv7U",
           "id": "1bSpwPhAxZwlR2enJJsv7U",
           "name": "No Surprises",
-          "popularity": 1,
+          "popularity": 2,
           "uri": "spotify:track:1bSpwPhAxZwlR2enJJsv7U",
           "is_local": false
         },
@@ -6826,7 +6826,7 @@
           "href": "https://api.spotify.com/v1/tracks/6EThJr4Dq1Y93JspecGU2F",
           "id": "6EThJr4Dq1Y93JspecGU2F",
           "name": "Cigarette Daydreams",
-          "popularity": 1,
+          "popularity": 0,
           "uri": "spotify:track:6EThJr4Dq1Y93JspecGU2F",
           "is_local": false
         },
@@ -6903,7 +6903,7 @@
           "href": "https://api.spotify.com/v1/tracks/6EThJr4Dq1Y93JspecGU2F",
           "id": "6EThJr4Dq1Y93JspecGU2F",
           "name": "Cigarette Daydreams",
-          "popularity": 1,
+          "popularity": 0,
           "uri": "spotify:track:6EThJr4Dq1Y93JspecGU2F",
           "is_local": false
         },
@@ -71607,7 +71607,7 @@
         "href": "https://api.spotify.com/v1/tracks/1bSpwPhAxZwlR2enJJsv7U",
         "id": "1bSpwPhAxZwlR2enJJsv7U",
         "name": "No Surprises",
-        "popularity": 1,
+        "popularity": 2,
         "uri": "spotify:track:1bSpwPhAxZwlR2enJJsv7U",
         "is_local": false
       },
@@ -71684,7 +71684,7 @@
         "href": "https://api.spotify.com/v1/tracks/1bSpwPhAxZwlR2enJJsv7U",
         "id": "1bSpwPhAxZwlR2enJJsv7U",
         "name": "No Surprises",
-        "popularity": 1,
+        "popularity": 2,
         "uri": "spotify:track:1bSpwPhAxZwlR2enJJsv7U",
         "is_local": false
       },
@@ -74676,7 +74676,7 @@
         "href": "https://api.spotify.com/v1/tracks/6EThJr4Dq1Y93JspecGU2F",
         "id": "6EThJr4Dq1Y93JspecGU2F",
         "name": "Cigarette Daydreams",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:6EThJr4Dq1Y93JspecGU2F",
         "is_local": false
       },
@@ -74753,7 +74753,7 @@
         "href": "https://api.spotify.com/v1/tracks/6EThJr4Dq1Y93JspecGU2F",
         "id": "6EThJr4Dq1Y93JspecGU2F",
         "name": "Cigarette Daydreams",
-        "popularity": 1,
+        "popularity": 0,
         "uri": "spotify:track:6EThJr4Dq1Y93JspecGU2F",
         "is_local": false
       },
@@ -138158,7 +138158,7 @@
         "href": "https://api.spotify.com/v1/tracks/4z9KVNX4hmk672SJfhtQNz",
         "id": "4z9KVNX4hmk672SJfhtQNz",
         "name": "F Song",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:4z9KVNX4hmk672SJfhtQNz",
         "is_local": false
       },
@@ -138607,7 +138607,7 @@
         "href": "https://api.spotify.com/v1/tracks/4z9KVNX4hmk672SJfhtQNz",
         "id": "4z9KVNX4hmk672SJfhtQNz",
         "name": "F Song",
-        "popularity": 69,
+        "popularity": 68,
         "uri": "spotify:track:4z9KVNX4hmk672SJfhtQNz",
         "is_local": false
       },
@@ -162143,7 +162143,7 @@
         "href": "https://api.spotify.com/v1/tracks/1EryAkZ0VHstC6haIxVBiE",
         "id": "1EryAkZ0VHstC6haIxVBiE",
         "name": "Sextape",
-        "popularity": 83,
+        "popularity": 82,
         "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
         "is_local": false
       },
@@ -162568,7 +162568,7 @@
         "href": "https://api.spotify.com/v1/tracks/1EryAkZ0VHstC6haIxVBiE",
         "id": "1EryAkZ0VHstC6haIxVBiE",
         "name": "Sextape",
-        "popularity": 83,
+        "popularity": 82,
         "uri": "spotify:track:1EryAkZ0VHstC6haIxVBiE",
         "is_local": false
       },
@@ -174733,7 +174733,7 @@
         "href": "https://api.spotify.com/v1/tracks/3NRql0A1Ef4RCvT473iqgD",
         "id": "3NRql0A1Ef4RCvT473iqgD",
         "name": "Hell N Back",
-        "popularity": 74,
+        "popularity": 75,
         "uri": "spotify:track:3NRql0A1Ef4RCvT473iqgD",
         "is_local": false
       },
@@ -175182,7 +175182,7 @@
         "href": "https://api.spotify.com/v1/tracks/3NRql0A1Ef4RCvT473iqgD",
         "id": "3NRql0A1Ef4RCvT473iqgD",
         "name": "Hell N Back",
-        "popularity": 74,
+        "popularity": 75,
         "uri": "spotify:track:3NRql0A1Ef4RCvT473iqgD",
         "is_local": false
       },
@@ -218013,7 +218013,7 @@
         "href": "https://api.spotify.com/v1/tracks/0b6xZk9f96N77BfmYWnQNC",
         "id": "0b6xZk9f96N77BfmYWnQNC",
         "name": "Mama's Boy",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:0b6xZk9f96N77BfmYWnQNC",
         "is_local": false
       },
@@ -218462,7 +218462,7 @@
         "href": "https://api.spotify.com/v1/tracks/0b6xZk9f96N77BfmYWnQNC",
         "id": "0b6xZk9f96N77BfmYWnQNC",
         "name": "Mama's Boy",
-        "popularity": 77,
+        "popularity": 78,
         "uri": "spotify:track:0b6xZk9f96N77BfmYWnQNC",
         "is_local": false
       },
