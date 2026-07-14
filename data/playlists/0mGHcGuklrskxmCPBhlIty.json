@@ -4,7 +4,7 @@
   "external_urls": {
     "spotify": "https://open.spotify.com/playlist/0mGHcGuklrskxmCPBhlIty"
   },
-  "followers": { "href": null, "total": 285 },
+  "followers": { "href": null, "total": 286 },
   "href": "https://api.spotify.com/v1/playlists/0mGHcGuklrskxmCPBhlIty?locale=*",
   "id": "0mGHcGuklrskxmCPBhlIty",
   "images": [
@@ -1939,7 +1939,7 @@
           "href": "https://api.spotify.com/v1/tracks/1iWiNEgMtfMBpjxqngvQQ6",
           "id": "1iWiNEgMtfMBpjxqngvQQ6",
           "name": "Who'll Stop The Rain",
-          "popularity": 0,
+          "popularity": 1,
           "uri": "spotify:track:1iWiNEgMtfMBpjxqngvQQ6",
           "is_local": false
         },
@@ -2016,7 +2016,7 @@
           "href": "https://api.spotify.com/v1/tracks/1iWiNEgMtfMBpjxqngvQQ6",
           "id": "1iWiNEgMtfMBpjxqngvQQ6",
           "name": "Who'll Stop The Rain",
-          "popularity": 0,
+          "popularity": 1,
           "uri": "spotify:track:1iWiNEgMtfMBpjxqngvQQ6",
           "is_local": false
         },
@@ -6279,7 +6279,7 @@
           "href": "https://api.spotify.com/v1/tracks/19gotedXtqeE8dWju6WURW",
           "id": "19gotedXtqeE8dWju6WURW",
           "name": "Good Luck Charm",
-          "popularity": 55,
+          "popularity": 56,
           "uri": "spotify:track:19gotedXtqeE8dWju6WURW",
           "is_local": false
         },
@@ -6728,7 +6728,7 @@
           "href": "https://api.spotify.com/v1/tracks/19gotedXtqeE8dWju6WURW",
           "id": "19gotedXtqeE8dWju6WURW",
           "name": "Good Luck Charm",
-          "popularity": 55,
+          "popularity": 56,
           "uri": "spotify:track:19gotedXtqeE8dWju6WURW",
           "is_local": false
         },
@@ -8861,7 +8861,7 @@
         "href": "https://api.spotify.com/v1/tracks/1iWiNEgMtfMBpjxqngvQQ6",
         "id": "1iWiNEgMtfMBpjxqngvQQ6",
         "name": "Who'll Stop The Rain",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:1iWiNEgMtfMBpjxqngvQQ6",
         "is_local": false
       },
@@ -8938,7 +8938,7 @@
         "href": "https://api.spotify.com/v1/tracks/1iWiNEgMtfMBpjxqngvQQ6",
         "id": "1iWiNEgMtfMBpjxqngvQQ6",
         "name": "Who'll Stop The Rain",
-        "popularity": 0,
+        "popularity": 1,
         "uri": "spotify:track:1iWiNEgMtfMBpjxqngvQQ6",
         "is_local": false
       },
@@ -13201,7 +13201,7 @@
         "href": "https://api.spotify.com/v1/tracks/19gotedXtqeE8dWju6WURW",
         "id": "19gotedXtqeE8dWju6WURW",
         "name": "Good Luck Charm",
-        "popularity": 55,
+        "popularity": 56,
         "uri": "spotify:track:19gotedXtqeE8dWju6WURW",
         "is_local": false
       },
@@ -13650,7 +13650,7 @@
         "href": "https://api.spotify.com/v1/tracks/19gotedXtqeE8dWju6WURW",
         "id": "19gotedXtqeE8dWju6WURW",
         "name": "Good Luck Charm",
-        "popularity": 55,
+        "popularity": 56,
         "uri": "spotify:track:19gotedXtqeE8dWju6WURW",
         "is_local": false
       },
