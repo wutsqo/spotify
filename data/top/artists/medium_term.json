@@ -1,5 +1,5 @@
 {
-  "total": 34,
+  "total": 35,
   "artists": [
     {
       "external_urls": {
@@ -860,7 +860,7 @@
         }
       ],
       "name": "Olivia Dean",
-      "popularity": 89,
+      "popularity": 90,
       "type": "artist",
       "uri": "spotify:artist:00x1fYSGhdqScXBRpSj3DW"
     },
@@ -983,6 +983,36 @@
       "popularity": 64,
       "type": "artist",
       "uri": "spotify:artist:2NteKKMj3takKR3ABTd279"
+    },
+    {
+      "external_urls": {
+        "spotify": "https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy"
+      },
+      "followers": { "href": null, "total": 12542523 },
+      "genres": ["glam rock", "art rock"],
+      "href": "https://api.spotify.com/v1/artists/0oSGxfWSnnOXhD2fKuz2Gy",
+      "id": "0oSGxfWSnnOXhD2fKuz2Gy",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab6761610000e5ebb78f77c5583ae99472dd4a49",
+          "width": 640
+        },
+        {
+          "height": 320,
+          "url": "https://i.scdn.co/image/ab67616100005174b78f77c5583ae99472dd4a49",
+          "width": 320
+        },
+        {
+          "height": 160,
+          "url": "https://i.scdn.co/image/ab6761610000f178b78f77c5583ae99472dd4a49",
+          "width": 160
+        }
+      ],
+      "name": "David Bowie",
+      "popularity": 79,
+      "type": "artist",
+      "uri": "spotify:artist:0oSGxfWSnnOXhD2fKuz2Gy"
     },
     {
       "external_urls": {
